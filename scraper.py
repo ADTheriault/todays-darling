@@ -326,7 +326,7 @@ Output each paragraph wrapped in <p></p> tags. Output ONLY the <p> tags, no othe
 
     try:
         message = client.messages.create(
-            model="claude-sonnet-4-5-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=4000,
             messages=[{"role": "user", "content": prompt}]
         )
@@ -351,7 +351,7 @@ Be concise and natural. Output only the summary, nothing else.
 
     try:
         message = client.messages.create(
-            model="claude-sonnet-4-5-20250514",
+            model="claude-sonnet-4-5-20250929",
             max_tokens=200,
             messages=[{"role": "user", "content": prompt}]
         )
