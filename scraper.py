@@ -45,14 +45,14 @@ FEED_FILE = OUTPUT_DIR / "atom.xml"
 ARCHIVE_FILE = OUTPUT_DIR / "archive.json"
 
 # Image URLs (self-hosted for reliability)
-DARLING_IMAGE_URL = "https://adtheriault.github.io/itoi-daily/images/darling.png"
-HOBONICHI_ICON_URL = "https://adtheriault.github.io/itoi-daily/images/hobonichi-logo.png"
+DARLING_IMAGE_URL = "https://adtheriault.github.io/todays-darling/images/darling.png"
+HOBONICHI_ICON_URL = "https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png"
 
 # Original source URL for attribution
 SOURCE_URL = "https://www.1101.com/"
 
 # GitHub Pages base URL
-PAGES_BASE_URL = "https://adtheriault.github.io/itoi-daily/"
+PAGES_BASE_URL = "https://adtheriault.github.io/todays-darling/"
 
 # Timezone
 JST = ZoneInfo("Asia/Tokyo")
@@ -471,12 +471,12 @@ def save_archive(archive: list):
 def generate_atom(archive: list):
     """Generate Atom feed from archive."""
     fg = FeedGenerator()
-    fg.id('https://adtheriault.github.io/itoi-daily/atom.xml')
+    fg.id('https://adtheriault.github.io/todays-darling/atom.xml')
     fg.title("Today's Darling")
     fg.subtitle('Daily essays by Shigesato Itoi from 1101.com, translated to English.')
     # Point to GitHub Pages root as the permanent home
     fg.link(href=PAGES_BASE_URL, rel='alternate', type='text/html')
-    fg.link(href='https://adtheriault.github.io/itoi-daily/atom.xml', rel='self', type='application/atom+xml')
+    fg.link(href='https://adtheriault.github.io/todays-darling/atom.xml', rel='self', type='application/atom+xml')
     # Attribution link to original source
     fg.link(href=SOURCE_URL, rel='via', type='text/html', hreflang='ja')
     fg.language('en')
@@ -486,7 +486,7 @@ def generate_atom(archive: list):
     sorted_entries = sorted(archive[:30], key=lambda x: x['date'], reverse=False)
     for entry_data in sorted_entries:
         fe = fg.add_entry()
-        entry_url = f"https://adtheriault.github.io/itoi-daily/#{entry_data['hash']}"
+        entry_url = f"https://adtheriault.github.io/todays-darling/#{entry_data['hash']}"
         fe.id(entry_url)
         fe.title(entry_data.get('translated_title', entry_data['title']))
         fe.author({'name': entry_data.get('translated_author', entry_data.get('author', 'Shigesato Itoi'))})
@@ -578,7 +578,7 @@ def generate_atom(archive: list):
     # Add media:thumbnail to each entry
     for entry_data in archive[:30]:
         guid = entry_data['hash']
-        entry_id_pattern = f'<id>https://adtheriault.github.io/itoi-daily/#{guid}</id>'
+        entry_id_pattern = f'<id>https://adtheriault.github.io/todays-darling/#{guid}</id>'
         if entry_id_pattern in xml_content:
             # Add thumbnail after the published element
             thumbnail_tag = f'<media:thumbnail url="{DARLING_IMAGE_URL}" width="200" height="144"/>'

@@ -6,7 +6,7 @@ Daily English translations of Shigesato Itoi's essays from [1101.com](https://ww
 
 **Atom Feed URL:**
 ```
-https://adtheriault.github.io/itoi-daily/atom.xml
+https://adtheriault.github.io/todays-darling/atom.xml
 ```
 
 Add this URL to your RSS reader of choice (Reeder, NetNewsWire, Feedly, Inoreader, etc.).
