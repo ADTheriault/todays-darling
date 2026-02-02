@@ -1,0 +1,100 @@
+name: Daily Hobonichi Scrape
+
+on:
+  # Primary schedule: 12:00 JST (03:00 UTC)
+  schedule:
+    - cron: '0 3 * * *'    # Primary: 12:00 JST
+    - cron: '0 5 * * *'    # Retry 1: 14:00 JST (2 hours later)
+    - cron: '0 7 * * *'    # Retry 2: 16:00 JST (4 hours later)
+
+  # Manual trigger for testing
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('hobonichi-v2/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r hobonichi-v2/requirements.txt
+
+      - name: Install Playwright Chromium
+        run: playwright install chromium
+
+      - name: Check if already scraped today
+        id: check_scraped
+        run: |
+          # Get today's date in JST
+          JST_DATE=$(TZ='Asia/Tokyo' date '+%Y-%m-%d')
+          echo "jst_date=$JST_DATE" >> $GITHUB_OUTPUT
+
+          # Check if original markdown file exists for today
+          if [ -f "hobonichi-v2/originals/TD-Original-${JST_DATE}.md" ]; then
+            echo "already_scraped=true" >> $GITHUB_OUTPUT
+            echo "Essay for ${JST_DATE} already exists, skipping scrape"
+          else
+            echo "already_scraped=false" >> $GITHUB_OUTPUT
+            echo "No essay found for ${JST_DATE}, proceeding with scrape"
+          fi
+
+      - name: Run scraper
+        if: steps.check_scraped.outputs.already_scraped == 'false'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          cd hobonichi-v2
+          python scraper.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Get JST date for commit message
+          JST_DATE=$(TZ='Asia/Tokyo' date '+%Y-%m-%d')
+
+          git commit -m "Add essay for ${JST_DATE}"
+          git push
+
+      - name: Report status
+        run: |
+          JST_DATE=$(TZ='Asia/Tokyo' date '+%Y-%m-%d')
+          if [ "${{ steps.check_scraped.outputs.already_scraped }}" == "true" ]; then
+            echo "::notice::Essay for ${JST_DATE} was already scraped"
+          elif [ "${{ steps.check_changes.outputs.has_changes }}" == "true" ]; then
+            echo "::notice::Successfully scraped and committed essay for ${JST_DATE}"
+          else
+            echo "::warning::Scraper ran but no new content was found"
+          fi
