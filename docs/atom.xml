@@ -1,0 +1,37 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
+  <title type="text">Today's Darling</title>
+  <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <updated>2026-02-02T12:58:08.915047+00:00</updated>
+  <link href="https://adtheriault.github.io/itoi-daily/" rel="alternate" type="text/html"/>
+  <id>https://adtheriault.github.io/itoi-daily/atom.xml</id>
+  <link href="https://adtheriault.github.io/itoi-daily/atom.xml" rel="self" type="application/atom+xml"/>
+  <icon>https://adtheriault.github.io/itoi-daily/images/hobonichi-logo.png</icon>
+<entry>
+    <id>https://adtheriault.github.io/itoi-daily/#98034be5e317</id>
+    <title>Why is the morning paper here?!</title>
+    <updated>2026-02-02T12:57:47.634886+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/itoi-daily/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I was too scared to tell anyone but my closest friends, but maybe it was last year? I was staying at a hotel, and when I got up late in the morning and went to the bathroom sink to brush my teeth, there was a newspaper sitting there. Huh? Did I put a newspaper here? I thought, and glanced at the front page to check the date. Today's news with today's date.&lt;/p&gt;
+
+&lt;p&gt;Wait, I just woke up. The newspaper gets delivered outside the door. So how did it get here? Did someone silently come into my room and leave the newspaper in the bathroom? A hotel wouldn't provide such intrusive service. Besides, I had the chain lock on, so no one could get in.&lt;/p&gt;
+
+&lt;p&gt;So then, did I do it myself? I have no idea what time the morning paper gets delivered to hotel doors, but the possibility that I did it myself was clearly higher than someone coming in. Does that mean I've lost the memory of doing it? Is this that "sleepwalking" thing you always used to see in old cartoons?&lt;/p&gt;
+
+&lt;p&gt;Maybe there have been times like this mixed into my life all along, these moments I have "no memory of." If there have been many times when I've done things but lived as though I hadn't, that's terrifying.&lt;/p&gt;
+
+&lt;p&gt;I've always loved general anesthesia. Time stops partway through "now you're going to sleep," and then I come back to myself with the words "oh, I'm awake." It's mysteriously delightful. During that stretch of time between those two moments, I alone am absent from the world. How fascinating.&lt;/p&gt;
+
+&lt;p&gt;But sleepwalking is troubling and scary. Well, when I looked into it later after calming down, it turned out to be the effect of the sleeping pill I'd taken. Apparently I'd retrieved the newspaper while being led into sleep, and forgotten the whole process.&lt;/p&gt;
+
+&lt;p&gt;You hear about people who get drunk and lose their memory. I wonder if that's not scary for them because they know the cause?&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. Anyway, since that time, I haven't had any more episodes of "no memory."&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/itoi-daily/#98034be5e317"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores the unsettling experience of discovering a newspaper in an unexpected place with no memory of putting it there, contrasting the frightening loss of control in sleepwalking with the peaceful erasure of time under anesthesia, ultimately revealing it was caused by a sleeping pill.</summary>
+    <published>2026-02-02T12:57:47.634886+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/itoi-daily/images/darling.png" width="200" height="144"/>
+  </entry>
+</feed>
