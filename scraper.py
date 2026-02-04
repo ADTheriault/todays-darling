@@ -608,7 +608,8 @@ def generate_rss(archive: list):
     fg.id('https://adtheriault.github.io/todays-darling/rss.xml')
     fg.title("Today's Darling")
     fg.description('Daily essays by Shigesato Itoi from 1101.com, translated to English.')
-    fg.link(href=PAGES_BASE_URL, rel='alternate')
+    # For RSS, the first link without rel becomes the channel <link>
+    fg.link(href=PAGES_BASE_URL)
     fg.link(href='https://adtheriault.github.io/todays-darling/rss.xml', rel='self')
     fg.language('en')
 
@@ -646,6 +647,17 @@ def generate_rss(archive: list):
     OUTPUT_DIR.mkdir(exist_ok=True)
     rss_file = OUTPUT_DIR / "rss.xml"
     fg.rss_file(str(rss_file), pretty=True)
+
+    # Fix channel link (feedgen puts the self link as channel link)
+    with open(rss_file, 'r', encoding='utf-8') as f:
+        rss_content = f.read()
+    rss_content = rss_content.replace(
+        '<link>https://adtheriault.github.io/todays-darling/rss.xml</link>',
+        f'<link>{PAGES_BASE_URL}</link>',
+        1  # Only replace the first occurrence (channel link)
+    )
+    with open(rss_file, 'w', encoding='utf-8') as f:
+        f.write(rss_content)
 
     log.info(f"RSS feed generated: {rss_file}")
 
