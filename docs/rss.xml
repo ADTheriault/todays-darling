@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Today's Darling</title>
+    <link>https://adtheriault.github.io/todays-darling/rss.xml</link>
+    <description>Daily essays by Shigesato Itoi from 1101.com, translated to English.</description>
+    <atom:link href="https://adtheriault.github.io/todays-darling/rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</url>
+      <title>Today's Darling</title>
+      <link>https://adtheriault.github.io/todays-darling/</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Feb 2026 12:53:51 +0000</lastBuildDate>
+    <item>
+      <title>There is such a thing as "the heart," isn't there.</title>
+      <link>https://adtheriault.github.io/todays-darling/#56f26886d49f</link>
+      <description>This essay reflects on the elusive nature of the "heart" or inner self—something we can't physically locate or prove exists, yet which reveals itself through all our actions, expressions, and human exchanges. The author concludes by questioning what will become of this invisible but essential human quality in an age of advancing artificial intelligence.</description>
+      <content:encoded>&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Ever since I was a child, I've thought about it a little, or not thought about it at all, or thought about it seriously, or no wait, completely forgotten about it, or if I'm honest, held it very dear, or coldly dismissed it as something that might not even exist. I'm talking about the "heart," or the "mind," or whatever you want to call that thing inside us.&lt;/p&gt;
+
+&lt;p&gt;If you asked someone to show you where the heart is, they might place their hand over their chest, near the physical heart. Others would point to their head and say it's the brain inside the skull. But even if you pressed them further and asked if that's really where it is, they probably couldn't answer with any real confidence.&lt;/p&gt;
+
+&lt;p&gt;In our ordinary daily lives, we don't consciously think about the existence of air, yet air is there. In the same way, we live believing that the heart exists. To say that there's no such thing as the heart would, conversely, make everything impossible to explain. Because when a person dies, it's clear that their heart disappears too.&lt;/p&gt;
+
+&lt;p&gt;While we're alive, well, it's not quite "I think, therefore I am," but the heart is always thinking something. The heart is what wrote these lines I'm writing now, and it's your heart that has been reading them. I wrote them because I'm alive, and you read them because you're alive. An exchange of hearts happened here.&lt;/p&gt;
+
+&lt;p&gt;We can't show the heart itself, but we can show the traces of the heart's movements in all sorts of ways. Even a smiling face is a manifestation of the heart's movement. The words we speak, the words we write, paintings, calligraphy, dance, song, running, walking – all of these are expressions and traces of the heart.&lt;/p&gt;
+
+&lt;p&gt;What's more, the act of writing, the act of dancing, the act of singing can set the heart in motion. There are things that wound the heart, and there must be things that invigorate it. Sometimes the heart wants to soak in a hot spring too.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today. Artificial intelligence keeps evolving, but what will happen to the heart?&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#56f26886d49f</guid>
+      <pubDate>Wed, 04 Feb 2026 05:38:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>My eyes are sleepy. The movie "Fabrication."</title>
+      <link>https://adtheriault.github.io/todays-darling/#77385023838d</link>
+      <description>The essay humorously chronicles how the author's plan to write about something "inconsequential" is derailed by sleepy eyes and staying up late to watch an intense movie about fabricated accusations, demonstrating how minor decisions (like "just resting your eyes" or "just starting a movie") can spiral beyond our control.</description>
+      <content:encoded>&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;All right, time to write about something utterly inconsequential again today. That's what I think as I sit down at the keyboard, but I'm so sleepy. Though sleepiness comes in all different varieties, you know. I sometimes put it this way: rather than being sleepy overall, right now it's my "eyes that are sleepy." Being awake isn't hard, I'm full of energy to work! But since my "eyes are sleepy," I'd like to rest them if I could. To rest them, I figure I should close them. Maybe I'll close my eyes. It's only my eyes that are sleepy, after all. Just my eyes. If I'm going to close my eyes, it seems like it would be more convenient to lie down rather than stay sitting in this chair. I don't intend to sleep. I just want to close them to rest my eyes. That happens a lot, you know. And sometimes I actually do lie down on the sofa and close my eyes. Then, why is this? Even though I wasn't sleepy, I fall asleep. My "eyes were sleepy," that's all it was supposed to be, and yet I fall asleep. (Thus concludes this story for now. I was trying to write about something utterly inconsequential, but before I could write about something utterly inconsequential, I fell asleep.)&lt;/p&gt;
+
+&lt;p&gt;Well, my "eyes are still sleepy," and I think the reason is that last night, after I'd decided to go to bed, I started watching a movie. I started watching just the beginning of "Fabricated: The Man Called a Murderous Teacher," but I couldn't stop anywhere along the way and ended up watching the whole thing. I mean, the title itself is a "spoiler," isn't it? A film with an intense performance by Ayano Go, a fierce performance by Shibasaki Kou, and a superb supporting performance by Kobayashi Kaoru. The story of a man called a murderous teacher because of "fabrications." You practically know the whole plot without even watching it, don't you? But once I started watching, I became so frustrated, and got dragged into the quagmire along with the protagonist, and became so at a loss for what to do that I couldn't stop. But look, you know how it ends, right? He's able to clear his name. You want to see that outcome, even as you spend all that time feeling frustrated. It's a movie based on a true story, and honestly, it makes you grind your teeth. "Fabrications," when wielded by those with power, are terrifying, you know. Thanks for visiting Hobonichi today. That was me, all worked up at dawn, shouting things like "Yes, Kobayashi Kaoru!"&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#77385023838d</guid>
+      <pubDate>Tue, 03 Feb 2026 06:06:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why is the morning paper here?!</title>
+      <link>https://adtheriault.github.io/todays-darling/#98034be5e317</link>
+      <description>The essay explores the unsettling experience of discovering a newspaper in an unexpected place with no memory of putting it there, contrasting the frightening loss of control in sleepwalking with the peaceful erasure of time under anesthesia, ultimately revealing it was caused by a sleeping pill.</description>
+      <content:encoded>&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I was too scared to tell anyone but my closest friends, but maybe it was last year? I was staying at a hotel, and when I got up late in the morning and went to the bathroom sink to brush my teeth, there was a newspaper sitting there. Huh? Did I put a newspaper here? I thought, and glanced at the front page to check the date. Today's news with today's date.&lt;/p&gt;
+
+&lt;p&gt;Wait, I just woke up. The newspaper gets delivered outside the door. So how did it get here? Did someone silently come into my room and leave the newspaper in the bathroom? A hotel wouldn't provide such intrusive service. Besides, I had the chain lock on, so no one could get in.&lt;/p&gt;
+
+&lt;p&gt;So then, did I do it myself? I have no idea what time the morning paper gets delivered to hotel doors, but the possibility that I did it myself was clearly higher than someone coming in. Does that mean I've lost the memory of doing it? Is this that "sleepwalking" thing you always used to see in old cartoons?&lt;/p&gt;
+
+&lt;p&gt;Maybe there have been times like this mixed into my life all along, these moments I have "no memory of." If there have been many times when I've done things but lived as though I hadn't, that's terrifying.&lt;/p&gt;
+
+&lt;p&gt;I've always loved general anesthesia. Time stops partway through "now you're going to sleep," and then I come back to myself with the words "oh, I'm awake." It's mysteriously delightful. During that stretch of time between those two moments, I alone am absent from the world. How fascinating.&lt;/p&gt;
+
+&lt;p&gt;But sleepwalking is troubling and scary. Well, when I looked into it later after calming down, it turned out to be the effect of the sleeping pill I'd taken. Apparently I'd retrieved the newspaper while being led into sleep, and forgotten the whole process.&lt;/p&gt;
+
+&lt;p&gt;You hear about people who get drunk and lose their memory. I wonder if that's not scary for them because they know the cause?&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. Anyway, since that time, I haven't had any more episodes of "no memory."&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#98034be5e317</guid>
+      <pubDate>Mon, 02 Feb 2026 12:57:47 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

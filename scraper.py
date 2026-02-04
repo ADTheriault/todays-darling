@@ -602,6 +602,54 @@ def generate_atom(archive: list):
     log.info(f"Atom feed generated: {FEED_FILE}")
 
 
+def generate_rss(archive: list):
+    """Generate RSS 2.0 feed from archive."""
+    fg = FeedGenerator()
+    fg.id('https://adtheriault.github.io/todays-darling/rss.xml')
+    fg.title("Today's Darling")
+    fg.description('Daily essays by Shigesato Itoi from 1101.com, translated to English.')
+    fg.link(href=PAGES_BASE_URL, rel='alternate')
+    fg.link(href='https://adtheriault.github.io/todays-darling/rss.xml', rel='self')
+    fg.language('en')
+
+    # RSS 2.0 image element - this is the key difference from Atom
+    fg.logo(HOBONICHI_ICON_URL)
+    fg.image(
+        url=HOBONICHI_ICON_URL,
+        title="Today's Darling",
+        link=PAGES_BASE_URL
+    )
+
+    # Add entries (feedgen reverses order, so add oldest first to get newest first in output)
+    sorted_entries = sorted(archive[:30], key=lambda x: x['date'], reverse=False)
+    for entry_data in sorted_entries:
+        fe = fg.add_entry()
+        entry_url = f"https://adtheriault.github.io/todays-darling/#{entry_data['hash']}"
+        fe.id(entry_url)
+        fe.title(entry_data.get('translated_title', entry_data['title']))
+        fe.author({'name': entry_data.get('translated_author', entry_data.get('author', 'Shigesato Itoi'))})
+        fe.link(href=entry_url)
+
+        # Use summary for description
+        summary = entry_data.get('summary', '')
+        fe.summary(summary)
+
+        # Add full translation as content with centered header image
+        translation = entry_data['translation']
+        image_html = f'<div style="text-align: center; margin-bottom: 20px;"><img src="{DARLING_IMAGE_URL}" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/></div>'
+        content_with_image = image_html + translation
+        fe.content(content=content_with_image, type='html')
+
+        fe.published(entry_data['date'])
+        fe.updated(entry_data['date'])
+
+    OUTPUT_DIR.mkdir(exist_ok=True)
+    rss_file = OUTPUT_DIR / "rss.xml"
+    fg.rss_file(str(rss_file), pretty=True)
+
+    log.info(f"RSS feed generated: {rss_file}")
+
+
 # =============================================================================
 # Main Processing Logic
 # =============================================================================
@@ -624,8 +672,9 @@ def process_essay() -> bool:
 
     if essay['hash'] in existing_hashes:
         log.info(f"Essay already archived (hash: {essay['hash']}), skipping")
-        # Still regenerate feed in case it's missing
+        # Still regenerate feeds in case they're missing
         generate_atom(archive)
+        generate_rss(archive)
         return True  # Not a failure, just already processed
 
     # Step 3: Save original markdown (before translation)
@@ -659,8 +708,9 @@ def process_essay() -> bool:
     archive.insert(0, essay)  # Most recent first
     save_archive(archive)
 
-    # Step 8: Generate Atom feed
+    # Step 8: Generate feeds
     generate_atom(archive)
+    generate_rss(archive)
 
     log.info(f"Successfully processed: {essay['title']}")
     log.info(f"Translated title: {translated_title}")
