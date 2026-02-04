@@ -1,12 +1,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-03T06:07:08.373015+00:00</updated>
+  <updated>2026-02-04T05:39:09.785294+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#56f26886d49f</id>
+    <title>There is such a thing as "the heart," isn't there.</title>
+    <updated>2026-02-04T05:38:50.295913+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Ever since I was a child, I've thought about it a little, or not thought about it at all, or thought about it seriously, or no wait, completely forgotten about it, or if I'm honest, held it very dear, or coldly dismissed it as something that might not even exist. I'm talking about the "heart," or the "mind," or whatever you want to call that thing inside us.&lt;/p&gt;
+
+&lt;p&gt;If you asked someone to show you where the heart is, they might place their hand over their chest, near the physical heart. Others would point to their head and say it's the brain inside the skull. But even if you pressed them further and asked if that's really where it is, they probably couldn't answer with any real confidence.&lt;/p&gt;
+
+&lt;p&gt;In our ordinary daily lives, we don't consciously think about the existence of air, yet air is there. In the same way, we live believing that the heart exists. To say that there's no such thing as the heart would, conversely, make everything impossible to explain. Because when a person dies, it's clear that their heart disappears too.&lt;/p&gt;
+
+&lt;p&gt;While we're alive, well, it's not quite "I think, therefore I am," but the heart is always thinking something. The heart is what wrote these lines I'm writing now, and it's your heart that has been reading them. I wrote them because I'm alive, and you read them because you're alive. An exchange of hearts happened here.&lt;/p&gt;
+
+&lt;p&gt;We can't show the heart itself, but we can show the traces of the heart's movements in all sorts of ways. Even a smiling face is a manifestation of the heart's movement. The words we speak, the words we write, paintings, calligraphy, dance, song, running, walking – all of these are expressions and traces of the heart.&lt;/p&gt;
+
+&lt;p&gt;What's more, the act of writing, the act of dancing, the act of singing can set the heart in motion. There are things that wound the heart, and there must be things that invigorate it. Sometimes the heart wants to soak in a hot spring too.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today. Artificial intelligence keeps evolving, but what will happen to the heart?&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#56f26886d49f"/>
+    <link href="https://www.1101.com/"/>
+    <summary>This essay reflects on the elusive nature of the "heart" or inner self—something we can't physically locate or prove exists, yet which reveals itself through all our actions, expressions, and human exchanges. The author concludes by questioning what will become of this invisible but essential human quality in an age of advancing artificial intelligence.</summary>
+    <published>2026-02-04T05:38:50.295913+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#77385023838d</id>
     <title>My eyes are sleepy. The movie "Fabrication."</title>
     <updated>2026-02-03T06:06:42.781097+00:00</updated>
