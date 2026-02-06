@@ -75,3 +75,23 @@
 2026-02-05 06:12:52 [INFO] Translated title: Even the present will eventually become the past.
 2026-02-05 06:12:52 [INFO] Summary: The essay argues that while nostalgia for "the old days" is natural, every era has felt troubled to those living through it, so adults have a responsibility to find hope in the present and future rather than teaching children that everything is only getting worse.
 2026-02-05 06:12:52 [INFO] Scraper completed successfully
+2026-02-06 06:08:37 [INFO] ============================================================
+2026-02-06 06:08:37 [INFO] Hobonichi Scraper V2
+2026-02-06 06:08:37 [INFO] Current time (JST): 2026-02-06 15:08:37
+2026-02-06 06:08:37 [INFO] ============================================================
+2026-02-06 06:08:37 [INFO] Starting scrape at 2026-02-06 15:08:37 JST
+2026-02-06 06:08:46 [INFO] Essay scraped successfully: 人はあんまり「聞いてない」よ。...
+2026-02-06 06:08:46 [INFO] Content hash: e6e1591cbc1f
+2026-02-06 06:08:46 [INFO] Saved original markdown: TD-Original-2026-02-06.md
+2026-02-06 06:08:46 [INFO] Translating title...
+2026-02-06 06:08:52 [INFO] Translating author...
+2026-02-06 06:09:00 [INFO] Translating essay body...
+2026-02-06 06:09:18 [INFO] Generating summary...
+2026-02-06 06:09:21 [INFO] Saved translated markdown: TD-Translated-2026-02-06.md
+2026-02-06 06:09:21 [INFO] Archive saved with 5 entries
+2026-02-06 06:09:21 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-06 06:09:21 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-06 06:09:21 [INFO] Successfully processed: 人はあんまり「聞いてない」よ。
+2026-02-06 06:09:21 [INFO] Translated title: People really aren't listening.
+2026-02-06 06:09:21 [INFO] Summary: The essay explores how we mindlessly treat names and words as mere labels without considering their literal meanings or the intentions behind them, though the author acknowledges that constantly questioning everything would be exhausting and annoying.
+2026-02-06 06:09:21 [INFO] Scraper completed successfully
