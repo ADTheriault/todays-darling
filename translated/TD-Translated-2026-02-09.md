@@ -1,0 +1,12 @@
+## Title: Most of the universe is something other than language.
+## Date: 2026-02-09
+## Author: Shigesato Itoi
+## Content:
+
+There's this way of thinking about Earth's history: if you imagine it as a 24-hour clock, Homo sapiens, our human ancestors, don't appear until around 23:59:56. It's dizzying to think about, but we can't help picturing a timeline in our heads where the Nara period was long ago, the pyramids were built even further back, humanity emerged in some unimaginably distant past before that, and dinosaurs roamed in an even more remote antiquity. We imagine a timeline we can survey and comprehend. But really, "these things aren't even comparable!" We use poetic expressions like "as many as the stars," but the number of stars visible to the naked eye isn't actually all that many, is it? There's that saying, "The sands on the beach may run out, but thieves will never disappear from this world," which is meant to suggest an uncountable multitude. But if you think about it calmly, it doesn't seem like such a big deal. You could count the grains of sand on a beach if you really tried hard enough.
+
+I've been thinking along these lines for a while now, but recently I found myself wondering: how many words exist in the entire universe (or at least on Earth)? Not systematic "languages" like Japanese or Greek, but "vocabulary," all the individual words added up like grains of sand. I was playing around with this idea, consulting an AI. Even with the limited counting method of dictionary entries, each language has hundreds of thousands of words, and there are apparently around 7,000 languages, so we're talking tens of millions of words, maybe even 100 or 200 million, the AI told me. And since new words can be created at any time, the number is essentially infinite. It's very much an "aren't there so many!" kind of answer, even from the AI's perspective.
+
+But that Earth clock analogy made me realize something. However many hundreds of millions of words there might be, the total number of words that have existed since humans were born is nothing! (I'm channeling Kuroita Goro here.) The "actual things and phenomena" that haven't been turned into words, both artificial and natural, vastly outnumber the words themselves. Language, no matter how far it goes, can never reach "reality." It can only sketch a tiny portion with a limited set of paints.
+
+Well, this is just me playing with words too, I suppose. Thank you for visiting Hobonichi today. Don't be so proud, humanity. Don't be so proud, language.
