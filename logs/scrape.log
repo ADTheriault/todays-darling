@@ -155,3 +155,23 @@
 2026-02-09 06:48:06 [INFO] Translated title: Most of the universe is something other than language.
 2026-02-09 06:48:06 [INFO] Summary: The essay uses the vastness of Earth's history as an analogy to argue that despite containing hundreds of millions of words across all languages, human vocabulary can only capture a tiny fraction of actual reality, revealing the fundamental limitations of language itself.
 2026-02-09 06:48:06 [INFO] Scraper completed successfully
+2026-02-10 06:47:23 [INFO] ============================================================
+2026-02-10 06:47:23 [INFO] Hobonichi Scraper V2
+2026-02-10 06:47:23 [INFO] Current time (JST): 2026-02-10 15:47:23
+2026-02-10 06:47:23 [INFO] ============================================================
+2026-02-10 06:47:23 [INFO] Starting scrape at 2026-02-10 15:47:23 JST
+2026-02-10 06:47:29 [INFO] Essay scraped successfully: 生きているから、思い出があるんだ。...
+2026-02-10 06:47:29 [INFO] Content hash: f39111806c7f
+2026-02-10 06:47:29 [INFO] Saved original markdown: TD-Original-2026-02-10.md
+2026-02-10 06:47:29 [INFO] Translating title...
+2026-02-10 06:47:31 [INFO] Translating author...
+2026-02-10 06:47:32 [INFO] Translating essay body...
+2026-02-10 06:47:45 [INFO] Generating summary...
+2026-02-10 06:47:49 [INFO] Saved translated markdown: TD-Translated-2026-02-10.md
+2026-02-10 06:47:49 [INFO] Archive saved with 9 entries
+2026-02-10 06:47:49 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-10 06:47:49 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-10 06:47:49 [INFO] Successfully processed: 生きているから、思い出があるんだ。
+2026-02-10 06:47:49 [INFO] Translated title: Because we're alive, we have memories.
+2026-02-10 06:47:49 [INFO] Summary: The essay reflects on how living means continuously creating memories, and warns that the most troubling mistakes come not from knowing we're wrong, but from being completely convinced we're right while judging or attacking others—memories we should remember as reminders of how easily any of us can fall into that trap.
+2026-02-10 06:47:49 [INFO] Scraper completed successfully
