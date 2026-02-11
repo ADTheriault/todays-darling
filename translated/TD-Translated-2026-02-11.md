@@ -1,0 +1,10 @@
+## Title: The child as the "inner person" of the adult.
+## Date: 2026-02-11
+## Author: Shigesato Itoi
+## Content:
+
+There's an internet slang term, "the person inside." I always thought it was a strangely apt way of putting things. I feel like you don't hear it as much anymore, but it suddenly occurred to me: the person inside an adult is a child. Adults are adults, sure, but there's also a child inside them, and while they adopt adult attitudes and ways of speaking, they're also trying to satisfy themselves as that child. I'm not saying this is good or bad. If you can sense that child "inside" yourself, if you can feel "oh, there they are," well, that probably means you're pretty adult after all. You don't want to make the child inside cry. But you also can't just let that child run wild. That's what I've been thinking about.
+
+Come to think of it, I've made a habit, for quite some time now, of thinking of just about everyone as "that kid I saw in a middle school classroom." Whether it's some distinguished professor or a big star, every human being has gone through their middle school years. What kind of face did they make back then as a junior high kid? What did the other students think of them? How did they spend their time? Even without thinking too deeply about it, can't you kind of see it? Of course I'm sometimes right and sometimes wrong, but if you think of most people's true form as a middle schooler (and I'm just a middle schooler myself, after all), you can see them on incredibly level terms. Most of the time, I think, "Oh yeah, there was someone just like this!" I'm well aware that people attach and subtract various things from there to build up their personality or character or what have you. But no matter how much they pile on or exaggerate, the basis is usually "that kid I saw in the middle school classroom." And, though this feels like adding an unnecessary tail to the thought, there are also adults and old people as the person inside a child.
+
+Thanks for coming to Hobonichi again today. The development of early childhood education and childcare is necessary for adults too.

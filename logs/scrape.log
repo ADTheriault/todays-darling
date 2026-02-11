@@ -175,3 +175,23 @@
 2026-02-10 06:47:49 [INFO] Translated title: Because we're alive, we have memories.
 2026-02-10 06:47:49 [INFO] Summary: The essay reflects on how living means continuously creating memories, and warns that the most troubling mistakes come not from knowing we're wrong, but from being completely convinced we're right while judging or attacking others—memories we should remember as reminders of how easily any of us can fall into that trap.
 2026-02-10 06:47:49 [INFO] Scraper completed successfully
+2026-02-11 06:43:11 [INFO] ============================================================
+2026-02-11 06:43:11 [INFO] Hobonichi Scraper V2
+2026-02-11 06:43:11 [INFO] Current time (JST): 2026-02-11 15:43:11
+2026-02-11 06:43:11 [INFO] ============================================================
+2026-02-11 06:43:11 [INFO] Starting scrape at 2026-02-11 15:43:11 JST
+2026-02-11 06:43:18 [INFO] Essay scraped successfully: 大人の「中の人」としての子ども。...
+2026-02-11 06:43:18 [INFO] Content hash: 7e3503cb09ea
+2026-02-11 06:43:18 [INFO] Saved original markdown: TD-Original-2026-02-11.md
+2026-02-11 06:43:18 [INFO] Translating title...
+2026-02-11 06:43:20 [INFO] Translating author...
+2026-02-11 06:43:22 [INFO] Translating essay body...
+2026-02-11 06:43:36 [INFO] Generating summary...
+2026-02-11 06:43:38 [INFO] Saved translated markdown: TD-Translated-2026-02-11.md
+2026-02-11 06:43:38 [INFO] Archive saved with 10 entries
+2026-02-11 06:43:38 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-11 06:43:38 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-11 06:43:38 [INFO] Successfully processed: 大人の「中の人」としての子ども。
+2026-02-11 06:43:38 [INFO] Translated title: The child as the "inner person" of the adult.
+2026-02-11 06:43:38 [INFO] Summary: The essay suggests that everyone contains their younger self—particularly a middle schooler—at their core, and recognizing this "person inside" helps us see others (and ourselves) on equal, human terms beneath all the adult layers we've added.
+2026-02-11 06:43:38 [INFO] Scraper completed successfully
