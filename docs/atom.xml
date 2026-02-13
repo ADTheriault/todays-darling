@@ -1,12 +1,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-12T06:42:45.187689+00:00</updated>
+  <updated>2026-02-13T06:15:57.020839+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#35a37957cdef</id>
+    <title>The imagination to think "I can't imagine it, but it's amazing."</title>
+    <updated>2026-02-13T06:15:37.024184+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;You've probably seen a movie where someone suddenly comes to and finds themselves alone in the desert. "Suddenly coming to" in some scene or other. That would be alarming, with no mental preparation, not knowing what's what or what you should do. Even if you were alone in a desert, or placed on a prince's white horse, you feel like you could somehow come up with your next move, but this would be trouble. Here it is: "You're in the middle of sliding down a ski jump." What am I supposed to do? I can't even fall to stop myself. I'm sliding down a 31-degree slope at what I'm told is 120 kilometers per hour. I couldn't possibly make a judgment about whether to fall or keep sliding. That would be trouble, wouldn't it? That's what I'm thinking as I watch the Milan-Cortina Olympics.&lt;/p&gt;
+
+&lt;p&gt;There are so many events where you're spinning in the air while falling, or careening down bumpy steep slopes. The thing is, I can't connect any of this to my own experiences. I remember skiing a little as a kid. I've tumbled around in the snow. But who on earth has ever rotated in mid-air? Even if someone told me to rotate in the air, I don't think I could do it. If you've driven 100 kilometers per hour on the highway, you can imagine an F1 race at 300 kilometers per hour and think, "I can't really picture it, but it must be incredible." But strapping a board to your feet and spinning multiple times in the air? I can't even get to "I can't picture it, but..." And besides, everyone, listen. Those 1440s and such that we're watching on the broadcast? We're watching them almost entirely in slow motion! If you watched them at regular speed, you wouldn't know what happened, would you? We're going "Whoa!" and "So scary!" but really we're just impressed while thinking "What just happened?" They're using equipment, and they've got help from the snow and ice, but what humans can do has reached a point beyond human understanding. It's gone this far, hasn't it? (This must be true outside of sports as well.)&lt;/p&gt;
+
+&lt;p&gt;Thanks for coming to Hobonichi today. Everything becomes specialized to the point of incomprehensibility.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#35a37957cdef"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on how Winter Olympic sports have become so extreme and specialized that they're completely disconnected from ordinary human experience, advancing to a level "beyond human understanding" where even watching in slow motion barely helps us comprehend what's happening.</summary>
+    <published>2026-02-13T06:15:37.024184+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#080e889e07c1</id>
     <title>7777 is also a common number.</title>
     <updated>2026-02-12T06:42:26.210786+00:00</updated>
