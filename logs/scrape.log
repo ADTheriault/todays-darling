@@ -235,3 +235,23 @@
 2026-02-13 06:15:57 [INFO] Translated title: The imagination to think "I can't imagine it, but it's amazing."
 2026-02-13 06:15:57 [INFO] Summary: The essay reflects on how Winter Olympic sports have become so extreme and specialized that they're completely disconnected from ordinary human experience, advancing to a level "beyond human understanding" where even watching in slow motion barely helps us comprehend what's happening.
 2026-02-13 06:15:57 [INFO] Scraper completed successfully
+2026-02-14 05:35:25 [INFO] ============================================================
+2026-02-14 05:35:25 [INFO] Hobonichi Scraper V2
+2026-02-14 05:35:25 [INFO] Current time (JST): 2026-02-14 14:35:25
+2026-02-14 05:35:25 [INFO] ============================================================
+2026-02-14 05:35:25 [INFO] Starting scrape at 2026-02-14 14:35:25 JST
+2026-02-14 05:35:33 [INFO] Essay scraped successfully: つよがりながら、身の丈で。...
+2026-02-14 05:35:33 [INFO] Content hash: 4531d7f7e6b3
+2026-02-14 05:35:33 [INFO] Saved original markdown: TD-Original-2026-02-14.md
+2026-02-14 05:35:33 [INFO] Translating title...
+2026-02-14 05:35:35 [INFO] Translating author...
+2026-02-14 05:35:36 [INFO] Translating essay body...
+2026-02-14 05:35:49 [INFO] Generating summary...
+2026-02-14 05:35:52 [INFO] Saved translated markdown: TD-Translated-2026-02-14.md
+2026-02-14 05:35:52 [INFO] Archive saved with 13 entries
+2026-02-14 05:35:52 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-14 05:35:52 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-14 05:35:52 [INFO] Successfully processed: つよがりながら、身の丈で。
+2026-02-14 05:35:52 [INFO] Translated title: Putting on a brave face, while staying true to myself.
+2026-02-14 05:35:52 [INFO] Summary: The essay celebrates launching the Hobonichi Manga Club with intentional uncertainty, embracing the excitement of beginning something new without overthinking or pre-planning every detail, treating it as an expedition where discovery happens along the way.
+2026-02-14 05:35:52 [INFO] Scraper completed successfully
