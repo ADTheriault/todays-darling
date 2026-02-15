@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-14T05:35:52.155269+00:00</updated>
+  <updated>2026-02-15T06:10:06.933944+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#3c79ae60642b</id>
+    <title>As a man who was once called President Anko.</title>
+    <updated>2026-02-15T06:09:45.408111+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I love anko.&lt;/p&gt;
+
+&lt;p&gt;You could call it sweetened, simmered azuki beans, but anko doesn't end with just boiling the beans. After simmering them, you heat them in a pot with good thermal conductivity (a tin vessel called a sawari), practically searing them to drive off the moisture. In this process, the sugar approaches the edge of burning and undergoes a kind of "light caramelization" that makes it delicious. You mustn't actually burn it, just get it to that sticky consistency. When I start talking about anko, which I love, I tend to become annoyingly persistent, to the point where people listening to me get fed up. I'm aware of this. Even I think it's not good to be so fundamentalist about it.&lt;/p&gt;
+
+&lt;p&gt;After all, anko isn't necessarily made from azuki beans. You can use all kinds of beans as ingredients, and they're all delicious. Uguisu an, white an, chestnut an, they're all good. Depending on the situation, even red rice (sticky rice) cooked sweet can be used as the "an" filling in a manju, and it's tasty. What's more, though it contradicts what I just said, I don't actually dislike anko that's simply been sweetened and simmered at all, nor zenzai or shiruko. I actually like them.&lt;/p&gt;
+
+&lt;p&gt;Across the country, depending on the region and the shop, there are all kinds of anko, and they're generally delicious. There are times when I think "I like this one" or "that one's nice," but really, aside from the ones that are actually bad, they're all good. I'm not saying it has to be this way or that way is no good. Hobbies that head toward "obsession" eventually make a U-turn somewhere and land on the broad plain of "tolerance."&lt;/p&gt;
+
+&lt;p&gt;Very rarely, there's something that makes me think, "Well, this is a bit..." But in those cases, it's the outer wrapping or something other than the anko that's the problem. Anko fundamentally cannot be made carelessly. The ingredients are just beans and sugar, it takes time, and you can't cut corners. Even if you lack the motivation, you can just buy from an anko supplier. Professional anko factories ensure an average level of deliciousness. I love anko, and I'm a fan of all anko equally. At some point, I reached this kind of "good resignation."&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today. I predict that one day it will be recognized abroad as well.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#3c79ae60642b"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author's journey from being an exacting anko purist to embracing all varieties of this sweet bean paste reflects how deep hobbyist obsessions eventually evolve into a generous appreciation that finds value across the entire spectrum of the craft.</summary>
+    <published>2026-02-15T06:09:45.408111+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#4531d7f7e6b3</id>
     <title>Putting on a brave face, while staying true to myself.</title>
     <updated>2026-02-14T05:35:33.597305+00:00</updated>
