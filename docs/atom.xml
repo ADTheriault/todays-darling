@@ -1,12 +1,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-15T06:10:06.933944+00:00</updated>
+  <updated>2026-02-16T06:45:15.852697+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#3d5c4e17bcc0</id>
+    <title>I went to see Punch, the baby monkey.</title>
+    <updated>2026-02-16T06:44:53.744144+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I went to see a little monkey at the Ichikawa City Zoo. He's a male Japanese macaque, about six months old since birth, with the rather tough-sounding name "Punch." Born last summer, he was rejected by his mother and has been raised by the zookeepers through artificial rearing. They've been gradually working on socializing him so he could rejoin the troop, and he officially joined everyone on Monkey Mountain on January 19th.&lt;/p&gt;
+
+&lt;p&gt;I imagine cases like this have happened before, but there was something about this particular "Punch" that caught people's attention. When he joined the troop on Monkey Mountain, he brought along an "orangutan stuffed animal" that had been like a surrogate mother to him during his artificial rearing.&lt;/p&gt;
+
+&lt;p&gt;The stuffed animal isn't a robot, so it doesn't move. But Punch holds his mother's hand, and as the child, he's the one leading her around. Still, a mother is a mother, so he clings to her for comfort and sleeps in her embrace. He hasn't completely integrated with the other monkeys in the troop yet, but little by little they're playing with him and looking after him.&lt;/p&gt;
+
+&lt;p&gt;Someone visiting Monkey Mountain was moved by the sight and took a photo of "the baby monkey with an orangutan," posting it on social media. That became the beginning of something. Perhaps the image of this little monkey, who started life under difficult circumstances with artificial rearing, bravely working his way into monkey society looked to everyone like "hope" itself.&lt;/p&gt;
+
+&lt;p&gt;The support hashtag "#GanbareePunch" spread, and he's rapidly becoming a nationwide sensation. On the Sunday I went as a "Punch supporter," the zoo apparently experienced "unprecedented crowds." Families came in droves to the outskirts of Ichikawa in Chiba Prefecture. It's been just six months since his birth on July 26th. A story that's only half a year old.&lt;/p&gt;
+
+&lt;p&gt;In the future, as little Punch grows bigger, he'll probably part ways with his stuffed mother and become hard to distinguish among the monkey troop. That will be one kind of happy ending, I suppose. But for now, the little monkey's story looks like it will continue a while longer.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today. I suppose everyone wants to find "a small story of hope."&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#3d5c4e17bcc0"/>
+    <link href="https://www.1101.com/"/>
+    <summary>A baby Japanese macaque named Punch, rejected by his mother and raised with a stuffed orangutan as a surrogate, captured hearts across Japan when he joined his troop while still clinging to his toy mother, becoming a viral symbol of hope and resilience. The touching image of this small monkey bravely navigating his difficult start resonated with people searching for hopeful stories in everyday life.</summary>
+    <published>2026-02-16T06:44:53.744144+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#3c79ae60642b</id>
     <title>As a man who was once called President Anko.</title>
     <updated>2026-02-15T06:09:45.408111+00:00</updated>
