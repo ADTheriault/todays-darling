@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-17T06:13:00.740130+00:00</updated>
+  <updated>2026-02-18T06:42:20.063656+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#14ef54fc4807</id>
+    <title>Hehehehehe.</title>
+    <updated>2026-02-18T06:41:58.902000+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I'm thinking of writing something like that. I've been inspired. By a piece Okuno wrote in the "Hobonichi 3-Minute Column," which I always read. His writing had that kind of explosive power. I've wanted to write something like that for ages. But I don't remember ever actually writing it. I truly want to write something like that, and yet haven't I failed to do so all this time? Despite writing for Hobonichi every single day, I've lived my life this long without writing it, how shameful. And then my junior colleague Okuno went and casually pulled it off.&lt;/p&gt;
+
+&lt;p&gt;It was apparently based on a true story. A tale that emerged from somewhere close to Okuno's usual interests. The first half is written in an intellectual style, more tense than usual. He recounts stumbling upon a photo exhibition. The quiet of the gallery, and one other person there, an elderly gentleman. And then. Incredibly, the tension reaches its peak and explodes. I won't say what happens next. It doesn't just end with afterglow following the climax. The narrative moves on to yet another photo exhibition. A 2013 photo exhibit held in a depopulated village. How much more will the reader be swept along? There's a swirling of images that makes your inner ear go funny, and I found myself engaging with Okuno's discussion of art, looking up at the ceiling thinking what a good time I'd had.&lt;/p&gt;
+
+&lt;p&gt;I wanted to write that too. Anything will do, now is the time to write it. After Okuno's wonderful piece, not that I'm trying to compete, but what kind of attempt could I possibly manage? Oh well, I'll put on display here a sentence that has neither sound nor scent, that isn't even really one, and call it a day.&lt;/p&gt;
+
+&lt;p&gt;"I have done that before" may be factually true, but it's not really the truth. I must have done it many, many more times than that.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today. "Toyotomi Brothers!" is fun. "Berabo" is nostalgic.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#14ef54fc4807"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author expresses admiration and envy for their colleague Okuno's powerful writing in the Hobonichi column, lamenting their own failure to produce such impactful work despite writing daily, and concludes with a self-deprecating attempt at their own piece.</summary>
+    <published>2026-02-18T06:41:58.902000+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#28a256fc009c</id>
     <title>Why walk just for the sake of walking?</title>
     <updated>2026-02-17T06:12:39.952688+00:00</updated>
