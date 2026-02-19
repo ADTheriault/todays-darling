@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-18T06:42:20.063656+00:00</updated>
+  <updated>2026-02-19T06:17:17.062901+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#8cb9c115821c</id>
+    <title>On the unification of spoken and written language.</title>
+    <updated>2026-02-19T06:16:54.431182+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Once upon a time, when people wrote, they wrote in the "classical literary style." I sometimes wonder what I would have done if I'd been born in that era. Of course, even in the days of the classical literary style, people going about their daily lives were still speaking, so there were forms of expression that captured spoken language. Storytelling and rakugo, for instance, are primarily made up of "dialogue."&lt;/p&gt;
+
+&lt;p&gt;The style I'm using to write this right now began in a certain era and is written in what's called "genbun itchō-tai," or "speech-writing together style." This term was coined by Koichi Tsuchiya, a greatly admired senior of mine, around the time I was becoming a copywriter. It was, of course, a parody of Futabatei Shimei's "genbun itchi-tai" (the unification of spoken and written language), the Meiji-era novelist and translator's concept, and it was both a joke and deadly serious.&lt;/p&gt;
+
+&lt;p&gt;But here's the thing: Tsuchiya only used the phrase "speech-writing together style" in a short essay. He didn't advocate for it widely, so I may have been the only one who read it and took it to heart. The way I felt at the time was that the "unification of spoken and written language" we learned about in textbooks was, when all was said and done, still just "written language." It wasn't the classical literary style, sure, but it was still a "style for writing," and I thought, why not move it closer to "spoken language"? That's when Koichi Tsuchiya's "speech-writing together style" appeared before me.&lt;/p&gt;
+
+&lt;p&gt;Around this period, styles like Juzo Itami's work and Rokusuke Ei's "ききがき" (transcribed oral narratives) were also emerging, and written text was leaning toward "spoken language." I suspect that Tsuchiya's "speech-writing together style" may have originated from the style of "live TV commercial scripts," but I can't ask him about it anymore, so I'll never know for sure. Either way, it was a wonderfully versatile style that could incorporate the "pauses" of spoken language while also conveying meaning in the form of written language.&lt;/p&gt;
+
+&lt;p&gt;Ah, I actually wanted to talk about what comes next, but I've run out of time... I'll continue tomorrow, probably. Thank you for coming to Hobonichi today. Though, what you're reading right now is, in fact, also "written language."&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#8cb9c115821c"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay traces the evolution from classical literary style to "genbun itchi" (unification of speech and writing) to Koichi Tsuchiya's concept of "speech-writing together style," which the author embraced as a copywriter to bring written text even closer to natural spoken language.</summary>
+    <published>2026-02-19T06:16:54.431182+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#14ef54fc4807</id>
     <title>Hehehehehe.</title>
     <updated>2026-02-18T06:41:58.902000+00:00</updated>

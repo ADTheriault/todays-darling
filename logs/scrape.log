@@ -335,3 +335,23 @@
 2026-02-18 06:42:20 [INFO] Translated title: Hehehehehe.
 2026-02-18 06:42:20 [INFO] Summary: The author expresses admiration and envy for their colleague Okuno's powerful writing in the Hobonichi column, lamenting their own failure to produce such impactful work despite writing daily, and concludes with a self-deprecating attempt at their own piece.
 2026-02-18 06:42:20 [INFO] Scraper completed successfully
+2026-02-19 06:16:47 [INFO] ============================================================
+2026-02-19 06:16:47 [INFO] Hobonichi Scraper V2
+2026-02-19 06:16:47 [INFO] Current time (JST): 2026-02-19 15:16:47
+2026-02-19 06:16:47 [INFO] ============================================================
+2026-02-19 06:16:47 [INFO] Starting scrape at 2026-02-19 15:16:47 JST
+2026-02-19 06:16:54 [INFO] Essay scraped successfully: 言文一緒体のこと。...
+2026-02-19 06:16:54 [INFO] Content hash: 8cb9c115821c
+2026-02-19 06:16:54 [INFO] Saved original markdown: TD-Original-2026-02-19.md
+2026-02-19 06:16:54 [INFO] Translating title...
+2026-02-19 06:16:56 [INFO] Translating author...
+2026-02-19 06:16:57 [INFO] Translating essay body...
+2026-02-19 06:17:13 [INFO] Generating summary...
+2026-02-19 06:17:17 [INFO] Saved translated markdown: TD-Translated-2026-02-19.md
+2026-02-19 06:17:17 [INFO] Archive saved with 18 entries
+2026-02-19 06:17:17 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-19 06:17:17 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-19 06:17:17 [INFO] Successfully processed: 言文一緒体のこと。
+2026-02-19 06:17:17 [INFO] Translated title: On the unification of spoken and written language.
+2026-02-19 06:17:17 [INFO] Summary: The essay traces the evolution from classical literary style to "genbun itchi" (unification of speech and writing) to Koichi Tsuchiya's concept of "speech-writing together style," which the author embraced as a copywriter to bring written text even closer to natural spoken language.
+2026-02-19 06:17:17 [INFO] Scraper completed successfully
