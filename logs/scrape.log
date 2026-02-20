@@ -355,3 +355,23 @@
 2026-02-19 06:17:17 [INFO] Translated title: On the unification of spoken and written language.
 2026-02-19 06:17:17 [INFO] Summary: The essay traces the evolution from classical literary style to "genbun itchi" (unification of speech and writing) to Koichi Tsuchiya's concept of "speech-writing together style," which the author embraced as a copywriter to bring written text even closer to natural spoken language.
 2026-02-19 06:17:17 [INFO] Scraper completed successfully
+2026-02-20 06:09:10 [INFO] ============================================================
+2026-02-20 06:09:10 [INFO] Hobonichi Scraper V2
+2026-02-20 06:09:10 [INFO] Current time (JST): 2026-02-20 15:09:10
+2026-02-20 06:09:10 [INFO] ============================================================
+2026-02-20 06:09:10 [INFO] Starting scrape at 2026-02-20 15:09:10 JST
+2026-02-20 06:09:17 [INFO] Essay scraped successfully: 「純ことば」の横を通り過ぎるもの。...
+2026-02-20 06:09:17 [INFO] Content hash: 39386e949e57
+2026-02-20 06:09:17 [INFO] Saved original markdown: TD-Original-2026-02-20.md
+2026-02-20 06:09:17 [INFO] Translating title...
+2026-02-20 06:09:19 [INFO] Translating author...
+2026-02-20 06:09:20 [INFO] Translating essay body...
+2026-02-20 06:09:34 [INFO] Generating summary...
+2026-02-20 06:09:37 [INFO] Saved translated markdown: TD-Translated-2026-02-20.md
+2026-02-20 06:09:37 [INFO] Archive saved with 19 entries
+2026-02-20 06:09:37 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-20 06:09:37 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-20 06:09:37 [INFO] Successfully processed: 「純ことば」の横を通り過ぎるもの。
+2026-02-20 06:09:37 [INFO] Translated title: Something that passes by the side of "pure language."
+2026-02-20 06:09:37 [INFO] Summary: The essay traces the evolution of Japanese literary style from classical writing to conversational forms, then observes that manga—which combines words and images—offers even greater expressive possibilities than pure written language, reaching audiences who might otherwise avoid traditional text.
+2026-02-20 06:09:37 [INFO] Scraper completed successfully
