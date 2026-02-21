@@ -375,3 +375,23 @@
 2026-02-20 06:09:37 [INFO] Translated title: Something that passes by the side of "pure language."
 2026-02-20 06:09:37 [INFO] Summary: The essay traces the evolution of Japanese literary style from classical writing to conversational forms, then observes that manga—which combines words and images—offers even greater expressive possibilities than pure written language, reaching audiences who might otherwise avoid traditional text.
 2026-02-20 06:09:37 [INFO] Scraper completed successfully
+2026-02-21 05:32:37 [INFO] ============================================================
+2026-02-21 05:32:37 [INFO] Hobonichi Scraper V2
+2026-02-21 05:32:37 [INFO] Current time (JST): 2026-02-21 14:32:37
+2026-02-21 05:32:37 [INFO] ============================================================
+2026-02-21 05:32:37 [INFO] Starting scrape at 2026-02-21 14:32:37 JST
+2026-02-21 05:32:46 [INFO] Essay scraped successfully: 悪いことばかりじゃありゃしな…　。...
+2026-02-21 05:32:46 [INFO] Content hash: 6361a608a67b
+2026-02-21 05:32:46 [INFO] Saved original markdown: TD-Original-2026-02-21.md
+2026-02-21 05:32:46 [INFO] Translating title...
+2026-02-21 05:32:47 [INFO] Translating author...
+2026-02-21 05:32:49 [INFO] Translating essay body...
+2026-02-21 05:33:02 [INFO] Generating summary...
+2026-02-21 05:33:05 [INFO] Saved translated markdown: TD-Translated-2026-02-21.md
+2026-02-21 05:33:05 [INFO] Archive saved with 20 entries
+2026-02-21 05:33:05 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-21 05:33:05 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-21 05:33:05 [INFO] Successfully processed: 悪いことばかりじゃありゃしな…　。
+2026-02-21 05:33:05 [INFO] Translated title: It's not all bad things...
+2026-02-21 05:33:05 [INFO] Summary: The essay reflects on how we survive in a world dominated by bad news by finding and moving between scattered moments of relief, kindness, and beauty—like stepping stones above dark water—whose continued existence depends on our belief in them.
+2026-02-21 05:33:05 [INFO] Scraper completed successfully
