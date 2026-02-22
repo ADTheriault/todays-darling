@@ -1,12 +1,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-21T05:33:05.567658+00:00</updated>
+  <updated>2026-02-22T06:05:22.863112+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#ff60fbd9cac3</id>
+    <title>I want to stop acting like a know-it-all.</title>
+    <updated>2026-02-22T06:05:02.320334+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I can't stop "acting smart." The thing is, sometimes you're "acting smart" without even realizing you're doing it. The reason you can't stop is that you don't know you're doing it in the first place. I might as well say this upfront to make things easier: I think I've "acted smart" plenty of times myself, and even now, I often catch myself "acting smart."&lt;/p&gt;
+
+&lt;p&gt;When someone takes the attitude of "you know this already, right?" it often happens that if you say "wait, I don't know that" every single time, the conversation just grinds to a halt. So you end up "acting like you know." And also, yeah, there's the part where you just don't want to look stupid.&lt;/p&gt;
+
+&lt;p&gt;The person who says "you know this already, right?" only learned it at some point themselves. Before that, they didn't know it either.&lt;/p&gt;
+
+&lt;p&gt;Even the person saying something like "We'll align with today's agenda, commit to our KPIs, and maximize synergy!" probably built up that vocabulary bit by bit. Well, if I ever found myself in a conversation like that, I'd probably just stare into the middle distance and pretend to be lost in lofty thoughts.&lt;/p&gt;
+
+&lt;p&gt;And then there's this: "You learned this in fifth grade, didn't you?" That way of talking, where something's supposed to be common knowledge because it was taught in "compulsory education" and therefore everyone must know it. I really wish people would stop doing that. I mean, just because it was in the textbook doesn't mean you know it! Even back in elementary school when we were learning it, nobody was getting perfect scores! We couldn't answer it even then, and now, with all the time that's passed, we've completely forgotten most of it. That's just how people are. Try understanding humanity a little better.&lt;/p&gt;
+
+&lt;p&gt;Sure, some people will insist that this kind of thing lowers the country's standards, that the population is getting dumber. But that's not true at all. Everyone's plenty smart, and they've got all kinds of wisdom and knowledge and skills.&lt;/p&gt;
+
+&lt;p&gt;Thanks for coming to Hobonichi again today. People who are smart without seeming smart, now that's cool.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#ff60fbd9cac3"/>
+    <link href="https://www.1101.com/"/>
+    <summary>People often "act smart" without realizing it by assuming others share their knowledge, forgetting that everyone learns things at different times and retains information differently. True intelligence isn't about pretending to know everything or making others feel inadequate, but about being genuinely smart without needing to appear so.</summary>
+    <published>2026-02-22T06:05:02.320334+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#6361a608a67b</id>
     <title>It's not all bad things...</title>
     <updated>2026-02-21T05:32:46.235215+00:00</updated>

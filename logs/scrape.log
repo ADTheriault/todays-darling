@@ -395,3 +395,23 @@
 2026-02-21 05:33:05 [INFO] Translated title: It's not all bad things...
 2026-02-21 05:33:05 [INFO] Summary: The essay reflects on how we survive in a world dominated by bad news by finding and moving between scattered moments of relief, kindness, and beauty—like stepping stones above dark water—whose continued existence depends on our belief in them.
 2026-02-21 05:33:05 [INFO] Scraper completed successfully
+2026-02-22 06:04:55 [INFO] ============================================================
+2026-02-22 06:04:55 [INFO] Hobonichi Scraper V2
+2026-02-22 06:04:55 [INFO] Current time (JST): 2026-02-22 15:04:55
+2026-02-22 06:04:55 [INFO] ============================================================
+2026-02-22 06:04:55 [INFO] Starting scrape at 2026-02-22 15:04:55 JST
+2026-02-22 06:05:02 [INFO] Essay scraped successfully: りこうぶるのは、やめたいものだ。...
+2026-02-22 06:05:02 [INFO] Content hash: ff60fbd9cac3
+2026-02-22 06:05:02 [INFO] Saved original markdown: TD-Original-2026-02-22.md
+2026-02-22 06:05:02 [INFO] Translating title...
+2026-02-22 06:05:03 [INFO] Translating author...
+2026-02-22 06:05:05 [INFO] Translating essay body...
+2026-02-22 06:05:19 [INFO] Generating summary...
+2026-02-22 06:05:22 [INFO] Saved translated markdown: TD-Translated-2026-02-22.md
+2026-02-22 06:05:22 [INFO] Archive saved with 21 entries
+2026-02-22 06:05:22 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-22 06:05:22 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-22 06:05:22 [INFO] Successfully processed: りこうぶるのは、やめたいものだ。
+2026-02-22 06:05:22 [INFO] Translated title: I want to stop acting like a know-it-all.
+2026-02-22 06:05:22 [INFO] Summary: People often "act smart" without realizing it by assuming others share their knowledge, forgetting that everyone learns things at different times and retains information differently. True intelligence isn't about pretending to know everything or making others feel inadequate, but about being genuinely smart without needing to appear so.
+2026-02-22 06:05:22 [INFO] Scraper completed successfully
