@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-22T06:05:22.863112+00:00</updated>
+  <updated>2026-02-23T06:46:15.086884+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#3967ad3accb2</id>
+    <title>More important than important things.</title>
+    <updated>2026-02-23T06:45:54.920966+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;"When you think you're doing something good, it's best to think you're doing something a little bit bad. That keeps things about right." These are words from Yoshimoto Takaaki. I can't remember when I first heard them, but as time passes, I've come to think this is truly important. It sounds like a paradox, so very typical of Yoshimoto, but now, looking back, I realize it's very close to Shinran's teaching: "Even the virtuous can attain rebirth, how much more so the wicked."&lt;/p&gt;
+
+&lt;p&gt;"Good things," "big things," "important things" can really intoxicate people. And so people rush headlong toward "important things" and "good things," without a glance at "bad things" or "small things." I think that's where things go wrong.&lt;/p&gt;
+
+&lt;p&gt;Before I'd ever met Yoshimoto, I was reading an essay by Tomioka Taeko, and came across a passage where she wrote something like how she'd sometimes see Yoshimoto Takaaki in the evening, carrying a shopping basket. The Yoshimoto Takaaki of "Theory of Shared Illusion," making dinner. The poet Tomioka Taeko silently watching him in the twilight of downtown Tokyo. Later, I would come to see for myself that this was indeed simply fact, just as it was, but even when I was around twenty, I found it beautiful.&lt;/p&gt;
+
+&lt;p&gt;Also, this might be just hearsay, but there's a story that Akashiya Sanma once said about Kimura Takuya: "Kimura's properly being a father, that's great." I completely agree, and I also think Sanma is great for saying it. Kimura would probably reply with a puzzled look, "But I actually am a father, so what's so great about it?" Well, yes, but that's exactly what's so important. It's something that seems like anyone could do, but not everyone can.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. People who are drunk always insist, "I'm not drunk!"&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#3967ad3accb2"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that staying grounded by attending to small, ordinary responsibilities—like making dinner or being present as a parent—prevents the dangerous intoxication that comes from pursuing grand "good" or "important" causes.</summary>
+    <published>2026-02-23T06:45:54.920966+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#ff60fbd9cac3</id>
     <title>I want to stop acting like a know-it-all.</title>
     <updated>2026-02-22T06:05:02.320334+00:00</updated>

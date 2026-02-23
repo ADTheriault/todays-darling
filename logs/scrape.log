@@ -415,3 +415,23 @@
 2026-02-22 06:05:22 [INFO] Translated title: I want to stop acting like a know-it-all.
 2026-02-22 06:05:22 [INFO] Summary: People often "act smart" without realizing it by assuming others share their knowledge, forgetting that everyone learns things at different times and retains information differently. True intelligence isn't about pretending to know everything or making others feel inadequate, but about being genuinely smart without needing to appear so.
 2026-02-22 06:05:22 [INFO] Scraper completed successfully
+2026-02-23 06:45:46 [INFO] ============================================================
+2026-02-23 06:45:46 [INFO] Hobonichi Scraper V2
+2026-02-23 06:45:46 [INFO] Current time (JST): 2026-02-23 15:45:46
+2026-02-23 06:45:46 [INFO] ============================================================
+2026-02-23 06:45:46 [INFO] Starting scrape at 2026-02-23 15:45:46 JST
+2026-02-23 06:45:54 [INFO] Essay scraped successfully: 大事なことよりも、大事なこと。...
+2026-02-23 06:45:54 [INFO] Content hash: 3967ad3accb2
+2026-02-23 06:45:54 [INFO] Saved original markdown: TD-Original-2026-02-23.md
+2026-02-23 06:45:54 [INFO] Translating title...
+2026-02-23 06:45:56 [INFO] Translating author...
+2026-02-23 06:45:58 [INFO] Translating essay body...
+2026-02-23 06:46:11 [INFO] Generating summary...
+2026-02-23 06:46:15 [INFO] Saved translated markdown: TD-Translated-2026-02-23.md
+2026-02-23 06:46:15 [INFO] Archive saved with 22 entries
+2026-02-23 06:46:15 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-23 06:46:15 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-23 06:46:15 [INFO] Successfully processed: 大事なことよりも、大事なこと。
+2026-02-23 06:46:15 [INFO] Translated title: More important than important things.
+2026-02-23 06:46:15 [INFO] Summary: The essay argues that staying grounded by attending to small, ordinary responsibilities—like making dinner or being present as a parent—prevents the dangerous intoxication that comes from pursuing grand "good" or "important" causes.
+2026-02-23 06:46:15 [INFO] Scraper completed successfully
