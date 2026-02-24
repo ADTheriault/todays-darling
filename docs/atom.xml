@@ -1,12 +1,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-23T06:46:15.086884+00:00</updated>
+  <updated>2026-02-24T06:16:00.158384+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#bc03796daa86</id>
+    <title>About 5 fish in 8 hours.</title>
+    <updated>2026-02-24T06:15:35.874086+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;It all seems to have started when T-guchi from Hobonichi casually mentioned, "I'd kind of like to try fishing sometime." You know, "I wonder if it's fun, I wonder if it's interesting." His comment struck a chord with people who felt the same way, and so Y-shita, who was absolutely dying to go fishing, along with people who'd never done it before, people willing to try anything, and even some who fish pretty regularly, all ended up going to a "managed fishing area" near Tokyo. These days they call it "area fishing." When it came time to pay the fishing fee, they had to choose between a two-hour course and a five-hour course, and naturally the newcomers were thinking, "Two hours should be fine," but veteran Y-shita firmly declared, "No, that's definitely not going to be enough. We should do the five-hour course," and got everyone to go along with it. A decision that really showed his everyday leadership skills. Of course, once they started fishing it was so much fun that they wolfed down their grilled rainbow trout at lunchtime because everyone was itching to get back to the fishing spot. In the end, even the five-hour course wasn't enough time, so they extended it by another three hours and fished for a total of eight hours. "The whole time, everyone was standing the entire time." You can really tell from that how absorbed they all were. Even the people who'd never fished before in their lives stood the whole time. "Eight hours, huh. I get it. So how many did you catch?" I asked, expecting to hear about their triumphant haul. "Everyone caught about five each, I'd say," Y-shita replied cheerfully. "Oh, so everyone had a good ti..." I started to say. That's when K-mochi (not his real name), who was standing nearby, let out a quiet snort of laughter. I didn't miss it. He was probably thinking, "Only five fish in eight hours?" I took it upon myself to set him straight right then and there. "Five fish is a happy number!" I told him. People might disagree on this, but for someone who fishes, "five fish" is something to be happy about!&lt;/p&gt;
+
+&lt;p&gt;I wonder if that story will come up on tonight's "Playback Hobonichi!"?&lt;/p&gt;
+
+&lt;p&gt;Thanks as always for coming to Hobonichi today. I really want to go fishing. When you're fishing, you forget about everything else.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#bc03796daa86"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay celebrates how a group of coworkers became so absorbed in their first fishing trip that they extended it from two to eight hours, arguing that catching just five fish each was actually a wonderful accomplishment worth celebrating despite what non-fishers might think.</summary>
+    <published>2026-02-24T06:15:35.874086+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#3967ad3accb2</id>
     <title>More important than important things.</title>
     <updated>2026-02-23T06:45:54.920966+00:00</updated>
