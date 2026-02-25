@@ -455,3 +455,23 @@
 2026-02-24 06:16:00 [INFO] Translated title: About 5 fish in 8 hours.
 2026-02-24 06:16:00 [INFO] Summary: The essay celebrates how a group of coworkers became so absorbed in their first fishing trip that they extended it from two to eight hours, arguing that catching just five fish each was actually a wonderful accomplishment worth celebrating despite what non-fishers might think.
 2026-02-24 06:16:00 [INFO] Scraper completed successfully
+2026-02-25 06:43:06 [INFO] ============================================================
+2026-02-25 06:43:06 [INFO] Hobonichi Scraper V2
+2026-02-25 06:43:06 [INFO] Current time (JST): 2026-02-25 15:43:06
+2026-02-25 06:43:06 [INFO] ============================================================
+2026-02-25 06:43:06 [INFO] Starting scrape at 2026-02-25 15:43:06 JST
+2026-02-25 06:43:13 [INFO] Essay scraped successfully: しつこく、「わからないもの」について。...
+2026-02-25 06:43:13 [INFO] Content hash: 1e188b1d1352
+2026-02-25 06:43:13 [INFO] Saved original markdown: TD-Original-2026-02-25.md
+2026-02-25 06:43:13 [INFO] Translating title...
+2026-02-25 06:43:15 [INFO] Translating author...
+2026-02-25 06:43:17 [INFO] Translating essay body...
+2026-02-25 06:43:30 [INFO] Generating summary...
+2026-02-25 06:43:32 [INFO] Saved translated markdown: TD-Translated-2026-02-25.md
+2026-02-25 06:43:32 [INFO] Archive saved with 24 entries
+2026-02-25 06:43:32 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-02-25 06:43:32 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-02-25 06:43:32 [INFO] Successfully processed: しつこく、「わからないもの」について。
+2026-02-25 06:43:32 [INFO] Translated title: Persistently, about "things I don't understand."
+2026-02-25 06:43:32 [INFO] Summary: The essay reflects on how the most meaningful things in life—like love—hold their power precisely because they resist rational explanation, and that truly nurturing something means staying engaged with it without needing to fully understand it.
+2026-02-25 06:43:32 [INFO] Scraper completed successfully
