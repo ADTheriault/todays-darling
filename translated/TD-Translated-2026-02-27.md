@@ -1,0 +1,12 @@
+## Title: Tamarind is the best.
+## Date: 2026-02-27
+## Author: Shigesato Itoi
+## Content:
+
+I wouldn't say I'm making any special study of it, but I find myself thinking about AI quite a bit these days. Every day I'm thinking about AI in some way or another, and using it too. As a basic principle, when it comes to new phenomena that are gathering momentum, I've decided to "avoid hating them as much as possible." Left to their own devices, people who've grown accustomed to the old ways tend to view new forces with hostility and hatred. If you start hating something before you've tried to understand it or work with it, well, nothing good generally comes of that, I tell myself. So I remind myself of this often and try to maintain a certain distance, one where I'm not really taking either side. Which also means not going overboard with "This is great! This is great!" either. I don't need people thinking I'm "cutting edge," so I'm quite comfortable being thought of as a bit "behind the times." In any case, for someone like me with no expertise whatsoever, the fact that I can have a "conversation" with just my phone and ask it anything at all, middle of the night or crack of dawn, is amazing. That said, I also know the answers aren't necessarily any good.
+
+Yesterday, the boss at home was saying, "I left some soil in a planter, and there must have been a seed in it about the size of a soybean, because it's started to sprout." She compared photos using a search engine and figured out, "It seems to be this thing called tamarind." Well how about that, "tamarind." Nice ring to it. You can practically hear music from far-off India. But the next day: "Once the stem grew out a bit, it didn't look right." She wasn't ready to commit, but it was starting to look like "edamame" to her.
+
+This was the perfect moment for my "neighbor" ChatGPT to step in. I took a photo of the plant and explained: it was from a soybean-sized seed that had been in the soil, it's growing like this, what is it? And then (skipping over various details) "It's probably an avocado!" Think carefully now, check the question and answer properly. "It's definitely a morning glory." Hey, wait, I gave you a warning! After some nudging, I finally got it to arrive at "soybean or pea." When I asked why it made such strange mistakes, it gave me a proper, lengthy excuse, but honestly... never mind.
+
+Thank you for coming to Hobonichi again today. In the end, that first answer of "tamarind" was the most fun of all.
