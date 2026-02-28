@@ -1,12 +1,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-02-27T06:07:15.795376+00:00</updated>
+  <updated>2026-02-28T05:08:46.065088+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#9b7d0fb2c54a</id>
+    <title>Good habits make people stay indoors.</title>
+    <updated>2026-02-28T05:08:26.675129+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;People have what they call "good habits." Drinking hot water every morning, or vegetable juice, eating yogurt, brushing your teeth before and after meals, even using interdental brushes, taking a morning bath. Or jogging around the neighborhood, walking the dog, getting a little exercise, maybe some yoga. Even just making radio calisthenics a habit would definitely be good for you. Of course you should weigh yourself, take your blood pressure. No, before all that, get plenty of sleep, change into freshly laundered, clean underwear, eat a nutritionally balanced diet and stop at eighty percent full. If you have a chronic condition, take your medication properly as prescribed. Read the newspaper, skimming the whole thing but reading the important parts carefully. Dress appropriately for the heat, cold, rain, wind, humidity. Walk to the station, chat with people, whatever works for each person.&lt;/p&gt;
+
+&lt;p&gt;Up to this point, I've been writing carefully and thoughtfully, but I wonder if you, the reader, weren't a bit bored? When you start listing out these "good habits," even the person writing gets a little tired of it. I mean, doing all of this would be such a pain, wouldn't it? It's not particularly difficult, I know that. And if you wanted to do it, you could do all of these things. In fact, I'm sure plenty of people actually do them.&lt;/p&gt;
+
+&lt;p&gt;But here's what occurred to me: when you pile up all these little "good habits," it gets harder to travel. No, really, I'm talking about myself here. In my case, I don't have that many, but I do have quite a few daily routines. Every time I'm about to travel, I have to make a checklist and pack accordingly. Plus there's the laptop, the power cords, all the tools I need to write "this column" every day. The truth is, I want "traveling" to be a "good habit" too, but it conflicts with all my other "habits." I wonder how everyone else handles this?&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. I really need to let my adorable homebody self travel more.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#9b7d0fb2c54a"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores how accumulating many "good habits" and daily routines can paradoxically make it harder to travel, as maintaining these habits creates logistical complications that conflict with the desire to make traveling itself a regular practice.</summary>
+    <published>2026-02-28T05:08:26.675129+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#359d14267622</id>
     <title>Tamarind is the best.</title>
     <updated>2026-02-27T06:06:52.696688+00:00</updated>
