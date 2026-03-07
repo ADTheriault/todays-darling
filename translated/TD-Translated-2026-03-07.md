@@ -1,0 +1,12 @@
+## Title: Dusk is nice, but sunrise is the best.
+## Date: 2026-03-07
+## Author: Shigesato Itoi
+## Content:
+
+I went to see those elementary school kids again. The students at Shirakawa Elementary School at the foot of Mount Akagi. Back in November, I'd done a class with them on "How can we live happily even after we become adults?" This time I was invited to participate in a kind of follow-up "presentation event." Those sixth graders I'd talked with are graduating soon. When I'd met them just three months earlier, they'd been worrying about all sorts of things, saying they felt anxious about becoming adults. Now they were holding an event to present what they're thinking about these days. They wanted me to come hear it. Of course I went. I felt like there was some kind of connection pulling me there.
+
+If I tried to write about it in detail I'd never finish, so I'll be very rough about it, but it was wonderful. From guiding me from the school parking lot to the waiting room, the sixth graders handled everything themselves. And get this: every single one of them spoke in a loud, clear voice. Back then, I'd told them that if your voice is too quiet, what you want to communicate won't reach people, and that would be a waste. The kids apparently corrected that right away! The teachers seemed amazed too, but I was astonished.
+
+Each of them spoke about their future selves. Kids who had role models nearby they were learning from. Kids who'd found concrete things they wanted to do and loved. Kids who didn't know what they wanted to become but were enjoying all sorts of things. Everyone presented honestly and happily. They talked about their dreams, but they also included conditions like "I can make money" and "there are days off" and "I can finish at regular hours," which actually felt refreshingly realistic. Best of all, all that anxiety and worry they'd been so eager to talk about before had disappeared for the moment. After they finished presenting, maybe because they felt relieved, every single one of them broke into a smile. I could only think, yes, yes, this is perfect, this is the best. Go, walk, run, fall, rest, slack off, live! Just being energetic right now already earns you full marks. I hope you'll enjoy all those tomorrows beyond tomorrow that I'll never know.
+
+Thank you for coming to Hobonichi today too. I say this like it's a joke, but I want to invite all of them to my funeral.
