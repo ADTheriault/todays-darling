@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-08T04:42:08.449066+00:00</updated>
+  <updated>2026-03-09T04:50:17.099811+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#2efcecffc3de</id>
+    <title>A time machine to the world of 14-year-olds.</title>
+    <updated>2026-03-09T04:49:55.429018+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Even if I tell you about this film, there's no guarantee everyone will be able to see it. If you have the right connections, or good luck, or chase after it earnestly enough, you'll probably manage to see it. Even now, the theaters showing it are limited, but apparently "screenings" are also possible in places that aren't movie theaters. Still, it's not really a loss if you can't see it. There's nothing particularly rare in the film. It's just about thirty-five ordinary eighth graders living their lives, so in a way, it's like you yourself are already there.&lt;/p&gt;
+
+&lt;p&gt;That said, these ordinary eighth graders, ordinary as they are, are all incredibly (to use the trendy way of putting it) "precious."&lt;/p&gt;
+
+&lt;p&gt;The title is "Bookmark at 14." It's a documentary film that listens to the stories of thirty-five students in one class at one school and films their daily lives. Each of them has their own story, of course, but the film doesn't deliberately add shading or drama to those stories. All thirty-five are covered more or less equally, so even when you want to know more, you can't follow further. There's just those two months or so of their lives until spring comes and they move up a grade. The camera goes to classrooms, commute routes, and sometimes their homes, but there's a comfortable intimacy in the distance it keeps from these fourteen-year-olds.&lt;/p&gt;
+
+&lt;p&gt;For each of these fourteen-year-olds, nothing has really begun yet, and nothing has ended either. Every day, like snow piling up, "now" accumulates upon "now."&lt;/p&gt;
+
+&lt;p&gt;Naturally, every viewer will find themselves trying to recall what they were like at fourteen. I too, thinking "I might have been even more childish," got on the time machine and spent about two hours looking around, my eyes darting about the world of fourteen-year-olds. The world these thirty-five ordinary kids showed me was, in the best sense, far more old-fashioned and straightforward than the online world we routinely see now. That's right, I felt reassured. "Living as a person" is actually pretty serious, pretty old-fashioned stuff, isn't it.&lt;/p&gt;
+
+&lt;p&gt;I'm grateful to the team behind this film and to these fourteen-year-olds. Thank you for coming to Hobonichi again today. Apparently, fourteen is the age when we become biologically capable of creating a "family."&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#2efcecffc3de"/>
+    <link href="https://www.1101.com/"/>
+    <summary>This documentary about thirty-five ordinary eighth graders reminds viewers that despite living in a digital age, the experience of being fourteen—suspended between childhood and adulthood, accumulating "now" upon "now"—remains reassuringly old-fashioned and profoundly human.</summary>
+    <published>2026-03-09T04:49:55.429018+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#137836e40a96</id>
     <title>This sentence isn't written on parchment.</title>
     <updated>2026-03-08T04:41:49.071515+00:00</updated>
@@ -628,36 +652,6 @@
     <link href="https://www.1101.com/"/>
     <summary>While people may occasionally respond to orders, they are fundamentally motivated by their own desires, beliefs, relationships, fears, and values rather than by commands from others. Understanding what truly drives human action—whether in ourselves or others—is essential for creating better environments and relationships.</summary>
     <published>2026-02-08T06:08:00.585652+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#60f74c3a1379</id>
-    <title>Don't make fun of me.</title>
-    <updated>2026-02-07T05:32:08.803709+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;No matter how right your ideas might be, no matter how noble your purpose, you mustn't make fun of people who are doing their best at something that isn't hurting anyone.&lt;/p&gt;
-
-&lt;p&gt;Every day, eating their meals, drinking water, getting their teeth brushed a little, pawing at their bedding to make it just right before lying down to sleep. We love that dog.&lt;/p&gt;
-
-&lt;p&gt;Heading off to school with their backpack, listening to the teacher's lessons with a mix of earnestness and boredom, eating lunch, playing, and coming home again. We adore that elementary school kid.&lt;/p&gt;
-
-&lt;p&gt;Laughing at something, crying over something, sometimes getting angry about something, rooting for something, quietly absorbed in their work. We help each other out, all of us.&lt;/p&gt;
-
-&lt;p&gt;Completely aged now, more wrinkles too, complaining about this ache or that itch, no longer particularly lovely or cool. Sometimes I look at my parent and think, they're just like me.&lt;/p&gt;
-
-&lt;p&gt;Whether someone is somebody or nobody, whether they're good at their job or not, whether they're deep in thought or spacing out, it's nobody's business to criticize.&lt;/p&gt;
-
-&lt;p&gt;Everyone on the train, everyone waiting at the traffic light, even, for that matter, everyone who dislikes me. You still mustn't make fun of them.&lt;/p&gt;
-
-&lt;p&gt;I'm not saying you have to like them, but first of all, you mustn't make fun of them.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. Even if you can't manage admiration or respect, you mustn't make fun of people.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#60f74c3a1379"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay argues that regardless of your opinions or purposes, you should never mock people who are simply doing their best at harmless things—even if you don't like or respect them, basic human dignity requires refraining from ridicule.</summary>
-    <published>2026-02-07T05:32:08.803709+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
