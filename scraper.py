@@ -656,6 +656,20 @@ def generate_rss(archive: list):
         f'<link>{PAGES_BASE_URL}</link>',
         1  # Only replace the first occurrence (channel link)
     )
+
+    # Add <author> to each item (feedgen omits it in RSS when no email is given)
+    for entry_data in sorted_entries:
+        author_name = entry_data.get('translated_author', entry_data.get('author', 'Shigesato Itoi'))
+        guid = entry_data['hash']
+        guid_tag = f'<guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#{guid}</guid>'
+        if guid_tag in rss_content:
+            guid_pos = rss_content.find(guid_tag)
+            item_end = rss_content.find('</item>', guid_pos)
+            if item_end != -1:
+                check_range = rss_content[guid_pos:item_end]
+                if '<author>' not in check_range:
+                    rss_content = rss_content[:item_end] + f'      <author>{author_name}</author>\n    ' + rss_content[item_end:]
+
     with open(rss_file, 'w', encoding='utf-8') as f:
         f.write(rss_content)
 
