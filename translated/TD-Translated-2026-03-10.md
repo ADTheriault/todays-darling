@@ -1,0 +1,10 @@
+## Title: In Kesennuma, now, alone.
+## Date: 2026-03-10
+## Author: Shigesato Itoi
+## Content:
+
+I'm in Kesennuma. Already having a wonderful time catching up with people I haven't seen in ages. Saikichi-san's "bappa"—the moment we saw each other, we both said, "You haven't changed a bit, you look so well." If I recall correctly, bappa is about ten years older than me. And after telling me I looked well, she added, "And you look interesting." No one has ever said anything that made me happier. From now on, I'm going to live in a way that makes people say I look interesting. And then there was another older friend, a visitor from Hokkaido, Oda-san from R-tei. I was so glad to see him too. It was the very definition of "what joy it is to have friends visit from afar." I've been influenced by all sorts of people, but what this mentor has done and the things he's told me feel like they've become a model for how I think now (especially lately). When it gets a bit warmer, I'm definitely going to visit him again.
+
+There are certain ways of thinking that I find completely true. Like "haste makes waste," for example. I understand that deeply. But I also completely agree with "strike while the iron is hot." Should I hurry or take the long way around? Even if you tell me to pick one, I have to make a judgment call each time depending on the situation. Talking about all sorts of things, I realize this happens a lot. Sometimes it really is "haste makes waste." Don't panic, don't rush so much. You've failed before by taking shortcuts, haven't you? But, you know, while you're being so calm and collected, you often miss precious opportunities. More often than not, hesitating gets you nowhere. "Just do it now, strike while the iron is hot!" I say this to myself and others all the time. Everyone has experienced both, everyone feels both ways. So many things are truly "both," but we make judgments based on the situation and circumstances. In other words, life is about judgment. Writing about such things in a hotel in Kesennuma before bed.
+
+Thank you for coming to Hobonichi today. That I've finished writing this—well, that was also a judgment I just made.
