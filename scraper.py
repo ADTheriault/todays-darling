@@ -324,9 +324,10 @@ Output each paragraph wrapped in <p></p> tags. Output ONLY the <p> tags, no othe
 
 {japanese_text}"""
 
+    model = "claude-sonnet-4-5-20250929" if is_title else "claude-opus-4-6"
     try:
         message = client.messages.create(
-            model="claude-sonnet-4-5-20250929",
+            model=model,
             max_tokens=4000,
             messages=[{"role": "user", "content": prompt}]
         )
@@ -351,7 +352,7 @@ Be concise and natural. Output only the summary, nothing else.
 
     try:
         message = client.messages.create(
-            model="claude-sonnet-4-5-20250929",
+            model="claude-haiku-4-5-20251001",
             max_tokens=200,
             messages=[{"role": "user", "content": prompt}]
         )
