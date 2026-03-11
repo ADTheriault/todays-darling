@@ -1,12 +1,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-10T04:41:52.071722+00:00</updated>
+  <updated>2026-03-11T04:42:57.410552+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#98aedfcbe9ab</id>
+    <title>What do you mean, "feelings of helplessness"?</title>
+    <updated>2026-03-11T04:42:36.314682+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;2026 minus 2011 is, let's see, 15. So it's been 15 years already. Enough time has passed that I find myself doing the subtraction just to confirm it. Yesterday, a friend in Kesennuma said to me, "I thought we'd have to brace ourselves for this being a long battle, like maybe 10 years. But even that's come and gone, and it feels like we got here fast."&lt;/p&gt;
+
+&lt;p&gt;In the parking lot of the hotel where we're staying, there are no TV broadcast vans, of course. No crowds either. Walking through town, we remember "that moment, in this place" and say to each other, "Yeah, that's how it was." But this only happens because we're conscious of this special day, March 11th. Probably most of the time, the everyday just flows along here like anywhere else.&lt;/p&gt;
+
+&lt;p&gt;I think it's a very good thing that we've almost forgotten we once wished for these ordinary days to return.&lt;/p&gt;
+
+&lt;p&gt;For 15 years, I've come to Kesennuma every year on this day. No one has ever asked me, "What will you do this year?" It's always on the schedule. We only discuss how I'll make the trip. I come because I'm meant to see everyone in Kesennuma.&lt;/p&gt;
+
+&lt;p&gt;In the first year or two, after coming here, I'd be so depressed on the bullet train ride home. I thought the reason was "a sense of powerlessness." The sadness of "I can't do anything, I haven't done anything." I believed that was the cause of my low spirits. But really, who was I to even claim powerlessness? Looking back now, powerlessness was the starting point. Regardless of whether someone like me is powerless or mighty, here we are 15 years later, with everyone having reclaimed their everyday lives.&lt;/p&gt;
+
+&lt;p&gt;That was a "future" built by powerless people, each one of them, pooling their strength together, using their wisdom, using machines and tools, somehow creating it bit by bit. Even my powerlessness was part of those materials. That's how I can think of it now.&lt;/p&gt;
+
+&lt;p&gt;This might be the town where I have the most people I want to see. I'm happier than anything to meet everyone in good health.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. Not forgetting. That's the one promise I've kept for 15 years.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#98aedfcbe9ab"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on 15 years of annual visits to Kesennuma after the 2011 disaster, realizing that the return of ordinary life—once desperately wished for—is now so complete that forgetting those wishes is itself a blessing, and that even powerlessness, when pooled together, helped rebuild the future.</summary>
+    <published>2026-03-11T04:42:36.314682+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#fa3264afb39a</id>
     <title>In Kesennuma, now, alone.</title>
     <updated>2026-03-10T04:41:34.648477+00:00</updated>
@@ -632,26 +660,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on how living means continuously creating memories, and warns that the most troubling mistakes come not from knowing we're wrong, but from being completely convinced we're right while judging or attacking others—memories we should remember as reminders of how easily any of us can fall into that trap.</summary>
     <published>2026-02-10T06:47:29.900338+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#88252b94393f</id>
-    <title>Most of the universe is something other than language.</title>
-    <updated>2026-02-09T06:47:44.423036+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There's this way of thinking about Earth's history: if you imagine it as a 24-hour clock, Homo sapiens, our human ancestors, don't appear until around 23:59:56. It's dizzying to think about, but we can't help picturing a timeline in our heads where the Nara period was long ago, the pyramids were built even further back, humanity emerged in some unimaginably distant past before that, and dinosaurs roamed in an even more remote antiquity. We imagine a timeline we can survey and comprehend. But really, "these things aren't even comparable!" We use poetic expressions like "as many as the stars," but the number of stars visible to the naked eye isn't actually all that many, is it? There's that saying, "The sands on the beach may run out, but thieves will never disappear from this world," which is meant to suggest an uncountable multitude. But if you think about it calmly, it doesn't seem like such a big deal. You could count the grains of sand on a beach if you really tried hard enough.&lt;/p&gt;
-
-&lt;p&gt;I've been thinking along these lines for a while now, but recently I found myself wondering: how many words exist in the entire universe (or at least on Earth)? Not systematic "languages" like Japanese or Greek, but "vocabulary," all the individual words added up like grains of sand. I was playing around with this idea, consulting an AI. Even with the limited counting method of dictionary entries, each language has hundreds of thousands of words, and there are apparently around 7,000 languages, so we're talking tens of millions of words, maybe even 100 or 200 million, the AI told me. And since new words can be created at any time, the number is essentially infinite. It's very much an "aren't there so many!" kind of answer, even from the AI's perspective.&lt;/p&gt;
-
-&lt;p&gt;But that Earth clock analogy made me realize something. However many hundreds of millions of words there might be, the total number of words that have existed since humans were born is nothing! (I'm channeling Kuroita Goro here.) The "actual things and phenomena" that haven't been turned into words, both artificial and natural, vastly outnumber the words themselves. Language, no matter how far it goes, can never reach "reality." It can only sketch a tiny portion with a limited set of paints.&lt;/p&gt;
-
-&lt;p&gt;Well, this is just me playing with words too, I suppose. Thank you for visiting Hobonichi today. Don't be so proud, humanity. Don't be so proud, language.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#88252b94393f"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay uses the vastness of Earth's history as an analogy to argue that despite containing hundreds of millions of words across all languages, human vocabulary can only capture a tiny fraction of actual reality, revealing the fundamental limitations of language itself.</summary>
-    <published>2026-02-09T06:47:44.423036+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
