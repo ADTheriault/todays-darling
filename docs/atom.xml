@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-12T04:45:58.975626+00:00</updated>
+  <updated>2026-03-13T04:43:32.050469+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#85bfcf4924d3</id>
+    <title>Failure and chance are the ingredients for hope.</title>
+    <updated>2026-03-13T04:43:11.526034+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I was raised on the principle of "better safe than sorry, and then safer still." I think parents and teachers, regardless of generation, all said something along these lines: "No matter how sure you feel, you never know what might happen. If you consider every possibility and prepare for it, you'll have nothing to worry about, no matter what comes your way." Growing up steeped in that kind of teaching, I think I ended up narrowing my own possibilities considerably.&lt;/p&gt;
+
+&lt;p&gt;"Consider every possibility and prepare for it" is certainly one way to avoid failure. In medicine, in rail and aviation, in accounting, it's an essential way of thinking, and genuinely important. But if everyone applies this approach to every situation in life, it only ratchets up the tension, clouds your judgment, and blurs the focus on what truly matters.&lt;/p&gt;
+
+&lt;p&gt;It may be late in the game, but what I want to say (to myself as much as anyone) is this: "good judgment" is not the same thing as "considering every possibility" or "being extra, extra careful." (Besides, in this day and age, AI is better at that sort of thing anyway.) What matters far more is never losing sight of what's important, being willing to make a decision even when things aren't perfect, and not putting things off too long. If parents and teachers are going to teach anything, I think it should be things like that.&lt;/p&gt;
+
+&lt;p&gt;In the real world, where real people are living and moving, trying a lot of things yields far greater rewards. In that world, failures and chance encounters are precious raw material. Rather than being so cautious you never fail, rather than having a neat logical explanation for everything, the encounters you gain through action, including the failures and the accidents, are worth so much more. I really do think so. Hey, I'm talking to you, me.&lt;/p&gt;
+
+&lt;p&gt;The self that was shaped by the adults of the past and the self I am now go back and forth, making our way toward whatever comes next.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for visiting Hobonichi today. Oh, and yes. "Don't think! Feel!" And "Just do it!"&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#85bfcf4924d3"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Excessive caution and risk avoidance, while useful in certain fields, ultimately limit life's possibilities and potential for growth; true wisdom lies in decisive action, embracing failure as valuable experience, and prioritizing what matters over perfect preparation.</summary>
+    <published>2026-03-13T04:43:11.526034+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#1e3e135b459a</id>
     <title>Musings of a big-sister teacher.</title>
     <updated>2026-03-12T04:45:38.359668+00:00</updated>
@@ -642,24 +666,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay explores how numbers, like people, are fundamentally the same despite appearing different—just as 7777 seems special while 7776 seems ordinary, all 8.3 billion humans share the same basic nature even though society assigns them different values and roles.</summary>
     <published>2026-02-12T06:42:26.210786+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#7e3503cb09ea</id>
-    <title>The child as the "inner person" of the adult.</title>
-    <updated>2026-02-11T06:43:18.913089+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There's an internet slang term, "the person inside." I always thought it was a strangely apt way of putting things. I feel like you don't hear it as much anymore, but it suddenly occurred to me: the person inside an adult is a child. Adults are adults, sure, but there's also a child inside them, and while they adopt adult attitudes and ways of speaking, they're also trying to satisfy themselves as that child. I'm not saying this is good or bad. If you can sense that child "inside" yourself, if you can feel "oh, there they are," well, that probably means you're pretty adult after all. You don't want to make the child inside cry. But you also can't just let that child run wild. That's what I've been thinking about.&lt;/p&gt;
-
-&lt;p&gt;Come to think of it, I've made a habit, for quite some time now, of thinking of just about everyone as "that kid I saw in a middle school classroom." Whether it's some distinguished professor or a big star, every human being has gone through their middle school years. What kind of face did they make back then as a junior high kid? What did the other students think of them? How did they spend their time? Even without thinking too deeply about it, can't you kind of see it? Of course I'm sometimes right and sometimes wrong, but if you think of most people's true form as a middle schooler (and I'm just a middle schooler myself, after all), you can see them on incredibly level terms. Most of the time, I think, "Oh yeah, there was someone just like this!" I'm well aware that people attach and subtract various things from there to build up their personality or character or what have you. But no matter how much they pile on or exaggerate, the basis is usually "that kid I saw in the middle school classroom." And, though this feels like adding an unnecessary tail to the thought, there are also adults and old people as the person inside a child.&lt;/p&gt;
-
-&lt;p&gt;Thanks for coming to Hobonichi again today. The development of early childhood education and childcare is necessary for adults too.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#7e3503cb09ea"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay suggests that everyone contains their younger self—particularly a middle schooler—at their core, and recognizing this "person inside" helps us see others (and ourselves) on equal, human terms beneath all the adult layers we've added.</summary>
-    <published>2026-02-11T06:43:18.913089+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
