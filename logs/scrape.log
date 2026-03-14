@@ -795,3 +795,23 @@
 2026-03-13 04:43:32 [INFO] Translated title: Failure and chance are the ingredients for hope.
 2026-03-13 04:43:32 [INFO] Summary: Excessive caution and risk avoidance, while useful in certain fields, ultimately limit life's possibilities and potential for growth; true wisdom lies in decisive action, embracing failure as valuable experience, and prioritizing what matters over perfect preparation.
 2026-03-13 04:43:32 [INFO] Scraper completed successfully
+2026-03-14 04:41:31 [INFO] ============================================================
+2026-03-14 04:41:31 [INFO] Hobonichi Scraper V2
+2026-03-14 04:41:31 [INFO] Current time (JST): 2026-03-14 13:41:31
+2026-03-14 04:41:31 [INFO] ============================================================
+2026-03-14 04:41:31 [INFO] Starting scrape at 2026-03-14 13:41:31 JST
+2026-03-14 04:41:38 [INFO] Essay scraped successfully: 糸井重里氏絶賛というより、卒倒。...
+2026-03-14 04:41:38 [INFO] Content hash: 3d62cdb2cf65
+2026-03-14 04:41:38 [INFO] Saved original markdown: TD-Original-2026-03-14.md
+2026-03-14 04:41:38 [INFO] Translating title...
+2026-03-14 04:41:41 [INFO] Translating author...
+2026-03-14 04:41:43 [INFO] Translating essay body...
+2026-03-14 04:42:01 [INFO] Generating summary...
+2026-03-14 04:42:03 [INFO] Saved translated markdown: TD-Translated-2026-03-14.md
+2026-03-14 04:42:03 [INFO] Archive saved with 41 entries
+2026-03-14 04:42:03 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-03-14 04:42:03 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-03-14 04:42:03 [INFO] Successfully processed: 糸井重里氏絶賛というより、卒倒。
+2026-03-14 04:42:03 [INFO] Translated title: Itoi Shigesato didn't just rave about it — he nearly fainted.
+2026-03-14 04:42:03 [INFO] Summary: The author experiences profound exhaustion upon visiting the newly opened Sanseido bookstore, overwhelmed by the thoughtful curation and intentional arrangement of books that demanded genuine engagement rather than passive browsing. The essay celebrates how spaces created with care and editorial vision can be so mentally and emotionally taxing that they leave us depleted, yet compelled to return.
+2026-03-14 04:42:03 [INFO] Scraper completed successfully
