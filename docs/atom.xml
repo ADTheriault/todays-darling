@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-15T05:04:32.535272+00:00</updated>
+  <updated>2026-03-16T05:14:01.976490+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#3ef8cfaabeac</id>
+    <title>Power as a concept.</title>
+    <updated>2026-03-16T05:13:46.310191+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Money, beauty, talent of whatever kind: these are all forms of power. Most people wish for more of it. If your power grows, you imagine, surely your freedom will increase. Your possibilities will expand. Your happiness will multiply. Your circle of allies will widen.&lt;/p&gt;
+
+&lt;p&gt;But if your power grows, it's just as likely that your constraints will increase too. The things you must not do will multiply. So will your misfortunes. So will the rifts among your allies. That much is easy enough to imagine.&lt;/p&gt;
+
+&lt;p&gt;Become a person of importance, and you get to ride in a large car fitted with bulletproof glass. But why, exactly, does it need to be bulletproof? Maybe that tells you everything.&lt;/p&gt;
+
+&lt;p&gt;Still, it's too easy to just say you don't need power. If you had almost none, would freedom be there waiting for you? Would possibility? Would happiness? Would anyone be at your side? That, too, is hard to say. Maybe yes. Maybe no.&lt;/p&gt;
+
+&lt;p&gt;You can study all the history you like, take in as many stories as you want, and the answer to these questions never becomes clear. Period dramas, gangster films, it's all the same. How to handle power is always the central dilemma. "Just the right amount of power" doesn't make for much of a story. And even when a tale is about ordinary life, power is always lurking in the background.&lt;/p&gt;
+
+&lt;p&gt;Thanks for visiting Hobonichi again today. The new season of Peaky Blinders is almost here.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#3ef8cfaabeac"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores the paradox that gaining power—whether through money, beauty, or talent—simultaneously increases both freedom and constraints, leaving us unable to definitively answer whether power truly brings happiness or whether powerlessness might offer its own form of liberation.</summary>
+    <published>2026-03-16T05:13:46.310191+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#d04306c3946f</id>
     <title>It was 10,000 times, apparently.</title>
     <updated>2026-03-15T05:04:09.268240+00:00</updated>
@@ -656,28 +680,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author's journey from being an exacting anko purist to embracing all varieties of this sweet bean paste reflects how deep hobbyist obsessions eventually evolve into a generous appreciation that finds value across the entire spectrum of the craft.</summary>
     <published>2026-02-15T06:09:45.408111+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#4531d7f7e6b3</id>
-    <title>Putting on a brave face, while staying true to myself.</title>
-    <updated>2026-02-14T05:35:33.597305+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The "Hobonichi Manga Club" has finally been announced. We decided to start by putting out a call for members. I've also been telling various people individually, here and there, "We're starting this new thing." Each person had their own response, and reading them was a pleasure. What I appreciated most was that no one asked those press conference-style questions like "What exactly are you going to do?" We've created this new space within Hobonichi and talked plenty about the Manga Club, but we haven't written anything about what kind of business this will be. First, we're gathering members for the Manga Club. That comes before anything else. Everyone gets that.&lt;/p&gt;
-
-&lt;p&gt;You don't know what you'll find on an expedition, that's why it's an expedition. When the expedition team sets out, that's when the expedition begins. These are the kinds of thoughts I'm having now.&lt;/p&gt;
-
-&lt;p&gt;"Already knowing too much" is the worst thing. Researching too much, thinking too much, asking too much, covering all the bases, I've been careful about all of that as we've moved forward with the Hobonichi Manga Club. Who wants to do something where everything is already anticipated? We're not looking to be praised for being clever.&lt;/p&gt;
-
-&lt;p&gt;From the very first day, we've gotten a flood of applications, not just from my friends and acquaintances, but from people who visit Hobonichi. How interesting this is, how exciting. When we started Hobonichi, there was nothing else like it, and this feels similar somehow. Still, the thrill of a new beginning, that pounding in your chest, depending on how you experience it, can feel more like an ache. No matter how old you get, there's that tension like standing under a waterfall. Well, this is what keeps everyone going, you know. I'm putting on a brave face here, but honestly, we're moving forward while holding on to our weaknesses and our foolishness too.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. There's actually something joyful about saying, this is who we are right now, nothing more, nothing less.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#4531d7f7e6b3"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay celebrates launching the Hobonichi Manga Club with intentional uncertainty, embracing the excitement of beginning something new without overthinking or pre-planning every detail, treating it as an expedition where discovery happens along the way.</summary>
-    <published>2026-02-14T05:35:33.597305+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
