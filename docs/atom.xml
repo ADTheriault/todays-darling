@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-17T04:50:05.842809+00:00</updated>
+  <updated>2026-03-18T04:54:50.480260+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#c2df68318a5f</id>
+    <title>A merchant's perspective: Akinding.</title>
+    <updated>2026-03-18T04:54:28.489772+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;"Go study!" or "All you ever do is play, you never study!" Adults have been saying things like that forever, but I wonder how it really works nowadays. When someone tells you to "go study," what are you actually supposed to do? Kids don't know what that means in concrete terms, so all they can really do is pretend to study. If there's homework or a workbook to get through, at least that feels like something you can point to and call "studying." But without those things, what on earth are you supposed to do? Something like, "Just read your textbook, that's enough," or "Just spend some time remembering what you did at school today, that's enough." Even coming up with ideas like that is a remarkable thing. I think that simply knowing what to do already makes you a kid who can study. Don't you think?&lt;/p&gt;
+
+&lt;p&gt;Now, of course, I don't think there's anything wrong with the kid who's told they're "always just playing." I know full well that you can't always tell where play ends and learning begins. We learn how to live through play, after all.&lt;/p&gt;
+
+&lt;p&gt;But setting that aside, let me come back to the subject of "go study." Something I say all the time, "Come up with more ideas," is actually very similar to "go study." Except in this case, you're being told to think about things that have no right answer, which makes it even harder to know what to do. Ideally, you'd be churning out ideas constantly, hit or miss, just keeping them coming. But the question is, how do you get to that point?&lt;/p&gt;
+
+&lt;p&gt;On this very topic, my old friend Tomoyoshi Akiyama wrote a book called "This Is How Sense Is Born," sharing his own methods. I bought fifty copies through Hobonichi because the book is genuinely useful. We also had him come as a guest to the Hobonichi dojo. It really drives home that you can be picking up material for ideas all the time, without pause.&lt;/p&gt;
+
+&lt;p&gt;Personally, I swapped out the word "sense" and replaced it with "chance." In other words, this is also about chances to sell, chances to earn. It means adopting the perspective of a merchant. I even coined a term for it: "akin-ding," from the Japanese word for merchant.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. "Akin-ding" and "branding" are, come to think of it, somewhat alike.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#c2df68318a5f"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores how vague directives like "go study" leave children uncertain about what concrete actions to take, arguing that knowing what to do is itself a form of learning, and drawing a parallel to how developing ideas—or "sense"—requires adopting a merchant's mindset of constantly gathering material and recognizing opportunities.</summary>
+    <published>2026-03-18T04:54:28.489772+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#d0d238e255f4</id>
     <title>The joy of cherry blossoms tinged with loneliness.</title>
     <updated>2026-03-17T04:49:40.314637+00:00</updated>
@@ -654,32 +678,6 @@
     <link href="https://www.1101.com/"/>
     <summary>A Jack Russell terrier who dislikes walks may actually just find purposeless movement boring, preferring activities where she's "doing something" like greeting other dogs or playing—suggesting that even for dogs, walking as a concept rather than a means to an end might be unnatural.</summary>
     <published>2026-02-17T06:12:39.952688+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#3d5c4e17bcc0</id>
-    <title>I went to see Punch, the baby monkey.</title>
-    <updated>2026-02-16T06:44:53.744144+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I went to see a little monkey at the Ichikawa City Zoo. He's a male Japanese macaque, about six months old since birth, with the rather tough-sounding name "Punch." Born last summer, he was rejected by his mother and has been raised by the zookeepers through artificial rearing. They've been gradually working on socializing him so he could rejoin the troop, and he officially joined everyone on Monkey Mountain on January 19th.&lt;/p&gt;
-
-&lt;p&gt;I imagine cases like this have happened before, but there was something about this particular "Punch" that caught people's attention. When he joined the troop on Monkey Mountain, he brought along an "orangutan stuffed animal" that had been like a surrogate mother to him during his artificial rearing.&lt;/p&gt;
-
-&lt;p&gt;The stuffed animal isn't a robot, so it doesn't move. But Punch holds his mother's hand, and as the child, he's the one leading her around. Still, a mother is a mother, so he clings to her for comfort and sleeps in her embrace. He hasn't completely integrated with the other monkeys in the troop yet, but little by little they're playing with him and looking after him.&lt;/p&gt;
-
-&lt;p&gt;Someone visiting Monkey Mountain was moved by the sight and took a photo of "the baby monkey with an orangutan," posting it on social media. That became the beginning of something. Perhaps the image of this little monkey, who started life under difficult circumstances with artificial rearing, bravely working his way into monkey society looked to everyone like "hope" itself.&lt;/p&gt;
-
-&lt;p&gt;The support hashtag "#GanbareePunch" spread, and he's rapidly becoming a nationwide sensation. On the Sunday I went as a "Punch supporter," the zoo apparently experienced "unprecedented crowds." Families came in droves to the outskirts of Ichikawa in Chiba Prefecture. It's been just six months since his birth on July 26th. A story that's only half a year old.&lt;/p&gt;
-
-&lt;p&gt;In the future, as little Punch grows bigger, he'll probably part ways with his stuffed mother and become hard to distinguish among the monkey troop. That will be one kind of happy ending, I suppose. But for now, the little monkey's story looks like it will continue a while longer.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. I suppose everyone wants to find "a small story of hope."&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#3d5c4e17bcc0"/>
-    <link href="https://www.1101.com/"/>
-    <summary>A baby Japanese macaque named Punch, rejected by his mother and raised with a stuffed orangutan as a surrogate, captured hearts across Japan when he joined his troop while still clinging to his toy mother, becoming a viral symbol of hope and resilience. The touching image of this small monkey bravely navigating his difficult start resonated with people searching for hopeful stories in everyday life.</summary>
-    <published>2026-02-16T06:44:53.744144+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
