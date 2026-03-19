@@ -1,12 +1,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-18T04:54:50.480260+00:00</updated>
+  <updated>2026-03-19T04:53:02.978268+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#99ca5a30cc4b</id>
+    <title>On fairies and such.</title>
+    <updated>2026-03-19T04:52:39.406162+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Part One: "On Fairies."&lt;/p&gt;
+
+&lt;p&gt;There are people on this earth I think of as "fairies." Not the kind with wings on their backs, hovering like hummingbirds and sipping nectar from flowers. They look like ordinary humans, living human lives in human society. They're not necessarily delicate young girls, either. Quite often they're old ladies, or middle-aged men.&lt;/p&gt;
+
+&lt;p&gt;At first glance, there's nothing fairy-like about them at all. But when you say, "You know that person? Don't you think they're a fairy?" the people around you will often nod and say, "Oh. Yes, I see it."&lt;/p&gt;
+
+&lt;p&gt;I'll say it again: no wings, and entirely human in appearance. Yet they are deeply good-natured, in a way that includes a touch of mischief. Somewhere in their minds they carry a patch of perfectly clear blue sky, and every now and then their hearts just start to dance. That's the species I'm talking about.&lt;/p&gt;
+
+&lt;p&gt;They stretch twenty-four hours into something more like thirty-six. Without telling a soul, they slip off to play hide-and-seek all by themselves, leaving the rest of us humans stranded here on the ground. I'm one of those humans, so it's only later that I realize, "Ah, the fairy has flown off into the sky." Maybe they really did fly away, wings or not. Maybe they'll come tumbling back with some strange little shout. That's just what fairies do. There's nothing for it.&lt;/p&gt;
+
+&lt;p&gt;Part Two: "And So On."&lt;/p&gt;
+
+&lt;p&gt;You go out to eat somewhere, and there are places that make you think, "I want to come back here." Then there's the opposite: it was every bit as good as people said, but somehow you feel, "I don't think I'll be back." Nothing was wrong with it. The food was delicious. It's just that if you ask yourself whether you'd go again, the answer is probably not.&lt;/p&gt;
+
+&lt;p&gt;It's not only restaurants. The same thing happens with people. There are those you think, "I'll see them again. I want to." Even while you're still together, you already feel sure you'll meet again. And then there are others, nothing wrong with them at all, where you quietly sense, "I probably won't see this person again."&lt;/p&gt;
+
+&lt;p&gt;I can never quite pin down what makes the difference. But I've decided it's probably fine not to know.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. I wrote this one like a diary, without really thinking about whoever might read it.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#99ca5a30cc4b"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores the mysterious quality of certain people and places that inexplicably draw us back, suggesting that some connections possess an ineffable magic that can't be fully understood but should simply be accepted.</summary>
+    <published>2026-03-19T04:52:39.406162+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#c2df68318a5f</id>
     <title>A merchant's perspective: Akinding.</title>
     <updated>2026-03-18T04:54:28.489772+00:00</updated>
@@ -658,26 +690,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author expresses admiration and envy for their colleague Okuno's powerful writing in the Hobonichi column, lamenting their own failure to produce such impactful work despite writing daily, and concludes with a self-deprecating attempt at their own piece.</summary>
     <published>2026-02-18T06:41:58.902000+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#28a256fc009c</id>
-    <title>Why walk just for the sake of walking?</title>
-    <updated>2026-02-17T06:12:39.952688+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Our dog Buiko is now seven years old. She's disliked walks ever since she was a puppy. We'd pull her on her leash, carry her in our arms, and for a while we even tried putting her in a baby stroller. These days we use a mix of carrying and pulling, with a route where she walks the parts she'll walk, especially on the way home. Our previous dog, Bouillon, was the same breed, but he loved walks to excess and would happily trek the distance of three subway stops. When we'd get close to home on the return trip, he'd try to take detours, pulling hard in completely different directions.&lt;/p&gt;
-
-&lt;p&gt;People say it's strange for a dog to dislike walks. I used to think so too, but the truth is, it's not so much that she dislikes walks as that she's "not fond of walks." In the morning and evening, when we put on her collar and leash and head out the door, she seems rather eager, even happy. But she doesn't like the actual walking. She doesn't want to walk. When she spots another dog up ahead, she'll dash over happily. And if someone calls her cute, she'll approach them wagging her tail and putting on the charm. It's not that her legs are bad or that she lacks stamina, of course.&lt;/p&gt;
-
-&lt;p&gt;One day, on a whim, I asked our "neighbor (ChatGPT)" about Buiko's walk aversion, not really expecting much of an answer. But it came back with something I'd never considered before. In Buiko's case, maybe she doesn't like "movement without purpose"? Jack Russells tend to like doing something, and find just walking boring, it said. Come to think of it, she's very enthusiastic about things like sniffing around, approaching other dogs, and playing chase at "kindergarten," all activities where she's "doing something." In other words, "Why do I have to just walk for no reason?" She never had any motivation for walking itself. Well, it's just one hypothesis, but it oddly made sense.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. Even for humans, "walking" is a relatively new "concept," isn't it.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#28a256fc009c"/>
-    <link href="https://www.1101.com/"/>
-    <summary>A Jack Russell terrier who dislikes walks may actually just find purposeless movement boring, preferring activities where she's "doing something" like greeting other dogs or playing—suggesting that even for dogs, walking as a concept rather than a means to an end might be unnatural.</summary>
-    <published>2026-02-17T06:12:39.952688+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
