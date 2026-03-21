@@ -935,3 +935,23 @@
 2026-03-20 04:45:29 [INFO] Translated title: What happens next, I don't know.
 2026-03-20 04:45:29 [INFO] Summary: As information technology has evolved from fixed books to changeable newspapers to the infinitely mutable internet, we've lost stable anchors for truth, leaving AI to fill the void by declaring what is "correct." The essay suggests we must now thoughtfully navigate competing sources of information—books, newspapers, the internet, AI, and human connection—to find reliable knowledge.
 2026-03-20 04:45:29 [INFO] Scraper completed successfully
+2026-03-21 04:25:13 [INFO] ============================================================
+2026-03-21 04:25:13 [INFO] Hobonichi Scraper V2
+2026-03-21 04:25:13 [INFO] Current time (JST): 2026-03-21 13:25:13
+2026-03-21 04:25:13 [INFO] ============================================================
+2026-03-21 04:25:13 [INFO] Starting scrape at 2026-03-21 13:25:13 JST
+2026-03-21 04:25:19 [INFO] Essay scraped successfully: 完成を急がない。...
+2026-03-21 04:25:19 [INFO] Content hash: 2cf29ee63491
+2026-03-21 04:25:19 [INFO] Saved original markdown: TD-Original-2026-03-21.md
+2026-03-21 04:25:19 [INFO] Translating title...
+2026-03-21 04:25:21 [INFO] Translating author...
+2026-03-21 04:25:23 [INFO] Translating essay body...
+2026-03-21 04:25:38 [INFO] Generating summary...
+2026-03-21 04:25:39 [INFO] Saved translated markdown: TD-Translated-2026-03-21.md
+2026-03-21 04:25:39 [INFO] Archive saved with 48 entries
+2026-03-21 04:25:39 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-03-21 04:25:39 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-03-21 04:25:39 [INFO] Successfully processed: 完成を急がない。
+2026-03-21 04:25:39 [INFO] Translated title: Don't rush to finish.
+2026-03-21 04:25:39 [INFO] Summary: The essay argues that rushing toward completion creates unnecessary anxiety and blocks progress, while embracing a slower, process-oriented approach allows both circumstances and personal growth to naturally unfold toward meaningful completion.
+2026-03-21 04:25:39 [INFO] Scraper completed successfully
