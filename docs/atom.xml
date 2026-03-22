@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-21T04:25:39.554734+00:00</updated>
+  <updated>2026-03-22T04:51:15.978925+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#2ade132a44e0</id>
+    <title>Bringing more "oh, I see" moments to this world.</title>
+    <updated>2026-03-22T04:50:50.514293+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The serialized piece "Twilight," from the visit to Kuma-chan in Nara, has been a real pleasure. I was actually there in person, doing the talking, but enough time has passed now that I'm enjoying it purely as a reader. I hear the series will continue for thirty-plus installments, which makes me happy. We certainly talked enough to fill that many, I'll admit.&lt;/p&gt;
+
+&lt;p&gt;With Shinbo Minami (Shinbō), things have been easygoing ever since we first met. And of course they have. You can tell just by looking at him. But Katsuyuki Shinohara (Kuma-chan), on the other hand, is the kind of guy who looks like the toughest of the tough, even among rough characters. You'd think I must have been scared of him at first, but actually, not really. From the very beginning, he was naturally friendly with me. Here's a man who was always hanging around Shinjuku Golden Gai, where arguments and fistfights never stopped, stationed like a bodyguard for Jūrō Kara, who was himself famously wild. So sure, he was intimidating. I knew that was the role he played, but whenever I was up close with him, he was genuinely a good-natured person. I can say that now and people will probably understand, but back then, there really was a physical intensity about him that came from putting his body on the line.&lt;/p&gt;
+
+&lt;p&gt;What makes you feel at ease around Kuma-chan is a kind of tolerance, a way of just accepting things wholesale, in the best possible sense. Whether you're telling some trivial story or having a serious conversation, he simply takes it in with a casual "Oh, okay." And that "Oh, okay" of his is really something. First there's the "Oh," the moment of noticing. Then the "okay," a settling into acceptance, and that's that. And layered into it, in Katsuyuki Shinohara's own seasoning, is the hidden flavor of "Well, come to think of it, maybe it doesn't matter all that much."&lt;/p&gt;
+
+&lt;p&gt;I don't think I know anyone else who can say "Oh, okay" the way he does. If husbands and wives, parents and children, and if we're really wishing big, even strangers started using those words more often, I think world peace would come a step or two closer. Some people might find that kind of tolerance sloppy and hate it, but I think that's exactly where the "life-flavor" of being human resides.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. "Life-flavor." I just coined that one. Pretty good, if I do say so myself.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#2ade132a44e0"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay celebrates Kuma-chan's remarkable ability to accept others with genuine tolerance and openness—embodied in his simple "Oh, okay"—arguing that such acceptance is fundamental to human connection and could bring the world closer to peace.</summary>
+    <published>2026-03-22T04:50:50.514293+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#2cf29ee63491</id>
     <title>Don't rush to finish.</title>
     <updated>2026-03-21T04:25:19.219190+00:00</updated>
@@ -668,28 +690,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on how we survive in a world dominated by bad news by finding and moving between scattered moments of relief, kindness, and beauty—like stepping stones above dark water—whose continued existence depends on our belief in them.</summary>
     <published>2026-02-21T05:32:46.235215+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#39386e949e57</id>
-    <title>Something that passes by the side of "pure language."</title>
-    <updated>2026-02-20T06:09:17.714864+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Yesterday I did something unusual: I ended my piece in a way that clearly signaled, "I'll continue this tomorrow." (First, let me recap what I wrote yesterday.)&lt;/p&gt;
-
-&lt;p&gt;There was an era when people wrote in classical literary style, but this became too restrictive for expressing various things, so a new style emerged called genbun'itchi, which incorporated spoken language and moved closer to everyday reality. Then, once genbun'itchi became standard, a copywriter named Tsuchiya Koichi half-jokingly coined the term genbun'issho. My guess is that this style probably came from television commercial narration scripts. Because it's closer than anything to the language of everyday life, you could say it's accessible and easy to read for anyone. It's also easier to convey what you want to say, and easier for people to understand. But either way, these are all matters of literary style. In other words, people who aren't particularly interested in writing or reading don't want to read any of it. There are plenty of people for whom using language as a tool to represent the world just doesn't suit them. And besides, what can be expressed through language is, at the end of the day, only a fraction of the world.&lt;/p&gt;
-
-&lt;p&gt;(Now for a sudden turn.) But people who don't want to read books or essays will read manga, will watch anime, and will dive to considerable depths with those forms of expression. Even in page-turning, panel-by-panel manga, there are words written. There are quite long passages, and they say complex things. "But you'll read that," I think, finding it curious.&lt;/p&gt;
-
-&lt;p&gt;While I'm thinking about how language has changed, from classical style to genbun'itchi, from written language to spoken language, it's as if manga has been passing by on a parallel track. Academic papers written in words, poetry, even "silence"! Couldn't all of these be expressed through manga? Even if it's difficult for an individual, you could form a team like in film production. (Not that I'm positioning this against written work.) The tremendous expressive possibilities of manga still have so much room to expand. I want to think about "methods" that don't remain within "pure language" alone.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. Though here I am writing about all this in "words" again today.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#39386e949e57"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay traces the evolution of Japanese literary style from classical writing to conversational forms, then observes that manga—which combines words and images—offers even greater expressive possibilities than pure written language, reaching audiences who might otherwise avoid traditional text.</summary>
-    <published>2026-02-20T06:09:17.714864+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
