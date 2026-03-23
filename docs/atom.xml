@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-22T04:51:15.978925+00:00</updated>
+  <updated>2026-03-23T05:01:50.962672+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#0cb69d631f43</id>
+    <title>I want to hold you.</title>
+    <updated>2026-03-23T05:01:26.937550+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I know it's a bit late to be bringing this up, but when the Beatles first appeared, that feeling of "What is this?!" is something I couldn't forget even if I tried. "I Want to Hold Your Hand" hit especially hard. In a book called *Shiawase na Ketsumatsu*, written by Kenta Hagiwara, Eiichi Ohtaki says this: "When I heard 'I Want to Hold Your Hand' on FEN, it was like a bolt of electricity shooting through me. This is it!" You can tell that even within Ohtaki's personal "great history of music," this song made an extraordinarily special impact.&lt;/p&gt;
+
+&lt;p&gt;But that aside, it's the title I want to talk about. In Japan, we all casually refer to it as "Dakishimetai," meaning "I want to hold you tight." I knew the original title, of course, and Ohtaki certainly did too. It's "I Want to Hold Your Hand." We'd all just accepted the Japanese title without question, but that's not really what the Beatles are saying in the lyrics, is it? The music and the performance are explosive, sure, but the actual content of the song is more like something a pure-hearted high school kid would say. "I want to hold your hand," they're saying. "There's something I want to tell you," they're saying. "I can't hide this feeling," they're saying. It's remarkably shy and tender, when you think about it.&lt;/p&gt;
+
+&lt;p&gt;That guitar intro crashes open like a thunderclap. It's right up there with the opening of Beethoven's Fifth as one of the most iconic opening notes in the history of the world. You throw the lid off with that massive sound, and then... "I want to hold your hand"? Doesn't that feel a little underwhelming? If that single's jacket had been printed back then with a title meaning "I Want to Hold Your Hand," it would have come across like some wholesome teen pop number.&lt;/p&gt;
+
+&lt;p&gt;So someone at Toshiba Records basically said, "Sure, they're talking about holding hands, but deep down they're crying out, 'I want to hold you tight!'" and that's how they presented it to the Japanese public. The reserved, bashful side of Japan actually punched right through the gentlemanly British restraint of the original. I think it was a great call, going with that title. Because, well, everyone wants to hold someone tight, don't they?&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. I wonder, did the phrase "I want to hold you tight" even exist in Japanese before that song came along?&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#0cb69d631f43"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores how the Japanese title "Dakishimetai" (I want to hold you tight) for the Beatles' "I Want to Hold Your Hand" actually captures the song's emotional depth better than the literal English title, transforming a seemingly innocent declaration into an expression of passionate longing. The author argues that Toshiba Records' creative translation revealed something profound about the song that the restrained original phrasing obscured.</summary>
+    <published>2026-03-23T05:01:26.937550+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#2ade132a44e0</id>
     <title>Bringing more "oh, I see" moments to this world.</title>
     <updated>2026-03-22T04:50:50.514293+00:00</updated>
@@ -672,24 +694,6 @@
     <link href="https://www.1101.com/"/>
     <summary>People often "act smart" without realizing it by assuming others share their knowledge, forgetting that everyone learns things at different times and retains information differently. True intelligence isn't about pretending to know everything or making others feel inadequate, but about being genuinely smart without needing to appear so.</summary>
     <published>2026-02-22T06:05:02.320334+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#6361a608a67b</id>
-    <title>It's not all bad things...</title>
-    <updated>2026-02-21T05:32:46.235215+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;It feels strange to even say it out loud, but there's never any good news to be found. Maybe a little bit when it comes to sports, maybe a tiny bit. But day after day, all that gets reported is bad news. Domestic and foreign, past, present, and future, as we all know too well. And yet I feel I need to know more about these troubling stories, these grim realities, so I end up studying all kinds of bad news. There are mountains of things I can't do anything about, and occasionally something where I might be able to help a little. But the things I can't do anything about far outnumber the rest. If I try to maintain some informed perspective even on the things I can't change, the time and energy spent thinking about them only increases. If you conscientiously engage with all the bad news, you risk becoming someone who spends most of their life thinking about bad news, worrying about it. Some people have spent their entire lives worrying, from birth to death, worrying about everything. I actually think there are people living like that. People might laugh and say, "Surely not you?" but if I'm not careful, I could easily become that kind of person myself. No really, it's true. To varying degrees, we're all at risk.&lt;/p&gt;
-
-&lt;p&gt;Why are we able to live through today and tomorrow in a world full of such terrible things? I wonder about this sometimes, but I think it's probably because even when the world is drowning in bad news, there are still moments of relief, heartening examples of human kindness, adorable people and creatures, beautiful things, scattered here and there like stepping stones. We still have time to hop from stone to stone, the ones that poke up above the dark waters of bad news. And maybe those stepping stones, even if their total surface area is small, keep stubbornly appearing, one after another. Perhaps that's what we believe. If everyone truly started believing that "human kindness doesn't exist anywhere," then human kindness really would have no place left to go.&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting Hobonichi today. I'm sure since ancient times, most of the news has always been bad.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#6361a608a67b"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on how we survive in a world dominated by bad news by finding and moving between scattered moments of relief, kindness, and beauty—like stepping stones above dark water—whose continued existence depends on our belief in them.</summary>
-    <published>2026-02-21T05:32:46.235215+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
