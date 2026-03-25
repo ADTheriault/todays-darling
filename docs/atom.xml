@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-24T04:52:27.182896+00:00</updated>
+  <updated>2026-03-25T04:52:30.506979+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#f7369ff300d6</id>
+    <title>Sharing disappointment with someone.</title>
+    <updated>2026-03-25T04:52:09.843847+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Yesterday, I saw Hiroyuki Ariyoshi post on Twitter (X): "The zoo was closed. I was so sad I almost cried." Reading that, I couldn't help writing back: "This brought back memories of times like that. When you share a disappointment with your kid, it becomes a good memory in its own way." And it really is true.&lt;/p&gt;
+
+&lt;p&gt;I wasn't a particularly great father, but I did take my daughter all sorts of places. It was a different era, before the internet, and there wasn't this culture of booking reservations for every little thing. So we'd head out all excited only to find the place was closed. Or it would be so packed we'd just turn around and go home. If we went fishing, we'd catch absolutely nothing. Once, on a trip, my daughter came down with a fever. All kinds of things happened.&lt;/p&gt;
+
+&lt;p&gt;But the fact that we tasted those disappointments together, that's something I can look back on now and feel genuinely glad about. Serious injuries or accidents, those are a different story. But everything short of that, the little failures and bits of bad luck, each one has become a fond memory. Laughing together is wonderful, being moved together is wonderful, but being let down together, even crying together, those are truly precious as memories between "you and me."&lt;/p&gt;
+
+&lt;p&gt;"Sharing a disappointment together." It was a phrase that came to me on the spot, thinking about parents and children. But it applies just as well to partners, friends, colleagues. Those shared memories turn out to be so important. Of course, nobody goes looking for disappointments or failures. But they're not exactly something you can avoid, either. Joy, anger, sorrow, happiness, triumph, defeat: more or less all of it comes around eventually. Having someone you can look back with and say, "Man, that was rough, wasn't it?" is, when you think about it later, a real blessing.&lt;/p&gt;
+
+&lt;p&gt;Oh, wait. Maybe what makes us happiest, in the end, is the experiences and the relationships that stay in our hearts. I only just thought of this, so I can't quite put it into words yet.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi today. What holds everything up is eating well, sleeping well, and playing well.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#f7369ff300d6"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Shared disappointments and setbacks with loved ones, rather than just joyful moments, become the most precious and meaningful memories that define close relationships.</summary>
+    <published>2026-03-25T04:52:09.843847+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#68ef0b4d7e61</id>
     <title>Milk memories, falling like drops.</title>
     <updated>2026-03-24T04:52:03.910603+00:00</updated>
@@ -670,28 +694,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay celebrates how a group of coworkers became so absorbed in their first fishing trip that they extended it from two to eight hours, arguing that catching just five fish each was actually a wonderful accomplishment worth celebrating despite what non-fishers might think.</summary>
     <published>2026-02-24T06:15:35.874086+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#3967ad3accb2</id>
-    <title>More important than important things.</title>
-    <updated>2026-02-23T06:45:54.920966+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;"When you think you're doing something good, it's best to think you're doing something a little bit bad. That keeps things about right." These are words from Yoshimoto Takaaki. I can't remember when I first heard them, but as time passes, I've come to think this is truly important. It sounds like a paradox, so very typical of Yoshimoto, but now, looking back, I realize it's very close to Shinran's teaching: "Even the virtuous can attain rebirth, how much more so the wicked."&lt;/p&gt;
-
-&lt;p&gt;"Good things," "big things," "important things" can really intoxicate people. And so people rush headlong toward "important things" and "good things," without a glance at "bad things" or "small things." I think that's where things go wrong.&lt;/p&gt;
-
-&lt;p&gt;Before I'd ever met Yoshimoto, I was reading an essay by Tomioka Taeko, and came across a passage where she wrote something like how she'd sometimes see Yoshimoto Takaaki in the evening, carrying a shopping basket. The Yoshimoto Takaaki of "Theory of Shared Illusion," making dinner. The poet Tomioka Taeko silently watching him in the twilight of downtown Tokyo. Later, I would come to see for myself that this was indeed simply fact, just as it was, but even when I was around twenty, I found it beautiful.&lt;/p&gt;
-
-&lt;p&gt;Also, this might be just hearsay, but there's a story that Akashiya Sanma once said about Kimura Takuya: "Kimura's properly being a father, that's great." I completely agree, and I also think Sanma is great for saying it. Kimura would probably reply with a puzzled look, "But I actually am a father, so what's so great about it?" Well, yes, but that's exactly what's so important. It's something that seems like anyone could do, but not everyone can.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. People who are drunk always insist, "I'm not drunk!"&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#3967ad3accb2"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay argues that staying grounded by attending to small, ordinary responsibilities—like making dinner or being present as a parent—prevents the dangerous intoxication that comes from pursuing grand "good" or "important" causes.</summary>
-    <published>2026-02-23T06:45:54.920966+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
