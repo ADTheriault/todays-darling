@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-03-27T05:06:11.765851+00:00</updated>
+  <updated>2026-03-28T04:51:14.414803+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#efea265ab105</id>
+    <title>Things that exist yet don't, things that don't yet do.</title>
+    <updated>2026-03-28T04:50:53.658228+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Once, someone asked me, "What do you want to become?" and I answered, "I want to become a home run." A few people read that, and some of them told me, "That was really good." It made me a little happy. A home run isn't made of atoms. It doesn't exist as a physical object. It's an "event" that has a name. And yet, plenty of people have witnessed one. There's the batter who hit it and the pitcher who gave it up. It definitely happened. It gets recorded in the stats. You can count them, one, two, three. You can even capture one in a photograph or on video. But if someone told you to set one down right here, that's an impossible request. Nobody possesses a home run. Sure, there's such a thing as a home run ball, and sure, there's the fact that someone hit it. But the home run itself? No one has it.&lt;/p&gt;
+
+&lt;p&gt;Thinking along those lines, love is the same way. Actually, it's even more complicated than a home run. There's no official record, and whether it even existed is, strictly speaking, unclear. But if two people believe it's there, then it's there. (In this case, just one of them believing probably isn't enough.) And even more than a home run, it can't exist as a physical object. Friendship, of course, is the same. Happiness, too. You can't pull it out and hold it up to the light. The best you can do is force some definition onto it and then try to reproduce something that fits that definition.&lt;/p&gt;
+
+&lt;p&gt;No matter how thoroughly you dissect a living thing, you'll never find "life" tucked away somewhere inside. But the fact of being alive is undeniably there. Dissect all you want, analyze all you want. You won't find life. Even though you can record the fact of living, and even though every one of us has encountered life firsthand. Come to think of it, life is a lot like a home run. You can build something similar with robots and such, but it's only ever something that resembles life.&lt;/p&gt;
+
+&lt;p&gt;Oh, and you know how we call music enjoyed in the moment a "live" performance? "Live" is, when you get right down to it, "life."&lt;/p&gt;
+
+&lt;p&gt;Thanks for visiting Hobonichi again today. Somehow, all I seem to do lately is think about what comes after AI, day after day.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#efea265ab105"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that some of the most meaningful human experiences—love, friendship, happiness, and life itself—are intangible "events" like a home run: they exist and profoundly matter even though they cannot be physically possessed or fully defined. This distinction becomes particularly relevant as we contemplate what separates authentic human experience from artificial replications.</summary>
+    <published>2026-03-28T04:50:53.658228+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#44c304f36dc7</id>
     <title>Just thinking about it isn't a crime.</title>
     <updated>2026-03-27T05:05:50.423141+00:00</updated>
@@ -676,26 +698,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on approaching AI with neither excessive enthusiasm nor hostility, maintaining a balanced perspective that allows for both appreciation of its accessibility and recognition of its unreliability—as humorously illustrated by ChatGPT's wildly inaccurate attempts to identify a sprouting plant.</summary>
     <published>2026-02-27T06:06:52.696688+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#d8a7305ebf91</id>
-    <title>You can assume that personality doesn't change.</title>
-    <updated>2026-02-26T06:14:10.471973+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I think it's difficult to change your personality. Looking at all kinds of people, and at myself, I've come to feel deeply that personality just doesn't change. However, regardless of personality, you can change your behavior and attitude.&lt;/p&gt;
-
-&lt;p&gt;Those who know me probably know this already, but I am, for example, a shy person. The feeling of embarrassment is very strong in me. When I was a child, people close to me would say this about me, but nowadays they don't really say it anymore, and they don't seem to think of me that way either. But I know the truth: I'm still shy. Still, I can avoid choosing behaviors that come from being shy, as much as possible. When it's okay to be shy, I can be unabashedly embarrassed. But in situations where it would be inappropriate to act shy, I behave like someone who isn't embarrassed at all. Well, when it comes to relationships with people or social roles, there are many situations where you can't afford to stay shy, so most of the time I end up adopting a non-shy attitude. I suppose it's a bit like changing clothes.&lt;/p&gt;
-
-&lt;p&gt;Even looking at dogs, each one has a completely different personality. Bouillon, a dog I used to have, disliked other dogs and would either become aggressive or avoid interaction. But Buiko, the dog I have now, loves dogs and will wag her tail and bound up to any dog without discrimination. I think humans probably have personality differences just as pronounced as this. You might as well decide that this is something you can't fix even if you try, like the length of your arms or legs. But your attitude and behavior don't have to match your personality. Sure, since it's not coming from your core, it won't feel completely natural. But yes, you can change your behavior like changing clothes. In fact, I hear that people who work in comedy often operate this way. You could say it's better not to force yourself, but I think changing like you'd change clothes is perfectly fine.&lt;/p&gt;
-
-&lt;p&gt;Thanks for coming to Hobonichi again today. If I'd stayed shy all this time, I wouldn't even be able to write essays.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#d8a7305ebf91"/>
-    <link href="https://www.1101.com/"/>
-    <summary>While personality traits are largely unchangeable—like the author's inherent shyness—we can consciously choose to adjust our behaviors and attitudes to suit different situations, much like changing clothes.</summary>
-    <published>2026-02-26T06:14:10.471973+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>

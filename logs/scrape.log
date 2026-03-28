@@ -1075,3 +1075,23 @@
 2026-03-27 05:06:11 [INFO] Translated title: Just thinking about it isn't a crime.
 2026-03-27 05:06:11 [INFO] Summary: The author reflects on how the seemingly "wasted" time of his younger years actually built the creative foundations he relies on today, leading him to question whether constant busyness and optimization might paradoxically reduce productivity compared to allowing space for unfocused thinking and rest.
 2026-03-27 05:06:11 [INFO] Scraper completed successfully
+2026-03-28 04:50:46 [INFO] ============================================================
+2026-03-28 04:50:46 [INFO] Hobonichi Scraper V2
+2026-03-28 04:50:46 [INFO] Current time (JST): 2026-03-28 13:50:46
+2026-03-28 04:50:46 [INFO] ============================================================
+2026-03-28 04:50:46 [INFO] Starting scrape at 2026-03-28 13:50:46 JST
+2026-03-28 04:50:53 [INFO] Essay scraped successfully: あるのに、ないもの。ないのに、あるもの。...
+2026-03-28 04:50:53 [INFO] Content hash: efea265ab105
+2026-03-28 04:50:53 [INFO] Saved original markdown: TD-Original-2026-03-28.md
+2026-03-28 04:50:53 [INFO] Translating title...
+2026-03-28 04:50:56 [INFO] Translating author...
+2026-03-28 04:50:58 [INFO] Translating essay body...
+2026-03-28 04:51:12 [INFO] Generating summary...
+2026-03-28 04:51:14 [INFO] Saved translated markdown: TD-Translated-2026-03-28.md
+2026-03-28 04:51:14 [INFO] Archive saved with 55 entries
+2026-03-28 04:51:14 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-03-28 04:51:14 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-03-28 04:51:14 [INFO] Successfully processed: あるのに、ないもの。ないのに、あるもの。
+2026-03-28 04:51:14 [INFO] Translated title: Things that exist yet don't, things that don't yet do.
+2026-03-28 04:51:14 [INFO] Summary: The essay argues that some of the most meaningful human experiences—love, friendship, happiness, and life itself—are intangible "events" like a home run: they exist and profoundly matter even though they cannot be physically possessed or fully defined. This distinction becomes particularly relevant as we contemplate what separates authentic human experience from artificial replications.
+2026-03-28 04:51:14 [INFO] Scraper completed successfully
