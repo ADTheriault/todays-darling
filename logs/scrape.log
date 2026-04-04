@@ -1215,3 +1215,23 @@
 2026-04-03 05:03:43 [INFO] Translated title: In just 20 years, this little box has.
 2026-04-03 05:03:43 [INFO] Summary: The essay celebrates how smartphones have compressed the technology and entertainment that once required heavy luggage into a single pocket-sized device, while simultaneously acknowledging the author's growing dependence on this miraculous tool and their desire to reduce their reliance on it.
 2026-04-03 05:03:43 [INFO] Scraper completed successfully
+2026-04-04 04:48:19 [INFO] ============================================================
+2026-04-04 04:48:19 [INFO] Hobonichi Scraper V2
+2026-04-04 04:48:19 [INFO] Current time (JST): 2026-04-04 13:48:19
+2026-04-04 04:48:19 [INFO] ============================================================
+2026-04-04 04:48:19 [INFO] Starting scrape at 2026-04-04 13:48:19 JST
+2026-04-04 04:48:25 [INFO] Essay scraped successfully: スマホ離れなんて、すぐ実現したぜ。...
+2026-04-04 04:48:25 [INFO] Content hash: b0d69fa9f9ac
+2026-04-04 04:48:25 [INFO] Saved original markdown: TD-Original-2026-04-04.md
+2026-04-04 04:48:25 [INFO] Translating title...
+2026-04-04 04:48:28 [INFO] Translating author...
+2026-04-04 04:48:30 [INFO] Translating essay body...
+2026-04-04 04:48:47 [INFO] Generating summary...
+2026-04-04 04:48:48 [INFO] Saved translated markdown: TD-Translated-2026-04-04.md
+2026-04-04 04:48:48 [INFO] Archive saved with 62 entries
+2026-04-04 04:48:48 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-04 04:48:48 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-04 04:48:48 [INFO] Successfully processed: スマホ離れなんて、すぐ実現したぜ。
+2026-04-04 04:48:48 [INFO] Translated title: I quit my smartphone addiction just like that.
+2026-04-04 04:48:48 [INFO] Summary: When the author's smartphone suddenly malfunctioned, it revealed a gap between imagining voluntary distance from technology and confronting its potential permanent loss—prompting a reconsideration of healthy limits based on genuine dependence rather than theoretical concern.
+2026-04-04 04:48:48 [INFO] Scraper completed successfully
