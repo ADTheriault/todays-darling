@@ -1,12 +1,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-04-04T04:48:48.929133+00:00</updated>
+  <updated>2026-04-05T05:10:53.919832+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#6dd34f3dfc90</id>
+    <title>Some days are restless. Calm down.</title>
+    <updated>2026-04-05T05:10:33.076007+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I finished a piece late at night, then killed it myself. So now I have to write a whole new one from scratch. These things happen when you're a grown-up, sweetheart.&lt;/p&gt;
+
+&lt;p&gt;I've said it publicly many times: I'm someone who finds writing difficult and doesn't enjoy it. Having to sit down and produce another piece from scratch at this point is just an unbearable hassle. Well then, you might say, why didn't you just keep the one you'd already written? Fair question, but the decision's already been made.&lt;/p&gt;
+
+&lt;p&gt;Why did I scrap it? I'd written it in fits and starts, with long breaks in between, and in trying too hard to stitch it all together into something coherent, it turned into something completely uninteresting. It's not like what I write is usually all that interesting either, but if I'm the one coming right out and saying "this isn't interesting," you know it must be pretty bad.&lt;/p&gt;
+
+&lt;p&gt;Right. Change of mood. I'll write this like a diary entry.&lt;/p&gt;
+
+&lt;p&gt;Yesterday there was a lecture by Masahiko Sato. The venue was the famous Yasuda Auditorium at the University of Tokyo. The title alone was already great: "Creating the Way You Create." It was a long event, two eighty-minute class sessions, but as you'd expect from someone who has devoted himself to the study of communication, Sato never let the audience's attention flag. He said everything he wanted to say, and the whole thing was engaging from start to finish.&lt;/p&gt;
+
+&lt;p&gt;And for anyone who came ready to absorb what he had to offer, I think it was genuinely, practically useful. A lecture that is both entertaining and useful. You could call it an ideal event.&lt;/p&gt;
+
+&lt;p&gt;Masahiko Sato has spent all this time researching these ideas, all this time refining his thinking, all this time nurturing other people, and on top of that he's managed to keep himself from getting bored with it. That's really something.&lt;/p&gt;
+
+&lt;p&gt;I was there as an even more attentive student than usual, breathing in everything Sato has been thinking about. "Doing interesting things, continuously, for a long time." I thought: there is nothing more wonderful than that.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. It's not great to have so many half-finished thoughts rattling around in your head, is it.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#6dd34f3dfc90"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author reflects on scrapping an unsatisfying piece and attending an inspiring lecture that reaffirmed the value of creating interesting work consistently over time, despite finding the writing process itself difficult.</summary>
+    <published>2026-04-05T05:10:33.076007+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#b0d69fa9f9ac</id>
     <title>I quit my smartphone addiction just like that.</title>
     <updated>2026-04-04T04:48:25.891920+00:00</updated>
@@ -688,24 +718,6 @@
     <link href="https://www.1101.com/"/>
     <summary>A writer returns to an elementary school to see sixth graders present their thoughts about the future, and is moved to find that the anxious children from three months ago are now speaking confidently and honestly about their dreams with both idealism and refreshing realism. The transformation fills the writer with joy and hope for lives they'll never fully witness, creating a connection so profound they jokingly want to invite the students to their funeral.</summary>
     <published>2026-03-07T04:20:50.749479+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#2277abeda602</id>
-    <title>Going through today, too, with "it's no big deal."</title>
-    <updated>2026-03-06T04:41:19.026454+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There are days when I know I have to get up early the next morning. On those nights, I want to go to bed early. But I have this column, formerly known as "Today's Darling," and I can't sleep until I've finished writing the next day's piece. It would be nice if I could start writing earlier in the day, but when I start early, I end up dawdling and it takes even longer. I often think, maybe I should write a little bit during the day when I have some free time, and then just add to it later. But that's never worked out well. Actually, even when it has worked out, it hasn't made much difference. It doesn't really change anything. Usually I end up throwing away whatever I've started writing. I throw it away without hesitation and write something fresh in the middle of the night, but I can't say that produces anything particularly good either. It's been a little under 28 years now, hasn't it? I've been writing every day, so you'd think I'd have gotten a little better at it, but I haven't.&lt;/p&gt;
-
-&lt;p&gt;If this were a "conversation" like the one in Tasogare, which I'm serializing now, when I got to the part about getting "a little better," I'd want to interrupt myself and say, "like Akina Nakamori, you know." And then I'd want someone to come back at me with, "But Nakamori only sang it. The lyrics were written by Etsuko Kisugi." But Shinbo isn't all that familiar with this stuff, so he probably wouldn't say anything like that. He'd just laugh. Nagata has a useless wealth of knowledge about old songs too, but he probably wouldn't touch on pop music. If I really had my way, I'd go on and on about unnecessary things like "just grabbing your sleeve and looking down" or "I wonder if Akina's gotten better at it by now." Going a bit far afield, "Wait, was Iyo still 16?" "No, she was 17, right?" "Well, she's not anymore," and other pointless chatter. But look, I've already written this many words, so that's probably enough, isn't it? I can finish up now, I can go to bed early.&lt;/p&gt;
-
-&lt;p&gt;But I really do think, deep down, that I've been getting by all this time on being "nothing special." That I'm truly a guy who's "nothing special." Thank you for coming to Hobonichi again today. Though I wouldn't want to hear someone else say that about me. Funny, isn't it.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#2277abeda602"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author reflects on their inability to improve their daily writing routine even after 28 years, ultimately accepting that they've succeeded by being "nothing special"—a self-assessment they're comfortable making themselves but wouldn't want to hear from others.</summary>
-    <published>2026-03-06T04:41:19.026454+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
