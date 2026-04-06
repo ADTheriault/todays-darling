@@ -1,12 +1,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-04-05T05:10:53.919832+00:00</updated>
+  <updated>2026-04-06T05:22:20.747614+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#0255a66e4efd</id>
+    <title>Not everything needs to be critiqued.</title>
+    <updated>2026-04-06T05:21:58.835473+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I wonder about this. Most people alive on this planet right now, when they eat something, see something, hear something, in most cases they don't sit there and pass judgment on it. And that's true of me, too. I don't go around offering commentary or criticism on every single thing I see, hear, or eat. Personally, I don't think I do it all that much. Well, actually, I can't say I never do it. It does happen. I might even say it happens fairly often... And that's exactly the kind of thing I want to fix, this habit of passing judgment. Whether the verdict is good or bad, why do we feel such a need to judge everything?&lt;/p&gt;
+
+&lt;p&gt;And it's not just me. On the internet, enormous numbers of people are constantly passing judgment on things, nonstop. Everyone's turned into one of those characters from a gourmet manga, playing the refined critic. Maybe the whole concept of "looking down from above," that phrase people use now, was invented because someone picked up on this trend.&lt;/p&gt;
+
+&lt;p&gt;People do it relentlessly with music, too. I used to think soccer fans were especially prone to it, but these days baseball seems to attract just as much armchair criticism.&lt;/p&gt;
+
+&lt;p&gt;Kids, though, they hardly ever pass judgment. If something tastes bad, they either refuse to eat it or force it down. They don't make a fuss about critiquing it. Take them somewhere for fun and if it's boring, they fall asleep. If they're having a good time, they just keep going and never want to stop. Dogs are the same way.&lt;/p&gt;
+
+&lt;p&gt;I have a feeling that passing judgment is really a kind of cerebral pleasure. Come to think of it, maybe it's related to the current obsession with "putting things into words." You take an experience and convert it into the symbols of language so you can think about it. That way you can handle more complex ideas and go deeper. You might call it the pleasure of being clever.&lt;/p&gt;
+
+&lt;p&gt;Kids, dogs, and me when I'm in a daze, none of us bother with judging anything at all.&lt;/p&gt;
+
+&lt;p&gt;Well, I suppose there's room for both ways of being.&lt;/p&gt;
+
+&lt;p&gt;Thanks for visiting Hobonichi again today. Personally, I'd like to keep my portion of "passing judgment" small.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#0255a66e4efd"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores how humans constantly judge their experiences—a habit that sets us apart from children and animals—and suggests this impulse stems from a cerebral pleasure in analyzing and converting experiences into language, rather than simply experiencing them directly.</summary>
+    <published>2026-04-06T05:21:58.835473+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#6dd34f3dfc90</id>
     <title>Some days are restless. Calm down.</title>
     <updated>2026-04-05T05:10:33.076007+00:00</updated>
@@ -698,26 +726,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on how digital media has freed writing from the constraints of precious physical materials, allowing us to communicate trivial thoughts alongside important ones and fundamentally changing what we value in written expression.</summary>
     <published>2026-03-08T04:41:49.071515+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#ea7d55069b43</id>
-    <title>Dusk is nice, but sunrise is the best.</title>
-    <updated>2026-03-07T04:20:50.749479+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I went to see those elementary school kids again. The students at Shirakawa Elementary School at the foot of Mount Akagi. Back in November, I'd done a class with them on "How can we live happily even after we become adults?" This time I was invited to participate in a kind of follow-up "presentation event." Those sixth graders I'd talked with are graduating soon. When I'd met them just three months earlier, they'd been worrying about all sorts of things, saying they felt anxious about becoming adults. Now they were holding an event to present what they're thinking about these days. They wanted me to come hear it. Of course I went. I felt like there was some kind of connection pulling me there.&lt;/p&gt;
-
-&lt;p&gt;If I tried to write about it in detail I'd never finish, so I'll be very rough about it, but it was wonderful. From guiding me from the school parking lot to the waiting room, the sixth graders handled everything themselves. And get this: every single one of them spoke in a loud, clear voice. Back then, I'd told them that if your voice is too quiet, what you want to communicate won't reach people, and that would be a waste. The kids apparently corrected that right away! The teachers seemed amazed too, but I was astonished.&lt;/p&gt;
-
-&lt;p&gt;Each of them spoke about their future selves. Kids who had role models nearby they were learning from. Kids who'd found concrete things they wanted to do and loved. Kids who didn't know what they wanted to become but were enjoying all sorts of things. Everyone presented honestly and happily. They talked about their dreams, but they also included conditions like "I can make money" and "there are days off" and "I can finish at regular hours," which actually felt refreshingly realistic. Best of all, all that anxiety and worry they'd been so eager to talk about before had disappeared for the moment. After they finished presenting, maybe because they felt relieved, every single one of them broke into a smile. I could only think, yes, yes, this is perfect, this is the best. Go, walk, run, fall, rest, slack off, live! Just being energetic right now already earns you full marks. I hope you'll enjoy all those tomorrows beyond tomorrow that I'll never know.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today too. I say this like it's a joke, but I want to invite all of them to my funeral.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#ea7d55069b43"/>
-    <link href="https://www.1101.com/"/>
-    <summary>A writer returns to an elementary school to see sixth graders present their thoughts about the future, and is moved to find that the anxious children from three months ago are now speaking confidently and honestly about their dreams with both idealism and refreshing realism. The transformation fills the writer with joy and hope for lives they'll never fully witness, creating a connection so profound they jokingly want to invite the students to their funeral.</summary>
-    <published>2026-03-07T04:20:50.749479+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>

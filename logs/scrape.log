@@ -1255,3 +1255,23 @@
 2026-04-05 05:10:53 [INFO] Translated title: Some days are restless. Calm down.
 2026-04-05 05:10:53 [INFO] Summary: The author reflects on scrapping an unsatisfying piece and attending an inspiring lecture that reaffirmed the value of creating interesting work consistently over time, despite finding the writing process itself difficult.
 2026-04-05 05:10:53 [INFO] Scraper completed successfully
+2026-04-06 05:21:51 [INFO] ============================================================
+2026-04-06 05:21:51 [INFO] Hobonichi Scraper V2
+2026-04-06 05:21:51 [INFO] Current time (JST): 2026-04-06 14:21:51
+2026-04-06 05:21:51 [INFO] ============================================================
+2026-04-06 05:21:51 [INFO] Starting scrape at 2026-04-06 14:21:51 JST
+2026-04-06 05:21:58 [INFO] Essay scraped successfully: なんでもかんでも「評する」ことはない。...
+2026-04-06 05:21:58 [INFO] Content hash: 0255a66e4efd
+2026-04-06 05:21:58 [INFO] Saved original markdown: TD-Original-2026-04-06.md
+2026-04-06 05:21:58 [INFO] Translating title...
+2026-04-06 05:22:00 [INFO] Translating author...
+2026-04-06 05:22:03 [INFO] Translating essay body...
+2026-04-06 05:22:19 [INFO] Generating summary...
+2026-04-06 05:22:20 [INFO] Saved translated markdown: TD-Translated-2026-04-06.md
+2026-04-06 05:22:20 [INFO] Archive saved with 64 entries
+2026-04-06 05:22:20 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-06 05:22:20 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-06 05:22:20 [INFO] Successfully processed: なんでもかんでも「評する」ことはない。
+2026-04-06 05:22:20 [INFO] Translated title: Not everything needs to be critiqued.
+2026-04-06 05:22:20 [INFO] Summary: The essay explores how humans constantly judge their experiences—a habit that sets us apart from children and animals—and suggests this impulse stems from a cerebral pleasure in analyzing and converting experiences into language, rather than simply experiencing them directly.
+2026-04-06 05:22:20 [INFO] Scraper completed successfully
