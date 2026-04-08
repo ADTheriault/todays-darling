@@ -1295,3 +1295,23 @@
 2026-04-07 05:07:57 [INFO] Translated title: An old man placing a large rock in the middle of the road.
 2026-04-07 05:07:57 [INFO] Summary: In an increasingly efficiency-obsessed world where communication prioritizes clarity and speed, the author comes to understand Yoshimoto's vision of deliberately obstructing this flow—through poetry and other forms of resistance—as a necessary interruption against the flattening of language itself.
 2026-04-07 05:07:57 [INFO] Scraper completed successfully
+2026-04-08 05:09:28 [INFO] ============================================================
+2026-04-08 05:09:28 [INFO] Hobonichi Scraper V2
+2026-04-08 05:09:28 [INFO] Current time (JST): 2026-04-08 14:09:28
+2026-04-08 05:09:28 [INFO] ============================================================
+2026-04-08 05:09:28 [INFO] Starting scrape at 2026-04-08 14:09:28 JST
+2026-04-08 05:09:36 [INFO] Essay scraped successfully: 人生とは「やりかけ」であると考え中。...
+2026-04-08 05:09:36 [INFO] Content hash: 493a334f6886
+2026-04-08 05:09:36 [INFO] Saved original markdown: TD-Original-2026-04-08.md
+2026-04-08 05:09:36 [INFO] Translating title...
+2026-04-08 05:09:38 [INFO] Translating author...
+2026-04-08 05:09:41 [INFO] Translating essay body...
+2026-04-08 05:09:56 [INFO] Generating summary...
+2026-04-08 05:09:58 [INFO] Saved translated markdown: TD-Translated-2026-04-08.md
+2026-04-08 05:09:58 [INFO] Archive saved with 66 entries
+2026-04-08 05:09:58 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-08 05:09:58 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-08 05:09:58 [INFO] Successfully processed: 人生とは「やりかけ」であると考え中。
+2026-04-08 05:09:58 [INFO] Translated title: Thinking in progress: life is a series of things left unfinished.
+2026-04-08 05:09:58 [INFO] Summary: The essay reflects on how we inevitably accumulate unfinished projects, books, shows, and relationships throughout our lives, ultimately concluding that this incompleteness is simply the human condition rather than a personal failing. Rather than viewing these half-finished things as a problem, the author embraces them as a sign of living fully and engaging with the world, despite the exhaustion it brings.
+2026-04-08 05:09:58 [INFO] Scraper completed successfully
