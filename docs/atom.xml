@@ -1,12 +1,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-04-08T05:09:58.523853+00:00</updated>
+  <updated>2026-04-09T05:08:02.325078+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#b88cff443365</id>
+    <title>When there's only one option to choose from.</title>
+    <updated>2026-04-09T05:07:38.936186+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I had a conversation today, and this is something that came up during it. You know that scene you see in dramas all the time, where a man goes to meet his partner's father to ask for permission to marry? When the father asks something like, "Do you promise to love my daughter for the rest of your life?" there is only one possible answer. "Well, who can say what the future holds" or "I think the nature of love changes over time" or "I probably intend to, yes," any of those would be absolutely unacceptable. The shortest acceptable response is simply an immediate, unhesitating "Yes." If you try to come up with what you think is the "right" answer, every single one of those attempts gets sucked straight into a black hole of wrong answers. If you pause for more than three seconds, or in the worst case more than ten, then even if you do finally say yes, you've already been disqualified and shown the door. This is not a moment for earnest deliberation. And if you're the argumentative type who purses his lips and protests, "But I want to tell the truth! I want to face this with genuine sincerity!" well, at that point you're getting permanently banned from the premises.&lt;/p&gt;
+
+&lt;p&gt;The world is full of questions like this, questions that have no real choice in them. In the world of sports, or anywhere that winning and losing exist, I think the only thing you can say is "I will absolutely win." There's really nothing else, is there? In work where results aren't measured in wins and losses, you can sometimes say, "It's okay to fail. Don't be afraid!" But in any arena where there's a clear outcome, a winner and a loser, I've never once heard someone say, "It's okay to lose."&lt;/p&gt;
+
+&lt;p&gt;Which makes me wonder: if you actually went in thinking "it's okay to lose," would you really end up further from winning? It's true that continuing to push forward with the intent to win is part of the etiquette of competition. And yes, that mindset probably does give you a better chance of winning. But is it really, truly impossible that a bold, liberated attempt born from the thought "hey, it's okay if I lose" could ever work? The possibility of losing is always there, obviously. And maybe, just maybe, if someone sent you off with a laugh and the words "It's fine if you lose," you'd feel lighter, freer, and actually play better. I think that could happen sometimes, at least.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today. To be perfectly honest, I don't think I could say anything other than "I'll win" either.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#b88cff443365"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores the tension between the socially expected answers we must give in high-stakes moments (like "I will win") and the honest uncertainty that might sometimes serve us better, ultimately acknowledging that certain situations demand we follow convention even when authenticity might be liberating.</summary>
+    <published>2026-04-09T05:07:38.936186+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#493a334f6886</id>
     <title>Thinking in progress: life is a series of things left unfinished.</title>
     <updated>2026-04-08T05:09:36.655362+00:00</updated>
@@ -716,24 +736,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on 15 years of annual visits to Kesennuma after the 2011 disaster, realizing that the return of ordinary life—once desperately wished for—is now so complete that forgetting those wishes is itself a blessing, and that even powerlessness, when pooled together, helped rebuild the future.</summary>
     <published>2026-03-11T04:42:36.314682+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#fa3264afb39a</id>
-    <title>In Kesennuma, now, alone.</title>
-    <updated>2026-03-10T04:41:34.648477+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I'm in Kesennuma. Already having a wonderful time catching up with people I haven't seen in ages. Saikichi-san's "bappa"—the moment we saw each other, we both said, "You haven't changed a bit, you look so well." If I recall correctly, bappa is about ten years older than me. And after telling me I looked well, she added, "And you look interesting." No one has ever said anything that made me happier. From now on, I'm going to live in a way that makes people say I look interesting. And then there was another older friend, a visitor from Hokkaido, Oda-san from R-tei. I was so glad to see him too. It was the very definition of "what joy it is to have friends visit from afar." I've been influenced by all sorts of people, but what this mentor has done and the things he's told me feel like they've become a model for how I think now (especially lately). When it gets a bit warmer, I'm definitely going to visit him again.&lt;/p&gt;
-
-&lt;p&gt;There are certain ways of thinking that I find completely true. Like "haste makes waste," for example. I understand that deeply. But I also completely agree with "strike while the iron is hot." Should I hurry or take the long way around? Even if you tell me to pick one, I have to make a judgment call each time depending on the situation. Talking about all sorts of things, I realize this happens a lot. Sometimes it really is "haste makes waste." Don't panic, don't rush so much. You've failed before by taking shortcuts, haven't you? But, you know, while you're being so calm and collected, you often miss precious opportunities. More often than not, hesitating gets you nowhere. "Just do it now, strike while the iron is hot!" I say this to myself and others all the time. Everyone has experienced both, everyone feels both ways. So many things are truly "both," but we make judgments based on the situation and circumstances. In other words, life is about judgment. Writing about such things in a hotel in Kesennuma before bed.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. That I've finished writing this—well, that was also a judgment I just made.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#fa3264afb39a"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on how life requires constant judgment calls between contradictory truths—like "haste makes waste" versus "strike while the iron is hot"—with no single rule applying to every situation.</summary>
-    <published>2026-03-10T04:41:34.648477+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
