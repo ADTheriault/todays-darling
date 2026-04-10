@@ -1335,3 +1335,23 @@
 2026-04-09 05:08:02 [INFO] Translated title: When there's only one option to choose from.
 2026-04-09 05:08:02 [INFO] Summary: The essay explores the tension between the socially expected answers we must give in high-stakes moments (like "I will win") and the honest uncertainty that might sometimes serve us better, ultimately acknowledging that certain situations demand we follow convention even when authenticity might be liberating.
 2026-04-09 05:08:02 [INFO] Scraper completed successfully
+2026-04-10 05:23:11 [INFO] ============================================================
+2026-04-10 05:23:11 [INFO] Hobonichi Scraper V2
+2026-04-10 05:23:11 [INFO] Current time (JST): 2026-04-10 14:23:11
+2026-04-10 05:23:11 [INFO] ============================================================
+2026-04-10 05:23:11 [INFO] Starting scrape at 2026-04-10 14:23:11 JST
+2026-04-10 05:23:18 [INFO] Essay scraped successfully: 私がオバさんになっても、から。...
+2026-04-10 05:23:18 [INFO] Content hash: cec4d798873c
+2026-04-10 05:23:18 [INFO] Saved original markdown: TD-Original-2026-04-10.md
+2026-04-10 05:23:18 [INFO] Translating title...
+2026-04-10 05:23:20 [INFO] Translating author...
+2026-04-10 05:23:21 [INFO] Translating essay body...
+2026-04-10 05:23:38 [INFO] Generating summary...
+2026-04-10 05:23:40 [INFO] Saved translated markdown: TD-Translated-2026-04-10.md
+2026-04-10 05:23:40 [INFO] Archive saved with 68 entries
+2026-04-10 05:23:40 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-10 05:23:40 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-10 05:23:40 [INFO] Successfully processed: 私がオバさんになっても、から。
+2026-04-10 05:23:40 [INFO] Translated title: Since I became a middle-aged woman, and beyond.
+2026-04-10 05:23:40 [INFO] Summary: Everyone passes through distinct life stages, each with its own irreplaceable emotional texture and perspective, and we often forget that the elderly and accomplished were once young and reckless too—a humbling reminder that makes life endlessly interesting.
+2026-04-10 05:23:40 [INFO] Scraper completed successfully
