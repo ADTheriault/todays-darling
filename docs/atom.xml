@@ -1,12 +1,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-04-13T05:39:47.812360+00:00</updated>
+  <updated>2026-04-14T05:22:10.340843+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#e50cba963843</id>
+    <title>Eating biang biang noodles.</title>
+    <updated>2026-04-14T05:21:47.227199+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I'm no particular foodie, and I wouldn't say I'm exceptionally lonely, but I do fairly often go out to eat something on my own. Sometimes far away, sometimes nearby. On Saturdays or Sundays, if it's within an hour by train, I'll make the trip. Well, let's say it happens from time to time. And almost always, it's for ramen. I can't hold a candle to the true ramen devotees out there, but I do watch the BS-TBS show "Eating Ramen" regularly.&lt;/p&gt;
+
+&lt;p&gt;When I've traveled a long way, the food already tastes good before I've even started eating. I went there to enjoy it, so of course it's going to be good. If the same shop were right in my neighborhood, maybe it wouldn't hit the same way, but having made the long trip out, it tastes better by exactly that much. "Eating" begins with "going there to eat." And before "going," I think there's "imagining."&lt;/p&gt;
+
+&lt;p&gt;Following that line of thinking, I had wanted to eat biang biang noodles for a very long time. There is actually a Chinese character for the "biang biang" part, but it's so complicated that the font can't even render it here. The total stroke count is supposedly somewhere between 50 and 60 (they can't even agree on that?), and apparently the character was created specifically for these noodles. The character itself comes up all the time as a bit of trivia, but I didn't know anyone nearby who had actually eaten biang biang noodles. Everyone was eager to explain the character, yet nobody could tell me what the noodles were actually like.&lt;/p&gt;
+
+&lt;p&gt;Then one day I learned that there was a biang biang noodle shop right in my own neighborhood, in Kanda Jimbocho of all places. But precisely because it was so close, I figured I could go anytime, and I just left it at that, thinking I'd get around to it eventually. Then the other day, purely by chance, I happened to walk right past the place and thought, "So this is it!" Fortune favors those who wander. I went yesterday!&lt;/p&gt;
+
+&lt;p&gt;What were the noodles like? Were they thick? Were they not thin? I'm not telling. I walked in, looked at the menu, and asked, "Which one is the biang biang noodles?" The answer was, "All of them." And that's how it began.&lt;/p&gt;
+
+&lt;p&gt;I won't teach you the character, and I won't tell you about the noodles. Even if I leave it at that, it's not going to cause any trouble in your life, is it?&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. If you search "Jimbocho biang biang noodles," the information is out there.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#e50cba963843"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The anticipation and imagination we bring to an experience—whether through distance traveled or long-held curiosity—often matter more than the destination itself, and sometimes the joy lies in the journey of discovery rather than in sharing its details.</summary>
+    <published>2026-04-14T05:21:47.227199+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#89c526b8c674</id>
     <title>Things about roads.</title>
     <updated>2026-04-13T05:39:25.703532+00:00</updated>
@@ -706,30 +732,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay explores the paradox that gaining power—whether through money, beauty, or talent—simultaneously increases both freedom and constraints, leaving us unable to definitively answer whether power truly brings happiness or whether powerlessness might offer its own form of liberation.</summary>
     <published>2026-03-16T05:13:46.310191+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#d04306c3946f</id>
-    <title>It was 10,000 times, apparently.</title>
-    <updated>2026-03-15T05:04:09.268240+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Someone at Hobonichi seems to have noticed. Those short pieces I've been writing all this time, hadn't they quietly passed the ten-thousand mark? Well, it's not like I've been counting as I go. Every year when June 6th comes around, I'm aware of how many years it's been. But as for the act of writing every day, I've made that the subject here more than a few times. People are often impressed that I've kept it up so long, which makes it an easy thing to write about. "It must be so hard," they say, or "Aren't there days you just don't want to write?" That kind of reaction is exactly what I was hoping for when I started.&lt;/p&gt;
-
-&lt;p&gt;When I launched Hobonichi, I thought the one thing even I could do, if I just committed to it, that would make people happy, was to write every single day without fail. I wanted to be like a shopkeeper who shows up at the store every day. Whether it's good or bad, polished or rough, I can't really judge. In cooking terms, "as long as it's not terrible, that's enough." (I'm stealing that from Yoshiharu Doi.) There's no trick to keeping it going. You decide to do it, and you do it. It truly is something anyone can do if they just do it, but people are kind enough to say, "That's exactly the thing most people can't do."&lt;/p&gt;
-
-&lt;p&gt;To keep going every day without a break, well, you try not to get seriously ill, you think of ways to manage when things get desperate. As an extension of simply being alive, it takes a little ingenuity. But as far as effort goes, it feels like a pretty cheap investment.&lt;/p&gt;
-
-&lt;p&gt;So, once I heard it might have passed ten thousand, I got curious about when exactly that had been, and I asked ChatGPT. It told me the ten-thousandth one fell on October 21, 2025. And while it was at it, today's installment is apparently number 10,145.&lt;/p&gt;
-
-&lt;p&gt;Well, after writing ten thousand of these, pretty much all of my foolishness and failings and sloppiness have been laid bare. That might actually be the best thing to come out of it.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today, too. Doing what you can do if you just do it turns out to be, well, surprisingly doable.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#d04306c3946f"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author reflects on reaching ten thousand daily essays at Hobonichi, discovering that consistency—simply showing up every day without fail—is achievable for anyone willing to commit, and that this sustained practice of sharing one's authentic, imperfect self is ultimately its own reward.</summary>
-    <published>2026-03-15T05:04:09.268240+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
