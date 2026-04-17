@@ -1475,3 +1475,23 @@
 2026-04-16 05:29:30 [INFO] Translated title: I'm on margarine's side.
 2026-04-16 05:29:30 [INFO] Summary: While butter may be superior in taste, margarine deserves recognition as a practical and underrated alternative that has been unfairly maligned and deserves a place alongside butter in the kitchen. The author advocates for appreciating both fats for their distinct merits rather than dismissing margarine based on outdated health concerns.
 2026-04-16 05:29:30 [INFO] Scraper completed successfully
+2026-04-17 05:26:12 [INFO] ============================================================
+2026-04-17 05:26:12 [INFO] Hobonichi Scraper V2
+2026-04-17 05:26:12 [INFO] Current time (JST): 2026-04-17 14:26:12
+2026-04-17 05:26:12 [INFO] ============================================================
+2026-04-17 05:26:12 [INFO] Starting scrape at 2026-04-17 14:26:12 JST
+2026-04-17 05:26:20 [INFO] Essay scraped successfully: しかし、「三分」は多いなぁ。...
+2026-04-17 05:26:20 [INFO] Content hash: 720327b14c84
+2026-04-17 05:26:20 [INFO] Saved original markdown: TD-Original-2026-04-17.md
+2026-04-17 05:26:20 [INFO] Translating title...
+2026-04-17 05:26:22 [INFO] Translating author...
+2026-04-17 05:26:24 [INFO] Translating essay body...
+2026-04-17 05:26:41 [INFO] Generating summary...
+2026-04-17 05:26:43 [INFO] Saved translated markdown: TD-Translated-2026-04-17.md
+2026-04-17 05:26:43 [INFO] Archive saved with 75 entries
+2026-04-17 05:26:43 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-17 05:26:43 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-17 05:26:43 [INFO] Successfully processed: しかし、「三分」は多いなぁ。
+2026-04-17 05:26:43 [INFO] Translated title: However, "three minutes" is a lot.
+2026-04-17 05:26:43 [INFO] Summary: Even those we disagree with or dislike often contain legitimate points worthy of consideration, reminding us that absolute certainty in our own views is impossible and humility is essential. The essay suggests we should approach all people and ideas—including those we oppose—with recognition that they possess inherent value and validity we cannot entirely dismiss.
+2026-04-17 05:26:43 [INFO] Scraper completed successfully
