@@ -1,12 +1,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-04-17T05:26:43.484736+00:00</updated>
+  <updated>2026-04-18T05:05:29.206153+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#169038f81d96</id>
+    <title>Today's this and that.</title>
+    <updated>2026-04-18T05:05:09.243374+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;So they've settled on "extreme heat day." That's the official name for any day the temperature hits 40 degrees Celsius or above. To think I got to witness the exact moment a name was chosen for something so public, so socially significant. That's kind of amazing. From now on, for the rest of this country's history, any day that reaches 40 degrees or higher will formally be called an "extreme heat day." People can call it a "scorching day" or a "super-sweltering day" if they like, but those are just nicknames. Someone will always correct them: "The official term is extreme heat day." You can call athletic shoes "sneakers" or "sports shoes" or "footgear," whatever you prefer, but for days at 40 degrees and above, only "extreme heat day" is correct.&lt;/p&gt;
+
+&lt;p&gt;On a different note. "What am I actually thinking?" I suspect that's the thing I think about most of all. This isn't the same as "finding yourself" or anything like that. It's that I probably don't truly know what I'm thinking. So when I stumble upon some hint, some clue about it, I feel genuinely happy. Or when I figure out the cause or reason behind why I arrived at a particular thought, that makes me happy too. If someone existed who never once questioned what they were thinking, I'd find that person a little troubling, honestly.&lt;/p&gt;
+
+&lt;p&gt;On another note entirely, I once resolved, "I'm going to eat natto every day," and I kept at it for a while, but somewhere along the way I stopped. It's not that I came to dislike natto. It's good when I eat it. But I got bored. I couldn't bring myself to love it enough to eat it every single day. "It's very good for you" just wasn't a strong enough reason to keep it up. These experiences of "I tried it and it didn't stick" really do accumulate over time, don't they.&lt;/p&gt;
+
+&lt;p&gt;Thanks for visiting Hobonichi again today. Weighing myself every morning and every night, though, that I've kept up all along.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#169038f81d96"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on the naming of extreme heat days while exploring deeper questions about self-awareness, habit formation, and what sustains our daily practices—revealing that understanding our own motivations matters more than external justifications for routine.</summary>
+    <published>2026-04-18T05:05:09.243374+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#720327b14c84</id>
     <title>However, "three minutes" is a lot.</title>
     <updated>2026-04-17T05:26:20.770285+00:00</updated>
@@ -708,38 +728,6 @@
     <link href="https://www.1101.com/"/>
     <summary>As information technology has evolved from fixed books to changeable newspapers to the infinitely mutable internet, we've lost stable anchors for truth, leaving AI to fill the void by declaring what is "correct." The essay suggests we must now thoughtfully navigate competing sources of information—books, newspapers, the internet, AI, and human connection—to find reliable knowledge.</summary>
     <published>2026-03-20T04:45:09.002770+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#99ca5a30cc4b</id>
-    <title>On fairies and such.</title>
-    <updated>2026-03-19T04:52:39.406162+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Part One: "On Fairies."&lt;/p&gt;
-
-&lt;p&gt;There are people on this earth I think of as "fairies." Not the kind with wings on their backs, hovering like hummingbirds and sipping nectar from flowers. They look like ordinary humans, living human lives in human society. They're not necessarily delicate young girls, either. Quite often they're old ladies, or middle-aged men.&lt;/p&gt;
-
-&lt;p&gt;At first glance, there's nothing fairy-like about them at all. But when you say, "You know that person? Don't you think they're a fairy?" the people around you will often nod and say, "Oh. Yes, I see it."&lt;/p&gt;
-
-&lt;p&gt;I'll say it again: no wings, and entirely human in appearance. Yet they are deeply good-natured, in a way that includes a touch of mischief. Somewhere in their minds they carry a patch of perfectly clear blue sky, and every now and then their hearts just start to dance. That's the species I'm talking about.&lt;/p&gt;
-
-&lt;p&gt;They stretch twenty-four hours into something more like thirty-six. Without telling a soul, they slip off to play hide-and-seek all by themselves, leaving the rest of us humans stranded here on the ground. I'm one of those humans, so it's only later that I realize, "Ah, the fairy has flown off into the sky." Maybe they really did fly away, wings or not. Maybe they'll come tumbling back with some strange little shout. That's just what fairies do. There's nothing for it.&lt;/p&gt;
-
-&lt;p&gt;Part Two: "And So On."&lt;/p&gt;
-
-&lt;p&gt;You go out to eat somewhere, and there are places that make you think, "I want to come back here." Then there's the opposite: it was every bit as good as people said, but somehow you feel, "I don't think I'll be back." Nothing was wrong with it. The food was delicious. It's just that if you ask yourself whether you'd go again, the answer is probably not.&lt;/p&gt;
-
-&lt;p&gt;It's not only restaurants. The same thing happens with people. There are those you think, "I'll see them again. I want to." Even while you're still together, you already feel sure you'll meet again. And then there are others, nothing wrong with them at all, where you quietly sense, "I probably won't see this person again."&lt;/p&gt;
-
-&lt;p&gt;I can never quite pin down what makes the difference. But I've decided it's probably fine not to know.&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting Hobonichi again today. I wrote this one like a diary, without really thinking about whoever might read it.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#99ca5a30cc4b"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay explores the mysterious quality of certain people and places that inexplicably draw us back, suggesting that some connections possess an ineffable magic that can't be fully understood but should simply be accepted.</summary>
-    <published>2026-03-19T04:52:39.406162+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
