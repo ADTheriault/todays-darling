@@ -1535,3 +1535,23 @@
 2026-04-19 05:27:31 [INFO] Translated title: Good things are good. Things that aren't… well.
 2026-04-19 05:27:31 [INFO] Summary: The author reflects on the value of sharing what's good about things while choosing silence over criticism, recognizing that finding the positive in experiences is both personally satisfying and more constructive than pointing out flaws.
 2026-04-19 05:27:31 [INFO] Scraper completed successfully
+2026-04-20 05:38:55 [INFO] ============================================================
+2026-04-20 05:38:55 [INFO] Hobonichi Scraper V2
+2026-04-20 05:38:55 [INFO] Current time (JST): 2026-04-20 14:38:55
+2026-04-20 05:38:55 [INFO] ============================================================
+2026-04-20 05:38:55 [INFO] Starting scrape at 2026-04-20 14:38:55 JST
+2026-04-20 05:39:03 [INFO] Essay scraped successfully: 30歳成人説は、のんきすぎるか？...
+2026-04-20 05:39:03 [INFO] Content hash: 9aaa47ff156d
+2026-04-20 05:39:03 [INFO] Saved original markdown: TD-Original-2026-04-20.md
+2026-04-20 05:39:03 [INFO] Translating title...
+2026-04-20 05:39:04 [INFO] Translating author...
+2026-04-20 05:39:06 [INFO] Translating essay body...
+2026-04-20 05:39:22 [INFO] Generating summary...
+2026-04-20 05:39:23 [INFO] Saved translated markdown: TD-Translated-2026-04-20.md
+2026-04-20 05:39:23 [INFO] Archive saved with 78 entries
+2026-04-20 05:39:23 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-20 05:39:23 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-20 05:39:23 [INFO] Successfully processed: 30歳成人説は、のんきすぎるか？
+2026-04-20 05:39:23 [INFO] Translated title: Is the theory of adulthood at 30 too carefree?
+2026-04-20 05:39:23 [INFO] Summary: As society becomes increasingly demanding and unforgiving, the author argues that true adulthood should begin at thirty rather than twenty, allowing people their twenties as a crucial period for experimentation, failure, and growth that forms the foundation for their adult lives.
+2026-04-20 05:39:23 [INFO] Scraper completed successfully

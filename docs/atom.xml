@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-04-19T05:27:31.705822+00:00</updated>
+  <updated>2026-04-20T05:39:23.667036+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#9aaa47ff156d</id>
+    <title>Is the theory of adulthood at 30 too carefree?</title>
+    <updated>2026-04-20T05:39:03.254452+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The world just keeps getting more and more unforgiving. What used to feel like "normal sensibility" has changed so much that it would probably be criticized not as "outdated" but as "way too leisurely." I remember when words like "cost performance" and "time performance" started popping up constantly in everyday conversation, and I thought, "Is that really how things are now?" But maybe we've already reached the point where even questioning the cost-performance, time-performance mindset is itself considered yesterday's news. Then again, staking out new territory by declaring the old way obsolete is something people have been doing since time immemorial.&lt;/p&gt;
+
+&lt;p&gt;With that preamble out of the way, I've been thinking about the "adulthood at thirty" idea. It's something I still believe in, and I think others have said similar things. The idea is this: legally, you become an adult at twenty, but in today's world, your twenties are really just an extension of childhood, so wouldn't it make more sense to say that true adulthood begins at thirty? Back then, the word "moratorium" was being thrown around in a negative way. The "adulthood at thirty" idea flipped that on its head and made it a positive thing. Long ago, it was taken for granted that young people would be fully capable workers early on. But society has grown more complex, human lifespans have gotten longer, and isn't it rushing things to decide someone is an adult at twenty?&lt;/p&gt;
+
+&lt;p&gt;Speaking from my own experience, I didn't really feel like I'd become an adult until I was around thirty. I've told younger people over and over, "You can still afford to be foolish in your twenties." The ideas and actions of that time, failures and mistakes included, become the foundation for all the years that follow.&lt;/p&gt;
+
+&lt;p&gt;And yet, the reality is that the legal age of adulthood has actually been lowered to eighteen. It feels like there's this pressure now: "No time for foolishness." But in an era that just keeps getting more and more unforgiving, isn't the "adulthood at thirty" idea actually more important than ever?&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for visiting Hobonichi today. Watching Punch, Ichikawa's dog, is honestly a real lifeline for me.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#9aaa47ff156d"/>
+    <link href="https://www.1101.com/"/>
+    <summary>As society becomes increasingly demanding and unforgiving, the author argues that true adulthood should begin at thirty rather than twenty, allowing people their twenties as a crucial period for experimentation, failure, and growth that forms the foundation for their adult lives.</summary>
+    <published>2026-04-20T05:39:03.254452+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#80e415e88241</id>
     <title>Good things are good. Things that aren't… well.</title>
     <updated>2026-04-19T05:27:12.816524+00:00</updated>
@@ -706,28 +728,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay celebrates Kuma-chan's remarkable ability to accept others with genuine tolerance and openness—embodied in his simple "Oh, okay"—arguing that such acceptance is fundamental to human connection and could bring the world closer to peace.</summary>
     <published>2026-03-22T04:50:50.514293+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#2cf29ee63491</id>
-    <title>Don't rush to finish.</title>
-    <updated>2026-03-21T04:25:19.219190+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;What I keep telling myself, and everyone around me, is this: don't rush toward completion. I say it often at Hobonichi, too. This doesn't mean giving up on completing things. It's that your image of what "complete" looks like is always shifting. If you try to race toward whatever "complete" means at one particular moment, you start wanting to prepare for every contingency, to anticipate every possible scenario, and before you know it, you can't even make your first move. All that piles up are impossible problems, worries, and worst-case fantasies. I have that urge in me too, the impulse to rush toward completion. I always have, and I still do. I think that's exactly why I've written things like this so many times, as a reminder to myself.&lt;/p&gt;
-
-&lt;p&gt;Once, I put it this way: "Let's meet on low ground." Communication, I said, should begin at a low, humble place, a point where both sides can give a little. When people announce, "Two ambitious visionaries have joined forces!" it usually turns out to be nothing more than a castle in the air. And that phrase I use, "Put hands and feet on your dreams," isn't that very much in the spirit of not rushing toward completion? Even once a dream has hands and feet, maybe all it can do is take a few steps, carry a light load. You have no idea what good thing might eventually come together from there.&lt;/p&gt;
-
-&lt;p&gt;I've heard that when young people set out to do something, the very first thing they do is try to gather sponsors and funding. And of course, in that case you need to present a finished blueprint, and people push you to complete things fast. But it's not just young people. Society as a whole works that way now.&lt;/p&gt;
-
-&lt;p&gt;When you keep going without rushing, enjoying the process, both the circumstances around you and you yourself change, and a path toward some new kind of completion starts to come into view. That's because human growth itself works exactly that way.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. Being busy and rushing through things, it really does take the joy out of them, doesn't it?&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#2cf29ee63491"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay argues that rushing toward completion creates unnecessary anxiety and blocks progress, while embracing a slower, process-oriented approach allows both circumstances and personal growth to naturally unfold toward meaningful completion.</summary>
-    <published>2026-03-21T04:25:19.219190+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
