@@ -1575,3 +1575,23 @@
 2026-04-21 05:25:58 [INFO] Translated title: What is it that AI lacks?
 2026-04-21 05:25:58 [INFO] Summary: The fundamental difference between AI and humans isn't the lack of a body or heart, but rather that AI has no "daily life"—no continuous stream of mundane accidents, unexpected encounters, and ordinary moments that constantly shape and change us over time. This relentless exposure to life's unpredictability is what makes human existence uniquely precious and irreplaceable.
 2026-04-21 05:25:58 [INFO] Scraper completed successfully
+2026-04-22 05:23:47 [INFO] ============================================================
+2026-04-22 05:23:47 [INFO] Hobonichi Scraper V2
+2026-04-22 05:23:47 [INFO] Current time (JST): 2026-04-22 14:23:47
+2026-04-22 05:23:47 [INFO] ============================================================
+2026-04-22 05:23:47 [INFO] Starting scrape at 2026-04-22 14:23:47 JST
+2026-04-22 05:23:54 [INFO] Essay scraped successfully: 大型連休に予定なんかなかったぼくたちへ。...
+2026-04-22 05:23:54 [INFO] Content hash: c45215630967
+2026-04-22 05:23:54 [INFO] Saved original markdown: TD-Original-2026-04-22.md
+2026-04-22 05:23:54 [INFO] Translating title...
+2026-04-22 05:23:56 [INFO] Translating author...
+2026-04-22 05:23:58 [INFO] Translating essay body...
+2026-04-22 05:24:15 [INFO] Generating summary...
+2026-04-22 05:24:17 [INFO] Saved translated markdown: TD-Translated-2026-04-22.md
+2026-04-22 05:24:17 [INFO] Archive saved with 80 entries
+2026-04-22 05:24:17 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-22 05:24:17 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-22 05:24:17 [INFO] Successfully processed: 大型連休に予定なんかなかったぼくたちへ。
+2026-04-22 05:24:17 [INFO] Translated title: To those of us who had no plans for the long holiday.
+2026-04-22 05:24:17 [INFO] Summary: The essay celebrates the creation of a kayōkyoku café where people can gather to experience music communally on quality speakers, offering a counterpoint to the modern isolation of individual listening and reviving a cherished social tradition that has largely disappeared.
+2026-04-22 05:24:17 [INFO] Scraper completed successfully
