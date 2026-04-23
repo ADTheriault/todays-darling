@@ -1,12 +1,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-04-22T05:24:17.261178+00:00</updated>
+  <updated>2026-04-23T05:28:42.212336+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#f4607a6e176f</id>
+    <title>Words picked up by *New York Magazine*.</title>
+    <updated>2026-04-23T05:28:21.801589+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The other day, I was interviewed by a media outlet called New York Magazine. They'd covered the Hobonichi Techo before, and I'd always been glad about that, but this time it was a direct interview, done remotely. The article based on our conversation in mid-April has already been published. The reporter turned out to be a longtime Hobonichi Techo user, and because they already knew the product so well, the piece had both a lightness and a depth to it that made me really happy.&lt;/p&gt;
+
+&lt;p&gt;After reading the whole thing, I noticed the title, printed in large letters: "We Designed the Hobonichi Techo," followed by the quote, "It's like a park for children where you have space to just play around and have fun with it each day."&lt;/p&gt;
+
+&lt;p&gt;That was something I'd said during the interview. I'd tossed it out casually, in a "how should I put this..." kind of way, just hoping they might understand what I meant. I've done plenty of interviews about the Hobonichi Techo here in Japan, but I don't think an expression like that has ever been used as the title before.&lt;/p&gt;
+
+&lt;p&gt;"It's like a park for children, where you have space to just play around and have fun with it each day." I did say that, yes. But the thing is, for someone wondering "What even is the Hobonichi Techo?", a line like that actually gets the idea across. Because people out there understood this feeling, that's why the Hobonichi Techo ended up being used by so many people in other countries. It hit me all over again.&lt;/p&gt;
+
+&lt;p&gt;More than listing out the merits in bullet points and emphasizing what a great product it is, saying "it's a place to have fun, like a park where kids play" does a better job of conveying what we're really about. Learning that gave me so much courage. If I could express all sorts of things even more freely, just as they come to me. I want to come up with good ideas more playfully than ever before.&lt;/p&gt;
+
+&lt;p&gt;Right about now, I'm over at Hobo no Eki AKAGI.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. And to those of you reading from far across the ocean, thank you.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#f4607a6e176f"/>
+    <link href="https://www.1101.com/"/>
+    <summary>A New York Magazine interview helped the creator realize that describing the Hobonichi Techo as "a park for children where you have space to just play around and have fun" better captures its true essence than listing product features, inspiring them to approach future creative work with greater playfulness and freedom.</summary>
+    <published>2026-04-23T05:28:21.801589+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#c45215630967</id>
     <title>To those of us who had no plans for the long holiday.</title>
     <updated>2026-04-22T05:23:54.440257+00:00</updated>
@@ -712,30 +738,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Shared disappointments and setbacks with loved ones, rather than just joyful moments, become the most precious and meaningful memories that define close relationships.</summary>
     <published>2026-03-25T04:52:09.843847+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#68ef0b4d7e61</id>
-    <title>Milk memories, falling like drops.</title>
-    <updated>2026-03-24T04:52:03.910603+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;If you asked ChatGPT about the trends in milk consumption in Japan, I'm sure it could give you an answer right away. There probably weren't many cows right after the war, and during the era of rapid economic growth, demand from school lunches must have been high. That kind of data is well documented. But when it comes to what "milk" meant in people's actual lives, I think you're better off asking a real person.&lt;/p&gt;
-
-&lt;p&gt;In my own case, we didn't get milk with our school lunches. We drank powdered skim milk supplied by the United States. It was terrible. But at home, there was such a thing as milk delivery. Glass bottles of milk brought to your "milk box" every day. My memories of those milk bottles from that era are pure nostalgia now. I even wrote empty bottles into a song called "Come by Bicycle."&lt;/p&gt;
-
-&lt;p&gt;In a drama called "Kizudarake no Tenshi" (Angel with Scars) that started in 1974, there was a popular scene where the main character, played by Hagiwara Kenichi, pulls a paper carton of milk straight from the fridge and chugs it down. The one-liter paper carton of milk was a way of expressing the incredibly basic nutritional intake of young people in that era. It was the "rational choice" of a single-minded young man who couldn't be bothered with meals. The opposite of today's "foodie" hero, and yet that kind of character was the one the audience loved.&lt;/p&gt;
-
-&lt;p&gt;Around the start of the 1980s, I had a solo-comedy performer appear at an event I was involved in. It was "Denden," who's now a thoroughly distinguished actor. The opening of his routine left a real impression on me. He'd ask the audience in this exaggerated way, "Hey everybody, are you drinking your milk?" The bit was essentially asking whether the audience was still living that petit-bourgeois lifestyle that was already starting to feel outdated.&lt;/p&gt;
-
-&lt;p&gt;On this same idea of what milk represented, RC Succession wrote a lyric in their song "Kimochi E" (Feels Good) that goes, "more than the guys drinking milk." Come to think of it, I believe it was around this time that I appeared in a commercial for milk, alongside the owner of Naniwaya Souhonten, the famous taiyaki shop.&lt;/p&gt;
-
-&lt;p&gt;I've just been jotting down memories as they come to me, but this kind of thing doesn't tend to survive as information or data. Thank you, as always, for visiting Hobonichi today. In the world of personal passions and interests, it seems like what endures isn't information but memory.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#68ef0b4d7e61"/>
-    <link href="https://www.1101.com/"/>
-    <summary>While data can tell us the facts about milk consumption in Japan, only personal memories and cultural moments—from milk deliveries to iconic TV scenes—can capture what milk actually meant in people's lived experiences. The essay celebrates how these intimate recollections, rather than statistics, preserve the true history of everyday life.</summary>
-    <published>2026-03-24T04:52:03.910603+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
