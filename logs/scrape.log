@@ -1655,3 +1655,23 @@
 2026-04-25 05:10:25 [INFO] Translated title: Something resembling courage.
 2026-04-25 05:10:25 [INFO] Summary: True fulfillment comes from pursuing what you genuinely want to do rather than what you feel obligated to do, and releasing attachment to external validation allows you to find joy simply in the act itself. This shift from "I have to" to "I want to" transforms both the quality of your work and your ability to appreciate whatever results unfold.
 2026-04-25 05:10:25 [INFO] Scraper completed successfully
+2026-04-26 05:37:26 [INFO] ============================================================
+2026-04-26 05:37:26 [INFO] Hobonichi Scraper V2
+2026-04-26 05:37:26 [INFO] Current time (JST): 2026-04-26 14:37:26
+2026-04-26 05:37:26 [INFO] ============================================================
+2026-04-26 05:37:26 [INFO] Starting scrape at 2026-04-26 14:37:26 JST
+2026-04-26 05:37:32 [INFO] Essay scraped successfully: クマちゃんの通夜をやっている。...
+2026-04-26 05:37:32 [INFO] Content hash: c6a5f3179d76
+2026-04-26 05:37:32 [INFO] Saved original markdown: TD-Original-2026-04-26.md
+2026-04-26 05:37:32 [INFO] Translating title...
+2026-04-26 05:37:34 [INFO] Translating author...
+2026-04-26 05:37:37 [INFO] Translating essay body...
+2026-04-26 05:37:57 [INFO] Generating summary...
+2026-04-26 05:37:58 [INFO] Saved translated markdown: TD-Translated-2026-04-26.md
+2026-04-26 05:37:58 [INFO] Archive saved with 84 entries
+2026-04-26 05:37:58 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-26 05:37:58 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-26 05:37:58 [INFO] Successfully processed: クマちゃんの通夜をやっている。
+2026-04-26 05:37:58 [INFO] Translated title: We are holding a wake for little Kuma.
+2026-04-26 05:37:58 [INFO] Summary: The essay reflects on the author's grief over losing a close friend named Kuma-chan, expressing regret over a postponed visit that never happened and a commitment to honoring him through lively memories rather than somber formality. Ultimately, it captures how aging is defined less by the passage of time than by the accumulating loss of those we love.
+2026-04-26 05:37:58 [INFO] Scraper completed successfully
