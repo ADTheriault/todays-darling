@@ -1675,3 +1675,23 @@
 2026-04-26 05:37:58 [INFO] Translated title: We are holding a wake for little Kuma.
 2026-04-26 05:37:58 [INFO] Summary: The essay reflects on the author's grief over losing a close friend named Kuma-chan, expressing regret over a postponed visit that never happened and a commitment to honoring him through lively memories rather than somber formality. Ultimately, it captures how aging is defined less by the passage of time than by the accumulating loss of those we love.
 2026-04-26 05:37:58 [INFO] Scraper completed successfully
+2026-04-27 05:52:13 [INFO] ============================================================
+2026-04-27 05:52:13 [INFO] Hobonichi Scraper V2
+2026-04-27 05:52:13 [INFO] Current time (JST): 2026-04-27 14:52:13
+2026-04-27 05:52:13 [INFO] ============================================================
+2026-04-27 05:52:13 [INFO] Starting scrape at 2026-04-27 14:52:13 JST
+2026-04-27 05:52:20 [INFO] Essay scraped successfully: ぼくの歌謡曲とは、「大人の歌」かな。...
+2026-04-27 05:52:20 [INFO] Content hash: 63db5c8a595d
+2026-04-27 05:52:20 [INFO] Saved original markdown: TD-Original-2026-04-27.md
+2026-04-27 05:52:20 [INFO] Translating title...
+2026-04-27 05:52:22 [INFO] Translating author...
+2026-04-27 05:52:24 [INFO] Translating essay body...
+2026-04-27 05:52:41 [INFO] Generating summary...
+2026-04-27 05:52:42 [INFO] Saved translated markdown: TD-Translated-2026-04-27.md
+2026-04-27 05:52:42 [INFO] Archive saved with 85 entries
+2026-04-27 05:52:42 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-27 05:52:42 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-27 05:52:42 [INFO] Successfully processed: ぼくの歌謡曲とは、「大人の歌」かな。
+2026-04-27 05:52:42 [INFO] Translated title: My idea of kayōkyoku is probably "songs for grown-ups"
+2026-04-27 05:52:42 [INFO] Summary: The author reflects on hosting sessions at a kayōkyoku music event, describing the genre as "songs for grown-ups" that capture the complexities of adult experience, and noting how exposure to such mature themes in childhood profoundly shaped their artistic sensibility.
+2026-04-27 05:52:42 [INFO] Scraper completed successfully
