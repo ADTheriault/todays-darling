@@ -1695,3 +1695,23 @@
 2026-04-27 05:52:42 [INFO] Translated title: My idea of kayōkyoku is probably "songs for grown-ups"
 2026-04-27 05:52:42 [INFO] Summary: The author reflects on hosting sessions at a kayōkyoku music event, describing the genre as "songs for grown-ups" that capture the complexities of adult experience, and noting how exposure to such mature themes in childhood profoundly shaped their artistic sensibility.
 2026-04-27 05:52:42 [INFO] Scraper completed successfully
+2026-04-28 05:57:21 [INFO] ============================================================
+2026-04-28 05:57:21 [INFO] Hobonichi Scraper V2
+2026-04-28 05:57:21 [INFO] Current time (JST): 2026-04-28 14:57:21
+2026-04-28 05:57:21 [INFO] ============================================================
+2026-04-28 05:57:21 [INFO] Starting scrape at 2026-04-28 14:57:21 JST
+2026-04-28 05:57:28 [INFO] Essay scraped successfully: オリビア、それは大変なことにはならない。...
+2026-04-28 05:57:28 [INFO] Content hash: 2e2152fc3b13
+2026-04-28 05:57:28 [INFO] Saved original markdown: TD-Original-2026-04-28.md
+2026-04-28 05:57:28 [INFO] Translating title...
+2026-04-28 05:57:30 [INFO] Translating author...
+2026-04-28 05:57:31 [INFO] Translating essay body...
+2026-04-28 05:57:47 [INFO] Generating summary...
+2026-04-28 05:57:49 [INFO] Saved translated markdown: TD-Translated-2026-04-28.md
+2026-04-28 05:57:49 [INFO] Archive saved with 86 entries
+2026-04-28 05:57:49 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-28 05:57:49 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-28 05:57:49 [INFO] Successfully processed: オリビア、それは大変なことにはならない。
+2026-04-28 05:57:49 [INFO] Translated title: Olivia, it's not going to be a big deal.
+2026-04-28 05:57:49 [INFO] Summary: The essay uses the mundane example of shampoo usage to explore a liberating insight: most of life's worries—from strict social conventions to minor decisions—carry no real consequences, so we can afford to be less anxious about getting everything perfectly right.
+2026-04-28 05:57:49 [INFO] Scraper completed successfully
