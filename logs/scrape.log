@@ -1715,3 +1715,23 @@
 2026-04-28 05:57:49 [INFO] Translated title: Olivia, it's not going to be a big deal.
 2026-04-28 05:57:49 [INFO] Summary: The essay uses the mundane example of shampoo usage to explore a liberating insight: most of life's worries—from strict social conventions to minor decisions—carry no real consequences, so we can afford to be less anxious about getting everything perfectly right.
 2026-04-28 05:57:49 [INFO] Scraper completed successfully
+2026-04-29 05:53:12 [INFO] ============================================================
+2026-04-29 05:53:12 [INFO] Hobonichi Scraper V2
+2026-04-29 05:53:12 [INFO] Current time (JST): 2026-04-29 14:53:12
+2026-04-29 05:53:12 [INFO] ============================================================
+2026-04-29 05:53:12 [INFO] Starting scrape at 2026-04-29 14:53:12 JST
+2026-04-29 05:53:19 [INFO] Essay scraped successfully: 「おれのいない世界」をぼくが見た話。...
+2026-04-29 05:53:19 [INFO] Content hash: 176b9d693fa2
+2026-04-29 05:53:19 [INFO] Saved original markdown: TD-Original-2026-04-29.md
+2026-04-29 05:53:19 [INFO] Translating title...
+2026-04-29 05:53:21 [INFO] Translating author...
+2026-04-29 05:53:23 [INFO] Translating essay body...
+2026-04-29 05:53:39 [INFO] Generating summary...
+2026-04-29 05:53:40 [INFO] Saved translated markdown: TD-Translated-2026-04-29.md
+2026-04-29 05:53:40 [INFO] Archive saved with 87 entries
+2026-04-29 05:53:40 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-04-29 05:53:40 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-04-29 05:53:40 [INFO] Successfully processed: 「おれのいない世界」をぼくが見た話。
+2026-04-29 05:53:40 [INFO] Translated title: The story of how I saw "a world without me."
+2026-04-29 05:53:40 [INFO] Summary: A chance glimpse of imagining a world continuing without him struck the narrator with overwhelming sadness—a confrontation with mortality and the inevitable goodbye to everything he knows—that transformed into a lasting meditation on loneliness and loss.
+2026-04-29 05:53:40 [INFO] Scraper completed successfully

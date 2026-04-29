@@ -1,0 +1,10 @@
+## Title: The story of how I saw "a world without me."
+## Date: 2026-04-29
+## Author: Shigesato Itoi
+## Content:
+
+This was a long time ago, but I once caught a glimpse of a world without me in it. Well, it was just a mental image, really. I'd finished work late at night as usual, and I was tired and sleepy, so I headed into the bedroom ready to collapse. The room was dark, I think, and my eyes fell on my bed. In the next bed over, my wife was already fast asleep, and the bed where I was about to lie down was empty. If I never lay down there, well, of course it would just stay empty. There's nothing remarkable about that. It's perfectly obvious. But in that moment, something flickered through my mind: "This is it. This is a world without me." I could suddenly picture it, what the world would look like once I was gone. A world without me, seen through the eyes of my own ghost. And wasn't that exactly the same as this empty bed right here in front of me? Something welled up inside me, and I felt a sadness so overwhelming. What did I do then? Did I cry? I can't remember now, conveniently enough. But I've never forgotten that it was a depth of sadness unlike anything I'd known before. I've told the story to close friends a few times, slipping in a little humor as I go. "Think about it, the person sleeping peacefully right there? That's my widow, the one who lost me," I'd say, with a sort of mock indignation. But truly, in that moment, I was so sad. The thought that I'd have to say goodbye to everyone, to absolutely everything. That all of it would just be there, carrying on without me.
+
+After that night, I never had that kind of vision again before falling asleep, and it's become the sort of thing I can simply talk about, saying, "That was really sad." For now, at least, I don't feel that same sadness. I think what I feel is closer to loneliness than sadness. Though I'm not really sure, to be honest. When I think of the people who left this world before me, I find myself feeling my way back to that "world without me."
+
+Thank you for coming to Hobonichi again today. I'm doing just fine, for the record. And I'll be taking Golden Week off.
