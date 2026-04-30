@@ -1,12 +1,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-04-29T05:53:40.771338+00:00</updated>
+  <updated>2026-04-30T05:57:36.433258+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#f531372524ba</id>
+    <title>A chatterbox fried egg that talks too much.</title>
+    <updated>2026-04-30T05:57:12.744150+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I might, as it turns out, be something of a proverb lover. Proverbs come to mind often, and I find myself savoring them. Sure, there are proverbs that mean the exact opposite of each other, but that's no contradiction. "Haste makes waste" and "strike while the iron is hot" both exist. When you're rushing too much, by all means reach for "haste makes waste." When you're dragging your feet and can't get moving, say "strike while the iron is hot." They just need to serve as material for judgment or conviction in the moment. It all depends on the time and place. On knowing when and where. You wouldn't bring a simmered daikon radish from an oden pot on a school field trip, and you probably shouldn't be eating a steamed pork bun at a funeral parlor, either. Ah, I realize that was an analogy for absolutely nothing. Feel free to let it go in one ear and out the other.&lt;/p&gt;
+
+&lt;p&gt;My favorite proverb, at present, is "Even a round egg can be cut square." Admittedly, there's a slight problem with calling an egg "round." Do people generally think of eggs as round? Isn't it really the other way around, that the egg is the very definition of "egg-shaped"? But never mind that. Either way, if you cut it square, it's square. You can apply this idea to just about everything. Let's try cutting some eggs into squares, off the top of our heads.&lt;/p&gt;
+
+&lt;p&gt;A rainy day is perfect weather for trying out a new umbrella.&lt;/p&gt;
+
+&lt;p&gt;Inari sushi is categorized as sushi, but if you think about it differently, isn't it really a tofu dish? You take tofu, slice it thin, deep-fry it, simmer it in a sweet-savory sauce, and eat it with vinegared rice.&lt;/p&gt;
+
+&lt;p&gt;Becoming the best in the world means, "Wait, I can't become the best in the world anymore?" You've already shifted from becoming to being.&lt;/p&gt;
+
+&lt;p&gt;Coming up with things like this is all you need to do. Just try turning the egg into something else. A fried egg, a rolled omelet, scrambled eggs, savory egg custard, an omelet, a boiled egg, a soft-cooked hot spring egg. They're all the same egg, aren't they? Just by becoming something different, the number of people it delights grows.&lt;/p&gt;
+
+&lt;p&gt;Today, I'm very grateful I managed to write something out of this idea. Thank you, as always, for coming to Hobonichi. I've been a little stretched thin lately, so for now, I'm keeping things loose.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#f531372524ba"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay celebrates the proverb "Even a round egg can be cut square," using it as a metaphor for how reframing or transforming ordinary things—whether literally or conceptually—creates new possibilities and brings joy to more people. Through playful examples, the author argues that flexibility in perspective and willingness to reshape ideas, like reshaping an egg into different forms, is a valuable approach to life.</summary>
+    <published>2026-04-30T05:57:12.744150+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#176b9d693fa2</id>
     <title>The story of how I saw "a world without me."</title>
     <updated>2026-04-29T05:53:19.474635+00:00</updated>
@@ -722,28 +748,6 @@
     <link href="https://www.1101.com/"/>
     <summary>A lifelong seeker of the perfect nail clipper confronts a late-life challenge to his fundamental technique, discovering that even after decades of searching for the best tool, the real question might be whether his time-honored method was ever correct in the first place. Yet despite his curiosity, he finds that abandoning his curved, deep-cut approach for the recommended straight edge proves impractical, suggesting that sometimes our established habits—however unconventional—serve us better than expert advice.</summary>
     <published>2026-04-01T05:22:52.721673+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#aae36828281b</id>
-    <title>Mr. volume zone.</title>
-    <updated>2026-03-31T05:07:25.940949+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The rest of the Hobonichi crew have taken to calling me "Mr. Volume Zone." This is because I keep losing the game we've been playing at Hobonichi for ages, called "Only and Lonely." The way it works is simple: everyone picks a number, and the person who picks the smallest number wins the prize, but only if they're the sole person who picked that number. The smallest number is, of course, one, and the next smallest is two. But if more than one person votes for the same number, they're all disqualified. So everyone tries to think of a small number that nobody else would choose, but it turns out that quite a few people often land on the same idea of "a small number nobody else would choose." This, naturally, is a spectacular miss. Not even a close call. People laugh at you. That cluster of people is what we call the "volume zone." A collection of hopelessly ordinary, unimaginative souls, you might say. And right there in the thick of it, more often than not, is yours truly.&lt;/p&gt;
-
-&lt;p&gt;Every single time, I swear I'm thinking seriously about it. I weigh every angle, and today, today is the day I'm going to nail it. I want to be that lone victor who breaks through. But no matter how hard I try, how serious I get, how bold I am, I miss. I end up belonging to the herd, clumped together with everyone else. They always laugh at me, and by now I already know the consolation speech by heart: "That's exactly why your work goes so well, you know. You just naturally think the way most people think."&lt;/p&gt;
-
-&lt;p&gt;That's what they tell me, but... is that really true? I mean, come on. The things I do in my actual work aren't exactly what the majority would naturally come up with, are they? I've been told more than a few times that my ideas are somewhat unique, or that I bring a fresh perspective. People have flattered me like that on multiple occasions. Isn't that precisely why I've been able to make a career of it? So where does that version of me go? And who is this Mr. Volume Zone?&lt;/p&gt;
-
-&lt;p&gt;I often describe myself as "nothing special," and I genuinely mean it. But I have a feeling that somewhere in this contradiction lies a kind of secret, or maybe a key, that I haven't quite figured out yet.&lt;/p&gt;
-
-&lt;p&gt;Thanks for visiting Hobonichi again today. But seriously, the people who are actually good at this game... what kind of people are they?&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#aae36828281b"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author grapples with a paradox: repeatedly failing at a game that requires unconventional thinking, despite being praised for original ideas in their professional work, suggesting a deeper mystery about where creativity truly comes from and who they really are.</summary>
-    <published>2026-03-31T05:07:25.940949+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
