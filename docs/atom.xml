@@ -1,12 +1,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-04-30T05:57:36.433258+00:00</updated>
+  <updated>2026-05-01T06:15:27.450244+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#3f206fe302a3</id>
+    <title>Perhaps the nights are longer than the days.</title>
+    <updated>2026-05-01T06:15:07.380655+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;People sometimes compare a human life to the movement of the sun. It's actually something most of us do, in one way or another.&lt;/p&gt;
+
+&lt;p&gt;The time just after birth is like the sun rising from the horizon. A baby lights up everything around it, and just watching one fills you with joy. Before long, the sun climbs higher and higher. The light grows stronger, and perhaps the sun itself is growing larger. It feels like an afternoon that will never end. Sometimes the glare is so fierce it withers the grass and trees. In the blazing season of youth, you need the help of water and wind.&lt;/p&gt;
+
+&lt;p&gt;But of course, the afternoon cannot last forever. At some point, the sun is no longer at its highest. Now it descends toward the earth. The brightness fades, and the glare is gone. In the western sky, a soft, faintly reddish light sinks quietly away.&lt;/p&gt;
+
+&lt;p&gt;You might think that's the end of the sun's story, but it isn't quite. And if you're wondering whether the moon and stars step in to take the sun's place, well, it doesn't really work out that neatly. Nor is this where a person's life simply ends. What happens, more or less, is that night begins. And it is long. Every bit as long as the day. Long, long, long. You could sleep through it if you wanted, or you could stay awake the way you did during the daytime.&lt;/p&gt;
+
+&lt;p&gt;And if you sit there wondering what to do with this long night, eventually, from the eastern sky, here it comes again. The sun. Well now, is that how it works? It just repeats? Even if you compare a single day to a human life, wait a moment, there's no ending to this, is there?&lt;/p&gt;
+
+&lt;p&gt;When I think back, I parted ways with friends I used to play with. I grew tired of things, forgot things, one after another. But even after nightfall, there are still people to meet, and the music keeps playing, calling out, "Come on, let's have fun." After the sunset, the night turns out to be lit up bright as anything.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today. I'm just singing whatever comes to mind, the way you might hum a lullaby for someone.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#3f206fe302a3"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Life mirrors the sun's daily cycle—rising in youth with brilliant intensity, setting into old age with gentle fading, and then entering a long night that is equally rich with meaning and connection, suggesting that existence need not end but transforms and continues in unexpected ways.</summary>
+    <published>2026-05-01T06:15:07.380655+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#f531372524ba</id>
     <title>A chatterbox fried egg that talks too much.</title>
     <updated>2026-04-30T05:57:12.744150+00:00</updated>
@@ -722,32 +748,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that genuine emotion and authentic personality—exemplified by Matsuko Deluxe's unscripted, physically honest reactions to food—ultimately convey appreciation more powerfully than the tired clichés that dominate food television.</summary>
     <published>2026-04-02T05:01:13.732007+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#753835b84e44</id>
-    <title>Confessions of a nail clipper enthusiast.</title>
-    <updated>2026-04-01T05:22:52.721673+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've thought about nail clippers for a long time. What kind is best? Domestic, imported. I've bought more than I can count. Cutting, testing, using them day after day, recommending them to people, sometimes just giving them away, buying multiples of the same one, declaring, "This is the best nail clipper in the world." And even then, I never stopped searching, thinking there might be something even better out there. Because of this, my reigning "best nail clipper" has changed hands several times, like a championship title passing from one holder to the next. Always searching, always on the lookout, like a song that never quite resolves.&lt;/p&gt;
-
-&lt;p&gt;A good nail clipper has sharp, keen blades. And since you're placing your nail between two sharp blades and snapping through it, wouldn't the blades just collide and destroy each other's edge? I did wonder about that, but no, that's not how it works. The blades don't crash head-on. They're designed to slide past each other with the slightest offset, so what's happening really is cutting. Anyway, that's the kind of thing I was chasing: the tool itself, the nail clipper as an object.&lt;/p&gt;
-
-&lt;p&gt;But then, just recently, this late in the game, I found myself questioning not the tool but the technique. "Have I been doing this wrong?"&lt;/p&gt;
-
-&lt;p&gt;You see, I've always cut my nails short. Deep. Looking at my fingers from the palm side, you'd never see any nail peeking past the fingertip. And I always cut them to follow the curve of the fingertip, shaping them like an arc: "(" . That was my method.&lt;/p&gt;
-
-&lt;p&gt;But then I learned there's a school of thought that says this is all wrong. The arc is no good. If anything, you should be going for a straight edge: "[" . Don't cut into the sides, they say. Cut straight across. Wait, what? I've been doing the deep-curved-arc thing for three quarters of a century now, not to brag or anything. Part of me wanted to dig in my heels, but I am, after all, a seeker on the path of the nail clipper. So off I went, without delay, to buy a straight-edge clipper.&lt;/p&gt;
-
-&lt;p&gt;I tried it. It's terrible. It gets in the way of daily life. The corners of my nails catch on everything, snagging against the world in the most unnatural way. Maybe I just need to get used to it, but it's been about two weeks now and I'm still struggling. I'm on the verge of giving up on the "[" approach, but my spirit of inquiry won't let me quit just yet, so I went ahead and bought a nipper-style clipper that also cuts straight.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for visiting Hobonichi today. I have to be honest, though. After a little more experimenting, I'm almost certainly going back to my old rounded, deep-trimmed nails.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#753835b84e44"/>
-    <link href="https://www.1101.com/"/>
-    <summary>A lifelong seeker of the perfect nail clipper confronts a late-life challenge to his fundamental technique, discovering that even after decades of searching for the best tool, the real question might be whether his time-honored method was ever correct in the first place. Yet despite his curiosity, he finds that abandoning his curved, deep-cut approach for the recommended straight edge proves impractical, suggesting that sometimes our established habits—however unconventional—serve us better than expert advice.</summary>
-    <published>2026-04-01T05:22:52.721673+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
