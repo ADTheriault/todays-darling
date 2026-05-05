@@ -1841,3 +1841,23 @@ Hmm, let me reconsider to keep it more natural and closer to the original:
 It's a long weekend, so I'm just idling about getting into mischief.
 2026-05-04 06:11:29 [INFO] Summary: During a long holiday, free time can intensify loneliness and difficult emotions, yet the author explores how shared experiences like music and meaningful conversation—grounded in belief and human connection—offer solace when we're most vulnerable to our thoughts.
 2026-05-04 06:11:29 [INFO] Scraper completed successfully
+2026-05-05 05:41:37 [INFO] ============================================================
+2026-05-05 05:41:37 [INFO] Hobonichi Scraper V2
+2026-05-05 05:41:37 [INFO] Current time (JST): 2026-05-05 14:41:37
+2026-05-05 05:41:37 [INFO] ============================================================
+2026-05-05 05:41:37 [INFO] Starting scrape at 2026-05-05 14:41:37 JST
+2026-05-05 05:41:44 [INFO] Essay scraped successfully: 夢中になれてますかーっ。...
+2026-05-05 05:41:44 [INFO] Content hash: 4542d6781bda
+2026-05-05 05:41:44 [INFO] Saved original markdown: TD-Original-2026-05-05.md
+2026-05-05 05:41:44 [INFO] Translating title...
+2026-05-05 05:41:45 [INFO] Translating author...
+2026-05-05 05:41:47 [INFO] Translating essay body...
+2026-05-05 05:42:02 [INFO] Generating summary...
+2026-05-05 05:42:04 [INFO] Saved translated markdown: TD-Translated-2026-05-05.md
+2026-05-05 05:42:04 [INFO] Archive saved with 93 entries
+2026-05-05 05:42:04 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-05-05 05:42:04 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-05-05 05:42:04 [INFO] Successfully processed: 夢中になれてますかーっ。
+2026-05-05 05:42:04 [INFO] Translated title: Are you finding something you can lose yourself in?
+2026-05-05 05:42:04 [INFO] Summary: Complete absorption in an activity—whether as a child or adult—is a precious and increasingly rare gift that shouldn't be dismissed or lost as we grow older. The essay celebrates those moments when we're so fully engaged that time disappears, arguing they're among life's greatest treasures worthy of protection and affirmation.
+2026-05-05 05:42:04 [INFO] Scraper completed successfully
