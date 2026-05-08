@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-05-07T06:08:23.208751+00:00</updated>
+  <updated>2026-05-08T05:28:44.308018+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#a84bd375a2f9</id>
+    <title>Is everyone doing well? Or not so much?</title>
+    <updated>2026-05-08T05:28:22.444270+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The term "May sickness" has been around for a long, long time. April brings the new school year, new jobs, the end of winter with temperatures climbing, all sorts of changes in your environment, and then, almost without warning (though it's not really a surprise), Golden Week arrives. When that string of holidays ends, you're thrown back into a daily life you haven't quite gotten used to yet. Kid or adult, it doesn't matter. Of course you're going to feel off your game. They say that all change, every kind, is stress. A new environment, difficult circumstances, sure, but apparently even things that make you happier than before count as stress. By that logic, even the beautiful clear skies of May are stressful.&lt;/p&gt;
+
+&lt;p&gt;When you put it all together, I have to say with a wry laugh: is there really anyone who's full of energy in May? What about you? Oh, me? I'm a mess, of course. I wouldn't call it "May sickness," but still. When I ask the people around me, just griping together, they all say, as if citing some universal law, "May is generally no good." I knew it, I think, and somehow we bond over our shared misery.&lt;/p&gt;
+
+&lt;p&gt;I can't speak for the Meiji era or the Edo period, but my feeling is that May in Japan has always been a time when people fall out of sorts. If that's the case, then surely, as a kind of survival wisdom, there must be some tradition or observance designed to help us get through this rough patch. Oh, wait. There is. The Boys' Festival, Tango no Sekku. Because illness tends to spread at the turn of the seasons, people would display warrior dolls to ward off evil spirits and hang carp streamers to swim in the wind, pouring their hopes into them.&lt;/p&gt;
+
+&lt;p&gt;Right. I'd been so fixated on the holidays themselves that I forgot to pay proper attention to the festival as a seasonal rite. Well, the best I can come up with at this point is that maybe I should eat more kashiwa-mochi.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for visiting Hobonichi today. This grumbly tone of mine might be the truest expression of my May.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#a84bd375a2f9"/>
+    <link href="https://www.1101.com/"/>
+    <summary>May brings accumulated stress from seasonal changes and the end of holidays, leaving most people exhausted and out of sorts—a phenomenon so universal in Japan that traditional festivals like Tango no Sekku were created as survival wisdom to help people endure this difficult month.</summary>
+    <published>2026-05-08T05:28:22.444270+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#365305eeecd0</id>
     <title>The curious expressive form known as the memo.</title>
     <updated>2026-05-07T06:08:01.253426+00:00</updated>
@@ -724,32 +746,6 @@ If you're looking for a general example, please share the specific text and I'll
     <link href="https://www.1101.com/"/>
     <summary>The essay explores the tension between the socially expected answers we must give in high-stakes moments (like "I will win") and the honest uncertainty that might sometimes serve us better, ultimately acknowledging that certain situations demand we follow convention even when authenticity might be liberating.</summary>
     <published>2026-04-09T05:07:38.936186+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#493a334f6886</id>
-    <title>Thinking in progress: life is a series of things left unfinished.</title>
-    <updated>2026-04-08T05:09:36.655362+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;How many things do I have going half-finished, I wonder. Not pushing myself too hard, just muddling along with all these things left midway. It's always been like this. It's practically a habit of mine. Even so, there really are a lot of them.&lt;/p&gt;
-
-&lt;p&gt;And it's not just work-related things. Books I want to read keep piling up near where I sit. The "invisible hand" of our household seems to gather them up and relocate them elsewhere, but then the newly cleared space just fills up with books again. And streaming shows: honestly, I want to watch all of them. But the ones stuck on "continue watching" and the ones sitting in "my list" just keep accumulating.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, when it comes to events, there's the hassle of having to make reservations, which means that unless something really comes up, I actually go. In that sense, there's no "half-finished" problem there. As for wanting to eat certain things, well, aside from the places that absolutely require reservations, when it comes to ramen, for instance, I just keep stockpiling information. I love the show "Eating Ramen" on BS-TBS.&lt;/p&gt;
-
-&lt;p&gt;When it comes to seeing people, now that I've gotten older, I try to remind myself, "I might never get to see them again." And this is a terrible thing to say, but it applies to the other person too. I've decided to think, as much as I can, "They might not be able to see me anymore, either." But I can't exactly meet everyone whenever I want, so this, too, just keeps piling up.&lt;/p&gt;
-
-&lt;p&gt;And yet, when I really think about it, there's no such thing as having everything wrap up neatly right when you die. From the moment we're born until the moment we die, of course we're always in the middle of something. That's just how it is.&lt;/p&gt;
-
-&lt;p&gt;Having a mountain of half-finished things. Does that make me greedy? Does it mean I'm living with everything I've got? Either way, it's not a bad thing at all. Even if it is completely exhausting.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. Though I notice I ended on "completely exhausting." Ha.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#493a334f6886"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on how we inevitably accumulate unfinished projects, books, shows, and relationships throughout our lives, ultimately concluding that this incompleteness is simply the human condition rather than a personal failing. Rather than viewing these half-finished things as a problem, the author embraces them as a sign of living fully and engaging with the world, despite the exhaustion it brings.</summary>
-    <published>2026-04-08T05:09:36.655362+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
