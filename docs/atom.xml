@@ -1,12 +1,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-05-11T06:38:52.261373+00:00</updated>
+  <updated>2026-05-12T06:14:13.878606+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#7a45510be902</id>
+    <title>Life is a mass of ongoing thought.</title>
+    <updated>2026-05-12T06:13:51.565875+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;After all my work and errands are done, I open my Hobonichi Techo and write down whatever was on my mind that day. But the thing is, by the time everything is truly finished, it's already the very last sliver of time before I really ought to be asleep. So I finally realized: that's why I'm always so drowsy when I write. I use a fountain pen in my Hobonichi Techo, but what ends up on the page is always the worst handwriting I'm capable of producing. I've been thinking what a shame that is. Maybe I should write in the Techo earlier, and then do my work or take my bath afterward. But no, if I did that, the time would feel too open-ended, and I'd be stuck wondering what to write. This is a matter I'll need to think about further.&lt;/p&gt;
+
+&lt;p&gt;On a certain cycle, the books in our house reach a point of overflow. I'm aware that my superior has been deploying tactics like what I'd call "simplified spiriting-away" to quietly deal with the situation somehow. But when even that isn't enough, she issues an order along the lines of "do something about these," rephrased in slightly softer terms. She'll say something to the effect of, "I could go ahead and pull together the candidates for removal myself, if you'd like," delivered in her feminine voice. This is deeply distressing. It's not something that can be decided so easily. Books I might read, books I might never read, sitting there like stones on a riverbank, forming a landscape. That is the world that "books and I" have built together. There isn't a single book I can point to and say, "I'll definitely never read this." Which is exactly why, for people like me, events like the Maebashi BOOK FES are so necessary. If the person who receives a book is happy to have it, then I'm willing to let it go. This, too, is a matter I'll need to think about further.&lt;/p&gt;
+
+&lt;p&gt;I have a lot of berets, so I decided to start wearing them. I'd been putting one on almost every day, and my hair started developing a permanent crease from it. My hairdresser K pointed this out to me. She suggested that perhaps wearing a hat only occasionally would be better. It occurred to me that she'd done a skillful job cutting my hair, and it must be a little disappointing for her to see it hidden under a hat all the time.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. There's no shortage of tiny, seemingly trivial dilemmas still under consideration.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#7a45510be902"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores the author's small, everyday struggles—from finding the right time to journal despite exhaustion, to deciding which books to keep, to balancing personal habits with consideration for others—revealing that life's most persistent dilemmas are often the seemingly trivial ones we continuously revisit.</summary>
+    <published>2026-05-12T06:13:51.565875+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#2169294645d8</id>
     <title>Do you like a 50% win rate?</title>
     <updated>2026-05-11T06:38:33.111505+00:00</updated>
@@ -732,32 +752,6 @@ If you're looking for a general example, please share the specific text and I'll
     <link href="https://www.1101.com/"/>
     <summary>The essay reveals that roads—both literal and metaphorical—are fundamental to human existence, serving as the vital conduits through which life itself flows, much like blood vessels in the body. By recognizing roads as extraordinary infrastructure that enables all human connection and progress, the author discovers why the journey itself, rather than the destination, is what truly matters.</summary>
     <published>2026-04-13T05:39:25.703532+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#3505cf1653a1</id>
-    <title>Your "amidakuji" and my "amidakuji."</title>
-    <updated>2026-04-12T05:21:59.229456+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Every now and then, someone will ask me, out of the blue, "How did you first meet so-and-so?" Not in an interview or anything like that, just a crew member nearby, making conversation. Sometimes I think about it and the answer comes right away. Other times, I rack my brain and still can't figure it out. I can remember being with that person in all kinds of situations. I remember this happened, and that happened, but where did we originally meet? The very beginning, the where and when, is hazy. You could chalk it up to getting older and more forgetful, but honestly, if someone had asked me the same question ten years ago, I probably couldn't have answered it then either.&lt;/p&gt;
-
-&lt;p&gt;Using what I like to call my "life as a lottery grid" theory, it's like I can trace the lines just fine, but I've forgotten where the starting point was. Oh well, never mind.&lt;/p&gt;
-
-&lt;p&gt;This "lottery grid" does have a start, a point of origin, and that's really just the matter of where and to whom you were born. I understand that's important, of course, but after that, you turn millions of corners along the way. If I hadn't gone to that school, I never would have met that guy. If I hadn't met that guy, I never would have taken up that sport. Because I went to hang out at that place on that particular day, I met that person. If I hadn't stayed home sick from school that time, I never would have read that book. It's an endless chain of seemingly trivial coincidences and decisions, and each one changes what happens next, sending you crashing into good luck or bad.&lt;/p&gt;
-
-&lt;p&gt;The other day, someone said to me, "If you hadn't done that project, our children wouldn't exist." And I thought, right, because two people who met through that project ended up getting married, and those kids came into the world. That's incredible. My lottery grid overlaps and intersects with other people's grids, too.&lt;/p&gt;
-
-&lt;p&gt;When you think about it, even with people I've never met, you could say we've already encountered each other through some form of expression. It's almost frighteningly interesting.&lt;/p&gt;
-
-&lt;p&gt;My lottery grid, well, it seems like there are still plenty more corners to turn. But that's fine.&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting Hobonichi again today. Tracing your way back, trying to figure out where you turned each corner, that's pretty interesting too.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#3505cf1653a1"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Life is a series of seemingly random intersections and decisions that create an intricate web of connections, where small moments and choices ripple outward to shape our relationships and futures in ways we often can't fully trace or explain. The author celebrates this beautiful unpredictability, suggesting that understanding how we arrived at any given moment matters less than appreciating the complex tapestry of coincidences that brought us there.</summary>
-    <published>2026-04-12T05:21:59.229456+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>

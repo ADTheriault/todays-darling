@@ -1,0 +1,12 @@
+## Title: Life is a mass of ongoing thought.
+## Date: 2026-05-12
+## Author: Shigesato Itoi
+## Content:
+
+After all my work and errands are done, I open my Hobonichi Techo and write down whatever was on my mind that day. But the thing is, by the time everything is truly finished, it's already the very last sliver of time before I really ought to be asleep. So I finally realized: that's why I'm always so drowsy when I write. I use a fountain pen in my Hobonichi Techo, but what ends up on the page is always the worst handwriting I'm capable of producing. I've been thinking what a shame that is. Maybe I should write in the Techo earlier, and then do my work or take my bath afterward. But no, if I did that, the time would feel too open-ended, and I'd be stuck wondering what to write. This is a matter I'll need to think about further.
+
+On a certain cycle, the books in our house reach a point of overflow. I'm aware that my superior has been deploying tactics like what I'd call "simplified spiriting-away" to quietly deal with the situation somehow. But when even that isn't enough, she issues an order along the lines of "do something about these," rephrased in slightly softer terms. She'll say something to the effect of, "I could go ahead and pull together the candidates for removal myself, if you'd like," delivered in her feminine voice. This is deeply distressing. It's not something that can be decided so easily. Books I might read, books I might never read, sitting there like stones on a riverbank, forming a landscape. That is the world that "books and I" have built together. There isn't a single book I can point to and say, "I'll definitely never read this." Which is exactly why, for people like me, events like the Maebashi BOOK FES are so necessary. If the person who receives a book is happy to have it, then I'm willing to let it go. This, too, is a matter I'll need to think about further.
+
+I have a lot of berets, so I decided to start wearing them. I'd been putting one on almost every day, and my hair started developing a permanent crease from it. My hairdresser K pointed this out to me. She suggested that perhaps wearing a hat only occasionally would be better. It occurred to me that she'd done a skillful job cutting my hair, and it must be a little disappointing for her to see it hidden under a hat all the time.
+
+Thank you for visiting Hobonichi again today. There's no shortage of tiny, seemingly trivial dilemmas still under consideration.
