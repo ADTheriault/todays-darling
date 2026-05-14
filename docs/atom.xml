@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-05-13T06:25:52.379332+00:00</updated>
+  <updated>2026-05-14T06:24:33.086796+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#f3844c1137b0</id>
+    <title>On being a copywriter.</title>
+    <updated>2026-05-14T06:24:13.973655+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;At a certain point, I quit my job as an advertising copywriter. It was always the kind of job where you only had to call yourself one, so saying I "quit" is a bit odd. What I really stopped doing was accepting assignments from clients. Back then, whenever someone labeled me "copywriter" in a bio or introduction, I'd say, if I thought of it, "I'm not really doing that anymore, so please just put 'Hobonichi representative.'" Eventually, correcting people every time became a hassle, and I figured if that's how they wanted to see me, I might as well let them. And before long, I came to think of what I'm doing now as more or less the work of a copywriter anyway, just on commission from ourselves.&lt;/p&gt;
+
+&lt;p&gt;The word "copywriter" used to be translated into Japanese as something like "advertising text-and-concept maker." The job, in other words, is to create "text and concept" for advertising. But of those two elements, "text" is the more visible one, and "concept" is harder to see in tangible form, so people tend to think of it as "someone who writes clever sentences." Back in the Edo or Meiji periods, advertising copy probably existed as one branch of popular literary composition. But times gradually changed, and while the output may still take the form of "text," the "concept" side grew far more important.&lt;/p&gt;
+
+&lt;p&gt;As "concept" expands and deepens further, what's really being called for is the concept in the fuller sense. The standard translation is something like "an abstract idea," but it's more like: "If you look at it this way, here's what you see." Concepts can hit or miss, of course. Say you're trying to find a concept for sumo wrestling: you might land on "an athletic organization expressed through the aesthetics of period drama." Not the most practical concept, I'll admit.&lt;/p&gt;
+
+&lt;p&gt;So if a copywriter's job is to think up concepts, then I've been doing copywriting for Hobonichi all along, on my own, without interruption. (Will this continue? Maybe.)&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. As for the "text" side of things, as opposed to the "concept" side, I think that requires its own kind of training entirely.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#f3844c1137b0"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author argues that copywriting has evolved from primarily crafting clever text to developing deeper conceptual frameworks—a shift that allowed her to seamlessly transition from advertising work to her current role creating concepts for Hobonichi without truly changing professions.</summary>
+    <published>2026-05-14T06:24:13.973655+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#1693a7df95a7</id>
     <title>Things done, things not done, and things left half-done.</title>
     <updated>2026-05-13T06:25:25.378363+00:00</updated>
@@ -730,32 +752,6 @@ If you're looking for a general example, please share the specific text and I'll
     <link href="https://www.1101.com/"/>
     <summary>Our perceptions and actions are fundamentally reciprocal—what we observe in others, the world, and nature often reflects what we ourselves project onto them, suggesting that how we frame our relationships shapes our reality. By recognizing this mutual interaction, we can shift perspective and potentially change the story we tell ourselves about the world around us.</summary>
     <published>2026-04-15T05:22:03.502113+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#e50cba963843</id>
-    <title>Eating biang biang noodles.</title>
-    <updated>2026-04-14T05:21:47.227199+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I'm no particular foodie, and I wouldn't say I'm exceptionally lonely, but I do fairly often go out to eat something on my own. Sometimes far away, sometimes nearby. On Saturdays or Sundays, if it's within an hour by train, I'll make the trip. Well, let's say it happens from time to time. And almost always, it's for ramen. I can't hold a candle to the true ramen devotees out there, but I do watch the BS-TBS show "Eating Ramen" regularly.&lt;/p&gt;
-
-&lt;p&gt;When I've traveled a long way, the food already tastes good before I've even started eating. I went there to enjoy it, so of course it's going to be good. If the same shop were right in my neighborhood, maybe it wouldn't hit the same way, but having made the long trip out, it tastes better by exactly that much. "Eating" begins with "going there to eat." And before "going," I think there's "imagining."&lt;/p&gt;
-
-&lt;p&gt;Following that line of thinking, I had wanted to eat biang biang noodles for a very long time. There is actually a Chinese character for the "biang biang" part, but it's so complicated that the font can't even render it here. The total stroke count is supposedly somewhere between 50 and 60 (they can't even agree on that?), and apparently the character was created specifically for these noodles. The character itself comes up all the time as a bit of trivia, but I didn't know anyone nearby who had actually eaten biang biang noodles. Everyone was eager to explain the character, yet nobody could tell me what the noodles were actually like.&lt;/p&gt;
-
-&lt;p&gt;Then one day I learned that there was a biang biang noodle shop right in my own neighborhood, in Kanda Jimbocho of all places. But precisely because it was so close, I figured I could go anytime, and I just left it at that, thinking I'd get around to it eventually. Then the other day, purely by chance, I happened to walk right past the place and thought, "So this is it!" Fortune favors those who wander. I went yesterday!&lt;/p&gt;
-
-&lt;p&gt;What were the noodles like? Were they thick? Were they not thin? I'm not telling. I walked in, looked at the menu, and asked, "Which one is the biang biang noodles?" The answer was, "All of them." And that's how it began.&lt;/p&gt;
-
-&lt;p&gt;I won't teach you the character, and I won't tell you about the noodles. Even if I leave it at that, it's not going to cause any trouble in your life, is it?&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting Hobonichi again today. If you search "Jimbocho biang biang noodles," the information is out there.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#e50cba963843"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The anticipation and imagination we bring to an experience—whether through distance traveled or long-held curiosity—often matter more than the destination itself, and sometimes the joy lies in the journey of discovery rather than in sharing its details.</summary>
-    <published>2026-04-14T05:21:47.227199+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>

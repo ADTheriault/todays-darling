@@ -2021,3 +2021,23 @@ It's a long weekend, so I'm just idling about getting into mischief.
 2026-05-13 06:25:52 [INFO] Translated title: Things done, things not done, and things left half-done.
 2026-05-13 06:25:52 [INFO] Summary: The essay explores the author's lifelong pattern of starting and abandoning pursuits, contrasting the rare activities that do stick—like his twenty-eight-year commitment to writing a daily column—with the countless failed attempts at hobbies like golf, mahjong, and musical instruments. Through this reflection, he suggests that perseverance is less about willpower and more about discovering those rare things that naturally resonate with us.
 2026-05-13 06:25:52 [INFO] Scraper completed successfully
+2026-05-14 06:24:07 [INFO] ============================================================
+2026-05-14 06:24:07 [INFO] Hobonichi Scraper V2
+2026-05-14 06:24:07 [INFO] Current time (JST): 2026-05-14 15:24:07
+2026-05-14 06:24:07 [INFO] ============================================================
+2026-05-14 06:24:07 [INFO] Starting scrape at 2026-05-14 15:24:07 JST
+2026-05-14 06:24:13 [INFO] Essay scraped successfully: コピーライターという仕事のこと。...
+2026-05-14 06:24:13 [INFO] Content hash: f3844c1137b0
+2026-05-14 06:24:13 [INFO] Saved original markdown: TD-Original-2026-05-14.md
+2026-05-14 06:24:13 [INFO] Translating title...
+2026-05-14 06:24:15 [INFO] Translating author...
+2026-05-14 06:24:16 [INFO] Translating essay body...
+2026-05-14 06:24:31 [INFO] Generating summary...
+2026-05-14 06:24:33 [INFO] Saved translated markdown: TD-Translated-2026-05-14.md
+2026-05-14 06:24:33 [INFO] Archive saved with 102 entries
+2026-05-14 06:24:33 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-05-14 06:24:33 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-05-14 06:24:33 [INFO] Successfully processed: コピーライターという仕事のこと。
+2026-05-14 06:24:33 [INFO] Translated title: On being a copywriter.
+2026-05-14 06:24:33 [INFO] Summary: The author argues that copywriting has evolved from primarily crafting clever text to developing deeper conceptual frameworks—a shift that allowed her to seamlessly transition from advertising work to her current role creating concepts for Hobonichi without truly changing professions.
+2026-05-14 06:24:33 [INFO] Scraper completed successfully
