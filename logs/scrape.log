@@ -2041,3 +2041,23 @@ It's a long weekend, so I'm just idling about getting into mischief.
 2026-05-14 06:24:33 [INFO] Translated title: On being a copywriter.
 2026-05-14 06:24:33 [INFO] Summary: The author argues that copywriting has evolved from primarily crafting clever text to developing deeper conceptual frameworks—a shift that allowed her to seamlessly transition from advertising work to her current role creating concepts for Hobonichi without truly changing professions.
 2026-05-14 06:24:33 [INFO] Scraper completed successfully
+2026-05-15 06:33:14 [INFO] ============================================================
+2026-05-15 06:33:14 [INFO] Hobonichi Scraper V2
+2026-05-15 06:33:14 [INFO] Current time (JST): 2026-05-15 15:33:14
+2026-05-15 06:33:14 [INFO] ============================================================
+2026-05-15 06:33:14 [INFO] Starting scrape at 2026-05-15 15:33:14 JST
+2026-05-15 06:33:21 [INFO] Essay scraped successfully: 深夜にハガキを出しにポストまで。...
+2026-05-15 06:33:21 [INFO] Content hash: e39c5b4f5c16
+2026-05-15 06:33:21 [INFO] Saved original markdown: TD-Original-2026-05-15.md
+2026-05-15 06:33:21 [INFO] Translating title...
+2026-05-15 06:33:23 [INFO] Translating author...
+2026-05-15 06:33:24 [INFO] Translating essay body...
+2026-05-15 06:33:44 [INFO] Generating summary...
+2026-05-15 06:33:46 [INFO] Saved translated markdown: TD-Translated-2026-05-15.md
+2026-05-15 06:33:46 [INFO] Archive saved with 103 entries
+2026-05-15 06:33:46 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-05-15 06:33:46 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-05-15 06:33:46 [INFO] Successfully processed: 深夜にハガキを出しにポストまで。
+2026-05-15 06:33:46 [INFO] Translated title: Going out to the mailbox to send a postcard late at night.
+2026-05-15 06:33:46 [INFO] Summary: A concert attendee describes the joy of being moved to immediately mail a handwritten postcard to the artist, capturing how this simple, personal gesture created a meaningful connection between performer and audience that transcended the typical concert experience.
+2026-05-15 06:33:46 [INFO] Scraper completed successfully
