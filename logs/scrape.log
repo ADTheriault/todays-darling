@@ -2081,3 +2081,23 @@ It's a long weekend, so I'm just idling about getting into mischief.
 2026-05-16 05:53:00 [INFO] Translated title: The lion chases the rabbit with all its might.
 2026-05-16 05:53:00 [INFO] Summary: The essay celebrates how Natsume Soseki approached the humble subject of learning to ride a bicycle with the same earnest craftsmanship and literary devotion that defined his major works, demonstrating that great writers apply their full artistry to every task, no matter how mundane.
 2026-05-16 05:53:00 [INFO] Scraper completed successfully
+2026-05-17 06:21:24 [INFO] ============================================================
+2026-05-17 06:21:24 [INFO] Hobonichi Scraper V2
+2026-05-17 06:21:24 [INFO] Current time (JST): 2026-05-17 15:21:24
+2026-05-17 06:21:24 [INFO] ============================================================
+2026-05-17 06:21:24 [INFO] Starting scrape at 2026-05-17 15:21:24 JST
+2026-05-17 06:21:30 [INFO] Essay scraped successfully: 憧れの、すっごく丈夫な人たち。...
+2026-05-17 06:21:30 [INFO] Content hash: dcb50526504f
+2026-05-17 06:21:30 [INFO] Saved original markdown: TD-Original-2026-05-17.md
+2026-05-17 06:21:30 [INFO] Translating title...
+2026-05-17 06:21:32 [INFO] Translating author...
+2026-05-17 06:21:33 [INFO] Translating essay body...
+2026-05-17 06:21:54 [INFO] Generating summary...
+2026-05-17 06:21:56 [INFO] Saved translated markdown: TD-Translated-2026-05-17.md
+2026-05-17 06:21:56 [INFO] Archive saved with 105 entries
+2026-05-17 06:21:56 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-05-17 06:21:56 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-05-17 06:21:56 [INFO] Successfully processed: 憧れの、すっごく丈夫な人たち。
+2026-05-17 06:21:56 [INFO] Translated title: People I admire, who are incredibly resilient.
+2026-05-17 06:21:56 [INFO] Summary: The essay argues that what truly matters in extraordinary people—whether performers, leaders, or artists—is not their polished output but their underlying physical and mental stamina, the fundamental "root force" that makes everything else possible. The author reflects on his own lack of such energy while appreciating those who possess it abundantly.
+2026-05-17 06:21:56 [INFO] Scraper completed successfully
