@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-05-17T06:21:56.824344+00:00</updated>
+  <updated>2026-05-18T06:55:50.213905+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#2b2123c7a13f</id>
+    <title>A personal essay: the deliciousness of rice</title>
+    <updated>2026-05-18T06:55:26.394202+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I won't say every single one, but most sushi rice is delicious, wouldn't you agree? The seasoning of vinegar and a little sugar is part of why, of course, but the grains themselves are delicious too. Each individual grain is smooth and glossy, existing independently. You can really tell that rice is what it is: the seed of a grass, a plant called paddy.&lt;/p&gt;
+
+&lt;p&gt;Sushi rice is made by coating freshly cooked rice with seasoned vinegar. And what's crucial in this coating process is the fanning, with a flat fan or the like, to cool the rice down. You're lowering the temperature and driving off the steam. By doing this, the surface moisture is whisked away, and the grains stop getting waterlogged.&lt;/p&gt;
+
+&lt;p&gt;I know that was a rather tedious explanation, but I want you to understand this first. The opposite of sushi rice, where cooling and removing moisture makes it delicious, is what happens with "keep warm" mode. While cooked rice sits on the warmer, the steam has nowhere to escape. That steam keeps touching the surface of every grain. Naturally, the grains turn soft and soggy. That's the problem, right there. I want you to feel it. I certainly did.&lt;/p&gt;
+
+&lt;p&gt;There are all kinds of theories and methods when it comes to cooking rice. I've tried plenty of them myself, but lately, if I put it as simply as possible, I've arrived at this conclusion: "As long as you don't keep it on warm, it's going to taste pretty good." Transferring it to a wooden rice container is great. Even a non-wooden one works surprisingly well. Shaping it into rice balls is good too. Or after you've stirred the freshly cooked rice, you can just leave the lid off and drape a paper towel over it. You could even scoop it into a bowl and let it cool down that way.&lt;/p&gt;
+
+&lt;p&gt;The pleasure of "warm rice" belongs to the moment it's freshly cooked, and that moment only. If you're going to let time pass, skip the warmer and just eat it cold. If you want it hot again, the microwave is a better bet.&lt;/p&gt;
+
+&lt;p&gt;I realize you might be wondering what I'm getting so worked up about, but I ended up writing here the kind of thing I'd normally just say to a friend. Thank you, as always, for visiting Hobonichi today. Think about it: sushi and onigiri are delicious even when they're cold. Of course they are.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#2b2123c7a13f"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The key to delicious rice is removing moisture—whether through the active fanning process of sushi rice or by avoiding the "keep warm" setting that traps steam and makes rice soggy—and understanding that freshly cooked warmth is fleeting, so cold rice is often the better choice.</summary>
+    <published>2026-05-18T06:55:26.394202+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#dcb50526504f</id>
     <title>People I admire, who are incredibly resilient.</title>
     <updated>2026-05-17T06:21:30.204859+00:00</updated>
@@ -724,26 +748,6 @@ If you're looking for a general example, please share the specific text and I'll
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on the value of sharing what's good about things while choosing silence over criticism, recognizing that finding the positive in experiences is both personally satisfying and more constructive than pointing out flaws.</summary>
     <published>2026-04-19T05:27:12.816524+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#169038f81d96</id>
-    <title>Today's this and that.</title>
-    <updated>2026-04-18T05:05:09.243374+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;So they've settled on "extreme heat day." That's the official name for any day the temperature hits 40 degrees Celsius or above. To think I got to witness the exact moment a name was chosen for something so public, so socially significant. That's kind of amazing. From now on, for the rest of this country's history, any day that reaches 40 degrees or higher will formally be called an "extreme heat day." People can call it a "scorching day" or a "super-sweltering day" if they like, but those are just nicknames. Someone will always correct them: "The official term is extreme heat day." You can call athletic shoes "sneakers" or "sports shoes" or "footgear," whatever you prefer, but for days at 40 degrees and above, only "extreme heat day" is correct.&lt;/p&gt;
-
-&lt;p&gt;On a different note. "What am I actually thinking?" I suspect that's the thing I think about most of all. This isn't the same as "finding yourself" or anything like that. It's that I probably don't truly know what I'm thinking. So when I stumble upon some hint, some clue about it, I feel genuinely happy. Or when I figure out the cause or reason behind why I arrived at a particular thought, that makes me happy too. If someone existed who never once questioned what they were thinking, I'd find that person a little troubling, honestly.&lt;/p&gt;
-
-&lt;p&gt;On another note entirely, I once resolved, "I'm going to eat natto every day," and I kept at it for a while, but somewhere along the way I stopped. It's not that I came to dislike natto. It's good when I eat it. But I got bored. I couldn't bring myself to love it enough to eat it every single day. "It's very good for you" just wasn't a strong enough reason to keep it up. These experiences of "I tried it and it didn't stick" really do accumulate over time, don't they.&lt;/p&gt;
-
-&lt;p&gt;Thanks for visiting Hobonichi again today. Weighing myself every morning and every night, though, that I've kept up all along.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#169038f81d96"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on the naming of extreme heat days while exploring deeper questions about self-awareness, habit formation, and what sustains our daily practices—revealing that understanding our own motivations matters more than external justifications for routine.</summary>
-    <published>2026-04-18T05:05:09.243374+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
