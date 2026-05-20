@@ -1,12 +1,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-05-19T06:47:40.775906+00:00</updated>
+  <updated>2026-05-20T06:47:57.801899+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#05fbfab9ad17</id>
+    <title>A place where I can see the one I love.</title>
+    <updated>2026-05-20T06:47:37.024684+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The place where you can meet the people you love is the place those people love. So if you can figure out what someone loves, you can figure out where to find them. Sometimes people who share the same interests meet as strangers and end up finding someone dear to them.&lt;/p&gt;
+
+&lt;p&gt;It sounds like I'm laying out the laws of matchmaking for the internet age, but actually, that opening line, "The place where you can meet the people you love," comes from a jingle I wrote when I was around thirty. It came back to me out of nowhere, and I found myself humming it.&lt;/p&gt;
+
+&lt;p&gt;It was 1979. A Seiyu supermarket was opening in front of the train station in Saga, and this was the theme for the grand opening campaign. I went to Saga for location scouting and did some interviews, but everyone there just kept saying, "There's nothing here." From our perspective, we kept thinking, "But it's right in front of the station!" And sure enough, there really were very few people around. "Sometimes a biker gang loops around near the station," they told us. But plenty of people also said, "Once the Seiyu opens, I think folks will start coming, little by little." So there was hope.&lt;/p&gt;
+
+&lt;p&gt;If "something" (in this case, a Seiyu) appears in a place where people think there's "nothing," people will gather. Well, that's exactly what the company must have been thinking when they decided to build it. That was more or less my line of reasoning when I wrote the copy. If I remember right, it was: "The place where you can meet the people you love." And that became the lyrics for the opening of the jingle.&lt;/p&gt;
+
+&lt;p&gt;I can recall what I was thinking nearly fifty years ago as if it were just the other day. And I realize I'm still thinking about the same kinds of things now. It really doesn't change, does it, the stuff people do.&lt;/p&gt;
+
+&lt;p&gt;The place where you can meet the people you love is the place those people love. Everything Hobonichi has been doing all along, the recently opened "Hobo no Eki AKAGI," the "Exhibition of the Joys of Everyday Life" that's about to start. It's all the same thing. It's nothing as fancy as "community building" or "regional revitalization." It's just that people who love the same things want to gather together. That's all.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today, too. Incidentally, that Saga Seiyu closed in 2018.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#05fbfab9ad17"/>
+    <link href="https://www.1101.com/"/>
+    <summary>People naturally gather in places centered around what they love, whether it's a supermarket opening in 1979 or a modern community space—the fundamental human desire to connect with others who share your passions remains unchanged across decades.</summary>
+    <published>2026-05-20T06:47:37.024684+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#fe1b18e8af80</id>
     <title>Everyone has more energy than they know what to do with.</title>
     <updated>2026-05-19T06:47:14.319766+00:00</updated>
@@ -734,28 +760,6 @@ If you're looking for a general example, please share the specific text and I'll
     <link href="https://www.1101.com/"/>
     <summary>The fundamental difference between AI and humans isn't the lack of a body or heart, but rather that AI has no "daily life"—no continuous stream of mundane accidents, unexpected encounters, and ordinary moments that constantly shape and change us over time. This relentless exposure to life's unpredictability is what makes human existence uniquely precious and irreplaceable.</summary>
     <published>2026-04-21T05:25:39.513800+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#9aaa47ff156d</id>
-    <title>Is the theory of adulthood at 30 too carefree?</title>
-    <updated>2026-04-20T05:39:03.254452+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The world just keeps getting more and more unforgiving. What used to feel like "normal sensibility" has changed so much that it would probably be criticized not as "outdated" but as "way too leisurely." I remember when words like "cost performance" and "time performance" started popping up constantly in everyday conversation, and I thought, "Is that really how things are now?" But maybe we've already reached the point where even questioning the cost-performance, time-performance mindset is itself considered yesterday's news. Then again, staking out new territory by declaring the old way obsolete is something people have been doing since time immemorial.&lt;/p&gt;
-
-&lt;p&gt;With that preamble out of the way, I've been thinking about the "adulthood at thirty" idea. It's something I still believe in, and I think others have said similar things. The idea is this: legally, you become an adult at twenty, but in today's world, your twenties are really just an extension of childhood, so wouldn't it make more sense to say that true adulthood begins at thirty? Back then, the word "moratorium" was being thrown around in a negative way. The "adulthood at thirty" idea flipped that on its head and made it a positive thing. Long ago, it was taken for granted that young people would be fully capable workers early on. But society has grown more complex, human lifespans have gotten longer, and isn't it rushing things to decide someone is an adult at twenty?&lt;/p&gt;
-
-&lt;p&gt;Speaking from my own experience, I didn't really feel like I'd become an adult until I was around thirty. I've told younger people over and over, "You can still afford to be foolish in your twenties." The ideas and actions of that time, failures and mistakes included, become the foundation for all the years that follow.&lt;/p&gt;
-
-&lt;p&gt;And yet, the reality is that the legal age of adulthood has actually been lowered to eighteen. It feels like there's this pressure now: "No time for foolishness." But in an era that just keeps getting more and more unforgiving, isn't the "adulthood at thirty" idea actually more important than ever?&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for visiting Hobonichi today. Watching Punch, Ichikawa's dog, is honestly a real lifeline for me.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#9aaa47ff156d"/>
-    <link href="https://www.1101.com/"/>
-    <summary>As society becomes increasingly demanding and unforgiving, the author argues that true adulthood should begin at thirty rather than twenty, allowing people their twenties as a crucial period for experimentation, failure, and growth that forms the foundation for their adult lives.</summary>
-    <published>2026-04-20T05:39:03.254452+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
