@@ -19,6 +19,7 @@ import json
 import hashlib
 import logging
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
@@ -26,7 +27,7 @@ from zoneinfo import ZoneInfo
 
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 from bs4 import BeautifulSoup
-from anthropic import Anthropic, APIError
+from anthropic import Anthropic, APIError, OverloadedError
 from feedgen.feed import FeedGenerator
 
 
@@ -287,6 +288,18 @@ def scrape_essay() -> Optional[dict]:
 # Translation Functions (preserved from V1)
 # =============================================================================
 
+def _call_with_retry(fn, max_retries: int = 3):
+    for attempt in range(max_retries):
+        try:
+            return fn()
+        except OverloadedError:
+            if attempt == max_retries - 1:
+                raise
+            wait = 2 ** attempt * 5  # 5s, 10s, 20s
+            log.warning(f"API overloaded, retrying in {wait}s (attempt {attempt + 1}/{max_retries})")
+            time.sleep(wait)
+
+
 def translate_text(japanese_text: str, is_title: bool = False) -> str:
     """
     Translate text using Claude API.
@@ -325,11 +338,11 @@ Output each paragraph wrapped in <p></p> tags. Output ONLY the <p> tags, no othe
 {japanese_text}"""
 
     try:
-        message = client.messages.create(
+        message = _call_with_retry(lambda: client.messages.create(
             model="claude-opus-4-6",
             max_tokens=4000,
             messages=[{"role": "user", "content": prompt}]
-        )
+        ))
         return message.content[0].text
     except APIError as e:
         log.error(f"Claude API error: {e}")
@@ -350,12 +363,15 @@ Be concise and natural. Output only the summary, nothing else.
 {translation}"""
 
     try:
-        message = client.messages.create(
+        message = _call_with_retry(lambda: client.messages.create(
             model="claude-haiku-4-5-20251001",
             max_tokens=200,
             messages=[{"role": "user", "content": prompt}]
-        )
+        ))
         return message.content[0].text.strip()
+    except OverloadedError:
+        log.warning("API overloaded during summarization, returning empty summary")
+        return ""
     except APIError as e:
         log.error(f"Claude API error during summarization: {e}")
         raise
