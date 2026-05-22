@@ -27,7 +27,7 @@ from zoneinfo import ZoneInfo
 
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 from bs4 import BeautifulSoup
-from anthropic import Anthropic, APIError, OverloadedError
+from anthropic import Anthropic, APIError, APIStatusError
 from feedgen.feed import FeedGenerator
 
 
@@ -292,8 +292,8 @@ def _call_with_retry(fn, max_retries: int = 3):
     for attempt in range(max_retries):
         try:
             return fn()
-        except OverloadedError:
-            if attempt == max_retries - 1:
+        except APIStatusError as e:
+            if e.status_code != 529 or attempt == max_retries - 1:
                 raise
             wait = 2 ** attempt * 5  # 5s, 10s, 20s
             log.warning(f"API overloaded, retrying in {wait}s (attempt {attempt + 1}/{max_retries})")
@@ -369,9 +369,11 @@ Be concise and natural. Output only the summary, nothing else.
             messages=[{"role": "user", "content": prompt}]
         ))
         return message.content[0].text.strip()
-    except OverloadedError:
-        log.warning("API overloaded during summarization, returning empty summary")
-        return ""
+    except APIStatusError as e:
+        if e.status_code == 529:
+            log.warning("API overloaded during summarization, returning empty summary")
+            return ""
+        raise
     except APIError as e:
         log.error(f"Claude API error during summarization: {e}")
         raise
