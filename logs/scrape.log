@@ -2181,3 +2181,23 @@ It's a long weekend, so I'm just idling about getting into mischief.
 2026-05-21 06:52:37 [INFO] Translated title: It's not really a "culture festival," you know.
 2026-05-21 06:52:37 [INFO] Summary: The Hobonichi Life & Enjoyment Exhibition creates a unique collective experience that transcends typical work—one where shared effort, unspoken understanding, and post-event reflection generate both immediate fulfillment and hope for future iterations.
 2026-05-21 06:52:37 [INFO] Scraper completed successfully
+2026-05-22 09:08:59 [INFO] ============================================================
+2026-05-22 09:08:59 [INFO] Hobonichi Scraper V2
+2026-05-22 09:08:59 [INFO] Current time (JST): 2026-05-22 18:08:59
+2026-05-22 09:08:59 [INFO] ============================================================
+2026-05-22 09:08:59 [INFO] Starting scrape at 2026-05-22 18:08:59 JST
+2026-05-22 09:09:05 [INFO] Essay scraped successfully: ことばのない平和。...
+2026-05-22 09:09:05 [INFO] Content hash: 06b64ae9573d
+2026-05-22 09:09:05 [INFO] Saved original markdown: TD-Original-2026-05-22.md
+2026-05-22 09:09:05 [INFO] Translating title...
+2026-05-22 09:09:07 [INFO] Translating author...
+2026-05-22 09:09:08 [INFO] Translating essay body...
+2026-05-22 09:09:24 [INFO] Generating summary...
+2026-05-22 09:09:25 [INFO] Saved translated markdown: TD-Translated-2026-05-22.md
+2026-05-22 09:09:25 [INFO] Archive saved with 110 entries
+2026-05-22 09:09:25 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-05-22 09:09:26 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-05-22 09:09:26 [INFO] Successfully processed: ことばのない平和。
+2026-05-22 09:09:26 [INFO] Translated title: Peace without words.
+2026-05-22 09:09:26 [INFO] Summary: The author reflects on the simple beauty of watching creatures—dogs and babies—naturally gather and coexist without language or purpose, and finds in their wordless presence a poignant counterpoint to a life spent working with words.
+2026-05-22 09:09:26 [INFO] Scraper completed successfully
