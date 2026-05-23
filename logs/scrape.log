@@ -2201,3 +2201,23 @@ It's a long weekend, so I'm just idling about getting into mischief.
 2026-05-22 09:09:26 [INFO] Translated title: Peace without words.
 2026-05-22 09:09:26 [INFO] Summary: The author reflects on the simple beauty of watching creatures—dogs and babies—naturally gather and coexist without language or purpose, and finds in their wordless presence a poignant counterpoint to a life spent working with words.
 2026-05-22 09:09:26 [INFO] Scraper completed successfully
+2026-05-23 06:11:17 [INFO] ============================================================
+2026-05-23 06:11:17 [INFO] Hobonichi Scraper V2
+2026-05-23 06:11:17 [INFO] Current time (JST): 2026-05-23 15:11:17
+2026-05-23 06:11:17 [INFO] ============================================================
+2026-05-23 06:11:17 [INFO] Starting scrape at 2026-05-23 15:11:17 JST
+2026-05-23 06:11:25 [INFO] Essay scraped successfully: じぶんも子どもだったという思い出。...
+2026-05-23 06:11:25 [INFO] Content hash: 99224ae0915f
+2026-05-23 06:11:25 [INFO] Saved original markdown: TD-Original-2026-05-23.md
+2026-05-23 06:11:25 [INFO] Translating title...
+2026-05-23 06:11:29 [INFO] Translating author...
+2026-05-23 06:11:30 [INFO] Translating essay body...
+2026-05-23 06:11:46 [INFO] Generating summary...
+2026-05-23 06:11:48 [INFO] Saved translated markdown: TD-Translated-2026-05-23.md
+2026-05-23 06:11:48 [INFO] Archive saved with 111 entries
+2026-05-23 06:11:48 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-05-23 06:11:48 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-05-23 06:11:48 [INFO] Successfully processed: じぶんも子どもだったという思い出。
+2026-05-23 06:11:48 [INFO] Translated title: Remembering that I was once a child too.
+2026-05-23 06:11:48 [INFO] Summary: The essay reflects on how children's peculiar thoughts, innocent misconceptions, and forgotten moments—from imagining baseball scouts to discovering false "laws of nature"—subtly shape our personalities and persist in our memories well into adulthood. These childhood experiences, whether true or false, become part of who we are and how we think, revealing that children are ultimately the raw material from which adults are formed.
+2026-05-23 06:11:48 [INFO] Scraper completed successfully
