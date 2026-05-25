@@ -1,0 +1,12 @@
+## Title: It might not be worth it, and yet.
+## Date: 2026-05-25
+## Author: Shigesato Itoi
+## Content:
+
+The Korean Netflix drama "Everyone Is Fighting Their Worthless Self" is finally reaching its conclusion with Episode 12. As I write this, I've only watched up to Episode 11, and I honestly wonder whether they can wrap everything up in just one more episode (about an hour and five minutes, I think). Maybe it'll end with a feeling of "and the story goes on." Either way, this drama truly pulled me in. I imagine there are plenty of people who haven't seen it yet, so I won't say too much, but I think Park Hye-young's screenplay is simply outstanding. Part of what drew me in may be that the story is about people who make films. These are people who pour fierce passion into filmmaking, living their lives with their individual dreams and emotions all tangled up together. Of course they want a hit, and of course they want commercial success. But without that something more, that passion and seriousness beyond just business, this story wouldn't have worked, and that's exactly what makes it worth watching.
+
+There's only so much you can accomplish when all you think about is profit and loss. When you reduce everything to labor and compensation, there's a whole world of things you simply can't do. So why do these characters throw themselves so completely into something that doesn't even pay off? The show never gives you a direct answer. But without people like them, it's not just film. Every form of expression would stop being refined, would stop surviving into the future.
+
+Come to think of it, Kenji Ozawa recently said about his current live performances, "Playing with young musicians is really stimulating." I thought, yes, of course it is, and at the same time I found myself imagining how even now, in this day and age, there are young people practicing music intensely, choosing performance as their profession. In a way, if you start talking about cost-effectiveness, playing an instrument at that level is a job that just doesn't add up. But it made me happy to know that these "young people" who inspire someone like Ozawa are still out there, still growing. The fact that so many people still enter professions that demand enormous skill and relentless practice, going beyond calculations of profit and loss, beyond labor and compensation, that really is something I'd call "hope."
+
+Thank you, as always, for coming to Hobonichi today. Being able to do what you truly want to do is an extraordinary kind of joy, after all.
