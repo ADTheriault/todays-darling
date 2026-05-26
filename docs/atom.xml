@@ -1,12 +1,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-05-25T07:13:38.296051+00:00</updated>
+  <updated>2026-05-26T06:45:09.075892+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#044c4eb7b0f8</id>
+    <title>The form of manzai, and fiction.</title>
+    <updated>2026-05-26T06:44:47.038171+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The format of manzai comedy holds a real advantage in our current age, and that's because you have a partner right there beside you to play the straight man. This means the one playing the fool can say outrageous things, stupid things, irresponsible things, even dangerous things. Because their teammate is right there to say, "No way!" and pull them back to common sense. Even if one half of the duo says something wrong, the team as a whole can claim it still falls within the rules of society. In a time when criticism and opposing views fly in from every conceivable angle, this may be the most survivable form of expression there is.&lt;/p&gt;
+
+&lt;p&gt;If a solo performer stood at the microphone and said the same things, those words would be taken as "his opinion," plain and simple, and sometimes held against him as "his mistake." But when you really think about it, comedic talk was never meant to be a statement of personal views. It was supposed to be a craft, an art of making people laugh. And yet, because it overlaps with the speaker's own voice, people are quick to assume, "So that's what this comedian actually thinks." But if you only ever say things that stay safely within the bounds of common sense, you'll never produce a single laugh. In that sense, the manzai format, with its built-in self-criticism, is perfectly suited to an era like ours.&lt;/p&gt;
+
+&lt;p&gt;Writing, however, is not a team act. When you say something on the page, it belongs to you alone. You can't have someone jumping in beside you to correct you as you go. Well, you could try, but writing while preemptively apologizing for every possible objection would be so constrained as to be unbearable. And that, I think, is exactly why fiction is so interesting. Characters in a novel are free to transgress. You can give voice to evil, to hypocrisy, to madness. This is a possibility we ought to open up even further.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for visiting Hobonichi today. Come to think of it, isn't it true that so much of what we know about being human, we first learned from novels?&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#044c4eb7b0f8"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Manzai comedy's partnership format allows for bold, transgressive humor that self-corrects through its duo dynamic, whereas solo performance and especially written fiction lack this built-in safeguard—yet fiction's solitary nature is precisely what gives it the freedom to explore the full complexity of human experience without constraint.</summary>
+    <published>2026-05-26T06:44:47.038171+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#b7fb0646f405</id>
     <title>It might not be worth it, and yet.</title>
     <updated>2026-05-25T07:13:16.423211+00:00</updated>
@@ -714,32 +734,6 @@ If you're looking for a general example, please share the specific text and I'll
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on hosting sessions at a kayōkyoku music event, describing the genre as "songs for grown-ups" that capture the complexities of adult experience, and noting how exposure to such mature themes in childhood profoundly shaped their artistic sensibility.</summary>
     <published>2026-04-27T05:52:20.458478+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#c6a5f3179d76</id>
-    <title>We are holding a wake for little Kuma.</title>
-    <updated>2026-04-26T05:37:32.676872+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When someone dies, I don't usually talk about it much. If there's someone at the funeral hall holding a microphone, I steer clear, I slip away. I don't want to say anything, and I don't want to write anything either. Eventually, once enough time has passed, I'll remember them, talk about them with others. The time when someone "is here" and the time when someone "was here" are almost continuous, almost no different at all. Saying this or that about it, it's too soon.&lt;/p&gt;
-
-&lt;p&gt;But this time, with Kuma-chan, I want to say something now. Because, you know, I was actually planning to go see him on April 19th. I'd heard he wasn't doing well, so I figured once he was out of the hospital I'd head to Nara and, under the pretense of a get-well visit, just shoot the breeze with him. Something like, "So you pulled through again, huh?" "Yeah, you know me." We were going to say things to each other like, "We're both pretty hard to kill, aren't we."&lt;/p&gt;
-
-&lt;p&gt;Shinbo said he'd come too, so I thought, well, that's basically going to turn into a continuation of the final installment of "Tasogare." But we wanted to do it, so why not. I'd already started arranging hotels and bullet train tickets.&lt;/p&gt;
-
-&lt;p&gt;But then his discharge got pushed back a little, and word came that they'd be continuing treatment. So it became a tentative cancellation, a postponement. Apparently the man himself had said, "We can shoot the breeze in the hospital just fine," but we decided, no, let's wait until he's properly discharged and do it then.&lt;/p&gt;
-
-&lt;p&gt;And then what was supposed to be a postponement turned into a cancellation. "Jumping the gun a bit, aren't you," is what I thought. If I could get in touch with the other side right now, that's what I'd tell him. He'd probably answer something like, "More or less on schedule." Well, maybe "more or less," but still, it was a close thing. I wish we could have had at least one more round of nonsense, enough for one more installment of "Tasogare."&lt;/p&gt;
-
-&lt;p&gt;I've always thought that when my time comes, I want to be the kind of person whose wake is a lively affair. So that's what I'll do for Kuma-chan. I'll remember all sorts of things, and I'll make sure to laugh a lot. He may be a little ways off now, but I'll fill in the gaps with my imagination and hold a lively, one-man wake.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. Watching your friends die, one after another. That, more than anything, is what it means to grow old.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#c6a5f3179d76"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on the author's grief over losing a close friend named Kuma-chan, expressing regret over a postponed visit that never happened and a commitment to honoring him through lively memories rather than somber formality. Ultimately, it captures how aging is defined less by the passage of time than by the accumulating loss of those we love.</summary>
-    <published>2026-04-26T05:37:32.676872+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>

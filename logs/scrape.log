@@ -2261,3 +2261,23 @@ It's a long weekend, so I'm just idling about getting into mischief.
 2026-05-25 07:13:38 [INFO] Translated title: It might not be worth it, and yet.
 2026-05-25 07:13:38 [INFO] Summary: The essay celebrates how artists and creative professionals—whether filmmakers or musicians—pursue their passion beyond financial considerations, and argues that this commitment to excellence beyond profit is essential to human culture and what gives life genuine meaning.
 2026-05-25 07:13:38 [INFO] Scraper completed successfully
+2026-05-26 06:44:41 [INFO] ============================================================
+2026-05-26 06:44:41 [INFO] Hobonichi Scraper V2
+2026-05-26 06:44:41 [INFO] Current time (JST): 2026-05-26 15:44:41
+2026-05-26 06:44:41 [INFO] ============================================================
+2026-05-26 06:44:41 [INFO] Starting scrape at 2026-05-26 15:44:41 JST
+2026-05-26 06:44:47 [INFO] Essay scraped successfully: 漫才という形式と、フィクション。...
+2026-05-26 06:44:47 [INFO] Content hash: 044c4eb7b0f8
+2026-05-26 06:44:47 [INFO] Saved original markdown: TD-Original-2026-05-26.md
+2026-05-26 06:44:47 [INFO] Translating title...
+2026-05-26 06:44:49 [INFO] Translating author...
+2026-05-26 06:44:52 [INFO] Translating essay body...
+2026-05-26 06:45:06 [INFO] Generating summary...
+2026-05-26 06:45:09 [INFO] Saved translated markdown: TD-Translated-2026-05-26.md
+2026-05-26 06:45:09 [INFO] Archive saved with 114 entries
+2026-05-26 06:45:09 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-05-26 06:45:09 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-05-26 06:45:09 [INFO] Successfully processed: 漫才という形式と、フィクション。
+2026-05-26 06:45:09 [INFO] Translated title: The form of manzai, and fiction.
+2026-05-26 06:45:09 [INFO] Summary: Manzai comedy's partnership format allows for bold, transgressive humor that self-corrects through its duo dynamic, whereas solo performance and especially written fiction lack this built-in safeguard—yet fiction's solitary nature is precisely what gives it the freedom to explore the full complexity of human experience without constraint.
+2026-05-26 06:45:09 [INFO] Scraper completed successfully
