@@ -1,12 +1,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-05-30T06:22:21.717890+00:00</updated>
+  <updated>2026-05-31T06:57:21.709013+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#3f314d8cd532</id>
+    <title>The people you can see in the background of someone giving their all.</title>
+    <updated>2026-05-31T06:57:02.942222+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The phrase "it's all thanks to you" is a common one. It was even the title of a variety show, and you hear and read it all the time as a stock expression. But there are also plenty of times when someone says it and truly means it. In fact, come to think of it, I always mean it sincerely when I say it. Truly, from the bottom of my heart: it's all thanks to everyone.&lt;/p&gt;
+
+&lt;p&gt;No one can live without the help of others. When I was young, I often felt like I'd done everything myself. I won't entirely begrudge my younger self that kind of youthful pride, but at the same time, there's a part of me that wants to sit that younger me down and say, "That's not how it works." There was so much that happened thanks to other people, and I'm sure I caused plenty of trouble for them too. This isn't a lesson in morality. It's simply a matter of common sense.&lt;/p&gt;
+
+&lt;p&gt;Here's an easy example. A professional baseball manager, if he stepped up to the plate, couldn't hit the opposing pitcher's ball. He can't hit better than any of his players, and if he tried pitching or fielding, he'd be so hopeless he couldn't even make it into the game. No matter who you are, the things you can do on your own are few. Everything beyond that small sliver exists thanks to everyone else.&lt;/p&gt;
+
+&lt;p&gt;I mean, look, from the moment a baby comes crying into the world, it survives on nothing but the help of others. You can flush the toilet because someone built the sewage system. After your life is over, someone at the crematorium will take care of your remains. I could go on forever, but it's everything, absolutely everything!&lt;/p&gt;
+
+&lt;p&gt;Tomorrow, Monday, marks the start of a full week of "The Exhibition of Living Pleasantly." Behind every one of our teammates working as hard as they can, there are families and people who support them. While moms and dads are giving it their all, their children are waiting patiently at home, and their husbands and wives are holding things together. It's because of all those people that we're able to pour our sweat into this work. I'm genuinely, deeply grateful.&lt;/p&gt;
+
+&lt;p&gt;All right, it's the last day of preparation. Safety first, fun second. Let's go!&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today. The real work begins once you can see just how much you can't do on your own.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#3f314d8cd532"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Our individual accomplishments are only possible through the constant support and labor of countless others, from the infrastructure that sustains us daily to the people who love and care for us. True success comes from recognizing this interdependence and feeling genuine gratitude for all those who enable our efforts.</summary>
+    <published>2026-05-31T06:57:02.942222+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#1bb51298a0eb</id>
     <title>Flowers are still blooming.</title>
     <updated>2026-05-30T06:22:00.601363+00:00</updated>
@@ -708,32 +734,6 @@ If you're looking for a general example, please share the specific text and I'll
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on various minor linguistic quirks and mispronunciations in Japanese—from calling dinner a "night-meal" to misusing "eternity" for "at great length"—while acknowledging that language naturally evolves and that rigid adherence to correctness isn't always necessary. The author accepts most of these shifts as inevitable language change, even while personally preferring certain traditional usages.</summary>
     <published>2026-05-02T05:35:25.609332+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#3f206fe302a3</id>
-    <title>Perhaps the nights are longer than the days.</title>
-    <updated>2026-05-01T06:15:07.380655+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;People sometimes compare a human life to the movement of the sun. It's actually something most of us do, in one way or another.&lt;/p&gt;
-
-&lt;p&gt;The time just after birth is like the sun rising from the horizon. A baby lights up everything around it, and just watching one fills you with joy. Before long, the sun climbs higher and higher. The light grows stronger, and perhaps the sun itself is growing larger. It feels like an afternoon that will never end. Sometimes the glare is so fierce it withers the grass and trees. In the blazing season of youth, you need the help of water and wind.&lt;/p&gt;
-
-&lt;p&gt;But of course, the afternoon cannot last forever. At some point, the sun is no longer at its highest. Now it descends toward the earth. The brightness fades, and the glare is gone. In the western sky, a soft, faintly reddish light sinks quietly away.&lt;/p&gt;
-
-&lt;p&gt;You might think that's the end of the sun's story, but it isn't quite. And if you're wondering whether the moon and stars step in to take the sun's place, well, it doesn't really work out that neatly. Nor is this where a person's life simply ends. What happens, more or less, is that night begins. And it is long. Every bit as long as the day. Long, long, long. You could sleep through it if you wanted, or you could stay awake the way you did during the daytime.&lt;/p&gt;
-
-&lt;p&gt;And if you sit there wondering what to do with this long night, eventually, from the eastern sky, here it comes again. The sun. Well now, is that how it works? It just repeats? Even if you compare a single day to a human life, wait a moment, there's no ending to this, is there?&lt;/p&gt;
-
-&lt;p&gt;When I think back, I parted ways with friends I used to play with. I grew tired of things, forgot things, one after another. But even after nightfall, there are still people to meet, and the music keeps playing, calling out, "Come on, let's have fun." After the sunset, the night turns out to be lit up bright as anything.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. I'm just singing whatever comes to mind, the way you might hum a lullaby for someone.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#3f206fe302a3"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Life mirrors the sun's daily cycle—rising in youth with brilliant intensity, setting into old age with gentle fading, and then entering a long night that is equally rich with meaning and connection, suggesting that existence need not end but transforms and continues in unexpected ways.</summary>
-    <published>2026-05-01T06:15:07.380655+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
