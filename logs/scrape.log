@@ -2405,3 +2405,23 @@ Sauce flavor.
 2026-06-01 08:33:17 [INFO] Translated title: These days, age didn't matter, did it.
 2026-06-01 08:33:17 [INFO] Summary: The essay celebrates a live exhibition event that brings together people of all ages and ranks who work collaboratively without hierarchy, creating an inclusive and energizing environment where everyone feels equally valued and welcomed.
 2026-06-01 08:33:17 [INFO] Scraper completed successfully
+2026-06-02 07:23:01 [INFO] ============================================================
+2026-06-02 07:23:01 [INFO] Hobonichi Scraper V2
+2026-06-02 07:23:01 [INFO] Current time (JST): 2026-06-02 16:23:01
+2026-06-02 07:23:01 [INFO] ============================================================
+2026-06-02 07:23:01 [INFO] Starting scrape at 2026-06-02 16:23:01 JST
+2026-06-02 07:23:08 [INFO] Essay scraped successfully: 暗くした風呂につかって、目を閉じてみる。...
+2026-06-02 07:23:08 [INFO] Content hash: 0bcf840861b6
+2026-06-02 07:23:08 [INFO] Saved original markdown: TD-Original-2026-06-02.md
+2026-06-02 07:23:08 [INFO] Translating title...
+2026-06-02 07:23:09 [INFO] Translating author...
+2026-06-02 07:23:11 [INFO] Translating essay body...
+2026-06-02 07:23:28 [INFO] Generating summary...
+2026-06-02 07:23:30 [INFO] Saved translated markdown: TD-Translated-2026-06-02.md
+2026-06-02 07:23:30 [INFO] Archive saved with 121 entries
+2026-06-02 07:23:30 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-02 07:23:30 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-02 07:23:30 [INFO] Successfully processed: 暗くした風呂につかって、目を閉じてみる。
+2026-06-02 07:23:30 [INFO] Translated title: Soaking in a darkened bath with my eyes closed.
+2026-06-02 07:23:30 [INFO] Summary: The essay explores how moments of vulnerability and defenselessness—like bathing with eyes closed or observing sleeping infants—provide essential psychological nourishment that helps us shed the constant tension of being guarded in daily life. The author suggests that regularly accessing this state of complete unguarded peace is as vital to our well-being as actual sleep itself.
+2026-06-02 07:23:30 [INFO] Scraper completed successfully
