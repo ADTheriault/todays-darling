@@ -2425,3 +2425,23 @@ Sauce flavor.
 2026-06-02 07:23:30 [INFO] Translated title: Soaking in a darkened bath with my eyes closed.
 2026-06-02 07:23:30 [INFO] Summary: The essay explores how moments of vulnerability and defenselessness—like bathing with eyes closed or observing sleeping infants—provide essential psychological nourishment that helps us shed the constant tension of being guarded in daily life. The author suggests that regularly accessing this state of complete unguarded peace is as vital to our well-being as actual sleep itself.
 2026-06-02 07:23:30 [INFO] Scraper completed successfully
+2026-06-03 08:14:05 [INFO] ============================================================
+2026-06-03 08:14:05 [INFO] Hobonichi Scraper V2
+2026-06-03 08:14:05 [INFO] Current time (JST): 2026-06-03 17:14:05
+2026-06-03 08:14:05 [INFO] ============================================================
+2026-06-03 08:14:05 [INFO] Starting scrape at 2026-06-03 17:14:05 JST
+2026-06-03 08:14:11 [INFO] Essay scraped successfully: ナイスな「やんなくていいこと」を、拾ったぜ。...
+2026-06-03 08:14:11 [INFO] Content hash: 7e0262ab9ef8
+2026-06-03 08:14:11 [INFO] Saved original markdown: TD-Original-2026-06-03.md
+2026-06-03 08:14:11 [INFO] Translating title...
+2026-06-03 08:14:14 [INFO] Translating author...
+2026-06-03 08:14:16 [INFO] Translating essay body...
+2026-06-03 08:14:32 [INFO] Generating summary...
+2026-06-03 08:14:34 [INFO] Saved translated markdown: TD-Translated-2026-06-03.md
+2026-06-03 08:14:34 [INFO] Archive saved with 122 entries
+2026-06-03 08:14:34 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-03 08:14:34 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-03 08:14:34 [INFO] Successfully processed: ナイスな「やんなくていいこと」を、拾ったぜ。
+2026-06-03 08:14:34 [INFO] Translated title: I picked up a nice "thing I don't have to do."
+2026-06-03 08:14:34 [INFO] Summary: The author argues that the most interesting and creative pursuits are those we choose freely rather than those we feel obligated to do, illustrating this insight through a chance discovery of a brilliant conversation about the liberating nature of voluntary activities.
+2026-06-03 08:14:34 [INFO] Scraper completed successfully
