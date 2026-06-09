@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-08T08:08:40.776773+00:00</updated>
+  <updated>2026-06-09T06:49:11.266726+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#eab589ef6287</id>
+    <title>A world where you can find almost anything if you look</title>
+    <updated>2026-06-09T06:48:48.075206+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;It's never the case that all one hundred people out of a hundred are thinking the same thing. Even something you feel sure about, if half the people in the world happen to agree with you, you can safely say, "Well, that's a pretty good number." You might be absolutely convinced that "when it comes to oden, it's all about the daikon," but how many people would actually nod along and say, "Yes, daikon"? And the same goes for eggs. Konjac might be practically synonymous with oden, but I don't think all that many people would name it as their personal number one. (Based on a highly informal neighborhood survey.) When it comes to the question "What do you think of when you think of oden?", there is simply no answer that everyone will unanimously agree on.&lt;/p&gt;
+
+&lt;p&gt;So if you go around brimming with confidence, convinced that "everyone loves eggs," and you actually put the question to people, you'll find yourself caught off guard by voices calling out "shirataki!" or "chikuwa!" Someone with a narrow mind might even get angry. "How outrageous!"&lt;/p&gt;
+
+&lt;p&gt;I keep saying this, but we really need to understand that it's absolutely impossible for a hundred people to all be thinking the same thing. You can't just declare, "Everyone must want this kind of world," or "This is how people think." Outlandish opinions, ideas you'd never expect, for better or worse, they absolutely exist out there in the world.&lt;/p&gt;
+
+&lt;p&gt;People often say that ego-searching, looking yourself up online, is bad for your mental health, and you should stop doing it. That's because it's essentially going out of your way to hunt for information that will hurt you. If you make the effort to poke around in every back alley and side street, you will always find what's already there, because it's always been there. And once you notice it, it can throw off your inner sense of balance. Getting swept up in a whirlpool of agreement and affirmation is dangerous too, but so is fixating on every dark stain on the wall.&lt;/p&gt;
+
+&lt;p&gt;We live in an age where you can go and see the thoughts of not just a hundred people, but a million, as many as you like, whenever you want. That might actually be a strange thing for human beings. Thank you for visiting Hobonichi again today. Knowing too much, wanting to know too much. It pays to be careful.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#eab589ef6287"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that universal agreement is impossible and that modern technology's ability to expose us to countless diverse—and sometimes hurtful—opinions can disturb our mental equilibrium, making it important to resist both ego-searching and the compulsion to know everything about what others think.</summary>
+    <published>2026-06-09T06:48:48.075206+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#60964935a114</id>
     <title>Something like the acknowledgments at the end of a book's afterword.</title>
     <updated>2026-06-08T08:08:15.926666+00:00</updated>
@@ -718,30 +740,6 @@ Sauce flavor.</title>
     <link href="https://www.1101.com/"/>
     <summary>While a .500 record may seem like failure, it actually represents a fresh start and the accumulated experience of having lived fully, deserving respect and appreciation rather than disappointment. The essay argues for finding meaning and charm in balanced, middling results—both in sports and life—rather than constantly chasing victory.</summary>
     <published>2026-05-11T06:38:33.111505+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#9b046e2bd407</id>
-    <title>I have something I'm quietly working hard at.</title>
-    <updated>2026-05-10T06:09:53.327646+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I had planned to just keep at it quietly, but I can't hold it in any longer, so here it is. I bought a brand-new pair of jeans, and I've been wearing them into the ground, trying to break them in until they're fully seasoned. Not pre-distressed. Not someone else's well-worn pair from a vintage shop. I want to wear them myself until they look just right.&lt;/p&gt;
-
-&lt;p&gt;Back around the time Hobonichi first launched, I was doing exactly this, in earnest. They grew into something that looked really good, but because I spend so much time sitting at a desk, the seat wore through and got far too thin. I've forgotten a lot of the details from back then, but I think I must have worn them hard for close to a year. The truly devoted types apparently never even wash theirs, but I'm a member of society, more or less, so I washed mine as I went. Even those memories are now a quarter century old.&lt;/p&gt;
-
-&lt;p&gt;I own a great many pairs of jeans, so I'd never committed to picking one pair and wearing them day after day. Now that I actually want to start from scratch, it turns out to be surprisingly difficult. It takes real, conscious effort. It's not that I have some particular desire to look stylish, but I'm also not trying to play the stubborn old crank who wears the same jeans every day. I simply felt like doing it. It's probably not so different from thinking, maybe I'll take up fishing, or maybe I'll start running.&lt;/p&gt;
-
-&lt;p&gt;This may sound a bit abstract, but the accumulation of each day's hours gets recorded in a single pair of jeans, as creases, as scuffs, as fading, becoming a kind of expression. No one else can buy the same thing, and no one else can make it. And yet here I am, an old man by now, wanting to go out of my way to try this all over again.&lt;/p&gt;
-
-&lt;p&gt;I'm about three months in. There are changes, though no one else would notice. It's right around the stage where you might or might not detect the first signs of them starting to look right. Am I bored with it? Of course, I got bored ages ago. But having written about it today, I feel like I can keep going.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today, as always. I have a feeling I might actually be suited to simple repetition.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#9b046e2bd407"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author describes breaking in a new pair of jeans through daily wear as a meditative practice that creates something uniquely personal—a record of time and effort that cannot be replicated or purchased. Though the process is mundane and requires conscious commitment, he finds meaning in this simple act of repetition and the subtle transformations it produces.</summary>
-    <published>2026-05-10T06:09:53.327646+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
