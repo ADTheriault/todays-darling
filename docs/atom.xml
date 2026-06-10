@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-09T06:49:11.266726+00:00</updated>
+  <updated>2026-06-10T07:08:08.237145+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#8cf8645f44d1</id>
+    <title>There is no dog that doesn't play at all.</title>
+    <updated>2026-06-10T07:07:44.644573+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Our dog Buiko is, for a dog, not very active. Don't get me wrong, she's adorable, but active she is not. She seems to like going outside, yet she's not fond of walks. She'll wander around the yard for a bit, then immediately take on an attitude of "Shall we go back in now?" Our previous dog, Bouillon, never once said "That's enough" no matter how long a walk lasted. It was always "More!" On top of that, even when she was inside, she was constantly bouncing around, looking for any chance to play. She'd grab a ball, trot over, and drop it right at my feet, demanding I throw it. (Iwata-san got roped into that one plenty of times.) When you threw it, she'd race after it, sprint back at full speed, and drop it again. Over and over, as many times as you'd let her. She was a dog who lived for play, for whom physical activity was the greatest joy. With the energy levels we have now, there's no way we could keep up with her.&lt;/p&gt;
+
+&lt;p&gt;It's not as though we chose our match based on that kind of convenience, but the energy-saving lifestyle of our second dog has been a real blessing. The only time she gets active is when she's "reporting for duty" to announce that someone has come to the front door. That's the one occasion when she barks her heart out. You always do good work, Buiko. Thank you.&lt;/p&gt;
+
+&lt;p&gt;Now, even a dog like our second one will, every once in a while, come over to invite me to play. She'll position herself in my line of sight and let out a quiet little grumble. When I respond to the signal and stand up, she runs ahead to where the toys are kept, picks up a rubber ball, and sets it down on the spot. I throw it and she goes after it, but she doesn't bring it back. She just stays where she is, waiting for me to walk over to her. There's the "go" of back-and-forth, but no "back." So I have no choice but to go to her. The dog simply waits. From wherever she's standing, I pick up the ball and throw it again. She chases it, then stops where it lands. After a few rounds of this, she stops chasing the ball altogether. A dog, not chasing a ball. And that's the end of it, just a few minutes in all.&lt;/p&gt;
+
+&lt;p&gt;But the interesting thing is, it's not that she doesn't want to play. Well, say what you will, I suppose the dog in her blood is still there after all.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi today. Bouillon, Buiko, and I: none of us could go through life without play.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#8cf8645f44d1"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author reflects on how their current low-energy dog Buiko, though less demanding than their previous high-spirited dog Bouillon, still seeks out play in her own subtle way, revealing that play remains essential to life for dogs and humans alike. Despite their different temperaments and energy levels, both dogs demonstrate that the desire to play is a fundamental part of their nature.</summary>
+    <published>2026-06-10T07:07:44.644573+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#eab589ef6287</id>
     <title>A world where you can find almost anything if you look</title>
     <updated>2026-06-09T06:48:48.075206+00:00</updated>
@@ -712,34 +734,6 @@ Sauce flavor.</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay explores the author's small, everyday struggles—from finding the right time to journal despite exhaustion, to deciding which books to keep, to balancing personal habits with consideration for others—revealing that life's most persistent dilemmas are often the seemingly trivial ones we continuously revisit.</summary>
     <published>2026-05-12T06:13:51.565875+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#2169294645d8</id>
-    <title>Do you like a 50% win rate?</title>
-    <updated>2026-05-11T06:38:33.111505+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;A fifty-percent win rate means no surplus and no deficit. No matter how many games you play, the wins and losses come out even. I never had a very good image of that. Especially in sports, you can't win a championship with a fifty-percent record. So whenever my favorite team was sitting at .500, I'd feel a little dejected, thinking, "They just can't pull it together."&lt;/p&gt;
-
-&lt;p&gt;But lately, maybe because I've grown up a bit, I've started to think, "You know, fifty percent isn't so bad."&lt;/p&gt;
-
-&lt;p&gt;If your wins and losses are equal, does that mean, to put it bluntly, "you might as well not have bothered"? But then I realized: that's also exactly the same as standing at the starting line, thinking, "Here we go." Having no surplus and no debt, about to begin something new. That situation is, in essence, identical to a fifty-percent win rate.&lt;/p&gt;
-
-&lt;p&gt;And while I'm at it, if you've played a lot of games and come out with no surplus and no deficit, it also means you've accumulated experience. It means you've been alive and moving through all that time.&lt;/p&gt;
-
-&lt;p&gt;To be honest, as someone who simply loves sports, I'm not satisfied with fifty percent. I can say without hesitation that I love a runaway championship victory. That's true. But I want to nurture something like a respect for that fifty-percent record.&lt;/p&gt;
-
-&lt;p&gt;"A .500 team you desperately want to root for." "A .500 team that feels like it could do more." "A .500 team where you can really sense the teamwork." If we could feel those things, and make others feel them too, I think there'd be so much more to enjoy.&lt;/p&gt;
-
-&lt;p&gt;Well, sports are a kind of stand-in for battle, so winning and losing will always matter. But in everything else we do, I think it would be wonderful if we could pull off a .500 record that has real charm.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. Ambition and acceptance. Fight and peace. Passion and a gentle smile. I want them all.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#2169294645d8"/>
-    <link href="https://www.1101.com/"/>
-    <summary>While a .500 record may seem like failure, it actually represents a fresh start and the accumulated experience of having lived fully, deserving respect and appreciation rather than disappointment. The essay argues for finding meaning and charm in balanced, middling results—both in sports and life—rather than constantly chasing victory.</summary>
-    <published>2026-05-11T06:38:33.111505+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
