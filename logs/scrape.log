@@ -2605,3 +2605,23 @@ Sauce flavor.
 2026-06-11 07:28:43 [INFO] Translated title: Cowboys as workers.
 2026-06-11 07:28:43 [INFO] Summary: The essay reflects on how the simple privilege of choosing what to eat stems from the sacrifices of pioneers like cowboys who endured monotonous, grueling labor, reminding us that modern comfort rests on a solid historical foundation of hardship and sacrifice.
 2026-06-11 07:28:43 [INFO] Scraper completed successfully
+2026-06-12 07:20:47 [INFO] ============================================================
+2026-06-12 07:20:47 [INFO] Hobonichi Scraper V2
+2026-06-12 07:20:47 [INFO] Current time (JST): 2026-06-12 16:20:47
+2026-06-12 07:20:47 [INFO] ============================================================
+2026-06-12 07:20:47 [INFO] Starting scrape at 2026-06-12 16:20:47 JST
+2026-06-12 07:20:53 [INFO] Essay scraped successfully: 今日もラーメンを食べたっけなぁ。...
+2026-06-12 07:20:53 [INFO] Content hash: 4e08de15e33c
+2026-06-12 07:20:53 [INFO] Saved original markdown: TD-Original-2026-06-12.md
+2026-06-12 07:20:53 [INFO] Translating title...
+2026-06-12 07:20:55 [INFO] Translating author...
+2026-06-12 07:20:57 [INFO] Translating essay body...
+2026-06-12 07:21:14 [INFO] Generating summary...
+2026-06-12 07:21:15 [INFO] Saved translated markdown: TD-Translated-2026-06-12.md
+2026-06-12 07:21:15 [INFO] Archive saved with 131 entries
+2026-06-12 07:21:15 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-12 07:21:15 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-12 07:21:15 [INFO] Successfully processed: 今日もラーメンを食べたっけなぁ。
+2026-06-12 07:21:15 [INFO] Translated title: I had ramen again today, didn't I.
+2026-06-12 07:21:15 [INFO] Summary: The author celebrates ramen both as a competitive craft worthy of deep expertise and study, while also appreciating the simple pleasure of enjoying good ramen without pretension or specialized knowledge.
+2026-06-12 07:21:15 [INFO] Scraper completed successfully
