@@ -1,12 +1,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-14T07:21:47.736603+00:00</updated>
+  <updated>2026-06-15T09:20:21.029128+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#f888fea15a28</id>
+    <title>Sentences that you don't need to read or write.</title>
+    <updated>2026-06-15T09:19:55.261606+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;It's Sunday evening, and here I am, sitting at a loss. "Here" being my work desk, the place where I write. I haven't even decided what to write about, yet here I am, typing away. The reason is simple: I don't want to be doing this work late at night, as I usually do. My ambition tonight is to be in bed by ten. Because I want to be awake by four, four-thirty, the hour I'd normally be crawling into bed. And from there, I want to keep my eyes open for about three hours straight. On top of that, Monday's schedule has three things I need to get done. So I really don't want to spend the day sleep-deprived.&lt;/p&gt;
+
+&lt;p&gt;Write tomorrow's column during the daytime on Sunday. Then eat dinner, take a bath, and get to bed early. That's the unfamiliar plan I'm attempting here.&lt;/p&gt;
+
+&lt;p&gt;As you've probably guessed, it's for the soccer. The World Cup, Japan versus the Netherlands. I intend to watch it believing we'll win, but of course winning isn't guaranteed. I'm fairly well acquainted with the dejection that comes from a loss. Even if I manage to pull off this forced early-to-bed, early-to-rise routine, the exhaustion when they don't win is going to be brutal.&lt;/p&gt;
+
+&lt;p&gt;As you may be aware, yours truly is an aging body running low on stamina. And yet I will push myself to watch and cheer through the entire broadcast. No, forgive me if that sounds like I'm fishing for sympathy. What I'm doing is perfectly ordinary. Just the story of one unremarkable day. Though it's also true that it wears me out.&lt;/p&gt;
+
+&lt;p&gt;I should just rest. I could record the game and watch it later at my leisure. I know that. It's not as though I haven't had that argument with myself. But I'm a crew member of the "Put Hands and Feet on Your Dreams" team. If you want to watch it, then what can you do right now? If you don't want it interfering with tomorrow's work, what should you do right now? Write the column on Sunday evening. That's the answer.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, I already watched "The Toyotomi Brothers" on BS-4K just after noon. The daytime Seibu-Giants game ended quietly. (From here on out, just as before, the world keeps moving, and so do I...)&lt;/p&gt;
+
+&lt;p&gt;By the way, by the time you're reading this, how did the match turn out?&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. To rid myself of any second thoughts, I'm going to go ahead and send this piece off right now.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#f888fea15a28"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author rearranges her entire Sunday routine—writing early, going to bed at ten, and waking at four—so she can watch Japan's World Cup match against the Netherlands without sacrificing work or sleep, embodying her philosophy of taking action now to pursue what matters to you.</summary>
+    <published>2026-06-15T09:19:55.261606+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#798c539c4834</id>
     <title>"Nobody special."</title>
     <updated>2026-06-14T07:21:32.460723+00:00</updated>
@@ -720,32 +748,6 @@ Sauce flavor.</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that what truly matters in extraordinary people—whether performers, leaders, or artists—is not their polished output but their underlying physical and mental stamina, the fundamental "root force" that makes everything else possible. The author reflects on his own lack of such energy while appreciating those who possess it abundantly.</summary>
     <published>2026-05-17T06:21:30.204859+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#2952bf7c19c1</id>
-    <title>The lion chases the rabbit with all its might.</title>
-    <updated>2026-05-16T05:52:32.227446+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I'll begin with a quotation. This may be the first time I've ever done something like this. The source is Aozora Bunko, so you can read the full text there if you like. (I've put the furigana readings in parentheses and added a few line breaks.)&lt;/p&gt;
-
-&lt;p&gt;"In the autumn of the year 1902 of the Western calendar, on a forgotten day of a forgotten month, I hoisted a white flag from my bedroom window and sued for peace with the landlady of my boarding house. No sooner had I done so than the old woman set about hauling her one-hundred-and-sixty-pound frame up to the very top of the third floor. I say 'set about hauling' rather than 'hauled' in order to convey just how much effort was involved. The staircase comprised no fewer than forty-two steps. She paused to rest twice along the way. After an expenditure of three minutes and five seconds, the face of this magnificent woman, which ought to have worn an expression of triumph, appeared with agonized abruptness in my doorway. The surroundings shrank to nothing beside her. Addressing myself, who bore the honor of this audience upon my two narrow and burdened shoulders, the old woman, as the first article of our peace terms, issued the following command: Ride a bicycle."&lt;/p&gt;
-
-&lt;p&gt;I can't quite work out his system for punctuation, and the writing looks intimidating at first glance, but every line is plainly angling for a laugh. This is the opening of Natsume Soseki's essay "The Bicycle Diary." He blends a grandiose literary style with the patter of a comic storyteller, as if to say: savor my literary craftsmanship until you can't stand it anymore. And that tone carries on, unbroken, for the entire piece. What he's really writing about is simply this: he had to learn to ride a bicycle, and no matter what he tried it was hopeless and he hated every minute of it. Yet somehow the whole thing is rendered like the ornamental transom carving in a newly built house, executed with all the painstaking finesse of a master artisan.&lt;/p&gt;
-
-&lt;p&gt;After all, this is Natsume Soseki we're talking about. A great man. His face was on our money. A towering figure of Meiji literature. You might imagine he could dash off something like this with his left hand, scribbling it out like idle doodling, half asleep the whole time.&lt;/p&gt;
-
-&lt;p&gt;Yeah, no. I don't think so. He was writing in earnest, moment by moment, with all the seriousness that includes play and pleasure and devotion to craft.&lt;/p&gt;
-
-&lt;p&gt;Well, it's not as though I'm reflecting on my own shortcomings here or anything.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. Soseki wrote this while studying in England at the age of thirty-five. Me? I can ride a bicycle just fine.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#2952bf7c19c1"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay celebrates how Natsume Soseki approached the humble subject of learning to ride a bicycle with the same earnest craftsmanship and literary devotion that defined his major works, demonstrating that great writers apply their full artistry to every task, no matter how mundane.</summary>
-    <published>2026-05-16T05:52:32.227446+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
