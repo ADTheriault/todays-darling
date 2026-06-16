@@ -1,12 +1,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-15T09:20:21.029128+00:00</updated>
+  <updated>2026-06-16T08:44:48.868906+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#6789447ef902</id>
+    <title>There has never been a draw so universally praised as this one.</title>
+    <updated>2026-06-16T08:44:24.604811+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Sorry about all the comings and goings yesterday. In the end, I managed to watch the World Cup match on TV, full of excitement. When you think about it, what a convenient world we live in now. Here's a soccer match being played in Texas, in the United States. A team that traveled all the way from the Netherlands, and a team on the road from Japan, where we live, facing off against each other, and at that very same moment, an ordinary citizen like me is sitting here watching it. When it comes to things like this, I'm genuinely in awe of the progress of civilization. Relay runners and smoke signals wouldn't have cut it, and even with postal mail or telephones, you could never enjoy a live broadcast. Friends of mine tell me that even deep in the mountains of Nepal, the local women all have smartphones now. When it comes to the act of "communicating," the world has already reached a point of no return.&lt;/p&gt;
+
+&lt;p&gt;You might think it's strange that I'm marveling at all this now. "Why is he going on about something so obvious?" But let me have my moment of wonder, please. I'm a person from another era, originally. I was a kid who drank well water. If you like, I could tell you all about pit latrines. A single charcoal brazier in a freezing classroom in the dead of winter. When I think back on it now, I knew an age that was practically something out of a period drama, and I also know the world as it is around 2026. Depending on how you look at it, that might actually be a tremendous privilege.&lt;/p&gt;
+
+&lt;p&gt;Even so, the afterglow of the soccer match lingers, and I keep snacking on bits of news from that world. There's been a sudden flood of stories about "how incredible Japan is." It seems all sorts of people from other countries have been breaking down the strategy that Manager Moriyasu had envisioned. I don't have the sharpest eye for understanding these things, but as an amateur, I've been reading it all with real fascination. And among everything I've seen, the fact that Moriyasu was giving tactical instructions during the match by scribbling numbers on a whiteboard by hand. Honestly, I absolutely loved that. It was the best!&lt;/p&gt;
+
+&lt;p&gt;Thanks for coming to Hobonichi again today. I'm in trouble, though. My brain just won't shift back to its regular schedule.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#6789447ef902"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author marvels at the miracle of modern technology that allows instantaneous global communication—watching a live World Cup match from halfway around the world—while reflecting on how their lifetime spans from primitive conditions to our connected present, a privilege that fills them with genuine wonder.</summary>
+    <published>2026-06-16T08:44:24.604811+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#f888fea15a28</id>
     <title>Sentences that you don't need to read or write.</title>
     <updated>2026-06-15T09:19:55.261606+00:00</updated>
@@ -726,28 +746,6 @@ Sauce flavor.</title>
     <link href="https://www.1101.com/"/>
     <summary>The key to delicious rice is removing moisture—whether through the active fanning process of sushi rice or by avoiding the "keep warm" setting that traps steam and makes rice soggy—and understanding that freshly cooked warmth is fleeting, so cold rice is often the better choice.</summary>
     <published>2026-05-18T06:55:26.394202+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#dcb50526504f</id>
-    <title>People I admire, who are incredibly resilient.</title>
-    <updated>2026-05-17T06:21:30.204859+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There are things that sound completely blunt and obvious, yet are fundamentally, incredibly important. For example, something I've written about here a few times: when Takaaki Yoshimoto spoke about why he became interested in Shinran, he said it was largely because he grew up in a household deeply devoted to Jodo Shinshu Buddhism. Or when someone asked him, "Why do you always have the TV on?" and he answered, "Probably because I get lonely." These aren't the kind of impressive-sounding answers people expect, so an interviewer might feel let down. But they get at something truly fundamental. And what I want to say is very much in that same vein.&lt;/p&gt;
-
-&lt;p&gt;I saw Kenji Ozawa's incredibly powerful live show, and all I can talk about is the sheer energy of it. I understand what he's going for, what he wants people to feel. But if you think of it in terms of a tree, all of that belongs to the flowers and the fruit. And I'm all for everyone admiring and discussing how magnificent those are. But what I kept sensing was the root force, the fundamental power, root and trunk, that makes those flowers and fruit possible. That's all I wanted to talk about. Bluntly, with no regard for politeness or decorum, what I thought was: "That guy is ridiculously tough!"&lt;/p&gt;
-
-&lt;p&gt;He looks like he might be some delicate, sensitive young gentleman, but really he's storing up an almost ferocious amount of energy. It reminds me, I think Seiji Ozawa must have been the same way, just brimming with energy. All the truly extraordinary people in the world have incredible physical stamina. I bet that's true of politicians too, isn't it? And in cases where someone doesn't have that natural stamina, they grind themselves down to nothing, pour out every last ounce of abnormal energy, and essentially burn through their whole life doing it.&lt;/p&gt;
-
-&lt;p&gt;Yesterday I went to see Reiwa Roman's big live show, and the energy they put behind every laugh was like a weapon going off. People who can do that kind of thing are the ones who draw others to them. And me? I'm frail, low-energy, and honestly kind of pathetic.&lt;/p&gt;
-
-&lt;p&gt;Thanks for coming to Hobonichi again today. I'd like to find a way to keep things interesting, even if I stay pathetic.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#dcb50526504f"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay argues that what truly matters in extraordinary people—whether performers, leaders, or artists—is not their polished output but their underlying physical and mental stamina, the fundamental "root force" that makes everything else possible. The author reflects on his own lack of such energy while appreciating those who possess it abundantly.</summary>
-    <published>2026-05-17T06:21:30.204859+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
