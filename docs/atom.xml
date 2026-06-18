@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-17T08:26:50.851334+00:00</updated>
+  <updated>2026-06-18T08:06:49.095445+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#99c93a914d8a</id>
+    <title>I want to open the windows and widen the doorways.</title>
+    <updated>2026-06-18T08:06:25.775337+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Hot during the day, then surprisingly chilly once night falls. And if you're not paying attention, the rain sneaks up on you too. The rainy season keeps you on your toes. But as long as it's not one of those endless stretches of downpour, I don't really mind it. The green after a good soaking is truly beautiful, so I'm actually rather fond of this time of year. That said, I've been getting my parasol ready for the relentless heat of midsummer, which will be upon us before long.&lt;/p&gt;
+
+&lt;p&gt;Something I've been thinking about lately: no matter what the weather is like, just being able to open a window now and then feels like such a gift. In a lot of newer office buildings, even ones with perfectly good climate control, the windows don't open. And of course I understand why. Someone could fall. It's dangerous. But spaces with no windows, no connection to the outside, they've never sat well with me.&lt;/p&gt;
+
+&lt;p&gt;Sure, you can control the temperature, the humidity, the air quality. But I think something in us, something unconscious, is always registering: this place is sealed off. Because it is. You really are in a closed space, when it comes down to it. I can't help thinking that has an effect on the people inside. Any living creature, packed into a small, sealed space with others, things aren't going to go well. And it's not just a matter of ventilation.&lt;/p&gt;
+
+&lt;p&gt;Being able to sense that flow between inside and outside, that openness, I think that's one of the most important conditions for feeling comfortable in a place. You can eat and sleep in a prison, too. But the fact that you can't leave, that you're in a closed space, that alone is punishment enough.&lt;/p&gt;
+
+&lt;p&gt;Freedom to come and go. Openness. If you don't keep that consciously in mind, things tend to close up on their own. Closed systems are easier to control, after all. And it's much the same in virtual spaces online. That feeling of things closing in, people colliding, the air growing stifling.&lt;/p&gt;
+
+&lt;p&gt;Thanks for visiting Hobonichi today. My ideal is something like an engawa, that in-between space, half inside and half outside, where the two can meet.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#99c93a914d8a"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on how physical and psychological openness—whether through windows that open to the outside or spaces that allow freedom of movement—is essential to human comfort and well-being, a principle that applies equally to built environments, social spaces, and digital communities. The author advocates for maintaining permeable boundaries between inside and outside as a guard against the suffocating feeling of closed, controlled systems.</summary>
+    <published>2026-06-18T08:06:25.775337+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#f236dbb10172</id>
     <title>On books, and on the act of conversation.</title>
     <updated>2026-06-17T08:26:24.969438+00:00</updated>
@@ -710,36 +734,6 @@ Sauce flavor.</title>
     <link href="https://www.1101.com/"/>
     <summary>People naturally gather in places centered around what they love, whether it's a supermarket opening in 1979 or a modern community space—the fundamental human desire to connect with others who share your passions remains unchanged across decades.</summary>
     <published>2026-05-20T06:47:37.024684+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#fe1b18e8af80</id>
-    <title>Everyone has more energy than they know what to do with.</title>
-    <updated>2026-05-19T06:47:14.319766+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;It's possible that a great many people are thinking something like this: "If someone would just tell me clearly, 'Do this,' if someone would just give me specific instructions on what I'm supposed to do, I could really show what I'm capable of."&lt;/p&gt;
-
-&lt;p&gt;They might also be thinking, "If someone would just present me with a goal, a bright future to work toward, I'd give it everything I've got. I'd work myself to the bone."&lt;/p&gt;
-
-&lt;p&gt;And I suspect that's probably true. I think there are an enormous number of people who believe, "The reason I can't perform at my full potential is that nobody's given me something I should be doing, and I haven't found anything I want to do."&lt;/p&gt;
-
-&lt;p&gt;In dramas, there's often a leader you can look up to, and the story revolves around the team rallying together to help him succeed. You see it in sports stories, war stories, corporate sagas. The team members in those stories already know what needs to be done. So no matter how hard it gets, no matter how impossible it seems, no matter what sacrifices are required, all they have to do is throw themselves into it with everything they've got.&lt;/p&gt;
-
-&lt;p&gt;I imagine some people can't help saying things like, "If I were in that kind of situation, I could get serious too," or "It's because the people at the top don't have a clear vision." I get it. It feels like you've got all this untapped energy just waiting to be unleashed.&lt;/p&gt;
-
-&lt;p&gt;But here's the thing. Situations where you know exactly what needs to be done and all that's left is to give it your all, those situations are becoming rarer and rarer in this day and age, whatever it might have been like in the past.&lt;/p&gt;
-
-&lt;p&gt;And if what needs to be done is already clear, isn't that exactly the kind of thing AI will end up handling instead of humans?&lt;/p&gt;
-
-&lt;p&gt;You have the ladder. You have the strength to climb it. But you don't know where to lean it or where it's supposed to take you. In times like these, actually having something you want to do, something you feel you should do, that's an incredible gift. Maybe creativity is precisely this: making the situation where you can bring your strength to bear.&lt;/p&gt;
-
-&lt;p&gt;Thanks for coming to Hobonichi again today. First, ask yourself what you want. Even if it's hazy, just try looking at it.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#fe1b18e8af80"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Many people wait for clear instructions or goals from external sources to perform at their best, but in an increasingly complex world where routine tasks are automated, true fulfillment comes from the creative work of defining your own purpose rather than simply executing someone else's vision. The real challenge and gift of modern life is discovering what you genuinely want to do, rather than waiting for someone to tell you what needs to be done.</summary>
-    <published>2026-05-19T06:47:14.319766+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
