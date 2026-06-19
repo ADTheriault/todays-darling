@@ -2745,3 +2745,23 @@ Sauce flavor.
 2026-06-18 08:06:49 [INFO] Translated title: I want to open the windows and widen the doorways.
 2026-06-18 08:06:49 [INFO] Summary: The essay reflects on how physical and psychological openness—whether through windows that open to the outside or spaces that allow freedom of movement—is essential to human comfort and well-being, a principle that applies equally to built environments, social spaces, and digital communities. The author advocates for maintaining permeable boundaries between inside and outside as a guard against the suffocating feeling of closed, controlled systems.
 2026-06-18 08:06:49 [INFO] Scraper completed successfully
+2026-06-19 08:30:16 [INFO] ============================================================
+2026-06-19 08:30:16 [INFO] Hobonichi Scraper V2
+2026-06-19 08:30:16 [INFO] Current time (JST): 2026-06-19 17:30:16
+2026-06-19 08:30:16 [INFO] ============================================================
+2026-06-19 08:30:16 [INFO] Starting scrape at 2026-06-19 17:30:16 JST
+2026-06-19 08:30:24 [INFO] Essay scraped successfully: 「それ、おまえ知らなくていいぞ」。...
+2026-06-19 08:30:24 [INFO] Content hash: fb626658747d
+2026-06-19 08:30:24 [INFO] Saved original markdown: TD-Original-2026-06-19.md
+2026-06-19 08:30:24 [INFO] Translating title...
+2026-06-19 08:30:25 [INFO] Translating author...
+2026-06-19 08:30:27 [INFO] Translating essay body...
+2026-06-19 08:30:45 [INFO] Generating summary...
+2026-06-19 08:30:46 [INFO] Saved translated markdown: TD-Translated-2026-06-19.md
+2026-06-19 08:30:46 [INFO] Archive saved with 138 entries
+2026-06-19 08:30:46 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-19 08:30:46 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-19 08:30:46 [INFO] Successfully processed: 「それ、おまえ知らなくていいぞ」。
+2026-06-19 08:30:46 [INFO] Translated title: "You don't need to know that."
+2026-06-19 08:30:46 [INFO] Summary: In an age of endless digital information vying for our attention, the essay suggests that the solution isn't to abandon technology entirely, but rather to develop the conscious habit of pausing and telling ourselves "you don't need to know that" when we feel compelled to follow every link and notification. By deliberately interrupting our automatic consumption patterns, we can regain agency over what information actually deserves our finite attention.
+2026-06-19 08:30:46 [INFO] Scraper completed successfully
