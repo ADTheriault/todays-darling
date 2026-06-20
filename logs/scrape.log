@@ -2765,3 +2765,23 @@ Sauce flavor.
 2026-06-19 08:30:46 [INFO] Translated title: "You don't need to know that."
 2026-06-19 08:30:46 [INFO] Summary: In an age of endless digital information vying for our attention, the essay suggests that the solution isn't to abandon technology entirely, but rather to develop the conscious habit of pausing and telling ourselves "you don't need to know that" when we feel compelled to follow every link and notification. By deliberately interrupting our automatic consumption patterns, we can regain agency over what information actually deserves our finite attention.
 2026-06-19 08:30:46 [INFO] Scraper completed successfully
+2026-06-20 06:59:53 [INFO] ============================================================
+2026-06-20 06:59:53 [INFO] Hobonichi Scraper V2
+2026-06-20 06:59:53 [INFO] Current time (JST): 2026-06-20 15:59:53
+2026-06-20 06:59:53 [INFO] ============================================================
+2026-06-20 06:59:53 [INFO] Starting scrape at 2026-06-20 15:59:53 JST
+2026-06-20 06:59:58 [INFO] Essay scraped successfully: いま、気仙沼で、うれしがっています。...
+2026-06-20 06:59:58 [INFO] Content hash: 0ef1f3d5296c
+2026-06-20 06:59:58 [INFO] Saved original markdown: TD-Original-2026-06-20.md
+2026-06-20 06:59:58 [INFO] Translating title...
+2026-06-20 07:00:02 [INFO] Translating author...
+2026-06-20 07:00:04 [INFO] Translating essay body...
+2026-06-20 07:00:23 [INFO] Generating summary...
+2026-06-20 07:00:25 [INFO] Saved translated markdown: TD-Translated-2026-06-20.md
+2026-06-20 07:00:25 [INFO] Archive saved with 139 entries
+2026-06-20 07:00:25 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-20 07:00:25 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-20 07:00:25 [INFO] Successfully processed: いま、気仙沼で、うれしがっています。
+2026-06-20 07:00:25 [INFO] Translated title: Right now, in Kesennuma, I am feeling happy.
+2026-06-20 07:00:25 [INFO] Summary: The author reflects on the profound joy of physical gathering—traveling to a rakugo performance in Kesennuma to experience real human connection, conversation, and community after spending too much time absorbed in weightless digital thoughts about AI. The essay celebrates how simply showing up together in one place, face to face, remains one of life's greatest richnesses.
+2026-06-20 07:00:25 [INFO] Scraper completed successfully

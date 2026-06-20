@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-19T08:30:46.901538+00:00</updated>
+  <updated>2026-06-20T07:00:25.698603+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#0ef1f3d5296c</id>
+    <title>Right now, in Kesennuma, I am feeling happy.</title>
+    <updated>2026-06-20T06:59:58.841355+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I'm in Kesennuma. Of course, it's because of the "Kesennuma Okaeri Yose" rakugo show. I wouldn't say I'm being overly enthusiastic about it (ha), but I came in the day before the event. Even though I'm just an audience member. The "Kesennuma Sanma Yose" started the year after 2011, and the fact that it's continued all the way to the present, to 2026, feels somehow miraculous and at the same time perfectly natural. It just makes me genuinely happy. So much time has passed, hasn't it. I'm glad everyone's doing well. And of course, we've all gotten older, each in our own way.&lt;/p&gt;
+
+&lt;p&gt;Even though it was just the day before the show, I got to see so many people. Had some coffee, drove around town a little, then met up with Tatekawa Shinosuke, who was there ahead of the next day's performance. We had dinner and talked about, well, all sorts of things. People from Kesennuma, Hobonichi members, Shinosuke's staff, all mixed together, and we spent a long time at the table. It was wonderful, every bit of it, including the utterly trivial stuff.&lt;/p&gt;
+
+&lt;p&gt;The seafood and mountain fare were delicious, and that made me happy too, but what really made me happy was the simple fact that we were there together, talking. We'd hauled our actual, physical bodies there by bullet train and car, gathered in one place, looked each other in the face, spoke with our mouths, listened with our ears, chewed our food, clapped our hands, laughed, ducked out to use the restroom, and talked some more. This concrete, almost stubbornly material act of gathering. I find myself thinking, all over again, how incredibly rich it is.&lt;/p&gt;
+
+&lt;p&gt;Every day I've been staring at one screen or another, thinking about AI this and AI that, nothing but weightless thoughts. And then to have this experience of gathering, seeing faces, talking. It felt like I could finally take a deep breath.&lt;/p&gt;
+
+&lt;p&gt;But today is still the day before. Tomorrow is the real show. In that civic hall, I'll see yet more faces. There are regulars who come not from the area but from far away. Everyone gathering for that day's one-and-only Tatekawa Shinosuke rakugo performance. And then, in the audience, in the lobby, people spot familiar faces and call out to one another. Come to think of it, the word "yose" is written with the characters for "drawing seats together." Maybe coming together, showing our faces to one another in good health, is itself one of the great purposes of the whole thing.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today, too. Children grow, sure. But young people grow too, and adults, and the elderly. We're all still growing.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#0ef1f3d5296c"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author reflects on the profound joy of physical gathering—traveling to a rakugo performance in Kesennuma to experience real human connection, conversation, and community after spending too much time absorbed in weightless digital thoughts about AI. The essay celebrates how simply showing up together in one place, face to face, remains one of life's greatest richnesses.</summary>
+    <published>2026-06-20T06:59:58.841355+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#fb626658747d</id>
     <title>"You don't need to know that."</title>
     <updated>2026-06-19T08:30:24.136619+00:00</updated>
@@ -710,26 +734,6 @@ Sauce flavor.</title>
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on the simple beauty of watching creatures—dogs and babies—naturally gather and coexist without language or purpose, and finds in their wordless presence a poignant counterpoint to a life spent working with words.</summary>
     <published>2026-05-22T09:09:05.153304+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#23f845533912</id>
-    <title>It's not really a "culture festival," you know.</title>
-    <updated>2026-05-21T06:52:16.162570+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;At last, the Life &amp; Enjoyment Exhibition is almost here. There's a certain tension running through the Hobonichi office. Everyone's shifted up a gear in their own way. Of course, the exhibition is work, but it also feels something like a company trip where you actually work. Then again, put it that way and people might think, "That sounds awful." And sure, a company trip where you're forced to work would be the worst. I can't quite put it right. People often compare it to a school festival, but "school festival" doesn't feel like enough. There's unevenness, sure, and some things are done better than others, but what we're doing really is work. Maybe the closest way to describe it is "a place where we go through something together." The crew here at the office, the people exhibiting, the people who come as visitors, the people who show up to help out part-time: everyone goes through it together.&lt;/p&gt;
-
-&lt;p&gt;What exactly are we going through? Well, that's the part I can't put into words. It's one of those feelings that resists the kind of "putting it into language" that's so fashionable these days. Each person feels it, and we exchange it, share it. Then, afterward, everyone keeps talking it over, as memories, as reflections, as words, as methods. That turns into the wisdom of "next time, let's try it this way." And the feeling that next time we can do even more becomes something like hope. When it's over, we share the exhaustion too, and rest. You find yourself itching to talk to people about all of it. Then you go back to your regular post, to work that isn't the exhibition. Plans for the next one start quietly taking shape, and the cycle toward the future begins.&lt;/p&gt;
-
-&lt;p&gt;Michael Polanyi's idea of "tacit knowledge" was developed by Professor Nonaka Ikujiro into the SECI model, and what we're doing might be close to that. Though it could also be that we're all just kicking around a ball labeled "I can't explain it well, but it's good," and having fun doing it. We're not running things according to theory, so here we are before the big event, bustling around as usual.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. I'm getting myself ready to go the full distance through that long stretch, in my own way.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#23f845533912"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The Hobonichi Life &amp; Enjoyment Exhibition creates a unique collective experience that transcends typical work—one where shared effort, unspoken understanding, and post-event reflection generate both immediate fulfillment and hope for future iterations.</summary>
-    <published>2026-05-21T06:52:16.162570+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
