@@ -1,12 +1,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-20T07:00:25.698603+00:00</updated>
+  <updated>2026-06-21T07:59:11.389536+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#dd281f794707</id>
+    <title>I tried writing it like a diary.</title>
+    <updated>2026-06-21T07:58:47.968625+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;In Kesennuma, I ran into just about everyone I know. Tatekawa Shinosuke's rakugo performance acted like a magnet, drawing people in and pulling them together. That's wonderful, really. That's what good content should be. The Great Buddhas in Nara and Kamakura serve the same purpose, like magnets. Mount Fuji is an enormous magnet too.&lt;/p&gt;
+
+&lt;p&gt;I'd only just been to Kesennuma around March 11th, so the people I saw hadn't changed much. Except one guy, the most macho, most genuinely nice man in all of Kesennuma, had changed his hairstyle a little. Gentle waves in his hair now. Looked pretty good. When I pointed at his hair and said, "Hey, did you change something?" he answered, as if he'd been waiting for someone to ask, "What can I say, I'm feeling flirtatious these days." The man's over sixty. What is he talking about? But that kind of exchange is what makes conversation fun.&lt;/p&gt;
+
+&lt;p&gt;That got me thinking. I haven't changed my hairstyle in ages. Well, actually it has changed, but what I mean is I haven't deliberately changed it. The thing is, I've been going to the same salon for about fifty years. The salon stays the same, but the person in charge of my hair changes. I'm a little embarrassed to say this, but each time, whoever happened to be the manager at the time would take over as my stylist. And since I always told each of them, "I'll leave it up to you," whenever my style shifted a little, that was why.&lt;/p&gt;
+
+&lt;p&gt;The salon started in Harajuku, then moved twice in Aoyama. All that time, my head found its way there practically with my eyes closed. Then, about twenty years ago, the last manager who'd been doing my hair decided to go independent and open his own place. I followed him, and that's where I've been ever since. It's very close to home, which I'm grateful for.&lt;/p&gt;
+
+&lt;p&gt;Maybe I should get "flirtatious" too and change my hairstyle? No, probably not. I like leaving it up to someone else.&lt;/p&gt;
+
+&lt;p&gt;This isn't about "magnets" anymore. It's about "flow." Rather than exerting strong force, there's a comfort in letting go, in moving with the current.&lt;/p&gt;
+
+&lt;p&gt;I know this reads like a game of word association, but the truth is, today my head is full of the World Cup again.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi today, too. A diary. Who is it usually written for, I wonder.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#dd281f794707"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Good content—whether a rakugo performance or a beloved salon—acts as a magnet that draws people together, and there's a quiet wisdom in letting oneself flow with such connections rather than forcing change. The author reflects on how meaningful experiences often arise not from deliberate choices but from simply showing up and moving with the current.</summary>
+    <published>2026-06-21T07:58:47.968625+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#0ef1f3d5296c</id>
     <title>Right now, in Kesennuma, I am feeling happy.</title>
     <updated>2026-06-20T06:59:58.841355+00:00</updated>
@@ -710,30 +738,6 @@ Sauce flavor.</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on how children's peculiar thoughts, innocent misconceptions, and forgotten moments—from imagining baseball scouts to discovering false "laws of nature"—subtly shape our personalities and persist in our memories well into adulthood. These childhood experiences, whether true or false, become part of who we are and how we think, revealing that children are ultimately the raw material from which adults are formed.</summary>
     <published>2026-05-23T06:11:25.814387+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#06b64ae9573d</id>
-    <title>Peace without words.</title>
-    <updated>2026-05-22T09:09:05.153304+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;You've probably seen this kind of scene before, at a daycare, a nursery, a park. Tiny children, barely more than babies, playing together, looking happy. Well, they're not always getting along, and sometimes they seem to be ignoring each other entirely. So maybe "playing together" is a stretch. Oh, and dogs at a dog park are the same way. Some are chasing each other around, some are off on their own, some are tumbling together. It's all sorts of things. But either way, in a space that isn't all that big, there's this scene of creatures naturally gathered together. Nobody's in charge. There's no apparent purpose. And there are no "words" to speak of (well, okay, maybe some babbling, some barking). Each of them has their own hunger, their own sleepiness, their own little quarrels. They're all separate individuals, separate dogs. And yet, somehow, they're just naturally there together.&lt;/p&gt;
-
-&lt;p&gt;I like watching that kind of thing. And maybe it's not just me. Maybe humans in general like watching it.&lt;/p&gt;
-
-&lt;p&gt;I know perfectly well that a world with purpose, with systems and rules, with scheming and strategy and tactics, can be fascinating as a game. That's why I watch dramas, why I watch sports. But there's something about "living creatures, simply being there together" that is its own kind of wonderful, its own kind of quietly heartwarming. I even feel something like longing when I see it.&lt;/p&gt;
-
-&lt;p&gt;Especially the part about having no "words." I envy that. I'm someone who has spent his life working with words, and I should know better than anyone how powerful and precious they are. And this very piece I'm writing right now is made of words. But maybe that's exactly why, maybe it's precisely because of that, that I find myself longing for silence.&lt;/p&gt;
-
-&lt;p&gt;Dogs and babies can speak with their eyes alone. Sometimes they leap at you, or climb into your arms. These wordless creatures are unbearably dear to me.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. Words can be weapons, and they can be the red thread of fate that binds us. But so can silence.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#06b64ae9573d"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author reflects on the simple beauty of watching creatures—dogs and babies—naturally gather and coexist without language or purpose, and finds in their wordless presence a poignant counterpoint to a life spent working with words.</summary>
-    <published>2026-05-22T09:09:05.153304+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
