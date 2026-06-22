@@ -2805,3 +2805,23 @@ Sauce flavor.
 2026-06-21 07:59:11 [INFO] Translated title: I tried writing it like a diary.
 2026-06-21 07:59:11 [INFO] Summary: Good content—whether a rakugo performance or a beloved salon—acts as a magnet that draws people together, and there's a quiet wisdom in letting oneself flow with such connections rather than forcing change. The author reflects on how meaningful experiences often arise not from deliberate choices but from simply showing up and moving with the current.
 2026-06-21 07:59:11 [INFO] Scraper completed successfully
+2026-06-22 08:56:04 [INFO] ============================================================
+2026-06-22 08:56:04 [INFO] Hobonichi Scraper V2
+2026-06-22 08:56:04 [INFO] Current time (JST): 2026-06-22 17:56:04
+2026-06-22 08:56:04 [INFO] ============================================================
+2026-06-22 08:56:04 [INFO] Starting scrape at 2026-06-22 17:56:04 JST
+2026-06-22 08:56:11 [INFO] Essay scraped successfully: 思えば社会は無差別級で容赦なしぃ？...
+2026-06-22 08:56:11 [INFO] Content hash: 9661606f2a80
+2026-06-22 08:56:11 [INFO] Saved original markdown: TD-Original-2026-06-22.md
+2026-06-22 08:56:11 [INFO] Translating title...
+2026-06-22 08:56:14 [INFO] Translating author...
+2026-06-22 08:56:16 [INFO] Translating essay body...
+2026-06-22 08:56:32 [INFO] Generating summary...
+2026-06-22 08:56:33 [INFO] Saved translated markdown: TD-Translated-2026-06-22.md
+2026-06-22 08:56:33 [INFO] Archive saved with 141 entries
+2026-06-22 08:56:33 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-22 08:56:33 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-22 08:56:33 [INFO] Successfully processed: 思えば社会は無差別級で容赦なしぃ？
+2026-06-22 08:56:33 [INFO] Translated title: If you think about it, society is an open weight class with no mercy, isn't it?
+2026-06-22 08:56:33 [INFO] Summary: The real world operates as an unforgiving open-weight competition unlike organized sports and academics, but survival depends not on competing everywhere, but on wisely choosing which battles to fight and creating your own spaces where you can succeed.
+2026-06-22 08:56:33 [INFO] Scraper completed successfully
