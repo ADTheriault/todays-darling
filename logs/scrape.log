@@ -2825,3 +2825,23 @@ Sauce flavor.
 2026-06-22 08:56:33 [INFO] Translated title: If you think about it, society is an open weight class with no mercy, isn't it?
 2026-06-22 08:56:33 [INFO] Summary: The real world operates as an unforgiving open-weight competition unlike organized sports and academics, but survival depends not on competing everywhere, but on wisely choosing which battles to fight and creating your own spaces where you can succeed.
 2026-06-22 08:56:33 [INFO] Scraper completed successfully
+2026-06-23 06:49:37 [INFO] ============================================================
+2026-06-23 06:49:37 [INFO] Hobonichi Scraper V2
+2026-06-23 06:49:37 [INFO] Current time (JST): 2026-06-23 15:49:37
+2026-06-23 06:49:37 [INFO] ============================================================
+2026-06-23 06:49:37 [INFO] Starting scrape at 2026-06-23 15:49:37 JST
+2026-06-23 06:49:42 [INFO] Essay scraped successfully: バカがバレてからが、本番である。...
+2026-06-23 06:49:42 [INFO] Content hash: fd4bfe157fe0
+2026-06-23 06:49:42 [INFO] Saved original markdown: TD-Original-2026-06-23.md
+2026-06-23 06:49:42 [INFO] Translating title...
+2026-06-23 06:49:44 [INFO] Translating author...
+2026-06-23 06:49:47 [INFO] Translating essay body...
+2026-06-23 06:50:02 [INFO] Generating summary...
+2026-06-23 06:50:04 [INFO] Saved translated markdown: TD-Translated-2026-06-23.md
+2026-06-23 06:50:04 [INFO] Archive saved with 142 entries
+2026-06-23 06:50:04 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-23 06:50:04 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-23 06:50:04 [INFO] Successfully processed: バカがバレてからが、本番である。
+2026-06-23 06:50:04 [INFO] Translated title: It's only after your ignorance is exposed that the real challenge begins.
+2026-06-23 06:50:04 [INFO] Summary: The essay argues that true freedom and peace come from accepting that those close to us inevitably see through our pretenses and flaws, allowing us to stop performing and simply be ourselves. Once we surrender the exhausting effort to appear impressive, life becomes easier and more authentic.
+2026-06-23 06:50:04 [INFO] Scraper completed successfully

@@ -1,12 +1,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-22T08:56:33.889510+00:00</updated>
+  <updated>2026-06-23T06:50:04.255201+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#fd4bfe157fe0</id>
+    <title>It's only after your ignorance is exposed that the real challenge begins.</title>
+    <updated>2026-06-23T06:49:42.702945+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Over the course of a lifetime, we come into contact with an enormous number of people. We do things together, we observe each other. So many people share the same time, the same spaces with us. Family, friends, people we play with or work alongside, the staff at places we frequent, our customers.&lt;/p&gt;
+
+&lt;p&gt;Some we've known since childhood. Others we met during those brash, restless years of adolescence or early adulthood. There are people we fell in love with, and people in front of whom we embarrassed ourselves.&lt;/p&gt;
+
+&lt;p&gt;No matter how much you try to make yourself look impressive, no matter how much you dress things up, no matter how wise or kind you try to appear, the people who've been around you for a long time pretty much see through it. Your failings, your flaws, your selfishness, your dishonesty, your weaknesses. They end up knowing nearly all of it. When people have been watching you up close for years, there's simply nowhere to hide. Even those who say the most admirable things are often quite different at home.&lt;/p&gt;
+
+&lt;p&gt;When you've met enough people, spent time with enough people, done enough things, talked enough, eventually people come to understand you so thoroughly that you start to think, "Well, there's probably nothing left they haven't figured out." In other words, if you live long enough, people have long since figured out that you're a fool.&lt;/p&gt;
+
+&lt;p&gt;As you've probably guessed, I'm talking about myself here. Especially after all these years of sitting down day after day, groaning my way through even these short pieces of writing. No matter how I try to put on a good face, it's perfectly clear by now that I'm nothing all that special.&lt;/p&gt;
+
+&lt;p&gt;I'm not sure exactly when I realized this. But at some point, without quite noticing, I gave something up, and I arrived at this way of thinking: life really begins after everyone's figured out you're a fool.&lt;/p&gt;
+
+&lt;p&gt;Of course, it's not as though I've lost all vanity or desire. But I do feel I've made a fair amount of peace with it. And that, I think, makes it easier to be free. You know?&lt;/p&gt;
+
+&lt;p&gt;Thanks for coming to Hobonichi again today. Well, I suppose I've spent most of this long journey in my everyday clothes anyway.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#fd4bfe157fe0"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that true freedom and peace come from accepting that those close to us inevitably see through our pretenses and flaws, allowing us to stop performing and simply be ourselves. Once we surrender the exhausting effort to appear impressive, life becomes easier and more authentic.</summary>
+    <published>2026-06-23T06:49:42.702945+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#9661606f2a80</id>
     <title>If you think about it, society is an open weight class with no mercy, isn't it?</title>
     <updated>2026-06-22T08:56:11.369432+00:00</updated>
@@ -714,30 +742,6 @@ Sauce flavor.</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay celebrates how artists and creative professionals—whether filmmakers or musicians—pursue their passion beyond financial considerations, and argues that this commitment to excellence beyond profit is essential to human culture and what gives life genuine meaning.</summary>
     <published>2026-05-25T07:13:16.423211+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#01099f446fb5</id>
-    <title>Isn't there anyone who looks happy?</title>
-    <updated>2026-05-24T06:36:33.429243+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Is there someone you look at and think, "That person seems so happy"? It could be someone close to you, or even yourself, or some famous person you've never met. Better if they're not fictional, though. And ideally, someone you could actually go and see if you wanted to. What I'm saying is, I'd love to meet one of those people, someone others look at and think, "They seem so happy," and ask them all sorts of things. I haven't worked out any of the details yet. It just came to me.&lt;/p&gt;
-
-&lt;p&gt;Yesterday I went to see *The Devil Wears Prada 2*. The movie was good, really entertaining, and clearly a hit. The original, now over twenty years old, is still fun to watch, and pulling off a sequel with the same cast is practically an acrobatic feat. The fact that they managed to put together a film this solid is genuinely impressive. It's not all glamour and lightness, but the dazzling, stylish costumes do their work beautifully.&lt;/p&gt;
-
-&lt;p&gt;On the walk home, I was thinking to myself. Why is it that this movie doesn't feel like a happy ending? Every character is trying hard, or being smart, but to me, none of them looked happy. Including the main character. They win, they succeed, and yet there wasn't a single person on screen who struck me as someone I'd describe as "happy."&lt;/p&gt;
-
-&lt;p&gt;So then I turned the question on myself. The people I look at and think, "They seem so happy," where are they? Or the people everyone would point to and say, "Now there's someone who's happy," who are they, and where are they living? Do we think that about presidents, or pop stars, or athletes? Among the people I actually know, who would I say that about?&lt;/p&gt;
-
-&lt;p&gt;Happiness is subjective in the first place, I suppose, and the more I think about it the more tangled everything gets. But if that's the case, what if I found people who others perceive as happy, and sat down and talked to them about all kinds of things? It's still just an idea I've had on my own, but I'm planning to bring it to everyone and see what they think.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. I wonder how many treatises on happiness have been written over the course of human history.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#01099f446fb5"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author reflects on the paradox that successful people often don't appear genuinely happy, prompting them to consider interviewing individuals whom others perceive as happy to understand what happiness actually looks like in real life.</summary>
-    <published>2026-05-24T06:36:33.429243+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
