@@ -2845,3 +2845,23 @@ Sauce flavor.
 2026-06-23 06:50:04 [INFO] Translated title: It's only after your ignorance is exposed that the real challenge begins.
 2026-06-23 06:50:04 [INFO] Summary: The essay argues that true freedom and peace come from accepting that those close to us inevitably see through our pretenses and flaws, allowing us to stop performing and simply be ourselves. Once we surrender the exhausting effort to appear impressive, life becomes easier and more authentic.
 2026-06-23 06:50:04 [INFO] Scraper completed successfully
+2026-06-24 08:19:27 [INFO] ============================================================
+2026-06-24 08:19:27 [INFO] Hobonichi Scraper V2
+2026-06-24 08:19:27 [INFO] Current time (JST): 2026-06-24 17:19:27
+2026-06-24 08:19:27 [INFO] ============================================================
+2026-06-24 08:19:27 [INFO] Starting scrape at 2026-06-24 17:19:27 JST
+2026-06-24 08:19:35 [INFO] Essay scraped successfully: 温泉の俺を、自宅に連れてきたい。...
+2026-06-24 08:19:35 [INFO] Content hash: 992c3c1aa1c8
+2026-06-24 08:19:35 [INFO] Saved original markdown: TD-Original-2026-06-24.md
+2026-06-24 08:19:35 [INFO] Translating title...
+2026-06-24 08:19:38 [INFO] Translating author...
+2026-06-24 08:19:39 [INFO] Translating essay body...
+2026-06-24 08:19:57 [INFO] Generating summary...
+2026-06-24 08:20:00 [INFO] Saved translated markdown: TD-Translated-2026-06-24.md
+2026-06-24 08:20:00 [INFO] Archive saved with 143 entries
+2026-06-24 08:20:00 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-24 08:20:00 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-24 08:20:00 [INFO] Successfully processed: 温泉の俺を、自宅に連れてきたい。
+2026-06-24 08:20:00 [INFO] Translated title: I want to bring the hot spring version of me home.
+2026-06-24 08:20:00 [INFO] Summary: The author discovered that by shifting their bath time earlier in the evening and enhancing the bathing experience with better water temperature and bath salts, they transformed bathing from a rushed obligation into a genuinely enjoyable ritual that finally brought the relaxation they'd always felt at hot springs into their own home.
+2026-06-24 08:20:00 [INFO] Scraper completed successfully
