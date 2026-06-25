@@ -1,12 +1,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-24T08:20:00.132900+00:00</updated>
+  <updated>2026-06-25T06:46:30.566129+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#e12d81859014</id>
+    <title>What should you do with your lives?</title>
+    <updated>2026-06-25T06:46:10.786851+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;If a young person asked me, "What should I do with my life?" would I be able to answer? I've been turning this over in my mind for a while now. Come to think of it, I never asked anyone that question myself. Back then, all I was really thinking about was whether I could survive. Even the idea of "finding happiness" felt like an aspiration that didn't suit someone like me. And yet, strangely, I wasn't much of a worrier in those days.&lt;/p&gt;
+
+&lt;p&gt;But setting myself aside. When a young person wants to know, "What should I be doing?" I can understand that feeling. It probably comes from a place of, "If I just knew what it was, I'd be ready to work hard." Like saying, "Give me the problem, and I'll do everything I can to solve it."&lt;/p&gt;
+
+&lt;p&gt;The truth is, finding the problem is itself the problem, and the answer to that problem is simply discovering what problem you need to solve. But that's a question that spans an entire lifetime, so saying as much doesn't really help.&lt;/p&gt;
+
+&lt;p&gt;I want to think about this for my own sake, too. What should young people be doing?&lt;/p&gt;
+
+&lt;p&gt;When I search my memory, the mentors in my life all said pretty much the same thing. "Read the classics." It may have been a kind of stock answer. There was also, "Get your heart broken, many times over." You could say these are harmless, inoffensive pieces of advice.&lt;/p&gt;
+
+&lt;p&gt;But compared to the sort of guidance that came along in a more recent era, things like "Get an MBA" or "Build your network" or "Study computers," advice that sounds so eminently practical, I don't think those older words are the least bit inferior. "Read the classics" and "Get your heart broken" both seem to be ways of saying, "Try to understand what it means to be human."&lt;/p&gt;
+
+&lt;p&gt;Well, I'll keep thinking about it.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. "What should I be doing?" It's a question that grown-ups and the elderly are still asking, too.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#e12d81859014"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Rather than seeking practical advice for finding purpose, young people should focus on understanding what it means to be human through experiences like reading classics and emotional growth, questions that adults grapple with throughout their entire lives.</summary>
+    <published>2026-06-25T06:46:10.786851+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#992c3c1aa1c8</id>
     <title>I want to bring the hot spring version of me home.</title>
     <updated>2026-06-24T08:19:35.483903+00:00</updated>
@@ -726,26 +754,6 @@ Sauce flavor.</title>
     <link href="https://www.1101.com/"/>
     <summary>As Japanese cuisine gains global popularity beyond traditional dishes like sushi, the author advocates for greater international appreciation of Japan's overlooked culinary gem: sauce-based dishes, which deserve far more recognition than they currently receive.</summary>
     <published>2026-05-27T07:02:46.428028+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#044c4eb7b0f8</id>
-    <title>The form of manzai, and fiction.</title>
-    <updated>2026-05-26T06:44:47.038171+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The format of manzai comedy holds a real advantage in our current age, and that's because you have a partner right there beside you to play the straight man. This means the one playing the fool can say outrageous things, stupid things, irresponsible things, even dangerous things. Because their teammate is right there to say, "No way!" and pull them back to common sense. Even if one half of the duo says something wrong, the team as a whole can claim it still falls within the rules of society. In a time when criticism and opposing views fly in from every conceivable angle, this may be the most survivable form of expression there is.&lt;/p&gt;
-
-&lt;p&gt;If a solo performer stood at the microphone and said the same things, those words would be taken as "his opinion," plain and simple, and sometimes held against him as "his mistake." But when you really think about it, comedic talk was never meant to be a statement of personal views. It was supposed to be a craft, an art of making people laugh. And yet, because it overlaps with the speaker's own voice, people are quick to assume, "So that's what this comedian actually thinks." But if you only ever say things that stay safely within the bounds of common sense, you'll never produce a single laugh. In that sense, the manzai format, with its built-in self-criticism, is perfectly suited to an era like ours.&lt;/p&gt;
-
-&lt;p&gt;Writing, however, is not a team act. When you say something on the page, it belongs to you alone. You can't have someone jumping in beside you to correct you as you go. Well, you could try, but writing while preemptively apologizing for every possible objection would be so constrained as to be unbearable. And that, I think, is exactly why fiction is so interesting. Characters in a novel are free to transgress. You can give voice to evil, to hypocrisy, to madness. This is a possibility we ought to open up even further.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for visiting Hobonichi today. Come to think of it, isn't it true that so much of what we know about being human, we first learned from novels?&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#044c4eb7b0f8"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Manzai comedy's partnership format allows for bold, transgressive humor that self-corrects through its duo dynamic, whereas solo performance and especially written fiction lack this built-in safeguard—yet fiction's solitary nature is precisely what gives it the freedom to explore the full complexity of human experience without constraint.</summary>
-    <published>2026-05-26T06:44:47.038171+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>

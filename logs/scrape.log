@@ -2865,3 +2865,23 @@ Sauce flavor.
 2026-06-24 08:20:00 [INFO] Translated title: I want to bring the hot spring version of me home.
 2026-06-24 08:20:00 [INFO] Summary: The author discovered that by shifting their bath time earlier in the evening and enhancing the bathing experience with better water temperature and bath salts, they transformed bathing from a rushed obligation into a genuinely enjoyable ritual that finally brought the relaxation they'd always felt at hot springs into their own home.
 2026-06-24 08:20:00 [INFO] Scraper completed successfully
+2026-06-25 06:46:03 [INFO] ============================================================
+2026-06-25 06:46:03 [INFO] Hobonichi Scraper V2
+2026-06-25 06:46:03 [INFO] Current time (JST): 2026-06-25 15:46:03
+2026-06-25 06:46:03 [INFO] ============================================================
+2026-06-25 06:46:03 [INFO] Starting scrape at 2026-06-25 15:46:03 JST
+2026-06-25 06:46:10 [INFO] Essay scraped successfully: 君たちは、なにをやったらいいんでしょうか？...
+2026-06-25 06:46:10 [INFO] Content hash: e12d81859014
+2026-06-25 06:46:10 [INFO] Saved original markdown: TD-Original-2026-06-25.md
+2026-06-25 06:46:10 [INFO] Translating title...
+2026-06-25 06:46:13 [INFO] Translating author...
+2026-06-25 06:46:14 [INFO] Translating essay body...
+2026-06-25 06:46:29 [INFO] Generating summary...
+2026-06-25 06:46:30 [INFO] Saved translated markdown: TD-Translated-2026-06-25.md
+2026-06-25 06:46:30 [INFO] Archive saved with 144 entries
+2026-06-25 06:46:30 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-25 06:46:30 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-25 06:46:30 [INFO] Successfully processed: 君たちは、なにをやったらいいんでしょうか？
+2026-06-25 06:46:30 [INFO] Translated title: What should you do with your lives?
+2026-06-25 06:46:30 [INFO] Summary: Rather than seeking practical advice for finding purpose, young people should focus on understanding what it means to be human through experiences like reading classics and emotional growth, questions that adults grapple with throughout their entire lives.
+2026-06-25 06:46:30 [INFO] Scraper completed successfully
