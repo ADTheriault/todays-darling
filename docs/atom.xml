@@ -1,12 +1,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-06-25T06:46:30.566129+00:00</updated>
+  <updated>2026-06-26T06:54:12.203353+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#49872edef72f</id>
+    <title>I want to learn as if I were playing.</title>
+    <updated>2026-06-26T06:53:50.465896+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Learning something and playing at something are probably close to the same thing. Learning tennis, learning shogi, learning to swim, learning to dance. When the time spent learning feels enjoyable, it becomes play. But the moment learning becomes "for the sake of" something, it turns into obligation, and it's no longer play. It makes an enormous difference what the person doing it, the one at the center of it, thinks about what they're doing. You could say it all comes down to a difference in mindset. If you go in thinking, "I don't want to do this, but I have to," it will reliably become tedious.&lt;/p&gt;
+
+&lt;p&gt;Even when something is tedious, you can still improve, and I know there are times when you feel a sense of accomplishment and think, "I'm so glad, that makes me happy." But when there's a good teacher or a good mentor who can make learning feel enjoyable, the learner's mindset gets set to "this seems fun." Once that happens, the time itself becomes something you spend thinking "this is fun," and even a bit of hardship or difficulty becomes just a dash of spice within the play.&lt;/p&gt;
+
+&lt;p&gt;Learning from someone who teaches well, as though you're just playing together. I never thought such a thing was possible. And yet, it seems like this wonderful thing is happening in all sorts of learning situations these days. I grew up in an era when learning meant strictness, the occasional scolding, and the promise that mastery lay on the other side of suffering. That was just how it was, so I hated lessons. I'm incredibly envious of people who get to learn in a way that's enjoyable.&lt;/p&gt;
+
+&lt;p&gt;I imagine the theories and methods on the other side of learning, the "teaching" side, have been advancing too. Learning that feels like playing. Even now, even at this late stage, I'd love to try something like that. Age shouldn't matter.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. Come to think of it, someone I know was saying they want to learn mahjong.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#49872edef72f"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that learning becomes play when it's intrinsically enjoyable rather than pursued as an obligation, and that skilled teachers can transform the learning experience by fostering genuine curiosity and fun rather than relying on discipline and suffering. The author reflects on how modern teaching methods have evolved to make learning feel like play, something they wish they'd experienced growing up.</summary>
+    <published>2026-06-26T06:53:50.465896+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#e12d81859014</id>
     <title>What should you do with your lives?</title>
     <updated>2026-06-25T06:46:10.786851+00:00</updated>
@@ -726,34 +748,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author celebrates their lifelong habit of impulsively buying tickets to live performances, discovering through a spontaneous decision to see Sayuri Ishikawa that these spur-of-the-moment choices often lead to unforgettable experiences worth treasuring. They argue that acting on the urge to witness live events, especially now that it's easier than ever online, is always worthwhile because these moments can never be recreated once missed.</summary>
     <published>2026-05-28T06:53:57.316488+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#4dd397525d85</id>
-    <title>Source of flavor.
-
-Wait, let me reconsider. "ソース味" refers to the flavor of Japanese Worcester-style sauce (ソース).
-
-Sauce flavor.</title>
-    <updated>2026-05-27T07:02:46.428028+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When it came to deciding what to feed guests visiting from overseas, the standard answer used to be "sushi and tempura." The guests themselves had heard of these things, so they'd say, in halting Japanese, "I'd love to try that!" Nobody ever opened with "How about some natto?" But gradually, visitors started arriving better informed, and now things like ramen, onigiri, yakitori, and egg sandwiches have become quite popular too. Apparently, the quality of Japanese convenience store food was "discovered" during the Tokyo Olympics, held in the middle of the pandemic. And at some point, the rather formal phrase "guests from overseas" got replaced by the bouncier term "inbound," didn't it.&lt;/p&gt;
-
-&lt;p&gt;Every time news reaches us that some big Hollywood star was spotted eating ramen, it's funny how we find ourselves thinking, "Well, of course," feeling oddly proud even though we had nothing to do with making it. Lately I hear that tonkatsu restaurants are drawing plenty of inbound customers too. "Tonkatsu, naturally," I nod, as though I saw it coming.&lt;/p&gt;
-
-&lt;p&gt;Once things reach this point, you can't help wanting to guess what'll catch on next. I have a feeling it won't be natto. Tofu, made from the same soybeans, is already well known, and "edamame" has apparently entered the global vocabulary. But natto... that's going to be a tough sell.&lt;/p&gt;
-
-&lt;p&gt;Since predictions are futile, let me just go with personal preference. What I'd really like to champion is the vast universe of sauce flavor. Sauce already plays a supporting role alongside tonkatsu and the rest of the fried-food team, but I don't think it's getting nearly enough time in the spotlight. Yakisoba with sauce, not the Chinese-style kind, is wonderful, and the whole appeal of "konamon," those flour-based street foods, comes down to that sauce flavor, if you ask me.&lt;/p&gt;
-
-&lt;p&gt;So the next time you're eating out with a friend from abroad, casually steer them toward something with sauce. Don't worry about what good might come of it. Just do it.&lt;/p&gt;
-
-&lt;p&gt;Thanks for visiting Hobonichi again today. You know, the range of flavors and aromas in sauce is even more diverse than what you'll find in wine.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#4dd397525d85"/>
-    <link href="https://www.1101.com/"/>
-    <summary>As Japanese cuisine gains global popularity beyond traditional dishes like sushi, the author advocates for greater international appreciation of Japan's overlooked culinary gem: sauce-based dishes, which deserve far more recognition than they currently receive.</summary>
-    <published>2026-05-27T07:02:46.428028+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>

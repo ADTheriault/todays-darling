@@ -2885,3 +2885,23 @@ Sauce flavor.
 2026-06-25 06:46:30 [INFO] Translated title: What should you do with your lives?
 2026-06-25 06:46:30 [INFO] Summary: Rather than seeking practical advice for finding purpose, young people should focus on understanding what it means to be human through experiences like reading classics and emotional growth, questions that adults grapple with throughout their entire lives.
 2026-06-25 06:46:30 [INFO] Scraper completed successfully
+2026-06-26 06:53:44 [INFO] ============================================================
+2026-06-26 06:53:44 [INFO] Hobonichi Scraper V2
+2026-06-26 06:53:44 [INFO] Current time (JST): 2026-06-26 15:53:44
+2026-06-26 06:53:44 [INFO] ============================================================
+2026-06-26 06:53:44 [INFO] Starting scrape at 2026-06-26 15:53:44 JST
+2026-06-26 06:53:50 [INFO] Essay scraped successfully: 遊ぶように習いたいのだ。...
+2026-06-26 06:53:50 [INFO] Content hash: 49872edef72f
+2026-06-26 06:53:50 [INFO] Saved original markdown: TD-Original-2026-06-26.md
+2026-06-26 06:53:50 [INFO] Translating title...
+2026-06-26 06:53:52 [INFO] Translating author...
+2026-06-26 06:53:55 [INFO] Translating essay body...
+2026-06-26 06:54:10 [INFO] Generating summary...
+2026-06-26 06:54:12 [INFO] Saved translated markdown: TD-Translated-2026-06-26.md
+2026-06-26 06:54:12 [INFO] Archive saved with 145 entries
+2026-06-26 06:54:12 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-26 06:54:12 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-26 06:54:12 [INFO] Successfully processed: 遊ぶように習いたいのだ。
+2026-06-26 06:54:12 [INFO] Translated title: I want to learn as if I were playing.
+2026-06-26 06:54:12 [INFO] Summary: The essay argues that learning becomes play when it's intrinsically enjoyable rather than pursued as an obligation, and that skilled teachers can transform the learning experience by fostering genuine curiosity and fun rather than relying on discipline and suffering. The author reflects on how modern teaching methods have evolved to make learning feel like play, something they wish they'd experienced growing up.
+2026-06-26 06:54:12 [INFO] Scraper completed successfully
