@@ -2925,3 +2925,23 @@ Sauce flavor.
 2026-06-27 06:28:29 [INFO] Translated title: How far down do you eat a watermelon?
 2026-06-27 06:28:29 [INFO] Summary: As we mature, we learn to prioritize quality and enjoyment over wasteful obligation, choosing to savor only what truly satisfies us rather than forcing ourselves through the bland remnants simply because they're there.
 2026-06-27 06:28:29 [INFO] Scraper completed successfully
+2026-06-28 07:00:55 [INFO] ============================================================
+2026-06-28 07:00:55 [INFO] Hobonichi Scraper V2
+2026-06-28 07:00:55 [INFO] Current time (JST): 2026-06-28 16:00:55
+2026-06-28 07:00:55 [INFO] ============================================================
+2026-06-28 07:00:55 [INFO] Starting scrape at 2026-06-28 16:00:55 JST
+2026-06-28 07:01:01 [INFO] Essay scraped successfully: 土曜日だけど、神田に行ってとんかつ。...
+2026-06-28 07:01:01 [INFO] Content hash: 6053bec5f4fb
+2026-06-28 07:01:01 [INFO] Saved original markdown: TD-Original-2026-06-28.md
+2026-06-28 07:01:01 [INFO] Translating title...
+2026-06-28 07:01:03 [INFO] Translating author...
+2026-06-28 07:01:05 [INFO] Translating essay body...
+2026-06-28 07:01:23 [INFO] Generating summary...
+2026-06-28 07:01:25 [INFO] Saved translated markdown: TD-Translated-2026-06-28.md
+2026-06-28 07:01:25 [INFO] Archive saved with 147 entries
+2026-06-28 07:01:25 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-28 07:01:25 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-28 07:01:25 [INFO] Successfully processed: 土曜日だけど、神田に行ってとんかつ。
+2026-06-28 07:01:25 [INFO] Translated title: It's Saturday, but I went to Kanda for tonkatsu.
+2026-06-28 07:01:25 [INFO] Summary: The essay is a meditative celebration of eating tonkatsu, exploring how mindful attention to each sensory detail—the crackle of the crust, the richness of the fat, the harmony with rice—transforms a simple meal into a profound experience of gratitude and joy. Through ritualized enjoyment and respect for both the food and those who prepared it, the narrator reveals that true satisfaction comes not from the food itself, but from the deliberate presence brought to its consumption.
+2026-06-28 07:01:25 [INFO] Scraper completed successfully
