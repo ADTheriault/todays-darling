@@ -2945,3 +2945,23 @@ Sauce flavor.
 2026-06-28 07:01:25 [INFO] Translated title: It's Saturday, but I went to Kanda for tonkatsu.
 2026-06-28 07:01:25 [INFO] Summary: The essay is a meditative celebration of eating tonkatsu, exploring how mindful attention to each sensory detail—the crackle of the crust, the richness of the fat, the harmony with rice—transforms a simple meal into a profound experience of gratitude and joy. Through ritualized enjoyment and respect for both the food and those who prepared it, the narrator reveals that true satisfaction comes not from the food itself, but from the deliberate presence brought to its consumption.
 2026-06-28 07:01:25 [INFO] Scraper completed successfully
+2026-06-29 07:28:18 [INFO] ============================================================
+2026-06-29 07:28:18 [INFO] Hobonichi Scraper V2
+2026-06-29 07:28:18 [INFO] Current time (JST): 2026-06-29 16:28:18
+2026-06-29 07:28:18 [INFO] ============================================================
+2026-06-29 07:28:18 [INFO] Starting scrape at 2026-06-29 16:28:18 JST
+2026-06-29 07:28:25 [INFO] Essay scraped successfully: クマのぬいぐるみを見て、考えてた。...
+2026-06-29 07:28:25 [INFO] Content hash: 5b0e5c60014a
+2026-06-29 07:28:25 [INFO] Saved original markdown: TD-Original-2026-06-29.md
+2026-06-29 07:28:25 [INFO] Translating title...
+2026-06-29 07:28:27 [INFO] Translating author...
+2026-06-29 07:28:29 [INFO] Translating essay body...
+2026-06-29 07:28:47 [INFO] Generating summary...
+2026-06-29 07:28:48 [INFO] Saved translated markdown: TD-Translated-2026-06-29.md
+2026-06-29 07:28:48 [INFO] Archive saved with 148 entries
+2026-06-29 07:28:48 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-06-29 07:28:48 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-06-29 07:28:48 [INFO] Successfully processed: クマのぬいぐるみを見て、考えてた。
+2026-06-29 07:28:48 [INFO] Translated title: Looking at a teddy bear, lost in thought.
+2026-06-29 07:28:48 [INFO] Summary: The essay explores how we habitually transfer our dislike of people onto everything associated with them, while acknowledging that this psychological tendency, though real and historically consequential, is often overstated—most people maintain more nuance and separation in their judgments than the proverb suggests.
+2026-06-29 07:28:48 [INFO] Scraper completed successfully
