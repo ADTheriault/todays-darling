@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-07-02T06:40:05.485318+00:00</updated>
+  <updated>2026-07-03T06:30:18.271312+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#211225d45e9b</id>
+    <title>Fried rice is egg on rice.</title>
+    <updated>2026-07-03T06:29:54.571510+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Lately, I've been eating a lot of fried rice at old-school Chinese joints around town. It's not so much that I love fried rice or have a craving for it. It's more that I find myself genuinely impressed, all over again, by how its popularity never seems to fade. I've developed a serious interest. Like going to see a veteran singer who's been delivering great performances for years, I order the fried rice and savor it from every angle.&lt;/p&gt;
+
+&lt;p&gt;While I sit there eating my fried rice with this slightly sideways fascination, two more customers who came in after me have already ordered, without a moment's hesitation, "Fried rice!" One after the other.&lt;/p&gt;
+
+&lt;p&gt;I'd always assumed fried rice was something you ordered as a finishing carb at the end of a meal. But it turns out a meal of nothing but fried rice is perfectly complete. After all, it usually comes with a small bowl of soup. There's pickled red ginger, or zha cai, or some kind of pickle served alongside. It varies from place to place, but the main protein is usually roast pork. And it goes without saying that green onion is the ingredient doing all the behind-the-scenes work, pulling together the aroma, the flavor, and the texture to make that pork shine. If there's no green onion, I'd rather skip the fried rice that day. Bits of naruto fish cake? You can leave them out, and honestly it's better without. But green onion is absolutely essential. Borrow some from the restaurant next door if you have to.&lt;/p&gt;
+
+&lt;p&gt;So what is fried rice, at its core? It's rice. And really, it's egg-on-rice. Fried rice is stir-fried egg-on-rice. You scatter green onion over it as a seasoning and mix in some roast pork. Egg-on-rice is already a meal that stands on its own. When all else fails, egg-on-rice will get you through. How much more so, then, with fried rice. The reason fried rice never loses its popularity is that, at heart, it's egg-on-rice.&lt;/p&gt;
+
+&lt;p&gt;Incidentally, I have invented something I call "ramen fried rice." You stir-fry rice with egg, then add roast pork, chopped menma bamboo shoots, and green onion. Season it with the sauce from the roast pork, and you'd do well to add some pepper too. That's it.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for visiting Hobonichi today. If anyone knows a neighborhood Chinese place that puts menma in their fried rice, I'd love to go.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#211225d45e9b"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author discovers that fried rice's enduring popularity stems from its essential simplicity—at its core, it's just seasoned egg and rice with a few key ingredients like green onion and roast pork, making it a complete and satisfying meal that never goes out of style.</summary>
+    <published>2026-07-03T06:29:54.571510+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#46ba91c623b8</id>
     <title>The world is full of art.</title>
     <updated>2026-07-02T06:39:46.633750+00:00</updated>
@@ -706,34 +730,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author describes his organizational philosophy as a ship metaphor, where every crew member—regardless of rank or role—is essential and responsible for supporting one another to keep the vessel moving forward together.</summary>
     <published>2026-06-04T07:22:46.286423+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#7e0262ab9ef8</id>
-    <title>I picked up a nice "thing I don't have to do."</title>
-    <updated>2026-06-03T08:14:11.948387+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When I write, I almost never use quotations. I say "almost," so it's not that I never do, but I tend to avoid them. They're a hassle. Basically, I like to make do with whatever happens to be lying around. If I wanted to sound like an intellectual about it, I'd call it "something like bricolage." So when there's some impressive quote I could pull out, well, that's not exactly "making do with what's at hand," is it? It falls squarely into the category of things I'm bad at, things that feel like too much trouble. I was just about to write something along those lines when I stumbled upon a piece of text I was dying to quote. And what's more, it was just "lying around."&lt;/p&gt;
-
-&lt;p&gt;Sugano: "The things you have to do? You don't have to do them." (Repeats the same line three times.)&lt;/p&gt;
-
-&lt;p&gt;Nagata, who happened to be there: "Exactly. The things you have to do, there's only so interesting they can get."&lt;/p&gt;
-
-&lt;p&gt;Sugano: "Wait, what? Say that again, word for word."&lt;/p&gt;
-
-&lt;p&gt;Nagata: "The things you have to do, there's only so interesting they can get. But the things you don't have to do? There's no limit to how interesting those can be. Because, well, you don't have to do them."&lt;/p&gt;
-
-&lt;p&gt;What a magnificent conversation. It's from yesterday's live text coverage at the Hobonichi "Joys of Everyday Life" exhibition. If you find something like this just lying on the ground, of course you're going to pick it up. I'm swiping it. I'm not turning it in at the lost-and-found. I'm copying it down, just like that. Part quotation, part finders-keepers, part "something like bricolage."&lt;/p&gt;
-
-&lt;p&gt;Yes. The things you do out of obligation, because you feel like you have to, the outcome is predictable and it never gets interesting. The Hobonichi people who were having this conversation are out in Shinjuku again today, searching for things they don't have to do.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for visiting Hobonichi today. How are things where you are after the typhoon? I wonder what's in store for all of us.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#7e0262ab9ef8"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author argues that the most interesting and creative pursuits are those we choose freely rather than those we feel obligated to do, illustrating this insight through a chance discovery of a brilliant conversation about the liberating nature of voluntary activities.</summary>
-    <published>2026-06-03T08:14:11.948387+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
