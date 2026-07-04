@@ -1,12 +1,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-07-03T06:30:18.271312+00:00</updated>
+  <updated>2026-07-04T06:17:14.041472+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#f529ab50d5bb</id>
+    <title>Importing foreign culture and exporting culture abroad.</title>
+    <updated>2026-07-04T06:16:45.732259+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I think that's what I myself have been doing all along: living within Japan, crafting expressions meant to reach people who use the Japanese language, sharing a culture that anyone raised in Japan more or less understands. And it's not just me. I think there are many people like that. People have been talking about "internationalization" for ages, but even just the people inside Japan add up to a considerable number. In other words, Japan on its own is a reliable "market."&lt;/p&gt;
+
+&lt;p&gt;To the extent I've thought about other countries at all, I think it's been more about importing than exporting. Music, most of all, right? I never really listened to traditional Japanese folk music. Instead, we all shared in the fun-sounding music coming from abroad, and we loved it together. The same goes for art. Japanese-style painting was actually the rarity. We were educated in the history and aesthetics of Western art even at school, and the design all around us in the streets bore the influence of other countries. I mean, of course it did. We go through our days wearing Western clothes.&lt;/p&gt;
+
+&lt;p&gt;We imported foreign culture, absorbed it, and then expressed it within Japan's reasonably large "market." That's what we've been doing all along, isn't it? The audience was always, first and foremost, Japanese people. Music, painting, film, theater, manga, literature: almost all of it was fundamentally created with that in mind. You might say that creative expression has always been directed at people who already get it, people who share the same frame of reference.&lt;/p&gt;
+
+&lt;p&gt;And every now and then, some portion of that work would, to everyone's delight and surprise, turn out to resonate with people abroad too, and it would succeed as an export. Winning a foreign prize, or unexpectedly selling well somewhere overseas, that sort of thing.&lt;/p&gt;
+
+&lt;p&gt;But at some point, though I can't pinpoint exactly when, we began exporting to people in other parts of the world who speak different languages and were raised in different cultures. In some ways this happened naturally, in other ways quite deliberately. And I think there are things to be gained from this, and things to be lost. Both, without question. How are we going to live through this era where "both" is very much the case?&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. It seems to me there are plenty of hints out there, even right now.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#f529ab50d5bb"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author reflects on how Japanese creators have traditionally made work for domestic audiences who share cultural references, but must now navigate the complex reality of simultaneously creating for both Japanese and international audiences—gaining global reach while potentially losing cultural specificity in the process.</summary>
+    <published>2026-07-04T06:16:45.732259+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#211225d45e9b</id>
     <title>Fried rice is egg on rice.</title>
     <updated>2026-07-03T06:29:54.571510+00:00</updated>
@@ -700,36 +724,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on the concept of "sturdiness"—being resilient and hard to break rather than simply strong—as an essential quality for navigating life, inspired by Miyazawa Kenji's poem about enduring hardship with a sturdy body.</summary>
     <published>2026-06-05T07:07:13.891758+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#6901ffac1db6</id>
-    <title>Sailing on the ship called "Hobonichi."</title>
-    <updated>2026-06-04T07:22:46.286423+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;This goes back a long time. Probably about twenty-eight years ago. I realized that the way we worked could be likened to a ship.&lt;/p&gt;
-
-&lt;p&gt;Back then, organizations, companies, were thought of in terms of tree diagrams, tournament brackets, triangles with the all-important apex at the top. But what if you tipped that triangle on its side and laid it flat? Then there's no more top and bottom, just front and back. The whole thing starts to look like a ship, moving forward together. That was the image I had.&lt;/p&gt;
-
-&lt;p&gt;On a ship, every person aboard matters. Deciding which direction to go is important, and so is watching the weather, running the engine, loading and unloading cargo, cooking the meals, which is to say, peeling the potatoes. Everyone's role is essential, and you have to look out for one another or the whole thing falls apart. There's an old saying about how the ocean floor lies just on the other side of the hull. If the ship goes down, you all become flotsam.&lt;/p&gt;
-
-&lt;p&gt;I'm not trying to make everything sound life-or-death, but I liked the idea that we're all crew on the same ship, working together. Even if we happen to be on dry land. That's when I started using the word "crew."&lt;/p&gt;
-
-&lt;p&gt;It's not the most conventional way to put things, so I feel a little self-conscious about it and try not to overdo it. But when the moment feels right, I still say "crew." It's just "crew," after all.&lt;/p&gt;
-
-&lt;p&gt;Day to day, the crew members work in their own specialized areas. But when something comes up, they pitch in on things outside their expertise. As individual people, they do what they can to help each other. We're on a ship, so there's no other way, and mutual support is something everyone signed on for when they came aboard.&lt;/p&gt;
-
-&lt;p&gt;I think the people who joined Hobonichi recently and the ones who've been crew here for a long time probably share that same feeling. If you're on this ship, it's the same even for part-timers.&lt;/p&gt;
-
-&lt;p&gt;And come to think of it, at the "Life Is Fun" exhibition, I have a feeling the customers, the passengers, are on the same ship too.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. This ship weathered a typhoon yesterday. We're sailing on, and enjoying the voyage.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#6901ffac1db6"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author describes his organizational philosophy as a ship metaphor, where every crew member—regardless of rank or role—is essential and responsible for supporting one another to keep the vessel moving forward together.</summary>
-    <published>2026-06-04T07:22:46.286423+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
