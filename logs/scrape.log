@@ -3065,3 +3065,23 @@ Sauce flavor.
 2026-07-04 06:17:14 [INFO] Translated title: Importing foreign culture and exporting culture abroad.
 2026-07-04 06:17:14 [INFO] Summary: The author reflects on how Japanese creators have traditionally made work for domestic audiences who share cultural references, but must now navigate the complex reality of simultaneously creating for both Japanese and international audiences—gaining global reach while potentially losing cultural specificity in the process.
 2026-07-04 06:17:14 [INFO] Scraper completed successfully
+2026-07-05 06:38:51 [INFO] ============================================================
+2026-07-05 06:38:51 [INFO] Hobonichi Scraper V2
+2026-07-05 06:38:51 [INFO] Current time (JST): 2026-07-05 15:38:51
+2026-07-05 06:38:51 [INFO] ============================================================
+2026-07-05 06:38:51 [INFO] Starting scrape at 2026-07-05 15:38:51 JST
+2026-07-05 06:38:56 [INFO] Essay scraped successfully: 足の人差し指と薬指のことなど。...
+2026-07-05 06:38:56 [INFO] Content hash: 1989a1470873
+2026-07-05 06:38:56 [INFO] Saved original markdown: TD-Original-2026-07-05.md
+2026-07-05 06:38:56 [INFO] Translating title...
+2026-07-05 06:38:58 [INFO] Translating author...
+2026-07-05 06:39:00 [INFO] Translating essay body...
+2026-07-05 06:39:20 [INFO] Generating summary...
+2026-07-05 06:39:21 [INFO] Saved translated markdown: TD-Translated-2026-07-05.md
+2026-07-05 06:39:21 [INFO] Archive saved with 154 entries
+2026-07-05 06:39:21 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-07-05 06:39:21 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-07-05 06:39:21 [INFO] Successfully processed: 足の人差し指と薬指のことなど。
+2026-07-05 06:39:21 [INFO] Translated title: On the index and ring toes, among other things.
+2026-07-05 06:39:21 [INFO] Summary: The author explores the absurdity of calling foot toes by hand finger names while sharing a newfound technique that makes wearing five-toe socks less frustrating, ultimately reflecting on their cyclical relationship with health trends.
+2026-07-05 06:39:21 [INFO] Scraper completed successfully
