@@ -1,12 +1,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-07-06T07:11:14.209357+00:00</updated>
+  <updated>2026-07-07T06:44:41.534110+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#6184597bca38</id>
+    <title>Just seeing a lot of things, and other matters.</title>
+    <updated>2026-07-07T06:44:10.870439+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Punch, the little monkey at the Ichikawa Zoological and Botanical Garden, may well have become a full-fledged international star by now. He's grown up quite a bit, getting closer to what you might call a young man. These days, it seems he even looks after the newer baby monkeys, the ones born not long ago.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Punch, I've spent far more time watching the monkeys on their hill than I ever have before. Never in my life have I spent this much time gazing at a monkey enclosure. I think there's something truly wonderful about simply watching, a lot, without studying or trying to learn anything from it.&lt;/p&gt;
+
+&lt;p&gt;When it comes to the things we love, we just watch. A lot. Not for any purpose. Just to watch. Because the watching itself feels good. We don't only look from straight on. We look from a distance too. We look from behind, where they can't see us looking back. We watch them when they're still, and when they're moving.&lt;/p&gt;
+
+&lt;p&gt;It's not because we want to communicate our love to them. It's entirely one-sided. We watch simply because we like them. Babies and children are watched this way. To varying degrees, lovers probably are too. The people we admire and follow are watched this way. It's purely selfish on the part of the watcher. We watch because it feels good.&lt;/p&gt;
+
+&lt;p&gt;Still, some people can't help searching for the reason. "But why do I like this?" If the searching is fun, then by all means, search away. But rather than hunting for reasons, you're better off just doing more watching.&lt;/p&gt;
+
+&lt;p&gt;I recently saw a documentary about Takeshi Yoro. When asked about his health, his illness, his thoughts on things, he answered every question carefully, choosing his words with care. But the times he seemed happiest, more than anything, were when he was making specimens of his beloved insects, or when he was with fellow insect enthusiasts. There was obviously no reason behind it, and he didn't seem to have any intention of putting those specimens to practical use.&lt;/p&gt;
+
+&lt;p&gt;How wonderful it is to have something you love. That's what a living person really wants to do, isn't it?&lt;/p&gt;
+
+&lt;p&gt;The ropes of "why" and "what for" may be binding us hand and foot without our knowing it.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. Toys exist in this world, and there are people who never stop playing.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#6184597bca38"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay celebrates the profound joy found in simply watching and loving something without needing to justify, analyze, or derive purpose from it—a freedom from the constraints of rationalization that allows us to fully experience what brings us happiness.</summary>
+    <published>2026-07-07T06:44:10.870439+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#f6a8576ac43a</id>
     <title>When you get old, it's something you should keep in mind.</title>
     <updated>2026-07-06T07:10:52.552298+00:00</updated>
@@ -698,28 +728,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on the successful completion of the "Life is Fun" exhibition, celebrating the seamless teamwork, joy, and collaborative spirit demonstrated by everyone involved—from crew and staff to vendors, volunteers, and visitors. Through heartfelt gratitude, they emphasize how the collective effort and genuine enthusiasm of all participants made the event a meaningful and joyful experience.</summary>
     <published>2026-06-08T08:08:15.926666+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#3c391451d5b0</id>
-    <title>Alright, year 29 has begun.</title>
-    <updated>2026-06-07T07:04:30.264193+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;As of today, Hobonichi has entered its 29th year. Yesterday, June 6th, was the 28th anniversary of our founding, which means the very next day we're already into year 29. I wonder if everyone busy working at the "Life's Little Pleasures Exhibition" even knows. Hey, year 29 has begun!&lt;/p&gt;
-
-&lt;p&gt;But really, if someone asked, "What kind of company is Hobonichi?" I'm not sure even we could give a clear answer. Isn't that a problem, though? You're supposed to know what you're doing so you can buckle down and do it. You're supposed to have a goal so you can work backward and figure out what needs doing now. Nobody ever really nagged us about that kind of thing, though. Maybe they figured there was no point. But even without being told, we've managed just fine.&lt;/p&gt;
-
-&lt;p&gt;Seeds get planted in an "open lot of ideas" that isn't the same as everyone else's. Those seeds, through sun and clouds and rain, sometimes grow tall and sometimes don't. The leaves photosynthesize, flowers bloom, roots drink up water and nutrients from deep underground, and if things go well, fruit appears. But if you fixate too much on the fruit as the purpose, you end up chasing nothing but that. What matters more is the process, wondering what will grow, noticing how beautiful it is, finding it fascinating. That process is what nurtures us, the ones doing the nurturing.&lt;/p&gt;
-
-&lt;p&gt;And having been nurtured, we go out with energy to find another "open lot of ideas" and plant more seeds. Maybe a field takes shape. Maybe a forest. It's not just us, the people, who grow. The place itself grows. Bees come buzzing, birds arrive, animals wander in. Follow a rabbit and you might find a mysterious hole. It's wonderful. And because it's wonderful, you can play with everything you've got. You end up completely exhausted, and you look around at your companions and think, I'm so glad they're here.&lt;/p&gt;
-
-&lt;p&gt;Well then, today is the final day of the "Life's Little Pleasures Exhibition." Thank you, as always, for being here with Hobonichi. I think AI is amazing, but I'd like to believe that people are even more so.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#3c391451d5b0"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Hobonichi's 29 years of success came not from having a clear corporate strategy, but from cultivating an open, creative environment where ideas naturally grow and evolve, nurturing both the company and the people within it. The company's philosophy prioritizes the beauty of the process itself over predetermined goals, allowing for unexpected discoveries and genuine human connection.</summary>
-    <published>2026-06-07T07:04:30.264193+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
