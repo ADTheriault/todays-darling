@@ -1,12 +1,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
   <title type="text">Today's Darling</title>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-07-08T05:49:05.005830+00:00</updated>
+  <updated>2026-07-09T06:41:59.453076+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
 <entry>
+    <id>https://adtheriault.github.io/todays-darling/#1abcbc3b08e7</id>
+    <title>An exhausting but fun last night.</title>
+    <updated>2026-07-09T06:41:28.847581+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;By the way, I really did eat tonkatsu yesterday. It was every bit as delicious as I'd imagined. There's something genuinely wonderful about having tomorrow's pleasure already picked out.&lt;/p&gt;
+
+&lt;p&gt;So. Right now, I'm pretty worn out. Like a rag that's been wrung tight and left completely dry.&lt;/p&gt;
+
+&lt;p&gt;Last night, I produced a pilot version of something I'd been turning over in my mind for a long time, wondering if it might work. For me, it's actually quite rare to come up with an idea myself and then say, "All right, I'll do it." Mostly because I already know going in that it's going to be exhausting.&lt;/p&gt;
+
+&lt;p&gt;To put it simply, it's a live event where I read aloud from a book that people think they've read but actually haven't, and as I go, I insert my own questions and reactions along the way. You might call it a "one-man book club." Taking something I normally do alone, reading, and doing it in front of people who are listening.&lt;/p&gt;
+
+&lt;p&gt;N-ta-san said, "So it's kind of like a video game playthrough, but for books." I told him that might not be far off.&lt;/p&gt;
+
+&lt;p&gt;While reading, when I think, "Oh, that's lovely," or "How on earth did the author manage to write it this way," I say it out loud. All those things you normally do in silence, alone. You could also call it "storytime for adults."&lt;/p&gt;
+
+&lt;p&gt;And one thing that's pretty important: no preparation, no research. I face the book completely bare. In the spirit of something that's been my personal motto lately: "Things only really begin once everyone can see you're a fool." When I do that, the people listening don't have to put on airs either. People who read a lot and people who never read at all, both are welcome. That's the kind of book club this is.&lt;/p&gt;
+
+&lt;p&gt;Since it was a pilot, we only streamed it internally, as a test to see whether people would enjoy it. In the end, I was tired but it was genuinely interesting. The response from those who watched was quite positive, so we may end up making it available to the public. Ninety minutes of nonstop reading and talking. Is this really something an old man should be doing?&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi today. The book I chose for the reading was, of all things, by that master of prose, Shiga Naoya.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#1abcbc3b08e7"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author describes launching a new "one-man book club" concept where he reads aloud from a book while sharing unfiltered reactions and questions, deliberately unprepared and vulnerable to create an authentic space where all readers—experienced or not—feel welcome. Despite the exhaustion, the pilot event resonated with audiences, suggesting that turning solitary reading into a shared, genuine performance can be both creatively fulfilling and connecting.</summary>
+    <published>2026-07-09T06:41:28.847581+00:00</published>
+  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#6aad0d9d4cfa</id>
     <title>Is it something you look forward to, morning coming when you wake up?
 
@@ -710,28 +740,6 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on how their current low-energy dog Buiko, though less demanding than their previous high-spirited dog Bouillon, still seeks out play in her own subtle way, revealing that play remains essential to life for dogs and humans alike. Despite their different temperaments and energy levels, both dogs demonstrate that the desire to play is a fundamental part of their nature.</summary>
     <published>2026-06-10T07:07:44.644573+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#eab589ef6287</id>
-    <title>A world where you can find almost anything if you look</title>
-    <updated>2026-06-09T06:48:48.075206+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;It's never the case that all one hundred people out of a hundred are thinking the same thing. Even something you feel sure about, if half the people in the world happen to agree with you, you can safely say, "Well, that's a pretty good number." You might be absolutely convinced that "when it comes to oden, it's all about the daikon," but how many people would actually nod along and say, "Yes, daikon"? And the same goes for eggs. Konjac might be practically synonymous with oden, but I don't think all that many people would name it as their personal number one. (Based on a highly informal neighborhood survey.) When it comes to the question "What do you think of when you think of oden?", there is simply no answer that everyone will unanimously agree on.&lt;/p&gt;
-
-&lt;p&gt;So if you go around brimming with confidence, convinced that "everyone loves eggs," and you actually put the question to people, you'll find yourself caught off guard by voices calling out "shirataki!" or "chikuwa!" Someone with a narrow mind might even get angry. "How outrageous!"&lt;/p&gt;
-
-&lt;p&gt;I keep saying this, but we really need to understand that it's absolutely impossible for a hundred people to all be thinking the same thing. You can't just declare, "Everyone must want this kind of world," or "This is how people think." Outlandish opinions, ideas you'd never expect, for better or worse, they absolutely exist out there in the world.&lt;/p&gt;
-
-&lt;p&gt;People often say that ego-searching, looking yourself up online, is bad for your mental health, and you should stop doing it. That's because it's essentially going out of your way to hunt for information that will hurt you. If you make the effort to poke around in every back alley and side street, you will always find what's already there, because it's always been there. And once you notice it, it can throw off your inner sense of balance. Getting swept up in a whirlpool of agreement and affirmation is dangerous too, but so is fixating on every dark stain on the wall.&lt;/p&gt;
-
-&lt;p&gt;We live in an age where you can go and see the thoughts of not just a hundred people, but a million, as many as you like, whenever you want. That might actually be a strange thing for human beings. Thank you for visiting Hobonichi again today. Knowing too much, wanting to know too much. It pays to be careful.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#eab589ef6287"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay argues that universal agreement is impossible and that modern technology's ability to expose us to countless diverse—and sometimes hurtful—opinions can disturb our mental equilibrium, making it important to resist both ego-searching and the compulsion to know everything about what others think.</summary>
-    <published>2026-06-09T06:48:48.075206+00:00</published>
   <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
   </entry>
 </feed>
