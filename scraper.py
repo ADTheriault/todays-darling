@@ -19,7 +19,6 @@ import json
 import hashlib
 import logging
 import sys
-import time
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
@@ -121,6 +120,32 @@ def format_iso_utc(dt: datetime) -> str:
 # Scraping Functions (preserved from V1)
 # =============================================================================
 
+def extract_paragraphs(container) -> str:
+    """
+    Extract essay text from a BeautifulSoup element containing <p> tags.
+
+    <br> tags within a <p> become single newlines; separate <p> tags become
+    paragraph breaks (double newlines). Returns '' if no text is found.
+    """
+    all_paragraphs = []
+    for p_tag in container.find_all('p'):
+        lines = []
+        for elem in p_tag.children:
+            if isinstance(elem, str):
+                text = elem.strip()
+                if text:
+                    lines.append(text)
+            elif elem.name == 'br':
+                continue
+            elif hasattr(elem, 'get_text'):
+                text = elem.get_text(strip=True)
+                if text:
+                    lines.append(text)
+        if lines:
+            all_paragraphs.append('\n'.join(lines))
+    return '\n\n'.join(all_paragraphs)
+
+
 def scrape_essay() -> Optional[dict]:
     """
     Fetch and extract Itoi's daily essay from 1101.com using Playwright.
@@ -171,33 +196,8 @@ def scrape_essay() -> Optional[dict]:
         author = author_el.get_text(strip=True)
 
     if body_el:
-        # Get all paragraphs from the body
-        paragraphs = body_el.find_all('p')
-        if paragraphs:
-            # Process each <p> tag, handling <br> as line breaks within
-            all_paragraphs = []
-            for p_tag in paragraphs:
-                lines = []
-                for elem in p_tag.children:
-                    if isinstance(elem, str):
-                        text = elem.strip()
-                        if text:
-                            lines.append(text)
-                    elif elem.name == 'br':
-                        # <br> represents a line break, join current and start new line
-                        pass  # Just continue, the next text will be on a new logical line
-                    elif hasattr(elem, 'get_text'):
-                        text = elem.get_text(strip=True)
-                        if text:
-                            lines.append(text)
-
-                if lines:
-                    # Join lines within this <p> with newlines
-                    all_paragraphs.append('\n'.join(lines))
-
-            # Join paragraphs with double newlines
-            body = '\n\n'.join(all_paragraphs)
-        else:
+        body = extract_paragraphs(body_el)
+        if not body:
             # No <p> tags - preserve line breaks from <br> tags
             for br in body_el.find_all('br'):
                 br.replace_with('\n')
@@ -210,26 +210,9 @@ def scrape_essay() -> Optional[dict]:
         for section in soup.find_all(['div', 'section', 'article']):
             text = section.get_text()
             if '糸井重里' in text and len(text) > 500:
-                paragraphs = section.find_all('p')
-                if paragraphs:
-                    # Process each <p> tag, handling <br> as line breaks within
-                    all_paragraphs = []
-                    for p_tag in paragraphs:
-                        lines = []
-                        for elem in p_tag.children:
-                            if isinstance(elem, str):
-                                t = elem.strip()
-                                if t:
-                                    lines.append(t)
-                            elif elem.name == 'br':
-                                pass
-                            elif hasattr(elem, 'get_text'):
-                                t = elem.get_text(strip=True)
-                                if t:
-                                    lines.append(t)
-                        if lines:
-                            all_paragraphs.append('\n'.join(lines))
-                    body = '\n\n'.join(all_paragraphs)
+                section_body = extract_paragraphs(section)
+                if section_body:
+                    body = section_body
                     h_tag = section.find(['h1', 'h2', 'h3'])
                     if h_tag and not title:
                         title = h_tag.get_text(strip=True)
@@ -288,16 +271,19 @@ def scrape_essay() -> Optional[dict]:
 # Translation Functions (preserved from V1)
 # =============================================================================
 
-def _call_with_retry(fn, max_retries: int = 3):
-    for attempt in range(max_retries):
-        try:
-            return fn()
-        except APIStatusError as e:
-            if e.status_code != 529 or attempt == max_retries - 1:
-                raise
-            wait = 2 ** attempt * 5  # 5s, 10s, 20s
-            log.warning(f"API overloaded, retrying in {wait}s (attempt {attempt + 1}/{max_retries})")
-            time.sleep(wait)
+_client: Optional[Anthropic] = None
+
+
+def get_client() -> Anthropic:
+    """Return a shared Anthropic client (reads ANTHROPIC_API_KEY from the env).
+
+    max_retries covers rate limits (429), overload (529), and connection
+    errors with exponential backoff, replacing hand-rolled retry logic.
+    """
+    global _client
+    if _client is None:
+        _client = Anthropic(max_retries=5)
+    return _client
 
 
 def translate_text(japanese_text: str, is_title: bool = False) -> str:
@@ -307,11 +293,7 @@ def translate_text(japanese_text: str, is_title: bool = False) -> str:
     For body text, returns translation with <p> tags (for feed).
     For titles, returns plain text.
     """
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key:
-        raise ValueError("ANTHROPIC_API_KEY environment variable not set")
-
-    client = Anthropic(api_key=api_key)
+    client = get_client()
 
     if is_title:
         prompt = f"""Translate this Japanese essay title into natural English.
@@ -338,36 +320,48 @@ Output each paragraph wrapped in <p></p> tags. Output ONLY the <p> tags, no othe
 {japanese_text}"""
 
     try:
-        message = _call_with_retry(lambda: client.messages.create(
-            model="claude-opus-4-6",
-            max_tokens=4000,
+        message = client.messages.create(
+            model="claude-opus-4-8",
+            # Thinking tokens count toward max_tokens, so leave generous headroom
+            max_tokens=16000,
+            thinking={"type": "adaptive"},
             messages=[{"role": "user", "content": prompt}]
-        ))
-        return message.content[0].text
+        )
     except APIError as e:
         log.error(f"Claude API error: {e}")
         raise
 
+    if message.stop_reason == "max_tokens":
+        raise RuntimeError("Translation was truncated (hit max_tokens limit)")
+
+    # With thinking enabled, content holds thinking blocks before the text block
+    text = "".join(block.text for block in message.content if block.type == "text")
+    if not text:
+        raise RuntimeError("Translation response contained no text block")
+
+    if is_title:
+        # Guard against leaked deliberation ("Hmm, let me reconsider: ...") —
+        # if the model produced multiple lines, its final answer is the last one
+        lines = [line.strip() for line in text.splitlines() if line.strip()]
+        if lines:
+            text = lines[-1]
+
+    return text
+
 
 def summarize_translation(translation: str) -> str:
     """Generate a 1-2 line summary from the translated essay."""
-    api_key = os.environ.get('ANTHROPIC_API_KEY')
-    if not api_key:
-        raise ValueError("ANTHROPIC_API_KEY environment variable not set")
-
-    client = Anthropic(api_key=api_key)
-
     prompt = f"""Create a brief 1-2 sentence summary of this essay that captures its main theme or insight.
 Be concise and natural. Output only the summary, nothing else.
 
 {translation}"""
 
     try:
-        message = _call_with_retry(lambda: client.messages.create(
+        message = get_client().messages.create(
             model="claude-haiku-4-5-20251001",
             max_tokens=200,
             messages=[{"role": "user", "content": prompt}]
-        ))
+        )
         return message.content[0].text.strip()
     except APIStatusError as e:
         if e.status_code == 529:
@@ -489,6 +483,7 @@ def save_archive(archive: list):
 def generate_atom(archive: list):
     """Generate Atom feed from archive."""
     fg = FeedGenerator()
+    fg.load_extension('media')
     fg.id('https://adtheriault.github.io/todays-darling/atom.xml')
     fg.title("Today's Darling")
     fg.subtitle('Daily essays by Shigesato Itoi from 1101.com, translated to English.')
@@ -527,95 +522,11 @@ def generate_atom(archive: list):
         fe.published(entry_data['date'])
         fe.updated(entry_data['date'])
 
+        # group=None emits a bare <media:thumbnail> instead of a <media:group> wrapper
+        fe.media.thumbnail(url=DARLING_IMAGE_URL, width='200', height='144', group=None)
+
     OUTPUT_DIR.mkdir(exist_ok=True)
     fg.atom_file(str(FEED_FILE), pretty=True)
-
-    # Post-process to match the desired header format
-    with open(FEED_FILE, 'r', encoding='utf-8') as f:
-        xml_content = f.read()
-
-    # Add thr and media namespaces if not present
-    if 'xmlns:media=' not in xml_content:
-        xml_content = xml_content.replace(
-            '<feed xmlns="http://www.w3.org/2005/Atom"',
-            '<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0"',
-            1
-        )
-    elif 'xmlns:thr=' not in xml_content:
-        xml_content = xml_content.replace(
-            '<feed xmlns="http://www.w3.org/2005/Atom"',
-            '<feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0"',
-            1
-        )
-
-    # Add type="text" to title element
-    if '<title type=' not in xml_content:
-        xml_content = xml_content.replace(
-            '<title>',
-            '<title type="text">',
-            1
-        )
-
-    # Reorder feed header elements to match convention:
-    # title, subtitle, updated, link(alternate), id, link(self), icon
-    feed_match = re.search(r'<feed[^>]*>.*?(?=<entry|</feed>)', xml_content, re.DOTALL)
-    if feed_match:
-        feed_section = feed_match.group(0)
-
-        # Extract individual elements
-        title_match = re.search(r'(<title[^>]*>.*?</title>)', feed_section)
-        subtitle_match = re.search(r'(<subtitle>.*?</subtitle>)', feed_section)
-        updated_match = re.search(r'(<updated>.*?</updated>)', feed_section)
-        links = re.findall(r'(<link[^>]*/?>)', feed_section)
-        id_match = re.search(r'(<id>.*?</id>)', feed_section)
-        icon_match = re.search(r'(<icon>.*?</icon>)', feed_section)
-
-        # Reconstruct in desired order with all namespaces
-        new_feed = '<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">\n'
-        if title_match:
-            new_feed += '  ' + title_match.group(1) + '\n'
-        if subtitle_match:
-            new_feed += '  ' + subtitle_match.group(1) + '\n'
-        if updated_match:
-            new_feed += '  ' + updated_match.group(1) + '\n'
-        # Add links in order: alternate first, then self
-        for link in links:
-            if 'rel="alternate"' in link:
-                new_feed += '  ' + link + '\n'
-        if id_match:
-            new_feed += '  ' + id_match.group(1) + '\n'
-        for link in links:
-            if 'rel="self"' in link:
-                new_feed += '  ' + link + '\n'
-        if icon_match:
-            new_feed += '  ' + icon_match.group(1) + '\n'
-
-        # Replace the feed opening with our reconstructed one
-        xml_content = new_feed + xml_content[feed_match.end():]
-
-    # Add media:thumbnail to each entry
-    for entry_data in archive[:30]:
-        guid = entry_data['hash']
-        entry_id_pattern = f'<id>https://adtheriault.github.io/todays-darling/#{guid}</id>'
-        if entry_id_pattern in xml_content:
-            # Add thumbnail after the published element
-            thumbnail_tag = f'<media:thumbnail url="{DARLING_IMAGE_URL}" width="200" height="144"/>'
-            published_pattern = '</published>'
-            # Find the published tag that comes after this entry's id
-            entry_start = xml_content.find(entry_id_pattern)
-            if entry_start != -1:
-                # Find the next </published> after this entry
-                published_end = xml_content.find(published_pattern, entry_start)
-                if published_end != -1:
-                    insertion_point = published_end + len(published_pattern)
-                    # Check if thumbnail already exists for this entry
-                    check_range = xml_content[entry_start:entry_start + 1500]
-                    if '<media:thumbnail' not in check_range:
-                        xml_content = xml_content[:insertion_point] + '\n  ' + thumbnail_tag + xml_content[insertion_point:]
-
-    # Write final XML
-    with open(FEED_FILE, 'w', encoding='utf-8') as f:
-        f.write(xml_content)
 
     log.info(f"Atom feed generated: {FEED_FILE}")
 
@@ -623,6 +534,8 @@ def generate_atom(archive: list):
 def generate_rss(archive: list):
     """Generate RSS 2.0 feed from archive."""
     fg = FeedGenerator()
+    # dc:creator carries the author name; RSS 2.0's own <author> requires an email address
+    fg.load_extension('dc')
     fg.id('https://adtheriault.github.io/todays-darling/rss.xml')
     fg.title("Today's Darling")
     fg.description('Daily essays by Shigesato Itoi from 1101.com, translated to English.')
@@ -646,7 +559,7 @@ def generate_rss(archive: list):
         entry_url = f"https://adtheriault.github.io/todays-darling/#{entry_data['hash']}"
         fe.id(entry_url)
         fe.title(entry_data.get('translated_title', entry_data['title']))
-        fe.author({'name': entry_data.get('translated_author', entry_data.get('author', 'Shigesato Itoi'))})
+        fe.dc.dc_creator(entry_data.get('translated_author', entry_data.get('author', 'Shigesato Itoi')))
         fe.link(href=entry_url)
 
         # Use summary for description
@@ -674,19 +587,6 @@ def generate_rss(archive: list):
         f'<link>{PAGES_BASE_URL}</link>',
         1  # Only replace the first occurrence (channel link)
     )
-
-    # Add <author> to each item (feedgen omits it in RSS when no email is given)
-    for entry_data in sorted_entries:
-        author_name = entry_data.get('translated_author', entry_data.get('author', 'Shigesato Itoi'))
-        guid = entry_data['hash']
-        guid_tag = f'<guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#{guid}</guid>'
-        if guid_tag in rss_content:
-            guid_pos = rss_content.find(guid_tag)
-            item_end = rss_content.find('</item>', guid_pos)
-            if item_end != -1:
-                check_range = rss_content[guid_pos:item_end]
-                if '<author>' not in check_range:
-                    rss_content = rss_content[:item_end] + f'      <author>{author_name}</author>\n    ' + rss_content[item_end:]
 
     with open(rss_file, 'w', encoding='utf-8') as f:
         f.write(rss_content)
@@ -763,49 +663,6 @@ def process_essay() -> bool:
     return True
 
 
-def run_with_retry(max_attempts: int = 3, retry_delay_hours: float = 2.0) -> bool:
-    """
-    Run the scraper with retry logic.
-
-    Args:
-        max_attempts: Maximum number of attempts (default 3)
-        retry_delay_hours: Hours to wait between retries (default 2)
-
-    Returns True if successful on any attempt.
-
-    Note: In GitHub Actions, retries are typically handled via separate
-    cron schedules rather than in-process delays. This function is provided
-    for local testing and as a fallback.
-    """
-    import time
-
-    for attempt in range(1, max_attempts + 1):
-        log.info(f"=== Attempt {attempt}/{max_attempts} ===")
-
-        try:
-            if process_essay():
-                log.info(f"Success on attempt {attempt}")
-                return True
-        except Exception as e:
-            log.error(f"Attempt {attempt} failed with error: {e}")
-            import traceback
-            log.error(traceback.format_exc())
-
-        if attempt < max_attempts:
-            delay_seconds = retry_delay_hours * 3600
-            log.info(f"Waiting {retry_delay_hours} hours before retry...")
-            # In practice, GitHub Actions handles scheduling
-            # This is mainly for local testing
-            if os.environ.get('LOCAL_RETRY_ENABLED'):
-                time.sleep(delay_seconds)
-            else:
-                log.info("Exiting (retries handled by GitHub Actions schedule)")
-                return False
-
-    log.error(f"All {max_attempts} attempts failed")
-    return False
-
-
 def main():
     """Entry point for the scraper."""
     log.info("=" * 60)
@@ -818,8 +675,13 @@ def main():
         log.error("ANTHROPIC_API_KEY environment variable not set")
         sys.exit(1)
 
-    # Run the scraper
-    success = process_essay()
+    # Run the scraper (retries across the day are handled by the GitHub
+    # Actions cron schedules; API-level retries by the Anthropic SDK)
+    try:
+        success = process_essay()
+    except Exception:
+        log.exception("Scraper failed with unhandled error")
+        sys.exit(1)
 
     if success:
         log.info("Scraper completed successfully")
