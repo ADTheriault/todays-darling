@@ -3169,3 +3169,23 @@ Do you look forward to morning coming when you wake up?
 2026-07-09 06:41:59 [INFO] Translated title: An exhausting but fun last night.
 2026-07-09 06:41:59 [INFO] Summary: The author describes launching a new "one-man book club" concept where he reads aloud from a book while sharing unfiltered reactions and questions, deliberately unprepared and vulnerable to create an authentic space where all readers—experienced or not—feel welcome. Despite the exhaustion, the pilot event resonated with audiences, suggesting that turning solitary reading into a shared, genuine performance can be both creatively fulfilling and connecting.
 2026-07-09 06:41:59 [INFO] Scraper completed successfully
+2026-07-10 06:42:43 [INFO] ============================================================
+2026-07-10 06:42:43 [INFO] Hobonichi Scraper V2
+2026-07-10 06:42:43 [INFO] Current time (JST): 2026-07-10 15:42:43
+2026-07-10 06:42:43 [INFO] ============================================================
+2026-07-10 06:42:43 [INFO] Starting scrape at 2026-07-10 15:42:43 JST
+2026-07-10 06:42:50 [INFO] Essay scraped successfully: 100人くらいの前で歌うこと。...
+2026-07-10 06:42:50 [INFO] Content hash: a4a666911a8a
+2026-07-10 06:42:50 [INFO] Saved original markdown: TD-Original-2026-07-10.md
+2026-07-10 06:42:50 [INFO] Translating title...
+2026-07-10 06:42:53 [INFO] Translating author...
+2026-07-10 06:42:55 [INFO] Translating essay body...
+2026-07-10 06:43:13 [INFO] Generating summary...
+2026-07-10 06:43:14 [INFO] Saved translated markdown: TD-Translated-2026-07-10.md
+2026-07-10 06:43:14 [INFO] Archive saved with 159 entries
+2026-07-10 06:43:14 [INFO] Atom feed generated: /home/runner/work/todays-darling/todays-darling/docs/atom.xml
+2026-07-10 06:43:14 [INFO] RSS feed generated: /home/runner/work/todays-darling/todays-darling/docs/rss.xml
+2026-07-10 06:43:14 [INFO] Successfully processed: 100人くらいの前で歌うこと。
+2026-07-10 06:43:14 [INFO] Translated title: Singing in front of about a hundred people.
+2026-07-10 06:43:14 [INFO] Summary: The essay reflects on how legendary Japanese musicians like Akiko Yano and Tatsuro Yamashita began their careers performing in small venues for intimate audiences of fewer than a hundred people, arguing that regardless of eventual fame, all artists start from the same humble beginning where direct connection with devoted fans, rather than massive popularity, is what truly matters.
+2026-07-10 06:43:14 [INFO] Scraper completed successfully
