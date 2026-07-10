@@ -1,8 +1,4 @@
-## Title: Is it something you look forward to, morning coming when you wake up?
-
-Hmm, let me reconsider for a more natural phrasing:
-
-Do you look forward to morning coming when you wake up?
+## Title: Do you look forward to morning coming when you wake up?
 ## Date: 2026-07-08
 ## Author: Shigesato Itoi
 ## Content:

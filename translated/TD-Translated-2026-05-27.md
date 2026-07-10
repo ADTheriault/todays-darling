@@ -1,8 +1,4 @@
-## Title: Source of flavor.
-
-Wait, let me reconsider. "ソース味" refers to the flavor of Japanese Worcester-style sauce (ソース).
-
-Sauce flavor.
+## Title: Sauce flavor.
 ## Date: 2026-05-27
 ## Author: Shigesato Itoi
 ## Content:
