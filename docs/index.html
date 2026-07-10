@@ -9,35 +9,236 @@
     <link rel="apple-touch-icon" sizes="180x180" href="favicon.png">
     <link rel="shortcut icon" href="favicon.png">
     <link rel="alternate" type="application/atom+xml" title="Today's Darling Feed" href="atom.xml">
+    <link rel="alternate" type="application/rss+xml" title="Today's Darling Feed (RSS)" href="rss.xml">
     <style>
+        :root {
+            --bg: #ffffff;
+            --text: #333333;
+            --muted: #666666;
+            --faint: #999999;
+            --link: #0066cc;
+            --card-bg: #f5f5f5;
+            --border: #e5e5e5;
+            --highlight: #fff8e1;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #1a1a1a;
+                --text: #e0e0e0;
+                --muted: #a0a0a0;
+                --faint: #777777;
+                --link: #6cb2ff;
+                --card-bg: #262626;
+                --border: #3a3a3a;
+                --highlight: #33301f;
+            }
+        }
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
             max-width: 600px;
             margin: 50px auto;
-            padding: 20px;
-            text-align: center;
-            color: #333;
+            padding: 0 20px 60px;
+            color: var(--text);
+            background: var(--bg);
         }
-        img { max-width: 200px; margin-bottom: 20px; }
+        header { text-align: center; }
+        header img { max-width: 200px; margin-bottom: 20px; }
         h1 { font-size: 1.5em; margin-bottom: 10px; }
-        p { color: #666; line-height: 1.6; }
-        a { color: #0066cc; }
+        header p { color: var(--muted); line-height: 1.6; }
+        a { color: var(--link); }
         code {
-            background: #f5f5f5;
+            background: var(--card-bg);
             padding: 10px 15px;
             border-radius: 5px;
             display: block;
             margin: 20px 0;
             font-size: 0.9em;
+            overflow-x: auto;
+        }
+        article {
+            border-top: 1px solid var(--border);
+            padding: 30px 0 10px;
+            margin-top: 30px;
+            scroll-margin-top: 20px;
+        }
+        article.targeted {
+            background: var(--highlight);
+            border-radius: 8px;
+            padding: 30px 20px 10px;
+            margin-left: -20px;
+            margin-right: -20px;
+        }
+        article h2 { font-size: 1.2em; margin: 0 0 4px; }
+        article h2 a { color: inherit; text-decoration: none; }
+        article h2 a:hover { text-decoration: underline; }
+        .meta { color: var(--faint); font-size: 0.85em; margin: 0 0 16px; }
+        .essay p { line-height: 1.7; margin: 0 0 1em; }
+        #status { text-align: center; color: var(--faint); margin-top: 40px; }
+        #pager {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+            border-top: 1px solid var(--border);
+            margin-top: 30px;
+            padding-top: 20px;
+        }
+        #pager button {
+            font: inherit;
+            color: var(--text);
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 8px 16px;
+            cursor: pointer;
+        }
+        #pager button:hover:not(:disabled) { border-color: var(--faint); }
+        #pager button:disabled { opacity: 0.4; cursor: default; }
+        #pager span { color: var(--faint); font-size: 0.85em; }
+        footer {
+            border-top: 1px solid var(--border);
+            margin-top: 40px;
+            padding-top: 20px;
+            text-align: center;
+            color: var(--faint);
+            font-size: 0.85em;
+            line-height: 1.6;
         }
     </style>
 </head>
 <body>
-    <img src="images/darling.png" alt="Today's Darling">
-    <h1>Today's Darling</h1>
-    <p>Daily English translations of Shigesato Itoi's essays from <a href="https://www.1101.com/">Hobonichi</a>.</p>
-    <p>Subscribe via RSS:</p>
-    <code>https://adtheriault.github.io/todays-darling/atom.xml</code>
-    <p><a href="atom.xml">View Feed</a></p>
+    <header>
+        <img src="images/darling.png" alt="Today's Darling">
+        <h1>Today's Darling</h1>
+        <p>Daily English translations of Shigesato Itoi's essays from <a href="https://www.1101.com/">Hobonichi</a>.</p>
+        <p>Subscribe via RSS:</p>
+        <code>https://adtheriault.github.io/todays-darling/atom.xml</code>
+        <p><a href="atom.xml">Atom</a> &middot; <a href="rss.xml">RSS</a></p>
+    </header>
+
+    <main id="essays">
+        <noscript><p id="status">JavaScript is required to display the essay archive. The essays are also available in the <a href="atom.xml">feed</a>.</p></noscript>
+        <p id="status">Loading essays&hellip;</p>
+    </main>
+
+    <nav id="pager" hidden>
+        <button id="newer" type="button">&larr; Newer</button>
+        <span id="page-label"></span>
+        <button id="older" type="button">Older &rarr;</button>
+    </nav>
+
+    <footer>
+        Original essays by Shigesato Itoi / <a href="https://www.1101.com/">Hobonichi</a>.<br>
+        Translated by Claude (Anthropic). Unofficial fan archive.
+    </footer>
+
+    <script>
+        (async function () {
+            const PAGE_SIZE = 1;
+            const main = document.getElementById('essays');
+            const status = document.getElementById('status');
+            const pager = document.getElementById('pager');
+            const newerBtn = document.getElementById('newer');
+            const olderBtn = document.getElementById('older');
+            const pageLabel = document.getElementById('page-label');
+
+            let archive;
+            try {
+                const resp = await fetch('archive.json');
+                if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                archive = await resp.json();
+            } catch (err) {
+                status.textContent = 'Could not load the essay archive (' + err.message + '). Try the feed instead.';
+                return;
+            }
+
+            const pageCount = Math.max(1, Math.ceil(archive.length / PAGE_SIZE));
+            let currentPage = 1;
+
+            function buildArticle(entry) {
+                const article = document.createElement('article');
+                article.id = entry.hash;
+
+                const h2 = document.createElement('h2');
+                const titleLink = document.createElement('a');
+                titleLink.href = '#' + entry.hash;
+                titleLink.textContent = entry.translated_title || entry.title;
+                h2.appendChild(titleLink);
+
+                const meta = document.createElement('p');
+                meta.className = 'meta';
+                const date = entry.jst_date || (entry.date || '').slice(0, 10);
+                meta.textContent = date + ' · ' + (entry.translated_author || entry.author || 'Shigesato Itoi');
+
+                const essay = document.createElement('div');
+                essay.className = 'essay';
+                // Trusted content: the translation HTML is generated by this
+                // project's own pipeline and committed to the same repo.
+                essay.innerHTML = entry.translation || '';
+
+                article.append(h2, meta, essay);
+                return article;
+            }
+
+            // Which page a #hash permalink's essay lives on (null if unknown)
+            function pageForHash() {
+                if (location.hash.length > 1) {
+                    const id = location.hash.slice(1);
+                    const idx = archive.findIndex(e => e.hash === id);
+                    if (idx !== -1) return Math.floor(idx / PAGE_SIZE) + 1;
+                }
+                return null;
+            }
+
+            function renderPage(page, opts = {}) {
+                currentPage = Math.min(Math.max(1, page), pageCount);
+
+                main.querySelectorAll('article').forEach(a => a.remove());
+                const frag = document.createDocumentFragment();
+                const start = (currentPage - 1) * PAGE_SIZE;
+                for (const entry of archive.slice(start, start + PAGE_SIZE)) {
+                    frag.appendChild(buildArticle(entry));
+                }
+                main.appendChild(frag);
+
+                newerBtn.disabled = currentPage <= 1;
+                olderBtn.disabled = currentPage >= pageCount;
+                pageLabel.textContent = currentPage + ' of ' + pageCount;
+
+                // Reflect the page in the URL (page 1 stays clean)
+                const url = new URL(location);
+                if (opts.clearHash) url.hash = '';
+                if (currentPage === 1) url.searchParams.delete('page');
+                else url.searchParams.set('page', String(currentPage));
+                history.replaceState(null, '', url);
+
+                if (opts.scrollTop) window.scrollTo(0, 0);
+            }
+
+            // Highlight (and optionally scroll to) the #hash essay, switching
+            // pages if the permalinked essay lives on a different one.
+            function highlightTarget(scroll) {
+                document.querySelectorAll('article.targeted').forEach(a => a.classList.remove('targeted'));
+                if (location.hash.length <= 1) return;
+                const targetPage = pageForHash();
+                if (targetPage && targetPage !== currentPage) renderPage(targetPage);
+                const target = document.getElementById(location.hash.slice(1));
+                if (target && target.tagName === 'ARTICLE') {
+                    target.classList.add('targeted');
+                    if (scroll) target.scrollIntoView();
+                }
+            }
+
+            newerBtn.addEventListener('click', () => renderPage(currentPage - 1, { scrollTop: true, clearHash: true }));
+            olderBtn.addEventListener('click', () => renderPage(currentPage + 1, { scrollTop: true, clearHash: true }));
+            window.addEventListener('hashchange', () => highlightTarget(true));
+
+            status.remove();
+            pager.hidden = false;
+            const queryPage = parseInt(new URLSearchParams(location.search).get('page'), 10) || 1;
+            renderPage(pageForHash() || queryPage);
+            highlightTarget(true);
+        })();
+    </script>
 </body>
 </html>
