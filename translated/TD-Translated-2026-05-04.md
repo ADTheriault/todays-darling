@@ -1,8 +1,4 @@
-## Title: An idle mind is the devil's workshop — just your typical long weekend.
-
-Hmm, let me reconsider to keep it more natural and closer to the original:
-
-It's a long weekend, so I'm just idling about getting into mischief.
+## Title: It's a long weekend, so I'm just idling about getting into mischief.
 ## Date: 2026-05-04
 ## Author: Shigesato Itoi
 ## Content:

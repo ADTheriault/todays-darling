@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Runtime logs (Actions run logs are the persistent history)
+logs/
+
+# Local environment
+.env
+.claude/settings.local.json
+.claude/worktrees/

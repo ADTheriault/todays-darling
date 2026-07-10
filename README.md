@@ -2,6 +2,12 @@
 
 Daily English translations of Shigesato Itoi's essays from [1101.com](https://www.1101.com/).
 
+## Read the Archive
+
+All translated essays are browsable at
+[adtheriault.github.io/todays-darling](https://adtheriault.github.io/todays-darling/).
+Feed permalinks link to individual essays on that page.
+
 ## Subscribe to the Feed
 
 **Atom Feed URL:**
