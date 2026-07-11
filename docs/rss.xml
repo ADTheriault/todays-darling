@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Today's Darling</title>
     <link>https://adtheriault.github.io/todays-darling/</link>
@@ -13,7 +13,24 @@
       <link>https://adtheriault.github.io/todays-darling/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 06:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 05:38:38 +0000</lastBuildDate>
+    <item>
+      <title>What I'm thinking about on July 11th</title>
+      <link>https://adtheriault.github.io/todays-darling/#996580a07a20</link>
+      <description>The essay reflects on death and remembrance through the author's annual pilgrimage to Kyoto, exploring how the anniversaries of our deaths—like our birthdays—give structure to memory and allow us to honor those who have passed by living with intention and gratitude.</description>
+      <content:encoded>&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I come to Kyoto around this time of year. It's become a kind of ritual, so here I am again. It has also come to feel like a signal that summer is beginning. For some reason, in this country, or perhaps just for me, summer is the season when I think most about the dead.&lt;/p&gt;
+
+&lt;p&gt;We remember the day a person was born. We call it a birthday. And then others remember the day that person died. That is called the anniversary of their death. It exists, I suppose, so that we won't forget that a life was lived. Every year, I find myself thinking, another new death-day has been added. A date that didn't exist while a person was alive is born the moment they die. Both birthdays and death-days remain until no one remembers them anymore, and once there's no one left to remember, they too disappear. You could say that every person carries two dates that are uniquely their own. As for me, I don't yet find myself wanting a death-day of my own, but I understand that one day I'll have one. "A good death-day," now there's a rather nice concept.&lt;/p&gt;
+
+&lt;p&gt;That reminds me, I got a letter from Kuma-chan, who passed away in April. No, he didn't come back to life to write it. Someone close to him, someone who was there on the day he died, sent me a letter that Kuma-chan had asked them to pass along. To put it simply, it read like an imagined conversation happening right then and there, something like, "Well, the time's finally come." When the moment truly arrived, when he thought, "So this is it," he must have decided, send that guy a letter. I felt grateful, receiving it.&lt;/p&gt;
+
+&lt;p&gt;We'd made plans for me to go see him around that time, but Kuma-chan's condition worsened and we had to postpone. Whether we'd managed to meet or not, I think it was a good death-day. I don't know whether everyone gets to have such a good death-day, but living with that intention seems like a fine thing. And come to think of it, even if a day was full of sorrow at the time, there are cases where you can remake it later into a good death-day.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today, too. Iwata-san, Sobu-chan, Kuma-chan, you may be dead, but you're still alive.&lt;/p&gt;</content:encoded>
+      <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#996580a07a20</guid>
+      <pubDate>Sat, 11 Jul 2026 05:38:20 +0000</pubDate>
+      <dc:creator>Shigesato Itoi</dc:creator>
+    </item>
     <item>
       <title>Singing in front of about a hundred people.</title>
       <link>https://adtheriault.github.io/todays-darling/#a4a666911a8a</link>
@@ -29,7 +46,7 @@
 &lt;p&gt;Thanks for coming to Hobonichi today, too. What matters is being able to sing joyfully in front of a small audience.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#a4a666911a8a</guid>
       <pubDate>Fri, 10 Jul 2026 06:42:50 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>An exhausting but fun last night.</title>
@@ -54,14 +71,10 @@
 &lt;p&gt;Thank you for visiting Hobonichi today. The book I chose for the reading was, of all things, by that master of prose, Shiga Naoya.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#1abcbc3b08e7</guid>
       <pubDate>Thu, 09 Jul 2026 06:41:28 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
-      <title>Is it something you look forward to, morning coming when you wake up?
-
-Hmm, let me reconsider for a more natural phrasing:
-
-Do you look forward to morning coming when you wake up?</title>
+      <title>Do you look forward to morning coming when you wake up?</title>
       <link>https://adtheriault.github.io/todays-darling/#6aad0d9d4cfa</link>
       <description>The essay explores how genuine anticipation for tomorrow—whether it's something as simple as looking forward to eating tonkatsu—represents a form of hope that many of us have lost touch with, and reflects on the quiet joy of falling asleep excited about what morning will bring.</description>
       <content:encoded>&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;You know when you get into bed, right before you fall asleep, and you think, "When I wake up, morning will be here. I can't wait." Have you ever actually fallen asleep feeling that way? I can imagine it, sure, but I don't think I've ever really experienced it. Well, maybe I have? Maybe I've just forgotten, and there were mornings I actually looked forward to waking up to. If so, I'd love to remember what that felt like. Because wouldn't that be incredible? That feeling of drifting off to sleep excited for morning to come. I bet your face would have a little smile on it. And then you'd slip right into sleep, just like that.&lt;/p&gt;
@@ -75,7 +88,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thanks for coming to Hobonichi again today. Oh, and people who are really into their fan activities, they probably look forward to tomorrow all the time, don't they.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#6aad0d9d4cfa</guid>
       <pubDate>Wed, 08 Jul 2026 05:48:42 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>Just seeing a lot of things, and other matters.</title>
@@ -100,7 +113,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for coming to Hobonichi again today. Toys exist in this world, and there are people who never stop playing.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#6184597bca38</guid>
       <pubDate>Tue, 07 Jul 2026 06:44:10 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>When you get old, it's something you should keep in mind.</title>
@@ -117,7 +130,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you, as always, for visiting Hobonichi today. You know how we talk about harmful insects and beneficial insects? I'd rather be "beneficially old" than "toxically old."&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#f6a8576ac43a</guid>
       <pubDate>Mon, 06 Jul 2026 07:10:52 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>On the index and ring toes, among other things.</title>
@@ -136,7 +149,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;When it comes to "things that seem vaguely good for your health," I'm the kind of person who can't help jumping on every one. Thank you, as always, for visiting Hobonichi today. I don't usually mention it to people, but I'm always trying out supplements and things like that too.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#1989a1470873</guid>
       <pubDate>Sun, 05 Jul 2026 06:38:56 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>Importing foreign culture and exporting culture abroad.</title>
@@ -155,7 +168,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for visiting Hobonichi again today. It seems to me there are plenty of hints out there, even right now.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#f529ab50d5bb</guid>
       <pubDate>Sat, 04 Jul 2026 06:16:45 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>Fried rice is egg on rice.</title>
@@ -174,7 +187,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you, as always, for visiting Hobonichi today. If anyone knows a neighborhood Chinese place that puts menma in their fried rice, I'd love to go.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#211225d45e9b</guid>
       <pubDate>Fri, 03 Jul 2026 06:29:54 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>The world is full of art.</title>
@@ -195,7 +208,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thanks for coming to Hobonichi again today. Even an amateur's karaoke is art. Not that anyone's going to praise it.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#46ba91c623b8</guid>
       <pubDate>Thu, 02 Jul 2026 06:39:46 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>Being connected, and being alone.</title>
@@ -212,7 +225,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for coming to Hobonichi again today. People's feelings really do come as one, front and back inseparable.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#6979dbdb9ce5</guid>
       <pubDate>Wed, 01 Jul 2026 07:09:48 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>Surely, "thank goodness! Thank goodness!"</title>
@@ -231,7 +244,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for visiting Hobonichi again today. Who knew a mere ten-hour time difference could hold so much depth.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#5cd7dbadfcd7</guid>
       <pubDate>Tue, 30 Jun 2026 06:54:39 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>Looking at a teddy bear, lost in thought.</title>
@@ -248,7 +261,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thanks for visiting Hobonichi again today. I'm not a Hanshin Tigers fan, but I still wear Onitsuka Tigers.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#5b0e5c60014a</guid>
       <pubDate>Mon, 29 Jun 2026 07:28:25 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>It's Saturday, but I went to Kanda for tonkatsu.</title>
@@ -265,7 +278,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for visiting Hobonichi again today. I'd already decided on Friday that Saturday would be a tonkatsu day.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#6053bec5f4fb</guid>
       <pubDate>Sun, 28 Jun 2026 07:01:01 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>How far down do you eat a watermelon?</title>
@@ -286,7 +299,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for visiting Hobonichi again today. Whether this makes me stingy or extravagant, I honestly can't tell myself.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#714df5fa9b04</guid>
       <pubDate>Sat, 27 Jun 2026 06:28:06 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>I want to learn as if I were playing.</title>
@@ -303,7 +316,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you, as always, for coming to Hobonichi today. Come to think of it, someone I know was saying they want to learn mahjong.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#49872edef72f</guid>
       <pubDate>Fri, 26 Jun 2026 06:53:50 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>What should you do with your lives?</title>
@@ -326,7 +339,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for visiting Hobonichi again today. "What should I be doing?" It's a question that grown-ups and the elderly are still asking, too.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#e12d81859014</guid>
       <pubDate>Thu, 25 Jun 2026 06:46:10 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>I want to bring the hot spring version of me home.</title>
@@ -345,7 +358,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thanks for coming to Hobonichi again today. Of course, when it comes to tinkering with your daily habits, it's never easy to make things stick.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#992c3c1aa1c8</guid>
       <pubDate>Wed, 24 Jun 2026 08:19:35 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>It's only after your ignorance is exposed that the real challenge begins.</title>
@@ -368,7 +381,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thanks for coming to Hobonichi again today. Well, I suppose I've spent most of this long journey in my everyday clothes anyway.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#fd4bfe157fe0</guid>
       <pubDate>Tue, 23 Jun 2026 06:49:42 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>If you think about it, society is an open weight class with no mercy, isn't it?</title>
@@ -385,7 +398,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thanks for visiting Hobonichi again today. The human world has its own version of finding your niche, just like the natural world does.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#9661606f2a80</guid>
       <pubDate>Mon, 22 Jun 2026 08:56:11 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>I tried writing it like a diary.</title>
@@ -408,7 +421,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for visiting Hobonichi today, too. A diary. Who is it usually written for, I wonder.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#dd281f794707</guid>
       <pubDate>Sun, 21 Jun 2026 07:58:47 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>Right now, in Kesennuma, I am feeling happy.</title>
@@ -427,7 +440,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for coming to Hobonichi today, too. Children grow, sure. But young people grow too, and adults, and the elderly. We're all still growing.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#0ef1f3d5296c</guid>
       <pubDate>Sat, 20 Jun 2026 06:59:58 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>"You don't need to know that."</title>
@@ -444,7 +457,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for visiting Hobonichi again today. No one has infinite curiosity, so if you decide to stop, you can.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#fb626658747d</guid>
       <pubDate>Fri, 19 Jun 2026 08:30:24 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>I want to open the windows and widen the doorways.</title>
@@ -463,7 +476,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thanks for visiting Hobonichi today. My ideal is something like an engawa, that in-between space, half inside and half outside, where the two can meet.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#99c93a914d8a</guid>
       <pubDate>Thu, 18 Jun 2026 08:06:25 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>On books, and on the act of conversation.</title>
@@ -476,7 +489,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for visiting Hobonichi again today. I think the key, really, is that part about opening your heart.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#f236dbb10172</guid>
       <pubDate>Wed, 17 Jun 2026 08:26:24 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>There has never been a draw so universally praised as this one.</title>
@@ -491,7 +504,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thanks for coming to Hobonichi again today. I'm in trouble, though. My brain just won't shift back to its regular schedule.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#6789447ef902</guid>
       <pubDate>Tue, 16 Jun 2026 08:44:24 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>Sentences that you don't need to read or write.</title>
@@ -514,7 +527,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you, as always, for coming to Hobonichi today. To rid myself of any second thoughts, I'm going to go ahead and send this piece off right now.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#f888fea15a28</guid>
       <pubDate>Mon, 15 Jun 2026 09:19:55 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>"Nobody special."</title>
@@ -535,7 +548,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for coming to Hobonichi again today. There probably isn't a single person alive who is anything other than "nothing special."&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#798c539c4834</guid>
       <pubDate>Sun, 14 Jun 2026 07:21:32 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>I took notes outside the movie theater.</title>
@@ -562,7 +575,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thank you for coming to Hobonichi again today. LIFE: it means life, living, livelihood, the raw and immediate, the whole of one's days. It matters.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#8d9e446fa7b1</guid>
       <pubDate>Sat, 13 Jun 2026 06:57:19 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
     <item>
       <title>I had ramen again today, didn't I.</title>
@@ -579,26 +592,7 @@ Do you look forward to morning coming when you wake up?</title>
 &lt;p&gt;Thanks for visiting Hobonichi again today. I'm probably on the not-very-knowledgeable end of the ramen-lover spectrum.&lt;/p&gt;</content:encoded>
       <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#4e08de15e33c</guid>
       <pubDate>Fri, 12 Jun 2026 07:20:53 +0000</pubDate>
-          <author>Shigesato Itoi</author>
-    </item>
-    <item>
-      <title>Cowboys as workers.</title>
-      <link>https://adtheriault.github.io/todays-darling/#1f992fc75ceb</link>
-      <description>The essay reflects on how the simple privilege of choosing what to eat stems from the sacrifices of pioneers like cowboys who endured monotonous, grueling labor, reminding us that modern comfort rests on a solid historical foundation of hardship and sacrifice.</description>
-      <content:encoded>&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Every day, thinking "What should I eat today?" Some people find that tedious, but really, it's a blessing. Just having choices is no small thing.&lt;/p&gt;
-
-&lt;p&gt;Years ago, there was an American TV series called *Rawhide*, back when Clint Eastwood was still a young up-and-comer. It was the story of cowboys driving cattle across the country, and every single day, day after day, their meal was the same: beans. I think it was salt pork and kidney beans stewed together. The cowboys would grumble, "Beans again? Every damn day," and then old Wishbone, the cook, would fire back with his usual line: "Don't like it, don't eat it!" I used to watch that exchange as a little kid and think it was hilarious. That bit, like a comedy routine, stuck with me all these years. I still think about it often, even as a grown man. What stayed with me is the hardship of eating the same thing every single day.&lt;/p&gt;
-
-&lt;p&gt;"Cowboy" literally means someone who drives cows. They were laborers, moving thousands of head of cattle for a living. Not the handsome types in ten-gallon hats twirling pistols and lassoing outlaws. These were men on horseback in rain and wind, driving herds day after day. And eating nothing but beans while they did it. People like us today couldn't handle that. It was brutal. The same went for the transcontinental railroad of that era. The relatively short history of the vast United States is, in many ways, a story of grueling, backbreaking pioneering.&lt;/p&gt;
-
-&lt;p&gt;I know this is starting to sound preachy, but being able to say "What should I eat today?" is something that rests on the mud-caked story of those people who drove cattle across the land and ate nothing but beans. Hey, are you listening? I'm talking to you, me.&lt;/p&gt;
-
-&lt;p&gt;I don't know. There's a kind of respect for that history that we shouldn't let ourselves forget. That's what I find myself thinking, even now, late as it is. No matter how much information piles up, no matter how advanced AI becomes, without a real, solid foundation underneath, it's all just clouds. Somebody has to provide the water, the beans, the cattle, the roads.&lt;/p&gt;
-
-&lt;p&gt;Thanks for coming to Hobonichi today, too. If America's history is one of frontier and pioneering, I wonder what kind of history Japan's would be.&lt;/p&gt;</content:encoded>
-      <guid isPermaLink="false">https://adtheriault.github.io/todays-darling/#1f992fc75ceb</guid>
-      <pubDate>Thu, 11 Jun 2026 07:28:19 +0000</pubDate>
-          <author>Shigesato Itoi</author>
+      <dc:creator>Shigesato Itoi</dc:creator>
     </item>
   </channel>
 </rss>

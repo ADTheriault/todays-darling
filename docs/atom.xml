@@ -1,12 +1,37 @@
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en">
-  <title type="text">Today's Darling</title>
-  <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
-  <updated>2026-07-10T06:43:14.907139+00:00</updated>
-  <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
+  <title>Today's Darling</title>
+  <updated>2026-07-11T05:38:38.635125+00:00</updated>
+  <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
-<entry>
+  <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#996580a07a20</id>
+    <title>What I'm thinking about on July 11th</title>
+    <updated>2026-07-11T05:38:20.242525+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I come to Kyoto around this time of year. It's become a kind of ritual, so here I am again. It has also come to feel like a signal that summer is beginning. For some reason, in this country, or perhaps just for me, summer is the season when I think most about the dead.&lt;/p&gt;
+
+&lt;p&gt;We remember the day a person was born. We call it a birthday. And then others remember the day that person died. That is called the anniversary of their death. It exists, I suppose, so that we won't forget that a life was lived. Every year, I find myself thinking, another new death-day has been added. A date that didn't exist while a person was alive is born the moment they die. Both birthdays and death-days remain until no one remembers them anymore, and once there's no one left to remember, they too disappear. You could say that every person carries two dates that are uniquely their own. As for me, I don't yet find myself wanting a death-day of my own, but I understand that one day I'll have one. "A good death-day," now there's a rather nice concept.&lt;/p&gt;
+
+&lt;p&gt;That reminds me, I got a letter from Kuma-chan, who passed away in April. No, he didn't come back to life to write it. Someone close to him, someone who was there on the day he died, sent me a letter that Kuma-chan had asked them to pass along. To put it simply, it read like an imagined conversation happening right then and there, something like, "Well, the time's finally come." When the moment truly arrived, when he thought, "So this is it," he must have decided, send that guy a letter. I felt grateful, receiving it.&lt;/p&gt;
+
+&lt;p&gt;We'd made plans for me to go see him around that time, but Kuma-chan's condition worsened and we had to postpone. Whether we'd managed to meet or not, I think it was a good death-day. I don't know whether everyone gets to have such a good death-day, but living with that intention seems like a fine thing. And come to think of it, even if a day was full of sorrow at the time, there are cases where you can remake it later into a good death-day.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today, too. Iwata-san, Sobu-chan, Kuma-chan, you may be dead, but you're still alive.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#996580a07a20"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on death and remembrance through the author's annual pilgrimage to Kyoto, exploring how the anniversaries of our deaths—like our birthdays—give structure to memory and allow us to honor those who have passed by living with intention and gratitude.</summary>
+    <published>2026-07-11T05:38:20.242525+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
+  <entry>
     <id>https://adtheriault.github.io/todays-darling/#a4a666911a8a</id>
     <title>Singing in front of about a hundred people.</title>
     <updated>2026-07-10T06:42:50.105452+00:00</updated>
@@ -26,7 +51,7 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on how legendary Japanese musicians like Akiko Yano and Tatsuro Yamashita began their careers performing in small venues for intimate audiences of fewer than a hundred people, arguing that regardless of eventual fame, all artists start from the same humble beginning where direct connection with devoted fans, rather than massive popularity, is what truly matters.</summary>
     <published>2026-07-10T06:42:50.105452+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#1abcbc3b08e7</id>
@@ -56,15 +81,11 @@
     <link href="https://www.1101.com/"/>
     <summary>The author describes launching a new "one-man book club" concept where he reads aloud from a book while sharing unfiltered reactions and questions, deliberately unprepared and vulnerable to create an authentic space where all readers—experienced or not—feel welcome. Despite the exhaustion, the pilot event resonated with audiences, suggesting that turning solitary reading into a shared, genuine performance can be both creatively fulfilling and connecting.</summary>
     <published>2026-07-09T06:41:28.847581+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#6aad0d9d4cfa</id>
-    <title>Is it something you look forward to, morning coming when you wake up?
-
-Hmm, let me reconsider for a more natural phrasing:
-
-Do you look forward to morning coming when you wake up?</title>
+    <title>Do you look forward to morning coming when you wake up?</title>
     <updated>2026-07-08T05:48:42.837167+00:00</updated>
     <author>
       <name>Shigesato Itoi</name>
@@ -82,7 +103,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay explores how genuine anticipation for tomorrow—whether it's something as simple as looking forward to eating tonkatsu—represents a form of hope that many of us have lost touch with, and reflects on the quiet joy of falling asleep excited about what morning will bring.</summary>
     <published>2026-07-08T05:48:42.837167+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#6184597bca38</id>
@@ -112,7 +133,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay celebrates the profound joy found in simply watching and loving something without needing to justify, analyze, or derive purpose from it—a freedom from the constraints of rationalization that allows us to fully experience what brings us happiness.</summary>
     <published>2026-07-07T06:44:10.870439+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#f6a8576ac43a</id>
@@ -134,7 +155,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on his fear of becoming a "toxic old person" despite having been surrounded by humble, respectful elders who served as positive role models, recognizing that even good people can be labeled this way and that maintaining openness to younger generations is essential to avoiding this fate.</summary>
     <published>2026-07-06T07:10:52.552298+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#1989a1470873</id>
@@ -158,7 +179,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author explores the absurdity of calling foot toes by hand finger names while sharing a newfound technique that makes wearing five-toe socks less frustrating, ultimately reflecting on their cyclical relationship with health trends.</summary>
     <published>2026-07-05T06:38:56.606818+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#f529ab50d5bb</id>
@@ -182,7 +203,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on how Japanese creators have traditionally made work for domestic audiences who share cultural references, but must now navigate the complex reality of simultaneously creating for both Japanese and international audiences—gaining global reach while potentially losing cultural specificity in the process.</summary>
     <published>2026-07-04T06:16:45.732259+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#211225d45e9b</id>
@@ -206,7 +227,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author discovers that fried rice's enduring popularity stems from its essential simplicity—at its core, it's just seasoned egg and rice with a few key ingredients like green onion and roast pork, making it a complete and satisfying meal that never goes out of style.</summary>
     <published>2026-07-03T06:29:54.571510+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#46ba91c623b8</id>
@@ -232,7 +253,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>Art is fundamentally that feeling of wonder and discovery—the moment something expands our understanding of the world—making nearly everything humans create potentially worthy of the title, whether it's a grand temple or an amateur's karaoke performance.</summary>
     <published>2026-07-02T06:39:46.633750+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#6979dbdb9ce5</id>
@@ -254,7 +275,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay explores how shared experiences at live events create a profound sense of human connection that temporarily alleviates our fundamental loneliness, while acknowledging the paradoxical desire to occasionally escape even that collective togetherness. Despite finding deep satisfaction in feeling "connected to so many people," the author recognizes a more complex emotional reality—a simultaneous need for individual autonomy within the crowd.</summary>
     <published>2026-07-01T07:09:48.838042+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#5cd7dbadfcd7</id>
@@ -278,7 +299,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author discovers that by writing about the constraints of his schedule—staying up for an early morning soccer match while meeting a column deadline—he inadvertently solves the problem itself, finding that honest reflection on life's small challenges can be both authentic and effortless.</summary>
     <published>2026-06-30T06:54:39.100948+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#5b0e5c60014a</id>
@@ -300,7 +321,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay explores how we habitually transfer our dislike of people onto everything associated with them, while acknowledging that this psychological tendency, though real and historically consequential, is often overstated—most people maintain more nuance and separation in their judgments than the proverb suggests.</summary>
     <published>2026-06-29T07:28:25.513369+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#6053bec5f4fb</id>
@@ -322,7 +343,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay is a meditative celebration of eating tonkatsu, exploring how mindful attention to each sensory detail—the crackle of the crust, the richness of the fat, the harmony with rice—transforms a simple meal into a profound experience of gratitude and joy. Through ritualized enjoyment and respect for both the food and those who prepared it, the narrator reveals that true satisfaction comes not from the food itself, but from the deliberate presence brought to its consumption.</summary>
     <published>2026-06-28T07:01:01.647010+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#714df5fa9b04</id>
@@ -348,7 +369,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>As we mature, we learn to prioritize quality and enjoyment over wasteful obligation, choosing to savor only what truly satisfies us rather than forcing ourselves through the bland remnants simply because they're there.</summary>
     <published>2026-06-27T06:28:06.976594+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#49872edef72f</id>
@@ -370,7 +391,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that learning becomes play when it's intrinsically enjoyable rather than pursued as an obligation, and that skilled teachers can transform the learning experience by fostering genuine curiosity and fun rather than relying on discipline and suffering. The author reflects on how modern teaching methods have evolved to make learning feel like play, something they wish they'd experienced growing up.</summary>
     <published>2026-06-26T06:53:50.465896+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#e12d81859014</id>
@@ -398,7 +419,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>Rather than seeking practical advice for finding purpose, young people should focus on understanding what it means to be human through experiences like reading classics and emotional growth, questions that adults grapple with throughout their entire lives.</summary>
     <published>2026-06-25T06:46:10.786851+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#992c3c1aa1c8</id>
@@ -422,7 +443,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author discovered that by shifting their bath time earlier in the evening and enhancing the bathing experience with better water temperature and bath salts, they transformed bathing from a rushed obligation into a genuinely enjoyable ritual that finally brought the relaxation they'd always felt at hot springs into their own home.</summary>
     <published>2026-06-24T08:19:35.483903+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#fd4bfe157fe0</id>
@@ -450,7 +471,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that true freedom and peace come from accepting that those close to us inevitably see through our pretenses and flaws, allowing us to stop performing and simply be ourselves. Once we surrender the exhausting effort to appear impressive, life becomes easier and more authentic.</summary>
     <published>2026-06-23T06:49:42.702945+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#9661606f2a80</id>
@@ -472,7 +493,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The real world operates as an unforgiving open-weight competition unlike organized sports and academics, but survival depends not on competing everywhere, but on wisely choosing which battles to fight and creating your own spaces where you can succeed.</summary>
     <published>2026-06-22T08:56:11.369432+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#dd281f794707</id>
@@ -500,7 +521,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>Good content—whether a rakugo performance or a beloved salon—acts as a magnet that draws people together, and there's a quiet wisdom in letting oneself flow with such connections rather than forcing change. The author reflects on how meaningful experiences often arise not from deliberate choices but from simply showing up and moving with the current.</summary>
     <published>2026-06-21T07:58:47.968625+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#0ef1f3d5296c</id>
@@ -524,7 +545,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on the profound joy of physical gathering—traveling to a rakugo performance in Kesennuma to experience real human connection, conversation, and community after spending too much time absorbed in weightless digital thoughts about AI. The essay celebrates how simply showing up together in one place, face to face, remains one of life's greatest richnesses.</summary>
     <published>2026-06-20T06:59:58.841355+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#fb626658747d</id>
@@ -546,7 +567,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>In an age of endless digital information vying for our attention, the essay suggests that the solution isn't to abandon technology entirely, but rather to develop the conscious habit of pausing and telling ourselves "you don't need to know that" when we feel compelled to follow every link and notification. By deliberately interrupting our automatic consumption patterns, we can regain agency over what information actually deserves our finite attention.</summary>
     <published>2026-06-19T08:30:24.136619+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#99c93a914d8a</id>
@@ -570,7 +591,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on how physical and psychological openness—whether through windows that open to the outside or spaces that allow freedom of movement—is essential to human comfort and well-being, a principle that applies equally to built environments, social spaces, and digital communities. The author advocates for maintaining permeable boundaries between inside and outside as a guard against the suffocating feeling of closed, controlled systems.</summary>
     <published>2026-06-18T08:06:25.775337+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#f236dbb10172</id>
@@ -588,7 +609,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>While the author compulsively collects books despite limited time to read them, he credits his true growth and wisdom not to reading but to genuine human connection and open-hearted conversations with the people in his life. The essay suggests that meaningful relationships, rather than accumulated knowledge, are what truly shape who we become.</summary>
     <published>2026-06-17T08:26:24.969438+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#6789447ef902</id>
@@ -608,7 +629,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author marvels at the miracle of modern technology that allows instantaneous global communication—watching a live World Cup match from halfway around the world—while reflecting on how their lifetime spans from primitive conditions to our connected present, a privilege that fills them with genuine wonder.</summary>
     <published>2026-06-16T08:44:24.604811+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#f888fea15a28</id>
@@ -636,7 +657,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author rearranges her entire Sunday routine—writing early, going to bed at ten, and waking at four—so she can watch Japan's World Cup match against the Netherlands without sacrificing work or sleep, embodying her philosophy of taking action now to pursue what matters to you.</summary>
     <published>2026-06-15T09:19:55.261606+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#798c539c4834</id>
@@ -662,7 +683,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that accepting yourself as fundamentally "nothing special" is liberating rather than limiting, allowing you to live authentically without the burden of pretense while still achieving joy, accomplishment, and meaningful experiences. It suggests that recognizing our universal ordinariness frees us from the exhausting need to prove our worth or appear exceptional.</summary>
     <published>2026-06-14T07:21:32.460723+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#8d9e446fa7b1</id>
@@ -694,7 +715,7 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>Watching an extraordinary film reminded the author that life's quality depends on the care and integrity we bring to it—much like how persistent, patient effort eventually creates profound impact, the small choices we make daily shape our entire existence.</summary>
     <published>2026-06-13T06:57:19.619231+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#4e08de15e33c</id>
@@ -716,30 +737,6 @@ Do you look forward to morning coming when you wake up?</title>
     <link href="https://www.1101.com/"/>
     <summary>The author celebrates ramen both as a competitive craft worthy of deep expertise and study, while also appreciating the simple pleasure of enjoying good ramen without pretension or specialized knowledge.</summary>
     <published>2026-06-12T07:20:53.430501+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#1f992fc75ceb</id>
-    <title>Cowboys as workers.</title>
-    <updated>2026-06-11T07:28:19.089437+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Every day, thinking "What should I eat today?" Some people find that tedious, but really, it's a blessing. Just having choices is no small thing.&lt;/p&gt;
-
-&lt;p&gt;Years ago, there was an American TV series called *Rawhide*, back when Clint Eastwood was still a young up-and-comer. It was the story of cowboys driving cattle across the country, and every single day, day after day, their meal was the same: beans. I think it was salt pork and kidney beans stewed together. The cowboys would grumble, "Beans again? Every damn day," and then old Wishbone, the cook, would fire back with his usual line: "Don't like it, don't eat it!" I used to watch that exchange as a little kid and think it was hilarious. That bit, like a comedy routine, stuck with me all these years. I still think about it often, even as a grown man. What stayed with me is the hardship of eating the same thing every single day.&lt;/p&gt;
-
-&lt;p&gt;"Cowboy" literally means someone who drives cows. They were laborers, moving thousands of head of cattle for a living. Not the handsome types in ten-gallon hats twirling pistols and lassoing outlaws. These were men on horseback in rain and wind, driving herds day after day. And eating nothing but beans while they did it. People like us today couldn't handle that. It was brutal. The same went for the transcontinental railroad of that era. The relatively short history of the vast United States is, in many ways, a story of grueling, backbreaking pioneering.&lt;/p&gt;
-
-&lt;p&gt;I know this is starting to sound preachy, but being able to say "What should I eat today?" is something that rests on the mud-caked story of those people who drove cattle across the land and ate nothing but beans. Hey, are you listening? I'm talking to you, me.&lt;/p&gt;
-
-&lt;p&gt;I don't know. There's a kind of respect for that history that we shouldn't let ourselves forget. That's what I find myself thinking, even now, late as it is. No matter how much information piles up, no matter how advanced AI becomes, without a real, solid foundation underneath, it's all just clouds. Somebody has to provide the water, the beans, the cattle, the roads.&lt;/p&gt;
-
-&lt;p&gt;Thanks for coming to Hobonichi today, too. If America's history is one of frontier and pioneering, I wonder what kind of history Japan's would be.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#1f992fc75ceb"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on how the simple privilege of choosing what to eat stems from the sacrifices of pioneers like cowboys who endured monotonous, grueling labor, reminding us that modern comfort rests on a solid historical foundation of hardship and sacrifice.</summary>
-    <published>2026-06-11T07:28:19.089437+00:00</published>
-  <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" width="200" height="144"/>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
