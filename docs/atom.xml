@@ -2,13 +2,39 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-07-12T05:55:54.354294+00:00</updated>
+  <updated>2026-07-13T06:14:54.648817+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#93f7e6d39251</id>
+    <title>It's the sun we see every day, but...</title>
+    <updated>2026-07-13T06:14:36.857040+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Everyone knows about the sun. For us humans, isn't it the most famous thing there is? And why wouldn't it be? It's impossibly far away, yet we see its face every single day. Here in Japan, people call it "O-hisama," treating it with affection, with gratitude, even with reverence.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the sun, or because of the sun, this and that keep happening, endlessly. Life itself was built on the energy the sun provides, and it's through our relationship with the sun that years and days exist at all. Since ancient times, no, perhaps even before human history, back in the days of our ape-like ancestors, the sun has surely been thought of as something special, an object of awe and worship.&lt;/p&gt;
+
+&lt;p&gt;These days we hear a lot about how long humanity can even remain on Earth, a growing sense of crisis about the future, and talk of whether or not we'll relocate to other planets. But there's a future far beyond even all of that.&lt;/p&gt;
+
+&lt;p&gt;Once you get this far, it becomes little more than a game played with numbers, but apparently, around five billion years from now, the hydrogen at the sun's core, the fuel for the nuclear fusion that makes it shine, will begin to run out, and the sun will swell dramatically into what's called a "red giant." It'll become a colossal star, roughly a hundred times its current size, and it will most likely swallow the Earth whole.&lt;/p&gt;
+
+&lt;p&gt;At that point, we can't exactly go on calling it "O-hisama" and taking it easy. Whether humanity flees or perishes hardly matters, because neither Earth nor Mars will be habitable at all. There's nothing to be done. True, it's so far off it's almost laughable. But the old saying that you shouldn't assume something will last forever applies to more than just your parents and your money. Looked at on a grand enough scale, even our eternity has its limits.&lt;/p&gt;
+
+&lt;p&gt;The sun formed, and then Earth formed after it, about 4.6 billion years ago. When roughly that same span of time has passed from now, both the sun as we know it and the Earth as we know it will meet their end. When you look up at the sun with even a little of that in mind, something almost like faith wells up inside you. After all, they say we humans are made of the very stuff of ancient stars.&lt;/p&gt;
+
+&lt;p&gt;Thank you for visiting Hobonichi again today. How to put it, I suppose I've got a bit of a soft spot for the sun. A real fan, you might say.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#93f7e6d39251"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on humanity's intimate dependence on the sun throughout history while contemplating the cosmic perspective that even our star and planet will eventually perish in billions of years, inspiring both gratitude and humility toward our finite existence.</summary>
+    <published>2026-07-13T06:14:36.857040+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#bf1800398419</id>
     <title>Here's what people who can't sleep should try, apparently.</title>
@@ -711,38 +737,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that accepting yourself as fundamentally "nothing special" is liberating rather than limiting, allowing you to live authentically without the burden of pretense while still achieving joy, accomplishment, and meaningful experiences. It suggests that recognizing our universal ordinariness frees us from the exhausting need to prove our worth or appear exceptional.</summary>
     <published>2026-06-14T07:21:32.460723+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#8d9e446fa7b1</id>
-    <title>I took notes outside the movie theater.</title>
-    <updated>2026-06-13T06:57:19.619231+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;You know how raindrops, falling one by one onto a stone, can eventually wear a hole right through it? It really does happen. And even the tiniest droplet of a thought, if you keep thinking it over and over, might eventually become a word, like a hollow carved into stone.&lt;/p&gt;
-
-&lt;p&gt;Yesterday I went to see the Spanish film *Cerrar los ojos*, and, well, I'll try not to say much about the content, but it was extraordinary. The images just kept washing over me, one after another. The screenplay, the music and sound design, the direction, the acting, the cinematography, the world they built around it all. Every element felt flawless. You might even call it a perfectly played straight face, so committed there's nothing to challenge. It could be read as a grand tragicomedy, or something supremely cerebral, or something with a realism so vivid you'd mistake it for a documentary.&lt;/p&gt;
-
-&lt;p&gt;Starting from the point of "this is the film I want to make" and arriving at "it's finished!" in reality. The sheer toughness it must have taken, mentally, physically, financially, temporally, practically knocked me flat.&lt;/p&gt;
-
-&lt;p&gt;Seeing this incredible film must have converged with something I'd been feeling for a long time, like those steady, patient raindrops. The word "LIFE," and all the goodness in it, rose up again, towering before me.&lt;/p&gt;
-
-&lt;p&gt;I don't want to state these as arguments or positions. I want to write them as short, poem-like words, something I can set down right in front of me.&lt;/p&gt;
-
-&lt;p&gt;Don't cut corners on things. Cutting corners is cutting corners on your life.&lt;/p&gt;
-
-&lt;p&gt;A single day's living is a miniature of a whole life's living. What you seek today is what you seek for your entire life.&lt;/p&gt;
-
-&lt;p&gt;Cheap, fast, and in bulk? If you want to live a cheap, fast, bulk-produced life, be my guest.&lt;/p&gt;
-
-&lt;p&gt;I was scribbling notes like these as I walked out of the theater. The area around Shibuya Station was packed with countless lives, all jostling together. Everyone, living however they please. And that's fine.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. LIFE: it means life, living, livelihood, the raw and immediate, the whole of one's days. It matters.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#8d9e446fa7b1"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Watching an extraordinary film reminded the author that life's quality depends on the care and integrity we bring to it—much like how persistent, patient effort eventually creates profound impact, the small choices we make daily shape our entire existence.</summary>
-    <published>2026-06-13T06:57:19.619231+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
