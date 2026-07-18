@@ -2,13 +2,41 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-07-17T05:40:55.845613+00:00</updated>
+  <updated>2026-07-18T05:23:25.636392+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#80deb5e5073a</id>
+    <title>Wait, ramen, fried rice, and a love like a bouquet.</title>
+    <updated>2026-07-18T05:23:06.003398+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When you're chasing someone, you shout "Stop!" at the person you're after. Of course, shouting "Stop" doesn't mean they'll actually stop, and shouting "Stop" doesn't make you run any faster either. So I found myself wondering all over again whether it might be better not to shout "Stop!", and the answer, in the end, is that you're better off shouting it.&lt;/p&gt;
+
+&lt;p&gt;For one thing, it has the effect of announcing to everyone around you the simple fact that "a chase is currently underway." Once you've done that, the person being chased draws attention. It becomes harder for them to slip away and hide, which makes them easier to catch.&lt;/p&gt;
+
+&lt;p&gt;And there's one more thing. When someone yells "Stop!" at you, I think it genuinely does increase the odds, even a little, that the person running will actually stop. However determined they are to keep running forever, that's a hard thing to pull off. Sooner or later, somewhere along the way, they might just give up. As a word to coax out that surrender, shouting "Stop!" beats staying silent.&lt;/p&gt;
+
+&lt;p&gt;So I've decided that someday, when I find myself chasing after someone who's done something wrong, I'll shout "Stop!" without any embarrassment.&lt;/p&gt;
+
+&lt;p&gt;On a related note, what about the way villains in TV dramas say "Die!" as they reach for a weapon? I can't see what effect it's supposed to have, and it only makes the crime and the punishment heavier. Saying it seems to do no good whatsoever.&lt;/p&gt;
+
+&lt;p&gt;・Yesterday, I made the "ramen fried rice" I'd promised earlier I would eventually make. Fried rice with the usual ramen toppings mixed in: char siu, bamboo shoots, and green onion. Since it's really just fried rice with ramen elements folded in, it didn't feel especially fancy, but it was delicious. And of course you need egg.&lt;/p&gt;
+
+&lt;p&gt;・I finally got around to watching the film "We Made a Beautiful Bouquet." I'd made up my mind, without ever seeing it, that it was probably one of those movies where young people fall in love and then one of them gets sick, so I'd skipped it. It was nothing like that at all. Truly, love really is like a bouquet. I wonder if young people watched this without flinching. They're tough. As for us older folks, we can get through it, though maybe with a few tears.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today too. Friday is the day to freely make the most of your own time.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#80deb5e5073a"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Shouting "Stop!" when chasing someone is more effective than silence because it alerts others to the pursuit and psychologically increases the likelihood the person will eventually surrender, making it worth doing despite seeming futile.</summary>
+    <published>2026-07-18T05:23:06.003398+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#5d9972eedea8</id>
     <title>You're already a little better.</title>
@@ -739,30 +767,6 @@
     <link href="https://www.1101.com/"/>
     <summary>In an age of endless digital information vying for our attention, the essay suggests that the solution isn't to abandon technology entirely, but rather to develop the conscious habit of pausing and telling ourselves "you don't need to know that" when we feel compelled to follow every link and notification. By deliberately interrupting our automatic consumption patterns, we can regain agency over what information actually deserves our finite attention.</summary>
     <published>2026-06-19T08:30:24.136619+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#99c93a914d8a</id>
-    <title>I want to open the windows and widen the doorways.</title>
-    <updated>2026-06-18T08:06:25.775337+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Hot during the day, then surprisingly chilly once night falls. And if you're not paying attention, the rain sneaks up on you too. The rainy season keeps you on your toes. But as long as it's not one of those endless stretches of downpour, I don't really mind it. The green after a good soaking is truly beautiful, so I'm actually rather fond of this time of year. That said, I've been getting my parasol ready for the relentless heat of midsummer, which will be upon us before long.&lt;/p&gt;
-
-&lt;p&gt;Something I've been thinking about lately: no matter what the weather is like, just being able to open a window now and then feels like such a gift. In a lot of newer office buildings, even ones with perfectly good climate control, the windows don't open. And of course I understand why. Someone could fall. It's dangerous. But spaces with no windows, no connection to the outside, they've never sat well with me.&lt;/p&gt;
-
-&lt;p&gt;Sure, you can control the temperature, the humidity, the air quality. But I think something in us, something unconscious, is always registering: this place is sealed off. Because it is. You really are in a closed space, when it comes down to it. I can't help thinking that has an effect on the people inside. Any living creature, packed into a small, sealed space with others, things aren't going to go well. And it's not just a matter of ventilation.&lt;/p&gt;
-
-&lt;p&gt;Being able to sense that flow between inside and outside, that openness, I think that's one of the most important conditions for feeling comfortable in a place. You can eat and sleep in a prison, too. But the fact that you can't leave, that you're in a closed space, that alone is punishment enough.&lt;/p&gt;
-
-&lt;p&gt;Freedom to come and go. Openness. If you don't keep that consciously in mind, things tend to close up on their own. Closed systems are easier to control, after all. And it's much the same in virtual spaces online. That feeling of things closing in, people colliding, the air growing stifling.&lt;/p&gt;
-
-&lt;p&gt;Thanks for visiting Hobonichi today. My ideal is something like an engawa, that in-between space, half inside and half outside, where the two can meet.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#99c93a914d8a"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on how physical and psychological openness—whether through windows that open to the outside or spaces that allow freedom of movement—is essential to human comfort and well-being, a principle that applies equally to built environments, social spaces, and digital communities. The author advocates for maintaining permeable boundaries between inside and outside as a guard against the suffocating feeling of closed, controlled systems.</summary>
-    <published>2026-06-18T08:06:25.775337+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
