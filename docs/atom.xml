@@ -2,13 +2,41 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-07-19T05:50:07.198531+00:00</updated>
+  <updated>2026-07-20T06:15:55.453497+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#238a07efdeb4</id>
+    <title>It's summer, so are you eating somen and stuff?</title>
+    <updated>2026-07-20T06:15:34.457287+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;In the morning, not long after waking, I can go without eating anything and feel perfectly fine. So people might take me for someone with a weak appetite. But the truth is, I'll get up, get ready to go out first thing, and head off to eat some ramen I've had my eye on. Apparently, to the boss of the household, this has long been considered "a frightening thing." I only just found this out.&lt;/p&gt;
+
+&lt;p&gt;I don't think of ramen as some light little meal. And yet, eating ramen right after waking isn't a strain for me at all. Honestly, I'd be fine with a bowl of grilled eel over rice for breakfast. Tempura over rice, pork cutlet over rice, I never think, "It's morning, better not." Well, I might pass on yakiniku, but if someone said, "There's a great place for morning yakiniku, want to go?" I'd answer, "Morning yakiniku, is that a thing? Sounds good, let's go."&lt;/p&gt;
+
+&lt;p&gt;I have absolutely no sense that I've got an iron stomach. But the idea that breakfast should be something light, or that on a hot summer day I ought to have somen noodles, those feelings have almost never come over me. I love light meals, and I love somen too, so I'll eat them gladly, morning or summer heat be damned.&lt;/p&gt;
+
+&lt;p&gt;What really exasperated the boss, apparently, was the day we had a reservation at the sushi place, and even though I had a fever, I said "I'm going" and ate just like always. I do remember that. I had a fever and felt a bit unsteady, but the usual delicious sushi was delicious in the usual way.&lt;/p&gt;
+
+&lt;p&gt;Come to think of it, back when I was young, I once said that even with a fever I could eat eel, and the president at the time treated me to some. It's not that I have a strong stomach. It's just that what I can eat, I can eat.&lt;/p&gt;
+
+&lt;p&gt;It's morning, or it's summer, or the feasts have been piling up, sure, I could trot out those excuses if I wanted to. Society tends to think along those lines, and for the most part I go along with it in my daily life.&lt;/p&gt;
+
+&lt;p&gt;But here's a thought. Morning is when you're hungriest, so why not eat whatever you like? And summer wears you out, doesn't it, so shouldn't you build up your strength? All right, all right, I'll go along with it, somen or hiyamugi, whatever you say.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today too. And when I eat ramen with too much grease in it, I'm also the guy who gets an upset stomach.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#238a07efdeb4"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The narrator challenges social conventions about when and what one should eat, arguing that appetite and enjoyment, rather than time of day or circumstance, should dictate food choices. Though willing to accommodate others' expectations, they ultimately believe that eating what genuinely satisfies you—whether ramen at breakfast or sushi with a fever—is perfectly reasonable.</summary>
+    <published>2026-07-20T06:15:34.457287+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#1201e03e56f0</id>
     <title>In praise of beanbags</title>
@@ -757,30 +785,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Good content—whether a rakugo performance or a beloved salon—acts as a magnet that draws people together, and there's a quiet wisdom in letting oneself flow with such connections rather than forcing change. The author reflects on how meaningful experiences often arise not from deliberate choices but from simply showing up and moving with the current.</summary>
     <published>2026-06-21T07:58:47.968625+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#0ef1f3d5296c</id>
-    <title>Right now, in Kesennuma, I am feeling happy.</title>
-    <updated>2026-06-20T06:59:58.841355+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I'm in Kesennuma. Of course, it's because of the "Kesennuma Okaeri Yose" rakugo show. I wouldn't say I'm being overly enthusiastic about it (ha), but I came in the day before the event. Even though I'm just an audience member. The "Kesennuma Sanma Yose" started the year after 2011, and the fact that it's continued all the way to the present, to 2026, feels somehow miraculous and at the same time perfectly natural. It just makes me genuinely happy. So much time has passed, hasn't it. I'm glad everyone's doing well. And of course, we've all gotten older, each in our own way.&lt;/p&gt;
-
-&lt;p&gt;Even though it was just the day before the show, I got to see so many people. Had some coffee, drove around town a little, then met up with Tatekawa Shinosuke, who was there ahead of the next day's performance. We had dinner and talked about, well, all sorts of things. People from Kesennuma, Hobonichi members, Shinosuke's staff, all mixed together, and we spent a long time at the table. It was wonderful, every bit of it, including the utterly trivial stuff.&lt;/p&gt;
-
-&lt;p&gt;The seafood and mountain fare were delicious, and that made me happy too, but what really made me happy was the simple fact that we were there together, talking. We'd hauled our actual, physical bodies there by bullet train and car, gathered in one place, looked each other in the face, spoke with our mouths, listened with our ears, chewed our food, clapped our hands, laughed, ducked out to use the restroom, and talked some more. This concrete, almost stubbornly material act of gathering. I find myself thinking, all over again, how incredibly rich it is.&lt;/p&gt;
-
-&lt;p&gt;Every day I've been staring at one screen or another, thinking about AI this and AI that, nothing but weightless thoughts. And then to have this experience of gathering, seeing faces, talking. It felt like I could finally take a deep breath.&lt;/p&gt;
-
-&lt;p&gt;But today is still the day before. Tomorrow is the real show. In that civic hall, I'll see yet more faces. There are regulars who come not from the area but from far away. Everyone gathering for that day's one-and-only Tatekawa Shinosuke rakugo performance. And then, in the audience, in the lobby, people spot familiar faces and call out to one another. Come to think of it, the word "yose" is written with the characters for "drawing seats together." Maybe coming together, showing our faces to one another in good health, is itself one of the great purposes of the whole thing.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today, too. Children grow, sure. But young people grow too, and adults, and the elderly. We're all still growing.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#0ef1f3d5296c"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author reflects on the profound joy of physical gathering—traveling to a rakugo performance in Kesennuma to experience real human connection, conversation, and community after spending too much time absorbed in weightless digital thoughts about AI. The essay celebrates how simply showing up together in one place, face to face, remains one of life's greatest richnesses.</summary>
-    <published>2026-06-20T06:59:58.841355+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
