@@ -2,13 +2,39 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-07-24T05:48:52.006521+00:00</updated>
+  <updated>2026-07-25T05:41:28.819008+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#ba173855f8a0</id>
+    <title>Breathe in, then eat.</title>
+    <updated>2026-07-25T05:41:07.512544+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've felt this for a long time, but I could never quite put my finger on it. The question of whether I've always done things this way. And by "this," I mean the technique of eating while inhaling.&lt;/p&gt;
+
+&lt;p&gt;The classic example is a cream puff. Bite into one the normal way, and the cream is guaranteed to come squirting out. And as for the pastry shell, well, you can't get a tooth or a knife into it cleanly. So I'd wonder, how on earth is everyone else eating these things, while I quietly sucked out the cream, nibbling a bit of the shell as I inhaled.&lt;/p&gt;
+
+&lt;p&gt;It's strange. I'm fully aware that what I'm doing is very strange. But short of that, how else is a person supposed to eat one? Just scoop out the cream with a spoon, you say? With all due respect, do you actually do that? Is that really how you eat them? You buy cream puffs at the convenience store, don't you. You pick one up as a snack at a place built for convenience, and then you reach for a spoon? I just don't think that's what they're for. Surely there's no choice but to suck.&lt;/p&gt;
+
+&lt;p&gt;By the same logic, what do you do about a big hamburger? Not the plain, simple kind, but the indulgent sort. A proper gourmet burger, the kind where the juices come dripping down. The vegetables and the meat go sliding out and land who knows where. Even with the wrapper braced around it to keep the filling in, it's still hard to just chomp down with a wide-open mouth. Do that, and you're bound to drop something, juices included. So here too, isn't sucking the only option? I do it. Not because I want to, but I suck.&lt;/p&gt;
+
+&lt;p&gt;What about an egg sandwich, stuffed thick with egg? The more generously filled a thing is, the more it spills. So don't agonize over this one either. Just suck. I suck.&lt;/p&gt;
+
+&lt;p&gt;The cream puff, the hamburger, the egg sandwich, and while we're at it, the jam bun and the cream bun too. In the old days we ate these without a second thought and never spilled a drop, didn't we. Hadn't you noticed? These foods, nowadays, spill precisely because they're so generously filled. It's abundance that turned me into someone who sucks.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today as well. And please don't say "so what." That's all there is to it.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#ba173855f8a0"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The narrator argues that eating messy, generously-filled foods like cream puffs and burgers requires "inhaling" or sucking rather than biting, a practical technique born from modern abundance that others seem to overlook. It's a humorous defense of an unconventional eating habit that the author insists is simply the logical solution to the inevitable mess of contemporary indulgent foods.</summary>
+    <published>2026-07-25T05:41:07.512544+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#3fc2c4d47f3d</id>
     <title>Continuing from yesterday. About my favorite foods. A thank-you.</title>
@@ -769,34 +795,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that learning becomes play when it's intrinsically enjoyable rather than pursued as an obligation, and that skilled teachers can transform the learning experience by fostering genuine curiosity and fun rather than relying on discipline and suffering. The author reflects on how modern teaching methods have evolved to make learning feel like play, something they wish they'd experienced growing up.</summary>
     <published>2026-06-26T06:53:50.465896+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#e12d81859014</id>
-    <title>What should you do with your lives?</title>
-    <updated>2026-06-25T06:46:10.786851+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;If a young person asked me, "What should I do with my life?" would I be able to answer? I've been turning this over in my mind for a while now. Come to think of it, I never asked anyone that question myself. Back then, all I was really thinking about was whether I could survive. Even the idea of "finding happiness" felt like an aspiration that didn't suit someone like me. And yet, strangely, I wasn't much of a worrier in those days.&lt;/p&gt;
-
-&lt;p&gt;But setting myself aside. When a young person wants to know, "What should I be doing?" I can understand that feeling. It probably comes from a place of, "If I just knew what it was, I'd be ready to work hard." Like saying, "Give me the problem, and I'll do everything I can to solve it."&lt;/p&gt;
-
-&lt;p&gt;The truth is, finding the problem is itself the problem, and the answer to that problem is simply discovering what problem you need to solve. But that's a question that spans an entire lifetime, so saying as much doesn't really help.&lt;/p&gt;
-
-&lt;p&gt;I want to think about this for my own sake, too. What should young people be doing?&lt;/p&gt;
-
-&lt;p&gt;When I search my memory, the mentors in my life all said pretty much the same thing. "Read the classics." It may have been a kind of stock answer. There was also, "Get your heart broken, many times over." You could say these are harmless, inoffensive pieces of advice.&lt;/p&gt;
-
-&lt;p&gt;But compared to the sort of guidance that came along in a more recent era, things like "Get an MBA" or "Build your network" or "Study computers," advice that sounds so eminently practical, I don't think those older words are the least bit inferior. "Read the classics" and "Get your heart broken" both seem to be ways of saying, "Try to understand what it means to be human."&lt;/p&gt;
-
-&lt;p&gt;Well, I'll keep thinking about it.&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting Hobonichi again today. "What should I be doing?" It's a question that grown-ups and the elderly are still asking, too.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#e12d81859014"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Rather than seeking practical advice for finding purpose, young people should focus on understanding what it means to be human through experiences like reading classics and emotional growth, questions that adults grapple with throughout their entire lives.</summary>
-    <published>2026-06-25T06:46:10.786851+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
