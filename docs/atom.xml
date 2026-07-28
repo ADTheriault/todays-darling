@@ -2,13 +2,45 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-07-27T06:27:31.597347+00:00</updated>
+  <updated>2026-07-28T05:44:42.165657+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#46b10b38e936</id>
+    <title>A story about not being able to sleep, a story about not caring, and a story about nightmares.</title>
+    <updated>2026-07-28T05:44:20.958424+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I was talking with an acquaintance who likes to boast about how badly he sleeps. Before long, we discovered that he and I were taking the very same sleeping pill. They say misery loves company, and it's true, there's a small pleasure in finding a fellow sufferer like this.&lt;/p&gt;
+
+&lt;p&gt;At the time, though, I had been practicing how to get by without the drug, and I'd been having pretty good luck with it. I'll probably manage to fall asleep tonight, too, without taking anything.&lt;/p&gt;
+
+&lt;p&gt;"Oh, come on, don't say that, let's just take it," my kindred spirit in misery kept wanting to say. He really is a good man, but he has this side to him. It was the same when he was quitting cigarettes. He came up with every excuse in the book and dragged it out forever. I'd had a rough time of it myself when I quit smoking, so if I could, I wanted to tell him that quitting would actually make life easier. But well, he's not the kind of man you can tie down that neatly. In the end he only quit after a doctor gave him a serious scare. And now he's saying the same sort of thing about sleeping pills.&lt;/p&gt;
+
+&lt;p&gt;The reason I've been able to stop taking the drug is, honestly, thanks to controlling my own "perspective." I simply reconsidered the way I thought about insomnia. "Don't fret about not being able to sleep." "Just lying down with your eyes closed is enough."&lt;/p&gt;
+
+&lt;p&gt;(We talked for a good while longer after this.)&lt;/p&gt;
+
+&lt;p&gt;And then the conversation turned, in that unmistakably nerdy, deep-in-the-weeds way, to how "an incredibly advanced new sleeping pill has been developed." All sorts of wonderfully convenient improvements had been built into it, apparently.&lt;/p&gt;
+
+&lt;p&gt;"The thing is, its one drawback is that it seems to give you nightmares." Ugh, nightmares, I'd hate that. Please, spare me the nightmares. "I have real reservations about that too. That's why I can't quite bring myself to try it." Right, right, I understand completely.&lt;/p&gt;
+
+&lt;p&gt;"But you know, the doctor who told me about it... he said something." Oh? What did the doctor say? "'So you have a nightmare, what of it? They're interesting, aren't they.'"&lt;/p&gt;
+
+&lt;p&gt;Whoa! So this too comes down to controlling your "perspective"!&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. It's true, a nightmare is still just a dream, so once you wake up, it's over...&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#46b10b38e936"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores how changing one's perspective on life's challenges—whether it's insomnia, quitting harmful habits, or even nightmares—can make them easier to endure or overcome. Through the author's conversation with an acquaintance about sleeping pills, the insight emerges that acceptance and reframing, rather than resistance, often provide the path to genuine improvement.</summary>
+    <published>2026-07-28T05:44:20.958424+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#55daefa4b68d</id>
     <title>The mythological world of "Chiikawa"?</title>
@@ -791,28 +823,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay explores how we habitually transfer our dislike of people onto everything associated with them, while acknowledging that this psychological tendency, though real and historically consequential, is often overstated—most people maintain more nuance and separation in their judgments than the proverb suggests.</summary>
     <published>2026-06-29T07:28:25.513369+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#6053bec5f4fb</id>
-    <title>It's Saturday, but I went to Kanda for tonkatsu.</title>
-    <updated>2026-06-28T07:01:01.647010+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When the tonkatsu arrives at the table, right there in front of me, it always begins with the same thought: it's still so hot. I separate three slices from the left side of the cutlet, pulling them slightly away from the rest. A light squeeze of lemon, just a whisper of it, then soy sauce dripped on carefully so as not to use too much. The hottest, freshest pieces I eat this way. Oh, and a dab of mustard too, I almost forgot. My front teeth bite through the crust, and it shatters gently, like a thin sheet of ice. Then the meat, the pork, is instantly converted into pure deliciousness and spreads across my mouth. The aroma, the flavor, the perfect tenderness, all of it touching everywhere, the top of my tongue, the insides of my cheeks, and the story of the tonkatsu begins to unfold. I chew with my back teeth, savoring again, jaw and tongue moving as desire commands. More chewing, swallowing, biting down harder. When I really press into it, I can feel the rich fat seeping out.&lt;/p&gt;
-
-&lt;p&gt;I deliberately avoided inspecting the cross-section too closely, but the first two slices or so from the left side are the fattiest part, and that fat is precisely what makes the "special loin" worth boasting about. While my tongue registers the lush, spreading richness of the fat, I take a bite of rice. The harmony of tonkatsu fat and plain white rice plays like music inside my mouth.&lt;/p&gt;
-
-&lt;p&gt;Tonkatsu sauce comes after that. Here, too, I'm careful not to overdo it, applying the sauce one slice at a time, adding mustard, savoring the texture of the crust against my teeth. By this point I've settled in, and the pace of my chewing slows. I lift my gaze slightly and think: this is so good, so good again today. When I'm eating at the counter and happen to catch the eye of the owner who does the frying, I give a small nod. The cabbage, the miso soup, the pickled daikon and lightly salted pickles, the rice. I give thanks to all the supporting players that make the tonkatsu taste even better.&lt;/p&gt;
-
-&lt;p&gt;When the plate is empty, it's time for the check. This is a place I know well, so I say what I feel, simply and sincerely. "That was truly delicious." I say it twice, and bow.&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting Hobonichi again today. I'd already decided on Friday that Saturday would be a tonkatsu day.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#6053bec5f4fb"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay is a meditative celebration of eating tonkatsu, exploring how mindful attention to each sensory detail—the crackle of the crust, the richness of the fat, the harmony with rice—transforms a simple meal into a profound experience of gratitude and joy. Through ritualized enjoyment and respect for both the food and those who prepared it, the narrator reveals that true satisfaction comes not from the food itself, but from the deliberate presence brought to its consumption.</summary>
-    <published>2026-06-28T07:01:01.647010+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
