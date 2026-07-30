@@ -2,13 +2,37 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-07-29T05:50:18.969132+00:00</updated>
+  <updated>2026-07-30T05:38:09.869637+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#8a1125a5631c</id>
+    <title>"Let's do what we can" still holds true today.</title>
+    <updated>2026-07-30T05:37:50.772561+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;No matter what happens, the answer is always: "Let's do what we can." Emotions may hurry us along, may leave us unsettled, but eventually, the "things each of us can do" should slowly come into view. The help we need right away, the assistance required along the way, and the long, patient support. All of it is necessary, together with a feeling of prayer.&lt;/p&gt;
+
+&lt;p&gt;Well then, today too, I'll paste in yesterday's little scraps of notes.&lt;/p&gt;
+
+&lt;p&gt;Even though I own so many nail clippers, I've stepped down, for now, from that whole nail-clipper connoisseur game. Why? Because I've started using a glass nail file. Being able to care for your nails without any blade at all, it's really something. Come to think of it, some villainous boss in an old movie used a nail file too. So, heh, maybe I'm a villainous boss myself now...&lt;/p&gt;
+
+&lt;p&gt;I came up with my own eternal phrase. "There are all kinds of people. It can't be helped." I've genuinely come to feel this way. By "all kinds" I mean good and bad, right and wrong, every last bit of it. You can't dye all these different people into a single color, and you mustn't try. On top of accepting that, you team up, you give up, you find your separate spaces to live. Nature became the nature we know now precisely through this process.&lt;/p&gt;
+
+&lt;p&gt;Apparently a new series of "Shinya Shokudo" is starting again this autumn. It began in 2009, and it's been seven years since the last one. I love that the staff and cast are reuniting. Yesterday, Kaoru Kobayashi came by Hobonichi and talked with us about "Shinya Shokudo," complete with plenty of idle chatter.&lt;/p&gt;
+
+&lt;p&gt;That feeling of "I want to work with that team" has grown much larger for me than all sorts of other conditions. I heard that an amazing crew has gathered for the "Chiikawa" film, and what that means is, it became a team where the doers show up, the ones thinking "I want to work alongside people like that." I think any kind of work heads in this direction. Thank you for coming to Hobonichi today, too. I'd like to think of the blisteringly hot days and the merely somewhat hot days as two separate things.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#8a1125a5631c"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Rather than seeking perfect solutions, the essay advocates for doing what we can with acceptance and collaboration—whether caring for our nails with gentleness, embracing human diversity without judgment, or choosing to work with people we genuinely want to team up with. The key insight is that progress comes not from forcing uniformity or perfection, but from patient, collective effort guided by realistic compassion.</summary>
+    <published>2026-07-30T05:37:50.772561+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#47d12c0991b9</id>
     <title>On the day of July 28, 2026.</title>
@@ -801,30 +825,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay explores how shared experiences at live events create a profound sense of human connection that temporarily alleviates our fundamental loneliness, while acknowledging the paradoxical desire to occasionally escape even that collective togetherness. Despite finding deep satisfaction in feeling "connected to so many people," the author recognizes a more complex emotional reality—a simultaneous need for individual autonomy within the crowd.</summary>
     <published>2026-07-01T07:09:48.838042+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#5cd7dbadfcd7</id>
-    <title>Surely, "thank goodness! Thank goodness!"</title>
-    <updated>2026-06-30T06:54:39.100948+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Once again, I'm writing this a little earlier than usual. For the soccer, of course. Kickoff is at 2 a.m., and I'm normally still awake at that hour anyway. In that sense, staying up isn't even a question. It's right in my sweet spot. But that alone doesn't solve the problem. Staying awake is easy enough, but if I'm glued to a soccer match until four in the morning, there's no time left to write this column. So I had a choice: either work myself into a fervor and write after 4 a.m., or get the column done before the match starts. One or the other.&lt;/p&gt;
-
-&lt;p&gt;This column might look like breezy, throwaway writing, but it's never as easy as it seems once you actually sit down to do it. Sometimes I'll try dashing one off in twenty minutes, just to see if I can speed-write it, but I end up flustered, and I suppose I just don't have the natural talent for it, so I give up with nothing to show. I'd rather not struggle with anything besides soccer in the early morning hours, so I decided to write this in advance.&lt;/p&gt;
-
-&lt;p&gt;Once I'd made that decision, I figured I might as well take my bath early too. Lately I've been trying to bathe early and get to bed early. It's not as easy as it sounds, but I'm doing my best. So here I am, already bathed before 10 p.m. My body is nice and warm. And since I want to be ready to sleep the moment I feel like it, I've already brushed my teeth and put on my pajamas. I check the clock: 11:17 p.m. And this column, as you can see, is already about eighty percent done.&lt;/p&gt;
-
-&lt;p&gt;All I had to do was grumble and gripe a little, and the thing practically wrote itself. How convenient is that? I can't exactly pull this trick every day, but this time, it really saved me.&lt;/p&gt;
-
-&lt;p&gt;Come to think of it, this column goes up at eleven. So the result of "that match" will be out for all to see by then, like it or not.&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting Hobonichi again today. Who knew a mere ten-hour time difference could hold so much depth.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#5cd7dbadfcd7"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author discovers that by writing about the constraints of his schedule—staying up for an early morning soccer match while meeting a column deadline—he inadvertently solves the problem itself, finding that honest reflection on life's small challenges can be both authentic and effortless.</summary>
-    <published>2026-06-30T06:54:39.100948+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
