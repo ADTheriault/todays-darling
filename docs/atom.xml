@@ -2,13 +2,39 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-07-31T06:10:38.438002+00:00</updated>
+  <updated>2026-08-01T05:53:12.542564+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#a3a1233d82ba</id>
+    <title>The real problem you want to solve isn't that one.</title>
+    <updated>2026-08-01T05:52:53.574568+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Since this is something I've experienced myself, I can't really speak too harshly about it. But at a certain point in my life, I came to understand this: "When a person is caught up in something to an abnormal, almost obsessive degree, the thing they truly need to resolve is probably something else entirely."&lt;/p&gt;
+
+&lt;p&gt;The things a person really wants to resolve, I think, aren't all that many. Relationships close to home, like family or a lover. Social relationships tied to one's pride, like work not going well. Concrete financial troubles, like debt. These are the kinds of things that, if you seriously set out to deal with them, demand a considerable amount of resolve. Getting angry won't help. Grieving won't help. It's hard to find your way to a solution. And even if there's someone willing to lend a hand, the one who has to push through the pain and keep going is you.&lt;/p&gt;
+
+&lt;p&gt;"Being fanatically absorbed in something" is a state that radiates energy, and the sight of someone earnestly devoted to a task can look, somehow, like a deeply convincing way to live. So I completely understand throwing yourself into it. And because you're doing it so earnestly, so passionately, it becomes: "I don't have time for anything else."&lt;/p&gt;
+
+&lt;p&gt;This is exactly the point. That "anything else" is precisely where "the thing you truly wanted to resolve" was supposed to be all along.&lt;/p&gt;
+
+&lt;p&gt;At a certain point, I looked back on my own past self and understood, in hindsight, that this is how it works. The personal, "inner" problems you have to resolve yourself, you try to forget them by placing importance on "outer" problems instead. For lack of a better term, I've come to call this "the externalization of a problem."&lt;/p&gt;
+
+&lt;p&gt;Beyond the realm of comfort, entertainment, or play, people pour in their anger, their sorrow, even their health, and sink completely into it. Cases like this, I think, are only increasing in these times.&lt;/p&gt;
+
+&lt;p&gt;Thank you again for coming to Hobonichi today. Though I myself used to get called a "fanatical Giants fan."&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#a3a1233d82ba"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that obsessive absorption in external pursuits often masks unresolved personal problems—relationships, work, finances—that we unconsciously avoid by channeling our energy into something that feels productive but ultimately distracts us from what we truly need to face.</summary>
+    <published>2026-08-01T05:52:53.574568+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#ea29b86000ab</id>
     <title>The one cornering you might be yourself.</title>
@@ -803,32 +829,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author discovers that fried rice's enduring popularity stems from its essential simplicity—at its core, it's just seasoned egg and rice with a few key ingredients like green onion and roast pork, making it a complete and satisfying meal that never goes out of style.</summary>
     <published>2026-07-03T06:29:54.571510+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#46ba91c623b8</id>
-    <title>The world is full of art.</title>
-    <updated>2026-07-02T06:39:46.633750+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Okamoto Taro, when asked "What is art?", answered: it's that feeling of "What on earth is this?!" I've always loved that answer, and I've kept it tucked away in a corner of my mind.&lt;/p&gt;
-
-&lt;p&gt;There are so many "What on earth is this?!" moments. For a newborn baby, everything it sees, hears, and touches must be one big "What on earth is this?!" Anything that lies beyond what you can imagine, anything not yet named, all of it is "What on earth is this?!"&lt;/p&gt;
-
-&lt;p&gt;In other words, the moment a person feels "What on earth is this?!", their world has expanded by exactly that much. And that, Okamoto Taro went ahead and brilliantly declared, is the answer to "What is art?"&lt;/p&gt;
-
-&lt;p&gt;If "What on earth is this?!" is what art is, then nearly everything people have ever wondered about, asking "Is that art? Is this art?", ends up being art. Naturally, some people will object. Especially those who believe art must carry "a value deserving of reverence" or "commercial value." If anything and everything gets recognized as art, that's a real problem for them.&lt;/p&gt;
-
-&lt;p&gt;But let me say this on Okamoto Taro's behalf (forgive me!): what if we simply accepted that there can be "art that doesn't deserve reverence" and "art with no commercial value"? Wouldn't that settle it?&lt;/p&gt;
-
-&lt;p&gt;From ancient times right up to our present age of AI, the popular music that people poured their hearts into creating, the packaging design on everyday products, all of it is art. Just like grand temple architecture or portraits of kings, a great rock song, a gymnast's routine, the laughter drawn out by a comedy act, anything that makes someone feel "What on earth is this?!" is art. And among all of it, some things will endure for a thousand years.&lt;/p&gt;
-
-&lt;p&gt;Thanks for coming to Hobonichi again today. Even an amateur's karaoke is art. Not that anyone's going to praise it.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#46ba91c623b8"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Art is fundamentally that feeling of wonder and discovery—the moment something expands our understanding of the world—making nearly everything humans create potentially worthy of the title, whether it's a grand temple or an amateur's karaoke performance.</summary>
-    <published>2026-07-02T06:39:46.633750+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
