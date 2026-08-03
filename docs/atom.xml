@@ -2,13 +2,45 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-02T05:55:00.193820+00:00</updated>
+  <updated>2026-08-03T06:20:28.611454+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#7d091172bcd3</id>
+    <title>Sweet potato tempura with a firm batter.</title>
+    <updated>2026-08-03T06:20:09.091181+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When people praise tempura, they always say things like, "The batter is light and crisp." Crunchy, no hint of oiliness, light. That's what everyone reaches for. And I agree. I really do.&lt;/p&gt;
+
+&lt;p&gt;That said, the tempura you get at udon chains and places like that isn't light at all, and it certainly isn't crisp. If anything, the batter is thick enough to have opinions of its own, and rather than light, you'd have to call it hard.&lt;/p&gt;
+
+&lt;p&gt;But is that bad? Is it unpleasant? Not to me. I actually want this kind of tempura too. Especially the sweet potato ones. I'm fine with batter so hard it clunks against your teeth. And I'm certainly not going to talk about how it "doesn't taste of oil." I'll even go and pile on extra tempura crumbs.&lt;/p&gt;
+
+&lt;p&gt;They're both tempura, and they're both good, aren't they? No need to rush to declare that this one is proper and that one isn't. They're both delicious.&lt;/p&gt;
+
+&lt;p&gt;With just about anything, there's a kind of "accepted standard for what counts as good." Things that have been around a long time naturally develop one. Tempura, sushi, grilled fish, soba, udon, all of them come with a set of "words of praise" that everyone more or less knows.&lt;/p&gt;
+
+&lt;p&gt;But even if you know those words, I think it might be better to set them aside for a while. "Springy, chewy udon" is delicious, of course, but there's no reason we can't also discover the deliciousness of "soft, sloppy udon."&lt;/p&gt;
+
+&lt;p&gt;Being unhygienic or unclean is another matter, but I really do think that finding "deliciousness" from a different angle deserves to be valued more.&lt;/p&gt;
+
+&lt;p&gt;Come to think of it, the things people call "old-fashioned" include "firm pudding," "omelettes that aren't all soft and runny," and "salmon that's too salty," don't they? I'm sure there are plenty more if you go looking.&lt;/p&gt;
+
+&lt;p&gt;Right now, at two in the morning, I want a bowl of udon with hard tempura on top.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. Though honestly, the ordinary words of praise turn out to be right more often than not.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#7d091172bcd3"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Rather than blindly following established standards for what makes food "good," we should embrace our own discovery of deliciousness in unexpected forms—whether that's hard tempura or soft udon—and value these unconventional pleasures alongside traditional ideals.</summary>
+    <published>2026-08-03T06:20:09.091181+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#19b38da7faa4</id>
     <title>Adults have "feelings" too.</title>
@@ -807,30 +839,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author explores the absurdity of calling foot toes by hand finger names while sharing a newfound technique that makes wearing five-toe socks less frustrating, ultimately reflecting on their cyclical relationship with health trends.</summary>
     <published>2026-07-05T06:38:56.606818+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#f529ab50d5bb</id>
-    <title>Importing foreign culture and exporting culture abroad.</title>
-    <updated>2026-07-04T06:16:45.732259+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I think that's what I myself have been doing all along: living within Japan, crafting expressions meant to reach people who use the Japanese language, sharing a culture that anyone raised in Japan more or less understands. And it's not just me. I think there are many people like that. People have been talking about "internationalization" for ages, but even just the people inside Japan add up to a considerable number. In other words, Japan on its own is a reliable "market."&lt;/p&gt;
-
-&lt;p&gt;To the extent I've thought about other countries at all, I think it's been more about importing than exporting. Music, most of all, right? I never really listened to traditional Japanese folk music. Instead, we all shared in the fun-sounding music coming from abroad, and we loved it together. The same goes for art. Japanese-style painting was actually the rarity. We were educated in the history and aesthetics of Western art even at school, and the design all around us in the streets bore the influence of other countries. I mean, of course it did. We go through our days wearing Western clothes.&lt;/p&gt;
-
-&lt;p&gt;We imported foreign culture, absorbed it, and then expressed it within Japan's reasonably large "market." That's what we've been doing all along, isn't it? The audience was always, first and foremost, Japanese people. Music, painting, film, theater, manga, literature: almost all of it was fundamentally created with that in mind. You might say that creative expression has always been directed at people who already get it, people who share the same frame of reference.&lt;/p&gt;
-
-&lt;p&gt;And every now and then, some portion of that work would, to everyone's delight and surprise, turn out to resonate with people abroad too, and it would succeed as an export. Winning a foreign prize, or unexpectedly selling well somewhere overseas, that sort of thing.&lt;/p&gt;
-
-&lt;p&gt;But at some point, though I can't pinpoint exactly when, we began exporting to people in other parts of the world who speak different languages and were raised in different cultures. In some ways this happened naturally, in other ways quite deliberately. And I think there are things to be gained from this, and things to be lost. Both, without question. How are we going to live through this era where "both" is very much the case?&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting Hobonichi again today. It seems to me there are plenty of hints out there, even right now.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#f529ab50d5bb"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author reflects on how Japanese creators have traditionally made work for domestic audiences who share cultural references, but must now navigate the complex reality of simultaneously creating for both Japanese and international audiences—gaining global reach while potentially losing cultural specificity in the process.</summary>
-    <published>2026-07-04T06:16:45.732259+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
