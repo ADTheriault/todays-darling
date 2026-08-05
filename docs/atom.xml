@@ -2,13 +2,37 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-04T05:44:54.336638+00:00</updated>
+  <updated>2026-08-05T05:43:47.276738+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#0dea7ba68649</id>
+    <title>Beyond the top of the vocal range. The darkness seen with closed eyes.</title>
+    <updated>2026-08-05T05:43:25.421517+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;So, do you do karaoke, that sort of thing? Even if not karaoke, do you ever sing? When you sing, there's this thing called vocal range, and at some point, both on the low end and the high end, the notes just stop coming out. There are notes other people can hit that you simply can't. But what if you don't actually voice them, can you imagine higher and higher notes without limit? Just imagining seems like it should be possible, doesn't it? Shall we give it a try? This is something I thought up and tested back in my twenties. What I found was that as I went up an octave, and then another, at some point I was just cycling through the same range over and over without realizing it (I wrote about this on Hobonichi back in 1998, too). It turns out there's a limit even to the "imagination" of sound. When I first wrote about this, Yosuke Yamashita, the jazz musician, told me, "That was really interesting," and I remember being tremendously happy about it.&lt;/p&gt;
+
+&lt;p&gt;Now then, I recently discovered something along these same lines again. At night, in that stretch between getting into bed and drifting off to sleep, it's no good to let your mind wander to pointless things, so I decided that after closing my eyes I would picture some lovely scene and just gaze at it there behind my eyelids. But this "lovely scene" I wanted to gaze at turned out to be surprisingly hard to conjure up. After trying all sorts of things, lately I've settled on this baffling theme of "the dark reaches of outer space," and I've made that my thing to look at. Since it's basically just "darkness," it's fine for it to be vague. If I stare at it and things go well, I sink pleasantly into sleep.&lt;/p&gt;
+
+&lt;p&gt;And while doing this, at one point I realized something: I'm looking at this "darkness" with my dominant eye. I'm viewing the "darkness" mainly with my left eye, so what is my right eye doing? It's providing "support," you see, backing up the dominant eye. Now, I can look at the "darkness" with just my right eye too, but somehow that leaves me unsettled. And that's it. Today's story comes to its abrupt little end right here.&lt;/p&gt;
+
+&lt;p&gt;Now, from here on it's an interview with you. Jot it down somewhere, in a notebook (or a notebook app), and if you feel like it, go ahead and send it to me by email as well.&lt;/p&gt;
+
+&lt;p&gt;No. 001: "What kind of child were you growing up?"&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today, too. This closing interview, I intend to keep it up every day until I get tired of it.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#0dea7ba68649"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay explores how our perception has inherent limits—from the inability to imagine vocal notes beyond a certain range to the challenge of consciously visualizing pleasant scenes—revealing that even our imagination operates within physical and neurological constraints. Through personal observations about singing, sleep visualization, and eye dominance, the author discovers that our minds cannot infinitely extend sensory experiences the way we might theoretically expect them to.</summary>
+    <published>2026-08-05T05:43:25.421517+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#cf0fa05e816f</id>
     <title>What does the real me like, and what do I want to do?</title>
@@ -821,28 +845,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay celebrates the profound joy found in simply watching and loving something without needing to justify, analyze, or derive purpose from it—a freedom from the constraints of rationalization that allows us to fully experience what brings us happiness.</summary>
     <published>2026-07-07T06:44:10.870439+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#f6a8576ac43a</id>
-    <title>When you get old, it's something you should keep in mind.</title>
-    <updated>2026-07-06T07:10:52.552298+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Maybe this has already been said somewhere, but I really don't like the idea of being called a "toxic old person." There was a time when I was the young upstart, the junior nobody, but I hardly had anyone around me who struck me as that kind of old person. Sure, sometimes you'd see a stranger acting that way in a shop, or hear about examples in other people's stories. But among the people I actually worked with or saw regularly, there was truly no one who made me think, "Now there's a toxic old person." The older people I knew, and the seasoned figures from other circles, all of them listened well to what others had to say. None of them forced their fixed ideas on anyone. They never lectured or scolded, and they never went on about their own accomplishments. The seniors I respected stayed humble no matter how old they got, and I think they were also very good at the art of forgiveness. In TV dramas, you always see the stereotypical overbearing elder wielding power and keeping people down, but the fact that I managed to live so long without really encountering anyone like that in real life may simply mean I've been incredibly lucky.&lt;/p&gt;
-
-&lt;p&gt;Having seen so many wonderful older people, I naturally came to feel that I wanted to be like them someday. Even so, I want to say this: I do quietly worry that if I let my guard down, I might become that kind of person myself.&lt;/p&gt;
-
-&lt;p&gt;I was once taught that men, if they aren't constantly careful, will inevitably turn stingy and lecherous. And I've spent the last twenty years or so wondering whether, on top of those, getting older means you also risk becoming a nuisance. When people want to attack someone older, all they have to do is call them a "toxic old person" and it sounds perfectly justified. Even the admirable seniors I've known have all had it said about them at one time or another. And sure, they were, each of them, undeniably old.&lt;/p&gt;
-
-&lt;p&gt;For now, as far as I can tell about myself, I still find younger people fascinating and worthy of respect, so I think I'm probably okay. But who knows.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for visiting Hobonichi today. You know how we talk about harmful insects and beneficial insects? I'd rather be "beneficially old" than "toxically old."&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#f6a8576ac43a"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author reflects on his fear of becoming a "toxic old person" despite having been surrounded by humble, respectful elders who served as positive role models, recognizing that even good people can be labeled this way and that maintaining openness to younger generations is essential to avoiding this fate.</summary>
-    <published>2026-07-06T07:10:52.552298+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
