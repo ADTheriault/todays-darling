@@ -2,13 +2,45 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-05T05:43:47.276738+00:00</updated>
+  <updated>2026-08-06T05:46:57.223041+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#272aceb64e13</id>
+    <title>Shigesato Itoi will continue interviews for 100 days.</title>
+    <updated>2026-08-06T05:46:36.910937+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;On a bit of a whim, I've started something new: interviewing you, the reader. (Confusing, isn't it?) Yesterday was the very first installment, and I asked, "What kind of child were you?" Remember?&lt;/p&gt;
+
+&lt;p&gt;The idea is to take a fresh look at how you think about your own childhood. And then to jot it down in your notebook, so you won't forget. Your answer might change later on, and even if it does, well, that just means you gave it some more thought, so that's perfectly fine too.&lt;/p&gt;
+
+&lt;p&gt;Your own childhood is the sort of thing you might never stop to consider unless someone asks. But then again, maybe you have thought about it, just a little. It lives in that hazy, half-formed territory, doesn't it?&lt;/p&gt;
+
+&lt;p&gt;Since there are surely things people would rather not share with others, I wrote, "Feel free to email me if you'd like." And then I received quite a number of emails. Many people said things like, "Thank you for this wonderful opportunity," which honestly put me at ease and made me happy.&lt;/p&gt;
+
+&lt;p&gt;And here's the thing: it fascinated me how many people said, "I was a bit of a sly child." We tend to imagine children as pure and innocent, yet so many people admitted, "I was a bit of a cunning kid." I'd count myself among them, for that matter. That kind of slyness is something I'd like to take another look at.&lt;/p&gt;
+
+&lt;p&gt;I'm prepared to keep this interview going all the way to a hundred questions. My hunch is that as you answer them one by one, a version of "yourself" you thought you knew but didn't quite will start to come into view. I'll weave together the simple questions and the wildly unexpected ones. No matter what, I'm going to see all hundred through.&lt;/p&gt;
+
+&lt;p&gt;So, on to the momentous second question.&lt;/p&gt;
+
+&lt;p&gt;No. 002: "Is there someone more important to you than yourself?"&lt;/p&gt;
+
+&lt;p&gt;Whatever your answer turns out to be, be sure to record it in your notebook. And of course, if you'd like, please write it down and send it to me by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today, too. Lately, all I ever think about is "Chiikawa" and "AI."&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#272aceb64e13"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author launches a series of 100 self-reflective interview questions designed to help readers examine their own lives more deeply, starting with childhood memories and moving toward questions about values and relationships. Through the unexpectedly candid responses received, the author discovers that self-examination can reveal hidden truths about ourselves that we rarely pause to consider.</summary>
+    <published>2026-08-06T05:46:36.910937+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#0dea7ba68649</id>
     <title>Beyond the top of the vocal range. The darkness seen with closed eyes.</title>
@@ -815,36 +847,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay explores how genuine anticipation for tomorrow—whether it's something as simple as looking forward to eating tonkatsu—represents a form of hope that many of us have lost touch with, and reflects on the quiet joy of falling asleep excited about what morning will bring.</summary>
     <published>2026-07-08T05:48:42.837167+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#6184597bca38</id>
-    <title>Just seeing a lot of things, and other matters.</title>
-    <updated>2026-07-07T06:44:10.870439+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Punch, the little monkey at the Ichikawa Zoological and Botanical Garden, may well have become a full-fledged international star by now. He's grown up quite a bit, getting closer to what you might call a young man. These days, it seems he even looks after the newer baby monkeys, the ones born not long ago.&lt;/p&gt;
-
-&lt;p&gt;Thanks to Punch, I've spent far more time watching the monkeys on their hill than I ever have before. Never in my life have I spent this much time gazing at a monkey enclosure. I think there's something truly wonderful about simply watching, a lot, without studying or trying to learn anything from it.&lt;/p&gt;
-
-&lt;p&gt;When it comes to the things we love, we just watch. A lot. Not for any purpose. Just to watch. Because the watching itself feels good. We don't only look from straight on. We look from a distance too. We look from behind, where they can't see us looking back. We watch them when they're still, and when they're moving.&lt;/p&gt;
-
-&lt;p&gt;It's not because we want to communicate our love to them. It's entirely one-sided. We watch simply because we like them. Babies and children are watched this way. To varying degrees, lovers probably are too. The people we admire and follow are watched this way. It's purely selfish on the part of the watcher. We watch because it feels good.&lt;/p&gt;
-
-&lt;p&gt;Still, some people can't help searching for the reason. "But why do I like this?" If the searching is fun, then by all means, search away. But rather than hunting for reasons, you're better off just doing more watching.&lt;/p&gt;
-
-&lt;p&gt;I recently saw a documentary about Takeshi Yoro. When asked about his health, his illness, his thoughts on things, he answered every question carefully, choosing his words with care. But the times he seemed happiest, more than anything, were when he was making specimens of his beloved insects, or when he was with fellow insect enthusiasts. There was obviously no reason behind it, and he didn't seem to have any intention of putting those specimens to practical use.&lt;/p&gt;
-
-&lt;p&gt;How wonderful it is to have something you love. That's what a living person really wants to do, isn't it?&lt;/p&gt;
-
-&lt;p&gt;The ropes of "why" and "what for" may be binding us hand and foot without our knowing it.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. Toys exist in this world, and there are people who never stop playing.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#6184597bca38"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay celebrates the profound joy found in simply watching and loving something without needing to justify, analyze, or derive purpose from it—a freedom from the constraints of rationalization that allows us to fully experience what brings us happiness.</summary>
-    <published>2026-07-07T06:44:10.870439+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
