@@ -2,13 +2,43 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-09T04:16:25.800473+00:00</updated>
+  <updated>2026-08-10T04:27:49.961516+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#b1361273457e</id>
+    <title>Things like "I like it" or "I love it."</title>
+    <updated>2026-08-10T04:27:28.367494+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When humans set out to make machines do something, the direction of progress has always been the same. Faster, stronger, more efficient, more abundant. This is easy to grasp, and easy to express in numbers. Look how much faster it's become, how much stronger, how much more it can do. "Fast, strong, efficient, abundant" can be compared, in a sense, by anyone, using numbers and the like.&lt;/p&gt;
+
+&lt;p&gt;And this kept developing, reaching a level the human eye can no longer see, no longer keep up with. What's more, this kind of evolution wasn't limited to the physical. It extended into the realm of what the brain does, too. From the era when we called them electronic calculators all the way to today's "generative AI," there has been an evolution almost violent in its intensity.&lt;/p&gt;
+
+&lt;p&gt;But that progress is centered on what can be compared through numbers and symbols, on what anyone can clearly evaluate. If "fast, strong, efficient, abundant" were the sole standard for all "value" in the world, there would be no room for any complicated judgment. Everything would be neatly settled by this alone.&lt;/p&gt;
+
+&lt;p&gt;And yet the human being, the "agent" that sets the things of this world in motion, makes judgments by a rather different set of values, chooses accordingly, and sometimes even stakes his life on that choice. "Good," "beautiful," "interesting," "adorable," "drawn to it." These are values that can't be compared in numbers or symbols, that resist even being defined, and in the actual world they are always being asked about, actively, restlessly.&lt;/p&gt;
+
+&lt;p&gt;No matter how hard you try to "put it into words (into symbols)," the most you can do is trace a faint outline around the value. It stays in the realm of "I don't really get it, but it's just so wonderful!"&lt;/p&gt;
+
+&lt;p&gt;We used to name this kind of "value" art and fence it off separately, but it also belongs to the territory of "chic" and "cool." I don't understand it, but things are getting interesting around here!&lt;/p&gt;
+
+&lt;p&gt;◆An interview with you again today. No. 006: "What was the first lie you ever told, and the last one?" Jot it down, and if you feel like it, write it in an email and send it to us.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today, too.&lt;/p&gt;
+
+&lt;p&gt;We cherish what human beings feel, sense, and think.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#b1361273457e"/>
+    <link href="https://www.1101.com/"/>
+    <summary>While machines progress measurably through speed and efficiency, human value ultimately derives from ineffable qualities like beauty, charm, and meaning that resist quantification and remain fundamentally mysterious. The essay argues that these intangible human judgments—the "wonderful" that can't be put into words—are as essential to how we navigate the world as the numerical progress we celebrate.</summary>
+    <published>2026-08-10T04:27:28.367494+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#7e5dc8a9b868</id>
     <title>Keep saying that and you'll get stalked.</title>
@@ -835,28 +865,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author explores how our subjective perspective—how we interpret and feel about events—shapes our future more than the events themselves, and demonstrates this principle through successfully reframing his relationship with sleep by adopting a more accepting mindset rather than fighting against sleeplessness.</summary>
     <published>2026-07-12T05:55:28.261210+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#996580a07a20</id>
-    <title>What I'm thinking about on July 11th</title>
-    <updated>2026-07-11T05:38:20.242525+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I come to Kyoto around this time of year. It's become a kind of ritual, so here I am again. It has also come to feel like a signal that summer is beginning. For some reason, in this country, or perhaps just for me, summer is the season when I think most about the dead.&lt;/p&gt;
-
-&lt;p&gt;We remember the day a person was born. We call it a birthday. And then others remember the day that person died. That is called the anniversary of their death. It exists, I suppose, so that we won't forget that a life was lived. Every year, I find myself thinking, another new death-day has been added. A date that didn't exist while a person was alive is born the moment they die. Both birthdays and death-days remain until no one remembers them anymore, and once there's no one left to remember, they too disappear. You could say that every person carries two dates that are uniquely their own. As for me, I don't yet find myself wanting a death-day of my own, but I understand that one day I'll have one. "A good death-day," now there's a rather nice concept.&lt;/p&gt;
-
-&lt;p&gt;That reminds me, I got a letter from Kuma-chan, who passed away in April. No, he didn't come back to life to write it. Someone close to him, someone who was there on the day he died, sent me a letter that Kuma-chan had asked them to pass along. To put it simply, it read like an imagined conversation happening right then and there, something like, "Well, the time's finally come." When the moment truly arrived, when he thought, "So this is it," he must have decided, send that guy a letter. I felt grateful, receiving it.&lt;/p&gt;
-
-&lt;p&gt;We'd made plans for me to go see him around that time, but Kuma-chan's condition worsened and we had to postpone. Whether we'd managed to meet or not, I think it was a good death-day. I don't know whether everyone gets to have such a good death-day, but living with that intention seems like a fine thing. And come to think of it, even if a day was full of sorrow at the time, there are cases where you can remake it later into a good death-day.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today, too. Iwata-san, Sobu-chan, Kuma-chan, you may be dead, but you're still alive.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#996580a07a20"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on death and remembrance through the author's annual pilgrimage to Kyoto, exploring how the anniversaries of our deaths—like our birthdays—give structure to memory and allow us to honor those who have passed by living with intention and gratitude.</summary>
-    <published>2026-07-11T05:38:20.242525+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
