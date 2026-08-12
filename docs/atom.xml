@@ -2,13 +2,39 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-11T04:17:14.170306+00:00</updated>
+  <updated>2026-08-12T04:45:21.172764+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#86ac2b4de820</id>
+    <title>Looking back on 10 years, how was it?</title>
+    <updated>2026-08-12T04:45:02.918660+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;People used to say, "Ten years makes an age." I think it was meant to convey something like, "Once ten years have passed, it's already the distant past." That if you're still carrying the same feelings you had ten years ago, well, you're already behind the times.&lt;/p&gt;
+
+&lt;p&gt;And I often found there was a lot of truth in it. Setting childhood aside, ten years as an adult feels short. I'll find myself recalling something from five or six years ago as though it were just the other day. And yet, once ten years have gone by, all sorts of things have changed. That, I think, was the pace at which the times moved. It's only a vague sense, but we used to mark off the years in tens, dividing up the eras that way.&lt;/p&gt;
+
+&lt;p&gt;But in the IT world, ten years was far more than "an age." It moved at a speed where the word "dog years" felt entirely natural. Yes, and just as a dog of ten is well into its "senior" years, perhaps the information society is already a "senior" itself, grown old.&lt;/p&gt;
+
+&lt;p&gt;And when it comes to everything outside the world of information, ten years ago, twenty years ago, thirty years ago, it all looks like more or less the same era carrying on. Whether or not you want to call that "stagnation," I really don't mind either way. The bullet trains got a little faster, the department stores gave way to sprawling electronics chains, people stopped carrying cash around, and yet nothing much really changed. And as things stand, there's no one out there to speak of a ten-years-from-now that young people might actually feel hopeful about.&lt;/p&gt;
+
+&lt;p&gt;Once you've followed all this and thought, "Yes, that's exactly how it is," the question becomes what each of us, each of our own "we," actually wants to do. What we "like." What we think is "good." Asking ourselves, and each other, all over again, that's what feels so terribly important to me right now.&lt;/p&gt;
+
+&lt;p&gt;◆ No. 008: "Tell me about something from ten years ago." Thank you for thinking about it each day. Treasure that time. You could jot it down in your notebook, a secret for no one else to see. And if you feel like it, please write it in an email and send it my way.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. As for my own past ten years, more than anything, I suppose it's that my daughter had a daughter of her own.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#86ac2b4de820"/>
+    <link href="https://www.1101.com/"/>
+    <summary>While technological progress has accelerated dramatically over the past decade, the non-digital world has stagnated, leaving us without a hopeful vision for the future—and thus forced to reckon with what we individually value and desire. The essay suggests that in times of uncertainty, rediscovering our own authentic preferences and connecting with others about them becomes essential.</summary>
+    <published>2026-08-12T04:45:02.918660+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#551e842e08fe</id>
     <title>"Chiikawa" has few words but tons of facial expression.</title>
@@ -835,32 +861,6 @@
     <link href="https://www.1101.com/"/>
     <summary>A man reconnects with a casual acquaintance who has retreated to a mountain cabin in Japan, where he claims to employ three hundred commuting monkeys to perform intricate handwork in exchange for home-cooked meals. The essay blurs the line between whimsical fiction and reality, celebrating the eccentric and imaginative ways people reinvent their lives away from ordinary society.</summary>
     <published>2026-07-14T05:27:30.589076+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#93f7e6d39251</id>
-    <title>It's the sun we see every day, but...</title>
-    <updated>2026-07-13T06:14:36.857040+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Everyone knows about the sun. For us humans, isn't it the most famous thing there is? And why wouldn't it be? It's impossibly far away, yet we see its face every single day. Here in Japan, people call it "O-hisama," treating it with affection, with gratitude, even with reverence.&lt;/p&gt;
-
-&lt;p&gt;Thanks to the sun, or because of the sun, this and that keep happening, endlessly. Life itself was built on the energy the sun provides, and it's through our relationship with the sun that years and days exist at all. Since ancient times, no, perhaps even before human history, back in the days of our ape-like ancestors, the sun has surely been thought of as something special, an object of awe and worship.&lt;/p&gt;
-
-&lt;p&gt;These days we hear a lot about how long humanity can even remain on Earth, a growing sense of crisis about the future, and talk of whether or not we'll relocate to other planets. But there's a future far beyond even all of that.&lt;/p&gt;
-
-&lt;p&gt;Once you get this far, it becomes little more than a game played with numbers, but apparently, around five billion years from now, the hydrogen at the sun's core, the fuel for the nuclear fusion that makes it shine, will begin to run out, and the sun will swell dramatically into what's called a "red giant." It'll become a colossal star, roughly a hundred times its current size, and it will most likely swallow the Earth whole.&lt;/p&gt;
-
-&lt;p&gt;At that point, we can't exactly go on calling it "O-hisama" and taking it easy. Whether humanity flees or perishes hardly matters, because neither Earth nor Mars will be habitable at all. There's nothing to be done. True, it's so far off it's almost laughable. But the old saying that you shouldn't assume something will last forever applies to more than just your parents and your money. Looked at on a grand enough scale, even our eternity has its limits.&lt;/p&gt;
-
-&lt;p&gt;The sun formed, and then Earth formed after it, about 4.6 billion years ago. When roughly that same span of time has passed from now, both the sun as we know it and the Earth as we know it will meet their end. When you look up at the sun with even a little of that in mind, something almost like faith wells up inside you. After all, they say we humans are made of the very stuff of ancient stars.&lt;/p&gt;
-
-&lt;p&gt;Thank you for visiting Hobonichi again today. How to put it, I suppose I've got a bit of a soft spot for the sun. A real fan, you might say.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#93f7e6d39251"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on humanity's intimate dependence on the sun throughout history while contemplating the cosmic perspective that even our star and planet will eventually perish in billions of years, inspiring both gratitude and humility toward our finite existence.</summary>
-    <published>2026-07-13T06:14:36.857040+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
