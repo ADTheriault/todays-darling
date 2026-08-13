@@ -2,13 +2,37 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-12T04:45:21.172764+00:00</updated>
+  <updated>2026-08-13T04:48:50.307011+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#df60be30e622</id>
+    <title>I want to make life easier for everyone.</title>
+    <updated>2026-08-13T04:48:34.556876+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Even without deliberately deciding to live, we go on living quite naturally, don't we. And along the way, we naturally do things that make life "easier to live." Eating, for instance, makes life easier to live for us. If we didn't eat, life would become harder to live. The same goes for sleeping, or relieving ourselves. These are all important things we do to make ourselves "easier to live." And building an environment where we can reliably do such things, that too is a way of making life "easier to live."&lt;/p&gt;
+
+&lt;p&gt;Some people might think there's a bare minimum of this and that which is all you need in order to live. But in reality, even when the bare minimum is in place, life doesn't become "easier to live." Simply having the conditions met means you can "live," yes, but it doesn't make life any easier to live. After all, someone serving a sentence in a prison facility has their "living" guaranteed too, don't they. And yet, that alone is precisely what makes it a "punishment."&lt;/p&gt;
+
+&lt;p&gt;Being able to use convenient things makes life easier to live. Having money makes life easier to live. Hurting others makes life harder to live. Deceiving others makes life harder to live. Being kind to others makes life easier to live.&lt;/p&gt;
+
+&lt;p&gt;What is it that makes life easier to live, and what makes it harder to live? Sometimes something makes life harder to live for a while, and yet eventually it's the very thing that makes life easier to live. Perhaps all of us, day by day, are living our lives working our hardest to make them "easier to live."&lt;/p&gt;
+
+&lt;p&gt;◆On another note, here is today's question for you. No. 009: "What temperature do you like the room to be?" Answer however you please. Jot it down in your planner, and if you like, write it in an email and send it to us as well.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today too. Starting today, I'm off on a summer trip. Just three days or so, mind you.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#df60be30e622"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Life becomes truly livable not through meeting bare survival needs, but through access to comfort, kindness, and the things that ease our daily existence—a distinction between merely surviving and actually living well. The essay suggests we all instinctively strive each day to make life incrementally easier for ourselves and others, even if some struggles ultimately serve that same purpose.</summary>
+    <published>2026-08-13T04:48:34.556876+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#86ac2b4de820</id>
     <title>Looking back on 10 years, how was it?</title>
@@ -829,38 +853,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on how chronic health problems like dental disease are actually a luxury of civilization—a sign that we and our pets live long enough and safely enough to survive ailments that would kill wild animals, transforming our complaints about aging bodies into evidence of a remarkable achievement.</summary>
     <published>2026-07-15T05:28:23.886755+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#da2c4776f429</id>
-    <title>To you who have paused, a story about 300 monkeys.</title>
-    <updated>2026-07-14T05:27:30.589076+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;People you meet as an adult, there are many whose birthplace and upbringing you never come to know. If you met them through work, you can imagine a certain amount about their past, but some encounters happen closer to pure chance. H.H. was one of those acquaintances.&lt;/p&gt;
-
-&lt;p&gt;It wasn't as though we were especially close, but he was the sort of engaging, likable person everyone warms to. Roughly once every couple of years he'd turn up with some rare coffee from who-knows-where as a gift and fill me in on how he'd been, though for the past several years I'd heard nothing. He was also unreasonably good at karaoke.&lt;/p&gt;
-
-&lt;p&gt;About a year ago, he got in touch after a long silence. "Monkeys are truly wonderful." That, delivered with total absorption, was the sum of everything he had come to tell me.&lt;/p&gt;
-
-&lt;p&gt;Deep in the mountains of a certain place in Japan that everyone would recognize, H.H. owns an enormous mountain cabin. A giant mountain cabin sounds like a contradiction in terms, but apparently he'd put the building up intending it as a factory, so its size had a certain logic to it. And yet it wasn't a factory, it was a mountain cabin.&lt;/p&gt;
-
-&lt;p&gt;The thing is, in that cabin, he says he's doing important work. He's a bit vague about what the work actually is, but he insists it's "nothing bad, nothing that runs afoul of the law or morality." He also says it "varies quite a lot depending on the time of year, the season, and economic conditions," but it seems to be a matter of concentrated, fine handwork.&lt;/p&gt;
-
-&lt;p&gt;"The local monkeys do all of it for me."&lt;/p&gt;
-
-&lt;p&gt;They don't live there, but some three hundred monkeys, he says, commute to H.H.'s cabin. They work diligently and industriously, eat their supper, and go home. The menu is something H.H. cooks up with all his heart in an enormous pot, and the monkeys, he claims, come to this "factory" because they want to eat it. Can this be true? Is he really the president of a company employing three hundred monkeys?&lt;/p&gt;
-
-&lt;p&gt;"For work that's simple but requires patience," he says, "monkeys are better suited to it than humans." He even showed me a photograph of monkeys peeling chestnuts inside the giant cabin.&lt;/p&gt;
-
-&lt;p&gt;Having written this tall tale, I'm off to bed for the night.&lt;/p&gt;
-
-&lt;p&gt;Thank you again for coming to Hobonichi today. It's a daily thing, after all, so I have to find ways to keep myself from getting bored.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#da2c4776f429"/>
-    <link href="https://www.1101.com/"/>
-    <summary>A man reconnects with a casual acquaintance who has retreated to a mountain cabin in Japan, where he claims to employ three hundred commuting monkeys to perform intricate handwork in exchange for home-cooked meals. The essay blurs the line between whimsical fiction and reality, celebrating the eccentric and imaginative ways people reinvent their lives away from ordinary society.</summary>
-    <published>2026-07-14T05:27:30.589076+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
