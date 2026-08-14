@@ -2,13 +2,39 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-13T04:48:50.307011+00:00</updated>
+  <updated>2026-08-14T04:46:27.620081+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#ba370bc8cf3f</id>
+    <title>Is it okay to just be vaguely happy?</title>
+    <updated>2026-08-14T04:46:08.228709+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've been thinking about how to spend what people call the "Obon holiday," and I've come to a certain place. Both my wife and I have lost our parents, so neither of us has a family home to return to anymore. In a sense, I'm the family home now. People like us are free to spend Obon wherever we please. Then again, there's no need to make such a grand thing of it.&lt;/p&gt;
+
+&lt;p&gt;There's that expression, "this town is my second home," and it occurred to me how fortunate it would be to actually have such a place. And when I came here, I realized, ah, it isn't as though I don't have one. It's not that there's anything special here (which is a rude way to put it), but something about it, it just puts me at ease. There's no sightseeing to speak of. I move about a little, eat a meal at that one restaurant, catch sight of that one person's face, and that's about it.&lt;/p&gt;
+
+&lt;p&gt;The inn has a hot spring, so of course I'll be soaking in it. We arrived, greeted the people who invited us, shared a meal, and already I'm content. There's nothing else I need to do. Tomorrow there's a little "tourist spot" we'll drop by, but it's nothing to get worked up over. If it turns out nice, well, that's nice, and that's all there is to it.&lt;/p&gt;
+
+&lt;p&gt;We're here with my daughter's family, which of course means my daughter's daughter is here too. Ever since we were on the bullet train, I'd been sneaking glances at my granddaughter in the seat behind us, thoroughly enjoying myself. It was a bit like watching Panchan at the Ichikawa zoo. Just observing her is entertaining in itself. Forgive me, sweetheart, you're already thinking all sorts of grown-up thoughts, and here I am treating you like a child, comparing you to a little monkey.&lt;/p&gt;
+
+&lt;p&gt;Naturally, the conversation turns to "Chiikawa" as well. Of everyone gathered here, the two who know it best are this seven-year-old girl and me, at seventy-seven. Across a seventy-year gap in age, a proper Chiikawa discussion takes place. How good it is that this movie came out during the summer holidays. And how good it is that this town, my "second home," exists.&lt;/p&gt;
+
+&lt;p&gt;◆ There's no right answer, and the time spent thinking it over becomes a precious memory in itself. This is no.010, "What are your memories of your father?" Whether he's still here or gone, whether you loved him or didn't, anything at all. If you feel like it, write it down and send it to us by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for stopping by Hobonichi today. I love Tokyo dearly, but one way or another, it really is far too cramped!&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#ba370bc8cf3f"/>
+    <link href="https://www.1101.com/"/>
+    <summary>As parents age and pass away, the concept of "home" shifts from a place to return to into something we carry with us—found in the simple comfort of familiar towns, shared meals, and meaningful moments with loved ones across generations.</summary>
+    <published>2026-08-14T04:46:08.228709+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#df60be30e622</id>
     <title>I want to make life easier for everyone.</title>
@@ -825,34 +851,6 @@
     <link href="https://www.1101.com/"/>
     <summary>A chance encounter with a business book revealed a transformative idea: that the true purpose of any work is not merely to compete for existing customers, but to create new ones—a principle that remains timeless and universally applicable, from business to art to life itself.</summary>
     <published>2026-07-16T05:37:43.907446+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#c6caa0be00c0</id>
-    <title>Idle musings that started with a dog's teeth</title>
-    <updated>2026-07-15T05:28:23.886755+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;My dog Buiko doesn't mind having her teeth brushed. Maybe she actually hates it, but she puts up with it. So every day she gets a good brushing. And the one doing the brushing, my boss around the house, does it often and does it well.&lt;/p&gt;
-
-&lt;p&gt;Even so, plaque builds up, and she still gets cavities and gum disease. Our previous dog, Bouillon, was the same breed, but might have had slightly tougher teeth. If I recall, we did have her plaque removed under general anesthesia, but I think we brushed her teeth a little less often. Buiko gets far better dental care, yet the number of teeth pulled because of cavities or gum disease is higher for her.&lt;/p&gt;
-
-&lt;p&gt;Animals don't brush their own teeth. The most they do is chew on something hard now and then. But does that mean they never get cavities? Of course they do. I imagine there are plenty of animals out there with cavities and gum disease.&lt;/p&gt;
-
-&lt;p&gt;Long ago, elderly humans lost a lot of teeth too. Dentures were a common joke in manga and the like, but in an era when dentures were a luxury, the teeth must have simply stayed gone.&lt;/p&gt;
-
-&lt;p&gt;I haven't asked any AI about this, so I'm just going on instinct, but dinosaurs and all the other animals must have had bad teeth. Although writing it out like that, I'm starting to lose confidence. I suspect they just didn't live long enough for their teeth to fall out.&lt;/p&gt;
-
-&lt;p&gt;For creatures in the wild, a single injury or a single illness makes the rest of life hard to survive, so they probably don't make it to the next injury or illness. It seems unlikely there's a pack that keeps nursing a tiger that can no longer move. And when the group moves on to the next place, no one's going to carry it. In the natural world, it's less a case of "one ailment keeps you healthy" and more "one ailment and you're dead."&lt;/p&gt;
-
-&lt;p&gt;When you think about it, a dog that lives long enough for its teeth to go bad is, after all, a dog that's part of human society. And for us humans, being able to grumble about our health, "this hurts, that's giving out," is itself proof that we're alive. To be able to live while patching ourselves up as we go, now that's an amazing civilization.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. Patching up here, papering over there, I'm doing just fine myself.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#c6caa0be00c0"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on how chronic health problems like dental disease are actually a luxury of civilization—a sign that we and our pets live long enough and safely enough to survive ailments that would kill wild animals, transforming our complaints about aging bodies into evidence of a remarkable achievement.</summary>
-    <published>2026-07-15T05:28:23.886755+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
