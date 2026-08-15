@@ -2,13 +2,45 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-14T04:46:27.620081+00:00</updated>
+  <updated>2026-08-15T03:36:12.356989+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#f8cc0555411b</id>
+    <title>Because there should be plenty of "subjectivity," too.</title>
+    <updated>2026-08-15T03:35:52.372790+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I suspect that, for a while now, I'll be thinking and writing more and more about this one thing. It's the matter of "subjectivity."&lt;/p&gt;
+
+&lt;p&gt;Every day lately, as an ongoing series of "interviews with readers," I've been tossing out all sorts of questions. What I'm asking about always has something to do with that person's own subjective experience.&lt;/p&gt;
+
+&lt;p&gt;Well, to give an example: once I finish writing this piece today, I'll ask, "When was the last time you said goodbye?" Everyone, I imagine, says goodbye quite casually. An answer like "Oh, I just said it to so-and-so a moment ago" is perfectly fine. Some people might recall, "Come to think of it, I rarely go out of my way to actually say goodbye." And there may be someone who thinks, "It's not the goodbyes I've said that I remember, but the ones said to me." In other words, you picture something that actually happened to you.&lt;/p&gt;
+
+&lt;p&gt;And then, when you're specifically asked about it, you wonder which one to answer with, or you think, this one came to mind but I'll keep it to myself. You take something only you know, weigh it for yourself, and write it down for your own sake, or send it off in an email. There's no correct answer, it isn't a survey. You just think about what you thought, and jot it down. What lies at the root of it all is the memory of the life you've lived.&lt;/p&gt;
+
+&lt;p&gt;It's simple. Anyone who tries can do it, shallowly or deeply as they like. Slipping away from the question entirely is your own prerogative too. All you have to do is think and write, just as your subjectivity leads you.&lt;/p&gt;
+
+&lt;p&gt;But this is something "AI" cannot do. On the level of text, it may go through the exchange of saying "goodbye," but it's only saying it in a scene where "goodbye" is called for. It doesn't say goodbye because it wants to say goodbye. It's reproducing the form in which humans do these things.&lt;/p&gt;
+
+&lt;p&gt;As the situations where subjectivity is hard to voice keep multiplying, subjectivity turns to mist and slips out of sight. I want us to hold on more firmly to the fact that subjectivity exists. You, the person you are, are a you who possesses a subjectivity belonging to no one else.&lt;/p&gt;
+
+&lt;p&gt;◆So, yes. It's no. 011, "When was the last time you said goodbye?" Shall we take even just five minutes to remember, and give it some thought? If you'd like, please write it in an email and send it my way.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
+
+&lt;p&gt;Professor Ikujiro Nonaka once said that what you write in the Hobonichi Techo is your subjectivity.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#f8cc0555411b"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that subjectivity—our unique personal experiences and inner thoughts—is fundamentally human and irreplaceable, something AI can only imitate through form rather than genuine experience, and calls readers to actively preserve and articulate their own subjectivity through reflection and writing.</summary>
+    <published>2026-08-15T03:35:52.372790+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#ba370bc8cf3f</id>
     <title>Is it okay to just be vaguely happy?</title>
@@ -817,40 +849,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reveals that mundane, effortless activities like bathing, haircuts, or walks paradoxically free the mind for creative thinking by fulfilling basic self-care needs, allowing deeper mental work to flourish with ease. By securing something simple and productive first, we create the psychological comfort necessary for tackling more difficult or creative challenges.</summary>
     <published>2026-07-17T05:40:38.398665+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#e4b9a152bd50</id>
-    <title>Remembering "creating customers" once again.</title>
-    <updated>2026-07-16T05:37:43.907446+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;It was a quarter of a century ago now. I would stuff a bag full of mystery novels and go spend the New Year's holiday on Bali. Poolside, in my room, in the little pavilion out in the garden, for five whole days I did nothing but read. I kept this up for several years running.&lt;/p&gt;
-
-&lt;p&gt;But one year, for reasons I no longer recall, a business book by Drucker had found its way in among the mysteries. I'd chosen it and packed it myself, of course, but only in the spirit of "maybe I'll give this a quick look," nothing more.&lt;/p&gt;
-
-&lt;p&gt;I started reading it in that same casual mood, in between my usual, familiar mysteries, and wouldn't you know it, the thing turned out to be more interesting than the mysteries. I found myself not even wanting to put it down at mealtimes.&lt;/p&gt;
-
-&lt;p&gt;Looking back on it now, I couldn't tell you what exactly I understood, or what I took away from it. These days I can only guess at what I was feeling back then. But there is one line I have always remembered, one I still bring up in conversation.&lt;/p&gt;
-
-&lt;p&gt;"There is only one valid definition of business purpose: to create a customer."&lt;/p&gt;
-
-&lt;p&gt;There is only one valid definition of business purpose: to create a customer.&lt;/p&gt;
-
-&lt;p&gt;"Creating a customer." It stays interesting even if you phrase it a little differently. "Bringing a market into being." "Can you win someone's loyal patronage?" "Can you create a customer who wasn't there before?"&lt;/p&gt;
-
-&lt;p&gt;It doesn't have to be some intensely businesslike business, either. You could say the same thing to someone doing comedy. Rather than fighting over customers, you bring customers into existence. And that means a new relationship beginning, and beyond that, it means new sources of enjoyment multiplying.&lt;/p&gt;
-
-&lt;p&gt;I used to think of work as something rather dangerous, the sort of thing captured in old sayings like "the moment a man steps outside, he has seven enemies" or "sharp enough to steal the eye from a galloping horse." But "creating a customer," now that sounds like it could be fun.&lt;/p&gt;
-
-&lt;p&gt;The times are one long succession of turning points, large and small. Yet however things change, I don't think "creating a customer" ever will. Even with the storm of AI looming right there in front of us, the work remains the same: creating a customer.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. Even to an amateur like me who knows nothing about management, this felt like something I could truly understand.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#e4b9a152bd50"/>
-    <link href="https://www.1101.com/"/>
-    <summary>A chance encounter with a business book revealed a transformative idea: that the true purpose of any work is not merely to compete for existing customers, but to create new ones—a principle that remains timeless and universally applicable, from business to art to life itself.</summary>
-    <published>2026-07-16T05:37:43.907446+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
