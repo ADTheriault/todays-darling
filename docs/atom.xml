@@ -2,13 +2,47 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-17T03:47:16.109660+00:00</updated>
+  <updated>2026-08-18T03:41:48.281980+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#78880161ba10</id>
+    <title>Is a world full of optimal solutions really okay?</title>
+    <updated>2026-08-18T03:41:27.555314+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When you're about to start something, when you first begin turning it over in your mind, even if you have "no idea where to begin," I think that's actually pretty normal. You fumble around, this isn't it, that isn't it, what do I do? Was there a hint somewhere? Now I've lost the thread entirely... That's the kind of thing everyone has always done.&lt;/p&gt;
+
+&lt;p&gt;If it's a problem with a clear answer, someone practiced at solving them can rattle it off, sure. But most of the things we mull over in this world have answers that are vague at best. More than that, often we can't even properly make out what the problem is.&lt;/p&gt;
+
+&lt;p&gt;And yet, these days, if you just ask an "AI," it'll whip up the "optimal solution" for you in no time.&lt;/p&gt;
+
+&lt;p&gt;Someone I know, a person quite at home in life abroad, apparently traveled to a foreign country for the first time over the summer holidays. Up until now, the way they'd do it was this: for that first night's restaurant, you'd ask the guidebook or the hotel and have a safe, reliable meal. Then the next day you'd wander through the streets and happen to duck into some little place where the locals were lining up. That was the sort of rhythm of it.&lt;/p&gt;
+
+&lt;p&gt;But now, apparently, you can't help asking the "AI." The moment you arrive, it'll tell you about the kind of place "where the locals line up," the sort of spot you'd normally only stumble onto by luck. Delicious, pleasant, a flawless "optimal solution."&lt;/p&gt;
+
+&lt;p&gt;And this is wonderful, of course it is, it was a good thing. But still, they said, a thought crossed their mind.&lt;/p&gt;
+
+&lt;p&gt;If you keep chasing after these "optimal solutions" that the "AI" hands you, one after another, aren't you turning into "a person who's just following instructions"? A human being becomes an "automatic device" that "processes" "optimal solutions." Honestly, I get the feeling we're already halfway there.&lt;/p&gt;
+
+&lt;p&gt;Isn't there supposed to be more to living than that? Even if the "optimal solution" really is the optimal answer.&lt;/p&gt;
+
+&lt;p&gt;◆Today is no.014, "Is there a song you love?" Whether there is one or not, it's fine even just to pause and think, now that you mention it. And if you feel like it, write it in an email and send it our way.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
+
+&lt;p&gt;The fact that "I did it because I wanted to" is becoming something precious.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#78880161ba10"/>
+    <link href="https://www.1101.com/"/>
+    <summary>As AI increasingly provides perfect "optimal solutions" to our problems, we risk becoming passive followers of instructions rather than active participants in our own lives, losing the meaningful struggle and serendipity that make human experience valuable. The essay suggests that the quality of living lies not in achieving the best outcome, but in the genuine desire and personal agency we exercise in the process.</summary>
+    <published>2026-08-18T03:41:27.555314+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#2a15f3b76140</id>
     <title>A cry from the heart: "Don't underestimate me!"</title>
@@ -817,42 +851,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The narrator challenges social conventions about when and what one should eat, arguing that appetite and enjoyment, rather than time of day or circumstance, should dictate food choices. Though willing to accommodate others' expectations, they ultimately believe that eating what genuinely satisfies you—whether ramen at breakfast or sushi with a fever—is perfectly reasonable.</summary>
     <published>2026-07-20T06:15:34.457287+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#1201e03e56f0</id>
-    <title>In praise of beanbags</title>
-    <updated>2026-07-19T05:49:45.677060+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Because I have my doubts about my own strength of character, let me get ahead of myself and offer up something that sounds like a comedy duo's stage name: "Easier Said Than Done." That said, honestly, more than I expected, this whole business of juggling beanbags is wonderful.&lt;/p&gt;
-
-&lt;p&gt;What I really want to master is the three-beanbag technique they call the "cascade," but rather than reaching for something that extravagant, even with one bag or two, once you simply start doing something, anything, you realize right away just how remarkable it is.&lt;/p&gt;
-
-&lt;p&gt;Off the top of my head, here are the benefits. One, your gaze lifts upward. Two, naturally, your field of vision widens. Three, the muscles and nerves in your arms come alive. Four, your fingertips get to work. Five, you exercise your left hand, which usually goes dull from disuse. Six, your shoulder blades start moving properly. That sort of thing comes to mind.&lt;/p&gt;
-
-&lt;p&gt;The day after practicing a little too enthusiastically, I actually had quite a bit of muscle soreness. It seems to have worked those so-called inner muscles too.&lt;/p&gt;
-
-&lt;p&gt;If you think a bit more deeply about the benefits, the fact that you're "using the predicting part of the brain" is probably significant as well. When you juggle, you're moving your hands by anticipating the next instant. You can tell this is true from how tired it makes your nerves, or your brain, or whatever it is.&lt;/p&gt;
-
-&lt;p&gt;Beyond that, the fact that it feels "pretty difficult, but like something I can actually do" is very convenient. If a "problem set" is like this, both beginners and veterans can play with it. That, I think, is why it's easy to keep practicing without giving up.&lt;/p&gt;
-
-&lt;p&gt;You can do it in almost any spare moment, in almost any place, and it has hardly any of the dangerous elements that come with sports. And there's no set order to thinking about it and trying it out.&lt;/p&gt;
-
-&lt;p&gt;Ordinarily, our lives are spent with heads bowed and backs hunched, sitting in a chair, staring fixedly at a narrow little display. We barely move anything except our eyes and fingertips. Juggling beanbags is probably the exact opposite of all that.&lt;/p&gt;
-
-&lt;p&gt;Incidentally, my own set of tools was five bags for under a thousand yen. So there you have it, my report on the all-around wonders of the humble beanbag. ♫&lt;/p&gt;
-
-&lt;p&gt;Then again, there's a version of me who can't stick with something even when it's obviously good for him. There's a not-insignificant chance I'll have completely forgotten about it a week from now.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today, too.&lt;/p&gt;
-
-&lt;p&gt;Juggling really is the finest hobby an ordinary person could ask for.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#1201e03e56f0"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay celebrates juggling beanbags as a remarkably simple yet comprehensive physical and mental practice that counters our sedentary, screen-focused lives by engaging the whole body, sharpening the mind, and remaining accessible to anyone regardless of skill level. Though the author acknowledges his tendency to abandon hobbies, he maintains that juggling's ease, affordability, and profound benefits make it an ideal pursuit for ordinary people.</summary>
-    <published>2026-07-19T05:49:45.677060+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
