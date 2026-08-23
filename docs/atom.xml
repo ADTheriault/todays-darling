@@ -2,13 +2,39 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-22T03:38:51.920147+00:00</updated>
+  <updated>2026-08-23T03:47:51.846678+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#2bbcd46d722f</id>
+    <title>On prose and the act of writing</title>
+    <updated>2026-08-23T03:47:33.519192+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Specifications, instruction manuals, work memos, the so-called "practical texts" of the world, all aim to convey what needs conveying as accurately as possible. "September 1st (Tuesday) is finally the release date for the Hobonichi Techo 2027," that sort of thing belongs to this category. If anything, that one word, "finally," carries just a little bit of "the feelings of the person who wrote it."&lt;/p&gt;
+
+&lt;p&gt;Not everything written in the world is a practical text. There are things that hold the "self" of the writer. You don't need to strike a grand pose and call it "literature." Just as most ordinary chatter does, it's simply something a person wants to say, expressed toward another person. Even "Man, I'm sad" is a form of self-expression.&lt;/p&gt;
+
+&lt;p&gt;"I want everyone in the world to understand" is impossible. But then again, "it's fine if only the people who get it get it" won't do either.&lt;/p&gt;
+
+&lt;p&gt;Being understood is a bit like a prize, and as you keep winning prizes, your writing gets better. But then, that leads to a new problem, because you start writing with the prize in mind. Honestly, I suspect the best thing would be to stop worrying about it, about understanding or being understood.&lt;/p&gt;
+
+&lt;p&gt;To put it very crudely, writing can be divided into two kinds: the "instruction manual" and the "song." Every piece of writing is a blend of the two. What I'm writing right now is one such blend, and this thing I've been going on about lately, "subjectivity," belongs to the "song" side of things. Take it away, and everything turns into nothing but instruction manuals.&lt;/p&gt;
+
+&lt;p&gt;◆ The daily interviews. I read tons of them every day, you know. So today, here's this one. No. 019, "Where were you born?" It's a question I have no memory of myself, but how about it? If you'd like, write it in an email and send it my way.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. The times we're born and the times we die, those are the things we ourselves never get to know.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#2bbcd46d722f"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Writing exists on a spectrum between purely practical communication and personal self-expression ("instruction manual" versus "song"), and the most meaningful writing balances both rather than obsessing over whether others will understand it.</summary>
+    <published>2026-08-23T03:47:33.519192+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#b85e55efc453</id>
     <title>Thinking about things that don't become new.</title>
@@ -827,32 +853,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The narrator argues that eating messy, generously-filled foods like cream puffs and burgers requires "inhaling" or sucking rather than biting, a practical technique born from modern abundance that others seem to overlook. It's a humorous defense of an unconventional eating habit that the author insists is simply the logical solution to the inevitable mess of contemporary indulgent foods.</summary>
     <published>2026-07-25T05:41:07.512544+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#3fc2c4d47f3d</id>
-    <title>Continuing from yesterday. About my favorite foods. A thank-you.</title>
-    <updated>2026-07-24T05:48:30.071018+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;First of all, thank you all for your help.&lt;/p&gt;
-
-&lt;p&gt;Yesterday, right here, I put out a call: "Please send me an email about your favorite foods." What are your own favorite foods? Pick just three and write them down and send them to me. I asked with the feeling of running a little experiment, curious how many replies would come. These days, after all, emails have grown so rare.&lt;/p&gt;
-
-&lt;p&gt;But maybe it was because I'd written, a bit forlornly, "I usually only get about three," or maybe everyone poured in a little wish to cheer me on, because this time about a hundred times the usual number of emails arrived. Many people wrote, "I read you all the time." Honestly, that made me so happy. I'm the sort who takes real joy in that kind of thing.&lt;/p&gt;
-
-&lt;p&gt;And then, on top of all that, the contents turned out to be fascinating! One person, subjectivity on full display, declares "this is what I love." And they weigh which three to choose. Of course there are foods that everyone can imagine, but because this wasn't a multiple-choice survey, the answers were truly all over the place, full of individuality. Since these were the three that survived after dropping the fourth and fifth candidates, you can faintly sense the traces of someone turning it over in their mind. What you get is to stand there and let "the human heart," that thing that can't be tidily summed up, wash over you like a shower, just as it is.&lt;/p&gt;
-
-&lt;p&gt;"What is it that I actually love?" It strikes me that we don't often get the chance to ask ourselves that question. Maybe it's because no one asks us, or maybe it's because we simply don't think about it. But asking yourself questions of your own is, I think, something well worth doing more and more. There's a question, you want to answer it, so you start to think, to remember. And right there, your very self (none other than you) rises up like a hologram.&lt;/p&gt;
-
-&lt;p&gt;What first gave me the idea to try this was my daughter, who had written out a whole list of her own daughter's "favorite foods" in her Hobonichi Techo. And her daughter herself had added "croquette" there in her own handwriting. That page, with its row of favorite foods, looked to me like "this child's self-portrait."&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. Today I'm heading out toward Iga. I'll be taking my parasol along.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#3fc2c4d47f3d"/>
-    <link href="https://www.1101.com/"/>
-    <summary>By asking readers to share their three favorite foods, the author discovered that such personal reflections reveal something profound about identity—each person's unique choices, made after careful consideration, create an intimate portrait of the self that cannot be reduced to statistics or categories.</summary>
-    <published>2026-07-24T05:48:30.071018+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
