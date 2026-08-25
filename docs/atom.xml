@@ -2,13 +2,39 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-24T03:52:36.784551+00:00</updated>
+  <updated>2026-08-25T03:46:06.037803+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#9a93e816a38a</id>
+    <title>I haven't given up on my "Chiikawa calligraphy"</title>
+    <updated>2026-08-25T03:45:47.174689+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've never been any good at lessons, the kind you practice at. I've given up on so many of them over the years. I don't know why exactly, but they genuinely wear me down. Memorizing the steps, the lines, the choreography, I just can't do it. When I was young I thought this was something I ought to overcome, but now I'm thoroughly grown up, and once I started doing things as part of a team, we realized it was better to divide the work by what each person was good at rather than forcing yourself through what you weren't. So I threw myself into the things I was good at, and left the things I struggled with to other people.&lt;/p&gt;
+
+&lt;p&gt;I assumed I'd just keep going that way. But lately I've been earnestly doing the very thing I was always bad at. It's called rinsho: you look at a model and reproduce the flow of the brush. It's a practice repeated endlessly in the world of calligraphy. The other day I started my own version, "Chiikawa rinsho." I copy the characters that the creator, Nagano-san, draws.&lt;/p&gt;
+
+&lt;p&gt;With what motion of the brush, in what shape, in what position, at what size is this little one drawn? When I move my hand trying to draw it the same way, little by little, some things start to come clear. And if I can get the technique into my hands, I should be able to draw something close to a real "Chiikawa."&lt;/p&gt;
+
+&lt;p&gt;The original manga is drawn by hand by Nagano-sensei, but so much of it has been adapted into animation as secondary work that there must be some "rule" governing these shapes made of lines and dots. The animators have mastered it, which is how they can both reproduce the original art and make it move. In a sense it's different from the original drawings, and yet within the range that satisfies the viewer, it is more than sufficiently "Chiikawa."&lt;/p&gt;
+
+&lt;p&gt;I don't need to get all that good at it. But I'd love to draw a "Chiikawa" that seems to have just welled up onto the sketchbook page on its own. I hope I can get that far. I do a little rinsho every day, but the road looks long.&lt;/p&gt;
+
+&lt;p&gt;◆ And now, question no. 021: "Have you ever had a fight with someone?" Think back, and if you feel like it, write it up in an email and send it over.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. The things that look like anyone could do them are exactly the ones that turn out to be so hard.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#9a93e816a38a"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author discovers that by practicing calligraphy through patient, daily imitation of a beloved character's style, they're finally embracing the very kind of disciplined learning they once avoided—finding that mastering fundamentals, no matter how tedious, can unlock genuine creative ability.</summary>
+    <published>2026-08-25T03:45:47.174689+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#dcbea658ea8c</id>
     <title>On August 24th, a day that seems like nothing special.</title>
@@ -821,44 +847,6 @@
     <link href="https://www.1101.com/"/>
     <summary>"Chiikawa" functions as a modern Japanese myth that seamlessly blends everyday mundane elements with deeper complexity and strangeness, creating a work that simultaneously offers innocent fun and profound meaning for audiences of all ages.</summary>
     <published>2026-07-27T06:27:11.832190+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#db33ffb3bb00</id>
-    <title>To those of us on the verge of losing our sense of self</title>
-    <updated>2026-07-26T05:59:27.915488+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;These days, I keep coming back to the idea of "subjectivity."&lt;/p&gt;
-
-&lt;p&gt;The other day, when I asked people about their favorite foods, it was because that's a question you can answer by letting your subjectivity run free.&lt;/p&gt;
-
-&lt;p&gt;In today's society, whenever we're asked about something, we tend to answer with a kind of "objective-sounding tidiness," saying things like "well, it could be this way, but then again it could be that way."&lt;/p&gt;
-
-&lt;p&gt;To put it half-jokingly, here's what I mean. "It keeps raining and I hate it" is subjectivity. But then, that same subjectivity, complaining about the rain, might land badly on someone from a region struggling with drought, where the reservoirs have run dry. That thought comes creeping in. And since I don't particularly want to voice my feelings about the rain badly enough to make others uncomfortable, I decide not to put out my subjective "I hate the rain."&lt;/p&gt;
-
-&lt;p&gt;And so I end up writing something with the subjectivity stripped away, like: "It keeps raining, and while some people wish it would stop, there are also people troubled by the lack of rain."&lt;/p&gt;
-
-&lt;p&gt;Repeat this enough times, and little by little, speaking without any subjectivity becomes a habit, and eventually you start living your life so as not to hold any subjectivity at all.&lt;/p&gt;
-
-&lt;p&gt;Even something like "I'm feeling great, my food tastes delicious" might make you hold back, thinking, "If someone who has no energy and no appetite hears this, it might hurt them, so maybe I shouldn't say it." Nobody wants to be hurt, and nobody wants to hurt others.&lt;/p&gt;
-
-&lt;p&gt;So we're all practicing, steadily, how to erase our subjectivity (and honestly, I'll admit it, I've become that way too).&lt;/p&gt;
-
-&lt;p&gt;But more than just saying that subjectivity matters, I've come to feel that subjectivity is the person, and that living is nothing more than the accumulation of subjectivity.&lt;/p&gt;
-
-&lt;p&gt;There's that famous opening passage from Natsume Soseki's &lt;em&gt;Kusamakura&lt;/em&gt;: "Work by reason, and you grow edges. Push off with emotion, and you're swept away. Insist on your own will, and you feel confined. One way or another, the world of people is a hard place to live."&lt;/p&gt;
-
-&lt;p&gt;It's subjectivity that grows the edges, gets swept away, and feels confined. Subjectivity collides with things, gets lost, runs into trouble.&lt;/p&gt;
-
-&lt;p&gt;For now, maybe I'll just quietly jot my subjectivity down in a notebook.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. This wasn't written as an advertisement for the Hobonichi Techo, mind you.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#db33ffb3bb00"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author argues that modern society pressures us to suppress our authentic subjectivity in order to avoid offending others, yet paradoxically, our subjectivity—our personal feelings and perspectives—is what makes us human and gives life meaning. Rather than erasing ourselves for comfort, the author suggests quietly preserving our genuine thoughts, perhaps through writing.</summary>
-    <published>2026-07-26T05:59:27.915488+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
