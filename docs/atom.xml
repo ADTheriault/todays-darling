@@ -2,13 +2,47 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-30T08:54:51.453461+00:00</updated>
+  <updated>2026-08-31T09:19:14.207872+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#ee462df7ed99</id>
+    <title>Things I'm really bad at.</title>
+    <updated>2026-08-31T09:18:55.770625+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There's such a thing as "the correct form."&lt;/p&gt;
+
+&lt;p&gt;When you visit a shrine, it's two bows, two claps, one more bow, wasn't it? Even now I can't properly remember where and how you're supposed to do the bows and the final bow.&lt;/p&gt;
+
+&lt;p&gt;The same goes for offering incense at a funeral. Which way to face, whom to bow to, what exactly to do. I've done it countless times, and still I don't understand it. I forget what the "correct form" is even supposed to be.&lt;/p&gt;
+
+&lt;p&gt;It's not as though anyone's going to scold me for it, but I do wish I could manage it in the "correct form," just like everyone else. And yet I never have the slightest confidence that I actually can.&lt;/p&gt;
+
+&lt;p&gt;Whether it's paying respects at a shrine or offering incense, I think what matters is the reverence, toward the enshrined gods or the buddhas, toward the person who has passed away. But the moment I'm in a situation where the "correct form" is fixed and prescribed, my heart goes somewhere else entirely.&lt;/p&gt;
+
+&lt;p&gt;I have a feeling this is something I'll carry with me my whole life, never cured. I even suspect I'll manage to bungle something at my own funeral.&lt;/p&gt;
+
+&lt;p&gt;When you try to live by drawing closer to the "correct form," you end up asking, "How does everyone else do it?" You look into things like "What's the general practice?" and "What's the going standard?" and "What's the way to do it without embarrassing yourself?" and then you move yourself to fit the answers. Which means your will, your confidence, your judgment, all of it, just disappears.&lt;/p&gt;
+
+&lt;p&gt;Lately, watching the people of the world, I notice there are an awful lot of them living their lives with the "correct form" as their axis. When that happens, "the way that can't go wrong" becomes the best option. And so, well, everyone ends up doing their version of two bows, two claps, one bow, and somehow it all feels like "job done."&lt;/p&gt;
+
+&lt;p&gt;Let's get back to remembering what actually matters. Being like me, losing myself at weddings and funerals and every ceremonial occasion, that won't do.&lt;/p&gt;
+
+&lt;p&gt;◆So here's question no. 027: "When are the times you feel most like yourself?" What sort of moment is it, what sort of scene? Try picturing it. If you feel like it, write it in an email and send it my way.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. My dread of "procedure" and "the correct form" really is something terrible.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#ee462df7ed99"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author explores how rigidly adhering to prescribed "correct forms" in rituals and social conventions causes us to lose sight of what truly matters—genuine reverence and authenticity—and paradoxically disconnects us from ourselves. By prioritizing external correctness over inner intention, we surrender our will and judgment, ultimately performing life rather than living it.</summary>
+    <published>2026-08-31T09:18:55.770625+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#1966d292de77</id>
     <title>On the eyes of the Chiikawa characters, and such.</title>
@@ -827,32 +861,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on how we only truly understand our parents' actions and sacrifices when we become parents ourselves, revealing that what seemed like simple duties or rules were actually expressions of love and a desire to be close to their children.</summary>
     <published>2026-08-02T05:54:40.549416+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#a3a1233d82ba</id>
-    <title>The real problem you want to solve isn't that one.</title>
-    <updated>2026-08-01T05:52:53.574568+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Since this is something I've experienced myself, I can't really speak too harshly about it. But at a certain point in my life, I came to understand this: "When a person is caught up in something to an abnormal, almost obsessive degree, the thing they truly need to resolve is probably something else entirely."&lt;/p&gt;
-
-&lt;p&gt;The things a person really wants to resolve, I think, aren't all that many. Relationships close to home, like family or a lover. Social relationships tied to one's pride, like work not going well. Concrete financial troubles, like debt. These are the kinds of things that, if you seriously set out to deal with them, demand a considerable amount of resolve. Getting angry won't help. Grieving won't help. It's hard to find your way to a solution. And even if there's someone willing to lend a hand, the one who has to push through the pain and keep going is you.&lt;/p&gt;
-
-&lt;p&gt;"Being fanatically absorbed in something" is a state that radiates energy, and the sight of someone earnestly devoted to a task can look, somehow, like a deeply convincing way to live. So I completely understand throwing yourself into it. And because you're doing it so earnestly, so passionately, it becomes: "I don't have time for anything else."&lt;/p&gt;
-
-&lt;p&gt;This is exactly the point. That "anything else" is precisely where "the thing you truly wanted to resolve" was supposed to be all along.&lt;/p&gt;
-
-&lt;p&gt;At a certain point, I looked back on my own past self and understood, in hindsight, that this is how it works. The personal, "inner" problems you have to resolve yourself, you try to forget them by placing importance on "outer" problems instead. For lack of a better term, I've come to call this "the externalization of a problem."&lt;/p&gt;
-
-&lt;p&gt;Beyond the realm of comfort, entertainment, or play, people pour in their anger, their sorrow, even their health, and sink completely into it. Cases like this, I think, are only increasing in these times.&lt;/p&gt;
-
-&lt;p&gt;Thank you again for coming to Hobonichi today. Though I myself used to get called a "fanatical Giants fan."&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#a3a1233d82ba"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay argues that obsessive absorption in external pursuits often masks unresolved personal problems—relationships, work, finances—that we unconsciously avoid by channeling our energy into something that feels productive but ultimately distracts us from what we truly need to face.</summary>
-    <published>2026-08-01T05:52:53.574568+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
