@@ -2,13 +2,41 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-08-31T09:19:14.207872+00:00</updated>
+  <updated>2026-09-01T08:17:37.071242+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#4c67fe8b82e4</id>
+    <title>Not precious merely because it is deep.</title>
+    <updated>2026-09-01T08:17:17.602771+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;This is really just a passing thought, so I'd like you to read it as nothing more than an "image."&lt;/p&gt;
+
+&lt;p&gt;People love to talk about things being deep or shallow. And whenever they do, the general assumption is that deep is good. It's not quite that shallow is bad, but shallow carries this whiff of an easy, unimpressive shortcut, as if it just hasn't managed to reach the depths yet. That seems to be the idea.&lt;/p&gt;
+
+&lt;p&gt;Long ago, I traveled around to various places with an agriculture teacher. From the northern countries down to the south and west, we even made it all the way to Europe. Among those stops was, I think, the gardens of the Palace of Versailles, or maybe it was Marie Antoinette's vegetable patch. They grow the vegetables eaten by people of the very highest nobility, they said. How on earth did we get permission to visit a place like that? Without really understanding, I just followed the teacher, and it turned out he simply ignored the walls and gates and walked right in.&lt;/p&gt;
+
+&lt;p&gt;All sorts of crops were being cultivated there, but the teacher declared every last one of them a failure. "See, they're growing these to make the roots go deep. But the truth is, you want the roots to spread out shallow and wide and soft."&lt;/p&gt;
+
+&lt;p&gt;Wanting to nurture something carefully and deeply because it's precious, he said, is a scholar's way of thinking. Making roots go deep is pointless, and it doesn't make the vegetables taste any better. What you want is to grow them so the fine, fluffy root hairs spread out. This too was surely a theory grounded in practice, so there may well be other schools of thought, but to me it was moving. Ever since then, I've come to think about deep and shallow from a different angle than everyone else.&lt;/p&gt;
+
+&lt;p&gt;I mean, whether you're doing the crawl above the Mariana Trench, said to be the deepest place in the world at over ten thousand meters, or paddling in a pool two meters deep, it's the same swimming, isn't it?&lt;/p&gt;
+
+&lt;p&gt;◆So here's question no. 028: "Do you hate to lose?" There's what other people might say, but what do you think yourself? If you like, write it in an email and send it my way.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. Those soft, fluffy root hairs on a plant, that's the image I hold up as my ideal.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#4c67fe8b82e4"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay challenges our cultural bias toward "depth" by drawing a parallel between agriculture and life philosophy: shallow, spreading roots are often more practical and nourishing than deep ones, suggesting that what matters most isn't how profoundly we engage with something, but how widely and genuinely we connect with it.</summary>
+    <published>2026-09-01T08:17:17.602771+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#ee462df7ed99</id>
     <title>Things I'm really bad at.</title>
@@ -835,32 +863,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Rather than blindly following established standards for what makes food "good," we should embrace our own discovery of deliciousness in unexpected forms—whether that's hard tempura or soft udon—and value these unconventional pleasures alongside traditional ideals.</summary>
     <published>2026-08-03T06:20:09.091181+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#19b38da7faa4</id>
-    <title>Adults have "feelings" too.</title>
-    <updated>2026-08-02T05:54:40.549416+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;"You only understand your parents' devotion once you have children of your own." Well, it really is true, isn't it. You could swap in all sorts of other positions and it would still hold. "You only understand your teacher's kindness once you have students," or "You only understand your senior's kindness once you have juniors." I've done a lot of things over a long time now, so all I can really say is, "Sorry, truly, for everything."&lt;/p&gt;
-
-&lt;p&gt;The ones who learn something first, who figure it out first, teach it and pass it on to the ones who come after. And the ones who come along later to learn it, well, they don't feel especially grateful. They just take the teaching for granted. It's probably something close to instinct. The monkeys up on Monkey Mountain do it, dogs and cats do it. And humans, too, keep repeating this same pattern, quite naturally.&lt;/p&gt;
-
-&lt;p&gt;Say "a parent's devotion" and it starts to sound like some moral lesson, but there's a gentler way to put it: "a parent's feelings." Why did my own parents do the things they did, say the things they said? Once you become a parent yourself, these things start to make sense.&lt;/p&gt;
-
-&lt;p&gt;During summer vacation in elementary school, we had radio calisthenics in the schoolyard. I imagine they still do it in places that still do it. I'd hang the little card around my neck, the one you got stamped each day, and head off, grumbling to myself about how much of a pain it was to get up so early. I'd just sort of drift over to the school with the other kids from the neighborhood.&lt;/p&gt;
-
-&lt;p&gt;Then one day, my father, who was always hungover and never a morning person, announced, "Radio calisthenics are good for your health, so I'm coming too," and off he went to the school with me. I was a little embarrassed to go with a parent, but there was also a tiny part of me that felt happy about it, and so the two of us walked together to Momoi Elementary for the morning exercises.&lt;/p&gt;
-
-&lt;p&gt;That's the whole memory, nothing more, but now I understand it. It wasn't really "because it's good for your health." He simply wanted to tag along and do the calisthenics with his elementary-school kid. If there was a chance to be with your child, you wanted to be with them. That was the feeling behind it, I now see. And I understand it because I'm the same way myself.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. There's also the saying, "A parent's heart, unknown to the child," and I rather like that one too.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#19b38da7faa4"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on how we only truly understand our parents' actions and sacrifices when we become parents ourselves, revealing that what seemed like simple duties or rules were actually expressions of love and a desire to be close to their children.</summary>
-    <published>2026-08-02T05:54:40.549416+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
