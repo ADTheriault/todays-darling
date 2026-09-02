@@ -2,13 +2,41 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-01T08:17:37.071242+00:00</updated>
+  <updated>2026-09-02T07:37:32.782712+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#d26d3f762115</id>
+    <title>Oh, the passing of time, and how casually it slips away.</title>
+    <updated>2026-09-02T07:37:01.153527+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;With a quiet, sinking sort of feeling, I think, "Ah, you young people," and then I call out to them. It's astonishing, I want to say, how time truly does slip away. To those of you in your thirties, to those around forty, to those who are fifty or so, I want to tell you this: the happy things, the painful things, the embarrassing things, they all go flying past behind you, like scenery through a train window. After all, the Miura Jun who was a student is now sixty-eight, the Kimura Takuya who was a boy is now a fifty-three-year-old father, and the fact that I'm the one saying all this at seventy-seven means none of it is really so strange.&lt;/p&gt;
+
+&lt;p&gt;You feel like you've just been eating your lunch on your break, and then it's already evening. That's the sort of pace at which the months and years pass by too, and eventually you come to feel this, half in astonishment and half as the most natural thing in the world.&lt;/p&gt;
+
+&lt;p&gt;Honestly, there's no real lesson in any of it. "Youth passes quickly, and learning is hard to come by," and so on, well, that's true enough. But it's simply a fact. There's no need to panic. Things turn out the way they turn out.&lt;/p&gt;
+
+&lt;p&gt;I've mentioned this a few times before, but when I was around fifty, I had my fortune read using the Four Pillars of Destiny. I was told that I had "a fate in which nothing you do will work out." At the time I was in a phase where I was hoping to find some encouragement, so being told the exact opposite got me down a little, I'll admit. And apparently the only way out of this "nothing will work out" fate was fully fifteen years away, starting at sixty-five. I remember thinking, by then I'll already be an old man, that's just cruel.&lt;/p&gt;
+
+&lt;p&gt;But, to rush ahead in the story a bit, before I knew it I had turned sixty-five, and in all the years leading up to it, life had been neither painful nor a failure. Nor, for that matter, did I feel that my luck had suddenly opened up at sixty-five. Time had simply passed, and before I knew it there I was, sixty-five. So that's how it is, I thought. Being alive is just time going by.&lt;/p&gt;
+
+&lt;p&gt;I found I was able to think, "Either way, that moment comes." There was no need to fret about time passing at all. What passes, passes. What grows old, grows old. What dies, dies. There's no "enlightenment" to it, because it's the same for everyone. And even after becoming an old man, life is, in its way, rather interesting.&lt;/p&gt;
+
+&lt;p&gt;So, today's question, no. 029: "Is this, perhaps, my flaw?" Shall we go looking for it? If it's there, it's there. If it isn't, it isn't. If you like, write it in an email and send it my way.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. I do wonder what a young person would make of today's little piece.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#d26d3f762115"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Time passes inevitably and far more quickly than we realize, but accepting this fact with equanimity—neither panicking nor seeking meaning in it—is simply the natural way of living. The author suggests that worrying about life's passage is futile; what matters is recognizing that being alive is merely time moving forward, and finding interest in it as it comes.</summary>
+    <published>2026-09-02T07:37:01.153527+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#4c67fe8b82e4</id>
     <title>Not precious merely because it is deep.</title>
@@ -831,38 +859,6 @@
     <link href="https://www.1101.com/"/>
     <summary>As humans become increasingly dependent on tools and AI to accomplish everything, we risk forgetting what we can do with our own hands and minds—and more importantly, losing touch with the uniquely personal questions that define who we are. The essay urges us to regularly examine what we truly value and how we want to live, before we outsource these fundamental aspects of our humanity entirely.</summary>
     <published>2026-08-04T05:44:33.058631+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#7d091172bcd3</id>
-    <title>Sweet potato tempura with a firm batter.</title>
-    <updated>2026-08-03T06:20:09.091181+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When people praise tempura, they always say things like, "The batter is light and crisp." Crunchy, no hint of oiliness, light. That's what everyone reaches for. And I agree. I really do.&lt;/p&gt;
-
-&lt;p&gt;That said, the tempura you get at udon chains and places like that isn't light at all, and it certainly isn't crisp. If anything, the batter is thick enough to have opinions of its own, and rather than light, you'd have to call it hard.&lt;/p&gt;
-
-&lt;p&gt;But is that bad? Is it unpleasant? Not to me. I actually want this kind of tempura too. Especially the sweet potato ones. I'm fine with batter so hard it clunks against your teeth. And I'm certainly not going to talk about how it "doesn't taste of oil." I'll even go and pile on extra tempura crumbs.&lt;/p&gt;
-
-&lt;p&gt;They're both tempura, and they're both good, aren't they? No need to rush to declare that this one is proper and that one isn't. They're both delicious.&lt;/p&gt;
-
-&lt;p&gt;With just about anything, there's a kind of "accepted standard for what counts as good." Things that have been around a long time naturally develop one. Tempura, sushi, grilled fish, soba, udon, all of them come with a set of "words of praise" that everyone more or less knows.&lt;/p&gt;
-
-&lt;p&gt;But even if you know those words, I think it might be better to set them aside for a while. "Springy, chewy udon" is delicious, of course, but there's no reason we can't also discover the deliciousness of "soft, sloppy udon."&lt;/p&gt;
-
-&lt;p&gt;Being unhygienic or unclean is another matter, but I really do think that finding "deliciousness" from a different angle deserves to be valued more.&lt;/p&gt;
-
-&lt;p&gt;Come to think of it, the things people call "old-fashioned" include "firm pudding," "omelettes that aren't all soft and runny," and "salmon that's too salty," don't they? I'm sure there are plenty more if you go looking.&lt;/p&gt;
-
-&lt;p&gt;Right now, at two in the morning, I want a bowl of udon with hard tempura on top.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. Though honestly, the ordinary words of praise turn out to be right more often than not.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#7d091172bcd3"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Rather than blindly following established standards for what makes food "good," we should embrace our own discovery of deliciousness in unexpected forms—whether that's hard tempura or soft udon—and value these unconventional pleasures alongside traditional ideals.</summary>
-    <published>2026-08-03T06:20:09.091181+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
