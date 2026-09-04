@@ -2,13 +2,45 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-03T07:46:58.276213+00:00</updated>
+  <updated>2026-09-04T07:42:36.565062+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#7dec64c2471f</id>
+    <title>Is there someone you'd want to become if you could?</title>
+    <updated>2026-09-04T07:42:14.856530+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The older guys back in the day had this habit of comparing themselves to warlords from the Sengoku era. "See, our department head, he's a Tokugawa Ieyasu, so..." or "Well, I'm an Oda Nobunaga myself, patience was never my thing." Honestly, I wanted to tell them, look, you're not Ieyasu and you're not Nobunaga, you're just you, plain and simple. But there's no sense ruining a good story, so I kept my mouth shut.&lt;/p&gt;
+
+&lt;p&gt;Then there were all the Sakamoto Ryomas, scattered across every corner of the country. So many of them. I'm Ryoma, he's Ryoma, everybody's Ryoma. You could practically hold a "Sakamoto Ryoma Convention" or start a "Sakamoto Ryoma Party." And since the man himself is dead serious about it, I figured I might as well let him keep talking like some noble revolutionary from a period drama.&lt;/p&gt;
+
+&lt;p&gt;Oh, and there was the Beatles version too. "I'm the Paul of the group, so I'm the one smoothing things over." "Me, I just can't help being a John." You didn't hear "I'm the Ringo" or "I'm the George" nearly as often. Whatever the case, buddy, you're not John, you're not Paul, and you're not Ringo either.&lt;/p&gt;
+
+&lt;p&gt;I wonder what happened to those "imaginary heroes." Somewhere along the way, whether we let it slip on purpose or just by accident, they seem to have vanished from the world. Maybe it's because the moment anyone starts talking with that kind of feverish enthusiasm, some cool, sober voice cuts them right down. Maybe everyone's simply figured out that, at the end of the day, I'm just me and nothing more. Or maybe the whole world has just gotten a bit too "clever." And sure, it's true, you aren't Nobunaga, and you aren't Paul. You'll never be Shohei Ohtani either. ♫&lt;/p&gt;
+
+&lt;p&gt;I have absolutely no intention of saying this state of affairs means we've lost our dreams. After all, I couldn't tell you what the dreams of all those Sakamoto Ryomas actually were.&lt;/p&gt;
+
+&lt;p&gt;Ah, that's it, let's make this today's theme for the reader interview.&lt;/p&gt;
+
+&lt;p&gt;◆Question no. 031: "Is there someone you'd want to become, if you could?"&lt;/p&gt;
+
+&lt;p&gt;Don't just brush it off with a quick "nobody," give it a real think. If you feel like it, write it down in an email and send it my way.&lt;/p&gt;
+
+&lt;p&gt;Thanks, as always, for stopping by Hobonichi today.&lt;/p&gt;
+
+&lt;p&gt;As for me, right now, the ones I look up to are dogs, and little kids, and Chiikawa.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#7dec64c2471f"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on how people once freely idolized historical and cultural figures through playful self-comparison, but this practice has faded as society has become more cynical and self-aware, leaving us to wonder whether we've lost something meaningful about aspiration and imagination in the process.</summary>
+    <published>2026-09-04T07:42:14.856530+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#13de81916fcd</id>
     <title>Maybe I don't like reading nothing but text either</title>
@@ -835,30 +867,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author launches a series of 100 self-reflective interview questions designed to help readers examine their own lives more deeply, starting with childhood memories and moving toward questions about values and relationships. Through the unexpectedly candid responses received, the author discovers that self-examination can reveal hidden truths about ourselves that we rarely pause to consider.</summary>
     <published>2026-08-06T05:46:36.910937+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#0dea7ba68649</id>
-    <title>Beyond the top of the vocal range. The darkness seen with closed eyes.</title>
-    <updated>2026-08-05T05:43:25.421517+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;So, do you do karaoke, that sort of thing? Even if not karaoke, do you ever sing? When you sing, there's this thing called vocal range, and at some point, both on the low end and the high end, the notes just stop coming out. There are notes other people can hit that you simply can't. But what if you don't actually voice them, can you imagine higher and higher notes without limit? Just imagining seems like it should be possible, doesn't it? Shall we give it a try? This is something I thought up and tested back in my twenties. What I found was that as I went up an octave, and then another, at some point I was just cycling through the same range over and over without realizing it (I wrote about this on Hobonichi back in 1998, too). It turns out there's a limit even to the "imagination" of sound. When I first wrote about this, Yosuke Yamashita, the jazz musician, told me, "That was really interesting," and I remember being tremendously happy about it.&lt;/p&gt;
-
-&lt;p&gt;Now then, I recently discovered something along these same lines again. At night, in that stretch between getting into bed and drifting off to sleep, it's no good to let your mind wander to pointless things, so I decided that after closing my eyes I would picture some lovely scene and just gaze at it there behind my eyelids. But this "lovely scene" I wanted to gaze at turned out to be surprisingly hard to conjure up. After trying all sorts of things, lately I've settled on this baffling theme of "the dark reaches of outer space," and I've made that my thing to look at. Since it's basically just "darkness," it's fine for it to be vague. If I stare at it and things go well, I sink pleasantly into sleep.&lt;/p&gt;
-
-&lt;p&gt;And while doing this, at one point I realized something: I'm looking at this "darkness" with my dominant eye. I'm viewing the "darkness" mainly with my left eye, so what is my right eye doing? It's providing "support," you see, backing up the dominant eye. Now, I can look at the "darkness" with just my right eye too, but somehow that leaves me unsettled. And that's it. Today's story comes to its abrupt little end right here.&lt;/p&gt;
-
-&lt;p&gt;Now, from here on it's an interview with you. Jot it down somewhere, in a notebook (or a notebook app), and if you feel like it, go ahead and send it to me by email as well.&lt;/p&gt;
-
-&lt;p&gt;No. 001: "What kind of child were you growing up?"&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today, too. This closing interview, I intend to keep it up every day until I get tired of it.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#0dea7ba68649"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay explores how our perception has inherent limits—from the inability to imagine vocal notes beyond a certain range to the challenge of consciously visualizing pleasant scenes—revealing that even our imagination operates within physical and neurological constraints. Through personal observations about singing, sleep visualization, and eye dominance, the author discovers that our minds cannot infinitely extend sensory experiences the way we might theoretically expect them to.</summary>
-    <published>2026-08-05T05:43:25.421517+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
