@@ -2,13 +2,43 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-07T07:55:24.925285+00:00</updated>
+  <updated>2026-09-08T07:49:18.259341+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#f481350179ae</id>
+    <title>It's not getting old, it's getting seasoned.</title>
+    <updated>2026-09-08T07:48:55.679478+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Whether it's a town, a building, a shop, or some much larger landscape, whether it's a team, an organization, a role, or a relationship between people, gradually the "thisness" of the thing soaks in. You know how the broth seeps into the daikon in a pot of oden? It's exactly like that.&lt;/p&gt;
+
+&lt;p&gt;A shop that looks like just the sort of place people would love these days, well, ask the right specialist and they'll whip one up in no time. You can get people saying "How lovely!" for a while. But even that "How lovely!" gets grubby and grows old. Before long it becomes a shop that "used to be lovely." And then it might be forgotten, might disappear altogether.&lt;/p&gt;
+
+&lt;p&gt;But then there are shops nobody ever calls "lovely," and yet they've been going for thirty years. "The owner's a weird guy," "their potato salad is great," praised in these unremarkable ways, and somehow, thirty years. In a shop like that, the shop's own character has "soaked in."&lt;/p&gt;
+
+&lt;p&gt;It's the same with streetscapes, a road that's been there since the Edo period, say. There's something soaked into a place like that. Though when you turn it into nice words like "tradition" or "history," it starts to feel a little off, somehow.&lt;/p&gt;
+
+&lt;p&gt;Even a married couple who don't seem all that fond of each other, it might not be splendid, might not be beautiful, but something has soaked into them. A flavor that says, this is us, this pair. There it is.&lt;/p&gt;
+
+&lt;p&gt;Business matters too, of course it does. But business on its own can't stand the wait, that "time it takes to soak in." Stylish things, expensive-looking things, they're easy enough to build up and tear down again. But the things that have "soaked in," they can't do without time and something like human sweat.&lt;/p&gt;
+
+&lt;p&gt;Well now, Hobonichi hits its thirtieth anniversary two years from now, and I got to thinking, all sorts of good broth has been soaking into it, hasn't it.&lt;/p&gt;
+
+&lt;p&gt;◆Today's question, no. 035, let's just make it this one. "Is there anything that has soaked into you?" Hard to answer? Well, never mind. Enjoy taking the time to think it over. And then, if you feel like it, please write it in an email and send it along.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. The pork miso soup at "Hobo Station AKAGI" is a mix of the well-soaked and the freshly made.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#f481350179ae"/>
+    <link href="https://www.1101.com/"/>
+    <summary>True value and character emerge not from deliberate design but from time and accumulated experience—like broth soaking into daikon, the most meaningful things, whether places, businesses, or relationships, develop their irreplaceable essence through years of human presence rather than stylish construction. The author reflects on Hobonichi's approaching thirtieth anniversary as an example of something that has earned its depth through time and care rather than superficial appeal.</summary>
+    <published>2026-09-08T07:48:55.679478+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#bc178f91ca4a</id>
     <title>Will humans win against it?</title>
@@ -845,32 +875,6 @@
     <link href="https://www.1101.com/"/>
     <summary>While machines progress measurably through speed and efficiency, human value ultimately derives from ineffable qualities like beauty, charm, and meaning that resist quantification and remain fundamentally mysterious. The essay argues that these intangible human judgments—the "wonderful" that can't be put into words—are as essential to how we navigate the world as the numerical progress we celebrate.</summary>
     <published>2026-08-10T04:27:28.367494+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#7e5dc8a9b868</id>
-    <title>Keep saying that and you'll get stalked.</title>
-    <updated>2026-08-09T04:16:04.725239+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Hot again today, isn't it. But you know, no matter how much you complain about the heat, it doesn't make the heat go away. All that muttering about how hot it is just fixes your mind on it, and then you can't stop thinking about the heat all day long. You spend your whole day haunted by the spirit that lives inside those words. And whoever happens to be nearby gets dragged into it too, chased around by "it's so hot, it's so hot" for no fault of their own.&lt;/p&gt;
-
-&lt;p&gt;It's the same with everything, really. There are people who do nothing but grumble that they've got no money. And it's never the ones who actually have none, it's the ones who just love to say it. Does the money rain down from heaven because you keep saying you haven't got any? Is somebody going to hand you cash just because you claim to be broke? If a fellow opens his mouth only to say he's skint, skint, skint, then folks around him figure they'll never see their money again if they lend it, and they clam up their wallets. This sort of thing pulls other people in too, so you really ought to watch yourself.&lt;/p&gt;
-
-&lt;p&gt;Unpleasant things, worries, there's no end of them. Even when it looks like you've got none, go looking and you'll find some. And what pleasure is there in dredging that stuff up over and over, making other people sigh? Well, I suppose they do it because they like doing it. "Even the heat gets forgiven only three times," same as the patience of a saint, and that's about right.&lt;/p&gt;
-
-&lt;p&gt;That's the sort of thing I meant to write, but whenever I set it down the usual way I end up holding back and softening it. So today I channeled the spirit of the master storyteller Tatekawa Danshi and spoke through him.&lt;/p&gt;
-
-&lt;p&gt;Now then, a little more about the "100 Questions Interview." I'm grateful for it, because people share what they've been thinking, and it makes me feel as though I'm meeting and talking with lots of people every day.&lt;/p&gt;
-
-&lt;p&gt;◆Today's is no. 005, "Can you swim?" Nice and simple. It's summer, after all, so have some fun with this one. Jot your thoughts and feelings down in your notebook and let them accumulate. And if you feel like it, write them in an email and send them my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. As for me, I went to the movies at night and watched "Chiikawa" for the third time.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#7e5dc8a9b868"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Complaining about problems—whether heat, money troubles, or worries—only fixes your mind on them and drags others down with you, so it's better to simply avoid dwelling on and voicing unpleasant things. The author uses this insight to encourage readers to focus their energy on more positive activities, like responding to the "100 Questions Interview" about simple topics like swimming.</summary>
-    <published>2026-08-09T04:16:04.725239+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
