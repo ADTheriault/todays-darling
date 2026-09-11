@@ -2,13 +2,41 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-10T07:51:46.780999+00:00</updated>
+  <updated>2026-09-11T07:47:50.954256+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#ee5a6127f536</id>
+    <title>More on the karaoke approach to calligraphy copying</title>
+    <updated>2026-09-11T07:47:33.691200+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I wrote before that karaoke might be a kind of "copying from a master's calligraphy," and honestly, it really is. When you're not just listening but tracing the song with your own voice, singing it, things you never noticed before start to catch your attention.&lt;/p&gt;
+
+&lt;p&gt;The same thing happened with "Melody" by Koji Tamaki, a song I love, and so do my karaoke friends. It opens like this: "In this town where you were, the one I loved so much, that song I still love so much, I can still hear it now." And right there, a little uncertainty creeps in.&lt;/p&gt;
+
+&lt;p&gt;What was it that was "loved so much," the "you," or "this town"? Then it goes on, "that song I still love so much, I can still hear it now," and this second "love," I think, is probably about "that song." Two "loves," and a "you," a "town," and a "song." You can sing it happily enough without thinking too hard about what modifies what, but the moment you start interrogating it, you lose the thread.&lt;/p&gt;
+
+&lt;p&gt;I feel the same way about Mariya Takeuchi's "Eki." There's a line, "that I was the only one who loved," and I'm never quite sure what emotion I'm supposed to sing it with. Two years after the breakup, she happens to catch sight of her old lover. Did she realize "I was the only one who loved him, one-sidedly"? Or did she realize "back then, he loved only me"? The line can be read either way.&lt;/p&gt;
+
+&lt;p&gt;With both "Melody" and "Eki," I imagine that for the person who wrote them, it's something they could explain without a second thought: "Oh, it means this." But I think the students doing their "calligraphy copying" through karaoke start to want to sing, in their own voices, whatever it was that was being sung in the "model text."&lt;/p&gt;
+
+&lt;p&gt;For what it's worth, as the apprentice loitering at the temple gate, doing my own "copying," I leave both songs "unresolved." Because I think that vagueness is part of what makes a song good.&lt;/p&gt;
+
+&lt;p&gt;◆Today is no. 038: "Is there something you've left unresolved?" What might it be? If you'd like, write it in an email and send it our way.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. Rushing to the right answer isn't always the best thing, is it.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#ee5a6127f536"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Karaoke, like copying a master's calligraphy, reveals the ambiguities and unresolved emotions embedded in songs, and embracing this vagueness rather than rushing to a single "correct" interpretation is what makes a song truly meaningful.</summary>
+    <published>2026-09-11T07:47:33.691200+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#e45d73cd6292</id>
     <title>It's not that I don't think about happiness.</title>
@@ -851,32 +879,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Life becomes truly livable not through meeting bare survival needs, but through access to comfort, kindness, and the things that ease our daily existence—a distinction between merely surviving and actually living well. The essay suggests we all instinctively strive each day to make life incrementally easier for ourselves and others, even if some struggles ultimately serve that same purpose.</summary>
     <published>2026-08-13T04:48:34.556876+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#86ac2b4de820</id>
-    <title>Looking back on 10 years, how was it?</title>
-    <updated>2026-08-12T04:45:02.918660+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;People used to say, "Ten years makes an age." I think it was meant to convey something like, "Once ten years have passed, it's already the distant past." That if you're still carrying the same feelings you had ten years ago, well, you're already behind the times.&lt;/p&gt;
-
-&lt;p&gt;And I often found there was a lot of truth in it. Setting childhood aside, ten years as an adult feels short. I'll find myself recalling something from five or six years ago as though it were just the other day. And yet, once ten years have gone by, all sorts of things have changed. That, I think, was the pace at which the times moved. It's only a vague sense, but we used to mark off the years in tens, dividing up the eras that way.&lt;/p&gt;
-
-&lt;p&gt;But in the IT world, ten years was far more than "an age." It moved at a speed where the word "dog years" felt entirely natural. Yes, and just as a dog of ten is well into its "senior" years, perhaps the information society is already a "senior" itself, grown old.&lt;/p&gt;
-
-&lt;p&gt;And when it comes to everything outside the world of information, ten years ago, twenty years ago, thirty years ago, it all looks like more or less the same era carrying on. Whether or not you want to call that "stagnation," I really don't mind either way. The bullet trains got a little faster, the department stores gave way to sprawling electronics chains, people stopped carrying cash around, and yet nothing much really changed. And as things stand, there's no one out there to speak of a ten-years-from-now that young people might actually feel hopeful about.&lt;/p&gt;
-
-&lt;p&gt;Once you've followed all this and thought, "Yes, that's exactly how it is," the question becomes what each of us, each of our own "we," actually wants to do. What we "like." What we think is "good." Asking ourselves, and each other, all over again, that's what feels so terribly important to me right now.&lt;/p&gt;
-
-&lt;p&gt;◆ No. 008: "Tell me about something from ten years ago." Thank you for thinking about it each day. Treasure that time. You could jot it down in your notebook, a secret for no one else to see. And if you feel like it, please write it in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. As for my own past ten years, more than anything, I suppose it's that my daughter had a daughter of her own.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#86ac2b4de820"/>
-    <link href="https://www.1101.com/"/>
-    <summary>While technological progress has accelerated dramatically over the past decade, the non-digital world has stagnated, leaving us without a hopeful vision for the future—and thus forced to reckon with what we individually value and desire. The essay suggests that in times of uncertainty, rediscovering our own authentic preferences and connecting with others about them becomes essential.</summary>
-    <published>2026-08-12T04:45:02.918660+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
