@@ -2,13 +2,39 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-12T07:40:55.239680+00:00</updated>
+  <updated>2026-09-13T07:59:49.962472+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#334459b42f77</id>
+    <title>Just back from a trip and writing in good spirits.</title>
+    <updated>2026-09-13T07:59:28.783127+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I went to Kyoto for the first time in a while. My schedule happened to have a little room in it, so I managed to drop by two of the places I know well. Of course, part of it is wanting to eat this dish or that dish, but it's also about stopping in, sitting down to a meal, exchanging a few words (not always just a few) with the people who run the place, and confirming that the door at the entrance, the counter, the little wooden menu tags are all just as they used to be, remembering, ah, yes, it was always like this. It's that whole experience I go there for. And when I show my face and they're glad to see me, well, that alone fills me with an absurd amount of happiness.&lt;/p&gt;
+
+&lt;p&gt;Let me think, in Kyoto there turned out to be several places I want to visit in that way. One of them was an okonomiyaki restaurant, but it's closed down now, so I can't go anymore. Maybe I could count the croquette shop the butcher runs, too. As I expected, they're all places from the period when I was going to Kyoto frequently. Come to think of it, the only towns with places like that for me are Kyoto and Kesennuma. It's a bit of a shame I can't think of anywhere like that in Maebashi, but, ah, there's the Harashimaya for grilled manju, isn't there.&lt;/p&gt;
+
+&lt;p&gt;The real reason for the trip, I suppose it was a project organized by one of Kyoto's universities, was my job taking part in a "three-way talk" up at that spot at Kiyomizu Temple. That was thoroughly enjoyable in its own right, but as a kind of bonus I got to stop by those familiar shops, and I was also lucky that the "Ryokan" exhibition at the Hosomi Museum happened to open this very Saturday, so I could go see it.&lt;/p&gt;
+
+&lt;p&gt;I love it, you know, Ryokan's calligraphy. Not "it's good" or anything like that. "I love it" is what fits best. Following the way the characters on display are written with my eyes, imagining it, something wells up in me. It surprised me, too, that Kitaoji Rosanjin, who always struck me as such a sharp-tongued man, praised Ryokan's writing to the skies.&lt;/p&gt;
+
+&lt;p&gt;And so, back in Tokyo, the first thing I did was some "Chiikawa calligraphy practice."&lt;/p&gt;
+
+&lt;p&gt;◆Today, let's go straight to no. 040, "Do you have a place you go to regularly?" If something comes to mind, send it in by email, why don't you. Thanks in advance.&lt;/p&gt;
+
+&lt;p&gt;Thank you again today for coming to Hobonichi. There are several places in Tokyo I go to regularly. I suppose it really is home.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#334459b42f77"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Revisiting cherished familiar places—whether beloved restaurants in Kyoto or regular haunts in Tokyo—offers a profound joy that comes not just from the food or setting, but from the human connection and continuity of returning to spaces that remain comfortingly unchanged.</summary>
+    <published>2026-09-13T07:59:28.783127+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#15ccb24d6740</id>
     <title>Enjoying the joys of a hot spring in your own bath?</title>
@@ -855,32 +881,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that subjectivity—our unique personal experiences and inner thoughts—is fundamentally human and irreplaceable, something AI can only imitate through form rather than genuine experience, and calls readers to actively preserve and articulate their own subjectivity through reflection and writing.</summary>
     <published>2026-08-15T03:35:52.372790+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#ba370bc8cf3f</id>
-    <title>Is it okay to just be vaguely happy?</title>
-    <updated>2026-08-14T04:46:08.228709+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've been thinking about how to spend what people call the "Obon holiday," and I've come to a certain place. Both my wife and I have lost our parents, so neither of us has a family home to return to anymore. In a sense, I'm the family home now. People like us are free to spend Obon wherever we please. Then again, there's no need to make such a grand thing of it.&lt;/p&gt;
-
-&lt;p&gt;There's that expression, "this town is my second home," and it occurred to me how fortunate it would be to actually have such a place. And when I came here, I realized, ah, it isn't as though I don't have one. It's not that there's anything special here (which is a rude way to put it), but something about it, it just puts me at ease. There's no sightseeing to speak of. I move about a little, eat a meal at that one restaurant, catch sight of that one person's face, and that's about it.&lt;/p&gt;
-
-&lt;p&gt;The inn has a hot spring, so of course I'll be soaking in it. We arrived, greeted the people who invited us, shared a meal, and already I'm content. There's nothing else I need to do. Tomorrow there's a little "tourist spot" we'll drop by, but it's nothing to get worked up over. If it turns out nice, well, that's nice, and that's all there is to it.&lt;/p&gt;
-
-&lt;p&gt;We're here with my daughter's family, which of course means my daughter's daughter is here too. Ever since we were on the bullet train, I'd been sneaking glances at my granddaughter in the seat behind us, thoroughly enjoying myself. It was a bit like watching Panchan at the Ichikawa zoo. Just observing her is entertaining in itself. Forgive me, sweetheart, you're already thinking all sorts of grown-up thoughts, and here I am treating you like a child, comparing you to a little monkey.&lt;/p&gt;
-
-&lt;p&gt;Naturally, the conversation turns to "Chiikawa" as well. Of everyone gathered here, the two who know it best are this seven-year-old girl and me, at seventy-seven. Across a seventy-year gap in age, a proper Chiikawa discussion takes place. How good it is that this movie came out during the summer holidays. And how good it is that this town, my "second home," exists.&lt;/p&gt;
-
-&lt;p&gt;◆ There's no right answer, and the time spent thinking it over becomes a precious memory in itself. This is no.010, "What are your memories of your father?" Whether he's still here or gone, whether you loved him or didn't, anything at all. If you feel like it, write it down and send it to us by email.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for stopping by Hobonichi today. I love Tokyo dearly, but one way or another, it really is far too cramped!&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#ba370bc8cf3f"/>
-    <link href="https://www.1101.com/"/>
-    <summary>As parents age and pass away, the concept of "home" shifts from a place to return to into something we carry with us—found in the simple comfort of familiar towns, shared meals, and meaningful moments with loved ones across generations.</summary>
-    <published>2026-08-14T04:46:08.228709+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
