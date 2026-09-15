@@ -2,13 +2,41 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-14T08:32:48.941540+00:00</updated>
+  <updated>2026-09-15T08:22:45.538929+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#922d72b79927</id>
+    <title>There's this thing called the Hobonichi dojo.</title>
+    <updated>2026-09-15T08:22:24.305898+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;A few years back, we started up a "dojo" at Hobonichi. It's not as though we've taken up judo or kendo or anything like that. Though, well, I am practicing tug-of-war pretty hard at the moment.&lt;/p&gt;
+
+&lt;p&gt;The "dojo" is a place where you throw around opinions and ideas, where you get thrown and knocked down yourself. Regardless of age or job or career, you toss out all sorts of themes and just talk. It's a bit like free sparring, I suppose. You grapple, no matter what. The senior people aren't necessarily the more skilled ones, but it's also a time when the newcomers get to be present, watching people with a certain amount of experience throw each other around. What matters, above all, is sharing your thoughts and questions.&lt;/p&gt;
+
+&lt;p&gt;I once heard that if you ask why the powerhouse teams in sports are so strong, it comes down to the environment of "always being surrounded by strong people," and that this is what nurtures everyone there.&lt;/p&gt;
+
+&lt;p&gt;You take a problem that has no easy answer, and each of you turns it over, this way and that, saying maybe it's this, maybe it's that. You think it through in front of everyone, talk it out, and share it. It's perfectly fine for it to have nothing to do with work. Naive things, childish things, likes and dislikes, strange things, we deliberately draw more and more of those elements in.&lt;/p&gt;
+
+&lt;p&gt;Painting in broad strokes, maybe the motivation behind all this is "I want to do interesting work." Ah, or perhaps "I want to become an interesting person" fits it better. And not just "interesting" in the comedy sense, mind you. If we made that a theme in the dojo, the conversation might just wander off toward something like, "Isn't there such a thing as boring but interesting?"&lt;/p&gt;
+
+&lt;p&gt;Yesterday was a Monday, one of our "dojo" days, and we even had AI join us. We had a good time. It's something we do every week, but for me, the "dojo" has truly become a "dojo" in the real sense.&lt;/p&gt;
+
+&lt;p&gt;◆ Today's question, no. 042: "Do you like yourself?" I wonder about that one. It seems simple, and yet difficult... Give it some thought, and if you feel like it, write it in an email and send it my way.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. "Sharing" is important beyond all reason. The place, and the sharing.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#922d72b79927"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Hobonichi created a "dojo"—a weekly space where employees of all levels freely exchange ideas and grapple with difficult questions together—as a way to build an environment that nurtures interesting thinking and personal growth through shared intellectual exploration. By deliberately including naive, personal, and unconventional perspectives alongside work-related topics, they've discovered that this culture of collaborative problem-solving cultivates both interesting work and interesting people.</summary>
+    <published>2026-09-15T08:22:24.305898+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#d044b9d6e5ea</id>
     <title>This is the fun part.</title>
@@ -853,34 +881,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that the fundamental human desire to not be underestimated drives much of human conflict and motivation, yet paradoxically, releasing this need for recognition can lead to greater freedom and authenticity.</summary>
     <published>2026-08-17T03:46:55.938250+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#e5a4ce5e7878</id>
-    <title>I couldn't have done it on my own, but.</title>
-    <updated>2026-08-16T03:45:04.341286+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;You tag along with a parent and end up experiencing something. It can be anything, really. Fishing, traveling, cooking, working the fields, digging a hole in the ground. Whatever it is, it becomes an experience. It's not something a child could do alone, but through it you learn, "Ah, so this is something that can be done." Just having done it once broadens your sense of what's possible, gives you the feeling that "this isn't beyond me."&lt;/p&gt;
-
-&lt;p&gt;I must have been not quite twenty at the time. My father, born in the eighth year of the Taisho era, rode on an airplane for the very first time. He seemed genuinely moved, thinking, "Now this is really something." So he told me to go and ride a plane too. He'd cover the cost, he said, so I should fly somewhere, anywhere. I suspect the idea of actually arranging it all himself and putting me on the plane felt too daunting, so he didn't want to go that far.&lt;/p&gt;
-
-&lt;p&gt;As for me, I was a provincial high school student in the 1960s who had never even set foot in an airport. Buying my own boarding pass and getting on a plane was something I simply didn't imagine I could do. It just wasn't in my world. And so my father's "go ride a plane" quietly faded away and came to nothing.&lt;/p&gt;
-
-&lt;p&gt;Children alive today must be different. Most of them have probably flown before, and the adults around them have all flown too, so they already know that getting on a plane "isn't beyond them." That difference, I think, is a fairly significant one.&lt;/p&gt;
-
-&lt;p&gt;My father, I imagine, had few experiences of doing something, of managing something, with the help of another person. It was a different era, and he hadn't been raised in wealth. So the world of things he could picture himself doing, the realm of "ah, so this can be done," was probably quite small. And I, raised by that father, followed his example. I had a strong streak of "I'll figure it out on my own."&lt;/p&gt;
-
-&lt;p&gt;The things you experience with the help of a parent or someone else get stored away in your memory as "things I'll probably be able to do myself someday." Looking back on my own life, I find that rather enviable. Doing everything from scratch, with nothing but your own two hands, isn't something you should choose on purpose.&lt;/p&gt;
-
-&lt;p&gt;◆Question no. 012: "Who did you rely on?" Any angle you approach it from is fine. Jot down your answer. And if you're willing, write it in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. "I've done that before" really does stay with you, doesn't it.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#e5a4ce5e7878"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Shared experiences with parents—even simple ones—expand a child's sense of what's possible, creating a foundation of confidence that solitary achievement alone cannot provide.</summary>
-    <published>2026-08-16T03:45:04.341286+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
