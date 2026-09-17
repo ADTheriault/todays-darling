@@ -2,13 +2,45 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-16T08:16:28.910430+00:00</updated>
+  <updated>2026-09-17T08:22:46.199069+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#1bcded023869</id>
+    <title>Is there motivation, or was there ever any?</title>
+    <updated>2026-09-17T08:22:30.060148+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Yesterday I wrote, "What on earth is mental strength, anyway?" I simply put down, as it was, the fact that I don't really understand it. But I did notice one thing: that "mental strength" is less something you seek for yourself and more something others demand of you, the fans, the supporters and all the rest.&lt;/p&gt;
+
+&lt;p&gt;Today I want to write a little about "desire." It's probably a much bigger theme than I can handle, but I thought I'd write about the word "desire" that has stuck with me ever since childhood.&lt;/p&gt;
+
+&lt;p&gt;Once, within earshot of me, some grown-ups were talking. "Once this kid," meaning me, "develops some desire, he'll really grow." In other words, I was regarded as someone who had no "desire." They spoke about it hopefully, as in, "It'll come to him eventually."&lt;/p&gt;
+
+&lt;p&gt;What was that "desire" they meant? As for whether any "desire" ever emerged in me after I overheard that, well, it seems it never did.&lt;/p&gt;
+
+&lt;p&gt;What the grown-ups were calling "desire" in that moment was, I think now, closer to "drive," or the will to strive.&lt;/p&gt;
+
+&lt;p&gt;To be honest, when I sense that kind of drive in other people, I think, "How wonderful." And yet I can hardly ever find that drive in myself. It's not that I lack energy. I'm perfectly lively. It's just that I have no real sense of possessing any "drive." Do I ever put on a performance of "drive"? Maybe a little. Actually, not even that much. Perhaps just a touch.&lt;/p&gt;
+
+&lt;p&gt;The boy who, back in elementary school, was supposed to grow stronger "once desire came to him," is he still, even now, unable to summon it? Perhaps, just like "mental strength," "desire," or drive, isn't something that wells up from within you after all.&lt;/p&gt;
+
+&lt;p&gt;No, I do want to eat things, I do want to do things. But that feels like something different from "drive," somehow.&lt;/p&gt;
+
+&lt;p&gt;◆Question no. 044: "What's the one phrase you've never forgotten?" It can be from any time in your life. If you're willing, please send it in by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi today. The "words" people say really do leave their traces in the most unexpected places.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#1bcded023869"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author reflects on a childhood comment labeling them as lacking "desire," exploring how this external judgment shaped their understanding of drive and ambition, ultimately questioning whether such qualities are genuinely internal or imposed by others' expectations.</summary>
+    <published>2026-09-17T08:22:30.060148+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#3d04d1031bb7</id>
     <title>What is willpower, anyway?</title>
@@ -845,40 +877,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay celebrates how Chiikawa's simple, honest contentment with life's modest pleasures has freed the author from adult pretense, allowing them to unapologetically enjoy things like butter-soy-sauce rice that they'd previously dismissed as uncouth. Through this "Chiikawa movement," the author reclaims the genuine pleasure of saying "this is delicious" without irony or self-consciousness.</summary>
     <published>2026-08-19T03:43:17.799647+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#78880161ba10</id>
-    <title>Is a world full of optimal solutions really okay?</title>
-    <updated>2026-08-18T03:41:27.555314+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When you're about to start something, when you first begin turning it over in your mind, even if you have "no idea where to begin," I think that's actually pretty normal. You fumble around, this isn't it, that isn't it, what do I do? Was there a hint somewhere? Now I've lost the thread entirely... That's the kind of thing everyone has always done.&lt;/p&gt;
-
-&lt;p&gt;If it's a problem with a clear answer, someone practiced at solving them can rattle it off, sure. But most of the things we mull over in this world have answers that are vague at best. More than that, often we can't even properly make out what the problem is.&lt;/p&gt;
-
-&lt;p&gt;And yet, these days, if you just ask an "AI," it'll whip up the "optimal solution" for you in no time.&lt;/p&gt;
-
-&lt;p&gt;Someone I know, a person quite at home in life abroad, apparently traveled to a foreign country for the first time over the summer holidays. Up until now, the way they'd do it was this: for that first night's restaurant, you'd ask the guidebook or the hotel and have a safe, reliable meal. Then the next day you'd wander through the streets and happen to duck into some little place where the locals were lining up. That was the sort of rhythm of it.&lt;/p&gt;
-
-&lt;p&gt;But now, apparently, you can't help asking the "AI." The moment you arrive, it'll tell you about the kind of place "where the locals line up," the sort of spot you'd normally only stumble onto by luck. Delicious, pleasant, a flawless "optimal solution."&lt;/p&gt;
-
-&lt;p&gt;And this is wonderful, of course it is, it was a good thing. But still, they said, a thought crossed their mind.&lt;/p&gt;
-
-&lt;p&gt;If you keep chasing after these "optimal solutions" that the "AI" hands you, one after another, aren't you turning into "a person who's just following instructions"? A human being becomes an "automatic device" that "processes" "optimal solutions." Honestly, I get the feeling we're already halfway there.&lt;/p&gt;
-
-&lt;p&gt;Isn't there supposed to be more to living than that? Even if the "optimal solution" really is the optimal answer.&lt;/p&gt;
-
-&lt;p&gt;◆Today is no.014, "Is there a song you love?" Whether there is one or not, it's fine even just to pause and think, now that you mention it. And if you feel like it, write it in an email and send it our way.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
-
-&lt;p&gt;The fact that "I did it because I wanted to" is becoming something precious.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#78880161ba10"/>
-    <link href="https://www.1101.com/"/>
-    <summary>As AI increasingly provides perfect "optimal solutions" to our problems, we risk becoming passive followers of instructions rather than active participants in our own lives, losing the meaningful struggle and serendipity that make human experience valuable. The essay suggests that the quality of living lies not in achieving the best outcome, but in the genuine desire and personal agency we exercise in the process.</summary>
-    <published>2026-08-18T03:41:27.555314+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
