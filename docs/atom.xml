@@ -2,13 +2,39 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-19T07:48:19.867864+00:00</updated>
+  <updated>2026-09-20T08:16:47.442830+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#7ac065285784</id>
+    <title>Shibuya Seibu will be gone next month.</title>
+    <updated>2026-09-20T08:16:18.508250+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I decided to go to the Shibuya Seibu to buy some Turkish sweets made with pistachio. Really, I was using that as an excuse. I wanted to see the Shibuya Seibu one more time before it closed. I'd had a vague sense that it would be gone sometime this autumn, but only then did I learn the actual date: Wednesday, September 30th. It might well have vanished without my even noticing. Somewhere along the way, it had quietly become that sort of thing to me.&lt;/p&gt;
+
+&lt;p&gt;I did a little shopping, wandered across a few floors, took in the corridors and walls and stairways, and tried to savor the sort of commonplace sentimentality you'd expect. But it wasn't especially interesting. "How could things have gone differently, and turned out better?" I found myself thinking, like some half-baked executive. More than sadness, what welled up in me was the vexed feeling of facing an unsolvable problem.&lt;/p&gt;
+
+&lt;p&gt;Outsiders and critics can say whatever they please, but who could really know where, and how, and what might have led to what other outcome? Successes and unmistakable failures, all tangled together, winding their way to this point. Over the years there must have been countless earnest people in charge, countless clever strategists, cycling in and out.&lt;/p&gt;
+
+&lt;p&gt;And beyond that, I can't even say whether this "closing" on September 30th is truly a sad thing at all. I'm in no position to pretend I understand. At some point in the nineteenth century the department store was born, changed with the times, grew larger, and has come down to us in its present form. Even if department stores gradually change and eventually disappear, the fact that "people found joy in them" surely won't vanish. The joy of the people who gathered there, that was there, might it not have shifted somewhere else, into some other form, and be shining there still, even if not in the shape of a department store? I turn these things over in my mind, but honestly I don't really understand any of it. I find myself imagining, of all things, our own "Life's Little Pleasures" exhibition, but then again...&lt;/p&gt;
+
+&lt;p&gt;◆Today's question, no. 047: "What's something you're glad you bought?" Give it some thought, and if you'd like, write it in an email and send it my way.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
+
+&lt;p&gt;I think "the form a store takes" is itself one of the great inventions of an era.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#7ac065285784"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author visits a closing department store and reflects on the impossibility of understanding why institutions rise and fall, ultimately recognizing that while physical spaces may disappear, the human joy and connection they facilitated endures in other forms.</summary>
+    <published>2026-09-20T08:16:18.508250+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#29cd6e19ec60</id>
     <title>Just write today, no matter what, a little at a time.</title>
@@ -843,34 +869,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Rather than chasing trends and theories, the author believes the most meaningful work comes from understanding timeless human feelings and needs that have remained constant throughout history, regardless of era.</summary>
     <published>2026-08-22T03:38:31.994163+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#e4665f636c3b</id>
-    <title>A recommendation for chiirin (Chiikawa calligraphy practice)</title>
-    <updated>2026-08-21T03:47:42.920465+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I haven't gone in all that deep, but I'm having fun with it. Day after day, all I ever think about is "AI and Chiikawa." It's not that I've become some fanatic, but I keep at it. The day before yesterday, I started what I call "chiirin" (Chiikawa transcription practice). You know how everyone assumes that "Chiikawa" is just one of those "small and cute" things that seem to be everywhere?&lt;/p&gt;
-
-&lt;p&gt;Well, I thought so too, but I was completely wrong. For starters, if someone asked you, "Mom, try drawing one," could you actually draw one of those seemingly commonplace "Chiikawa" pictures? Sure, you could draw something similar, but you probably wouldn't get it right. What you'd end up with is something that bears no resemblance at all, something distinctly "un-Chiikawa-cute."&lt;/p&gt;
-
-&lt;p&gt;In other words, the way the creator, Nagano-sensei, draws "Chiikawa" is incredibly difficult. It's the mark of a true master, a work of consummate skill. I had a hunch this might be the case, so I tried copying one while looking at the original, and honestly, I just couldn't do it. It never came out looking good.&lt;/p&gt;
-
-&lt;p&gt;So I hit upon the idea of doing what the boss of my household does with calligraphy, which is to practice by transcribing a masterwork of the brush. For those "Chiikawa" pictures to exist on the page, there had to have been an "action," a specific movement of the brush, that gave rise to each of those lines. To transcribe a piece of calligraphy is to study the finished work closely and then reproduce, in my own hand, the "action" that once brought it into being. Copying a piece of writing is really about reproducing the act itself.&lt;/p&gt;
-
-&lt;p&gt;While turning over these knotty thoughts in my mind, I sit and draw the characters from "Chiikawa." The hardest parts are the outlines and the eyes. I can see exactly what the eyes are supposed to look like, but I just can't reproduce them. The position, the size, the thickness of the line, the tilt of each circular eye, all of it is the handiwork of a master. But then again, to learn is to imitate.&lt;/p&gt;
-
-&lt;p&gt;I believe that if I keep up my transcription practice every day, like copying out a sutra, I'll surely arrive at a state of "Chiikawa mastery, effortless and free." I really do recommend it, this daily "chiirin" (Chiikawa transcription practice).&lt;/p&gt;
-
-&lt;p&gt;◆And now, today's question. No. 017: "Are you stylish?" This one might be hard to answer, but let's give it some thought anyway. If you'd like, please write your answer in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. "Chiikawa transcription practice" costs almost nothing in materials or time, you know.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#e4665f636c3b"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author discovers that Chiikawa's seemingly simple aesthetic actually requires tremendous skill to recreate, and begins practicing daily transcription of the character's drawings as a form of meditative learning that mimics traditional calligraphy study.</summary>
-    <published>2026-08-21T03:47:42.920465+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
