@@ -2,13 +2,41 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-21T08:34:27.481232+00:00</updated>
+  <updated>2026-09-22T08:14:20.807474+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#e9c27c9b0db1</id>
+    <title>The image of "serious damage"</title>
+    <updated>2026-09-22T08:13:59.490137+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;In a sense, it's not all that unusual, but whenever "a large and powerful typhoon approaches the Japanese archipelago," the effects are enormous. Some people suffer direct damage, and no doubt a great many others are hit indirectly. I mean the people who were planning to hold outdoor events, those who work in transportation by air, land, or sea, and then, further removed, the people connected to all of that. The catering companies, for instance, must have had a hard time of it too. And of course, the harm reaches the spectators and passengers as well.&lt;/p&gt;
+
+&lt;p&gt;At times like these, the news reports things like "flights cancelled," "service suspended," "event called off." Sitting in your room watching television, it's easy to take in news of a "suspension" or a "cancellation" as someone else's problem, but for the people on the ground, at the actual site, these are grave decisions, and surely a very serious matter indeed. The scale of the damage and the impact is often described in numbers, too.&lt;/p&gt;
+
+&lt;p&gt;I don't think it's just my imagination, but reports of natural disasters seem to have grown far more frequent. This large, powerful Typhoon No. 25, too, has been covered almost without pause, and a great many people probably know exactly where it is right now.&lt;/p&gt;
+
+&lt;p&gt;And in the middle of all this, something occurred to me for the first time. Things like "cancellation," "flight cancelled," or "service suspended" are indeed a serious matter for the events and the transit systems, yet they are treated as something that "can happen," something "built into the system." No one wants to do it, but it is anticipated. Even when there's a huge loss involved, cancellation is a decision that can be made. It's what people call risk management. And it struck me that large-scale examples of it turn out to be surprisingly common.&lt;/p&gt;
+
+&lt;p&gt;In our daily lives, we go about in fear of this or that little failure, but our society today is actually making huge judgment calls all the time. During the pandemic, too, society changed so drastically, come to think of it.&lt;/p&gt;
+
+&lt;p&gt;◆Today's Question 049: "What's the biggest failure of your life so far?" What could it be? If you'd like, write it down in an email and send it to us.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for visiting Hobonichi today.&lt;/p&gt;
+
+&lt;p&gt;The everyday "sense of loss" and the kind we reckon with in an emergency must be counted on entirely separate ledgers.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#e9c27c9b0db1"/>
+    <link href="https://www.1101.com/"/>
+    <summary>When major disasters force society to make massive decisions like cancelling events and suspending services, it reveals that risk management and accepting large-scale failures are already built into how our world operates, a stark contrast to the minor anxieties we fret over in daily life.</summary>
+    <published>2026-09-22T08:13:59.490137+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#e4e8d509ed96</id>
     <title>Fried rice: my longing versus reality</title>
@@ -841,32 +869,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author describes summer fatigue as the accumulated exhaustion from the body's constant effort to regulate heat throughout summer, which only becomes noticeable when autumn's cooler temperatures arrive and the physical strain finally ceases. This personal observation about delayed awareness of exhaustion reflects a universal physiological reality that the author validates through research.</summary>
     <published>2026-08-24T03:52:17.211207+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#2bbcd46d722f</id>
-    <title>On prose and the act of writing</title>
-    <updated>2026-08-23T03:47:33.519192+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Specifications, instruction manuals, work memos, the so-called "practical texts" of the world, all aim to convey what needs conveying as accurately as possible. "September 1st (Tuesday) is finally the release date for the Hobonichi Techo 2027," that sort of thing belongs to this category. If anything, that one word, "finally," carries just a little bit of "the feelings of the person who wrote it."&lt;/p&gt;
-
-&lt;p&gt;Not everything written in the world is a practical text. There are things that hold the "self" of the writer. You don't need to strike a grand pose and call it "literature." Just as most ordinary chatter does, it's simply something a person wants to say, expressed toward another person. Even "Man, I'm sad" is a form of self-expression.&lt;/p&gt;
-
-&lt;p&gt;"I want everyone in the world to understand" is impossible. But then again, "it's fine if only the people who get it get it" won't do either.&lt;/p&gt;
-
-&lt;p&gt;Being understood is a bit like a prize, and as you keep winning prizes, your writing gets better. But then, that leads to a new problem, because you start writing with the prize in mind. Honestly, I suspect the best thing would be to stop worrying about it, about understanding or being understood.&lt;/p&gt;
-
-&lt;p&gt;To put it very crudely, writing can be divided into two kinds: the "instruction manual" and the "song." Every piece of writing is a blend of the two. What I'm writing right now is one such blend, and this thing I've been going on about lately, "subjectivity," belongs to the "song" side of things. Take it away, and everything turns into nothing but instruction manuals.&lt;/p&gt;
-
-&lt;p&gt;◆ The daily interviews. I read tons of them every day, you know. So today, here's this one. No. 019, "Where were you born?" It's a question I have no memory of myself, but how about it? If you'd like, write it in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. The times we're born and the times we die, those are the things we ourselves never get to know.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#2bbcd46d722f"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Writing exists on a spectrum between purely practical communication and personal self-expression ("instruction manual" versus "song"), and the most meaningful writing balances both rather than obsessing over whether others will understand it.</summary>
-    <published>2026-08-23T03:47:33.519192+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
