@@ -2,13 +2,45 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-22T08:14:20.807474+00:00</updated>
+  <updated>2026-09-23T08:16:31.765090+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#86250502b5d4</id>
+    <title>(Prior text omitted) Do the fools of this floating world get up and work?</title>
+    <updated>2026-09-23T08:16:10.822099+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There are countless things Shohei Ohtani has shown the world. Listing them one by one would go on forever, so I'll leave that aside. But there's one thing that seems to have slipped past most people's notice, and so, on behalf of Japan, the small island nation that produced him, I thought I'd offer my own modest word about it.&lt;/p&gt;
+
+&lt;p&gt;It's this: the man sleeps well.&lt;/p&gt;
+
+&lt;p&gt;He's said as much himself, and the people around him say it too. Apparently his routine is to sleep ten hours a day, naps included. Here is a person accomplishing all those extraordinary things, and he sleeps ten hours.&lt;/p&gt;
+
+&lt;p&gt;Somehow, that makes it easier for everyone to accept. If some perfectly ordinary person announced, "I sleep ten hours a day," they'd probably get a snide "Maybe you should work a little harder." I don't know if this is unique to Japan, but generally speaking, being awake and working has always been considered the "virtuous" thing.&lt;/p&gt;
+
+&lt;p&gt;And the people on the other end, the "work and work and work and work" types, seem to manage it by cutting into their sleep. The logic is that there's more you can do while you're awake. That's an easy enough idea to grasp. Squeezing in a bit more practice, sparing not a moment to prepare, to study. All of it is possible precisely because you're awake, your eyes open. Even playing around, even indulging in a hobby, you do it awake. The time spent sleeping was thought of as "nothing," a blank.&lt;/p&gt;
+
+&lt;p&gt;But by sleeping his fill, and by treating that sleep as "precious time" that feeds into his work, Shohei Ohtani has promoted "sleep (or rest)" to the status of important time. To put it in a way I don't much like, "sleep is a cost paid toward improved productivity," and if you manage it well, it yields results. Sleep has gone from being "empty time" to being "an essential nutrient."&lt;/p&gt;
+
+&lt;p&gt;Isn't that a rather wonderful thing? It's not as if Ohtani is the one who proposed this theory, but the fact that he's actually "sleeping well" and doing so much is a big deal. Still, imagine being someone who can even work hard at sleeping.&lt;/p&gt;
+
+&lt;p&gt;◆So the question, too, is simple. No. 050: "Are you sleeping well?"&lt;/p&gt;
+
+&lt;p&gt;If you'd like, give it some thought and send me your answer by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. I'm the anxious sort myself, so I stay up and end up busying myself with all kinds of things.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#86250502b5d4"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Shohei Ohtani's commitment to sleeping ten hours daily challenges the cultural assumption that productivity requires sacrificing rest, demonstrating instead that quality sleep is not wasted time but an essential investment in peak performance. Through his example, sleep has been reframed from an empty void into vital recovery time that enables extraordinary achievement.</summary>
+    <published>2026-09-23T08:16:10.822099+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#e9c27c9b0db1</id>
     <title>The image of "serious damage"</title>
@@ -837,38 +869,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author discovers that by practicing calligraphy through patient, daily imitation of a beloved character's style, they're finally embracing the very kind of disciplined learning they once avoided—finding that mastering fundamentals, no matter how tedious, can unlock genuine creative ability.</summary>
     <published>2026-08-25T03:45:47.174689+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#dcbea658ea8c</id>
-    <title>On August 24th, a day that seems like nothing special.</title>
-    <updated>2026-08-24T03:52:17.211207+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Recently, I wrote a rather definitive line: "When you feel the first signs of autumn, that's summer fatigue setting in."&lt;/p&gt;
-
-&lt;p&gt;I've felt this way since about two years ago. When you notice things like "the wind has turned cooler" or "the cicadas are singing differently," that means autumn is on its way, right? I think I've got that part correct. And it's right around when you feel those things that "your body starts acting strange."&lt;/p&gt;
-
-&lt;p&gt;In the dead of summer, when I was constantly going on about how hot it was, I could blame everything on the heat, so I never noticed. But all those days of it pile up as fatigue in the body. And then, once things cool down even a little, that's when you realize, "Ah, I'm exhausted." That's how I've come to think of it.&lt;/p&gt;
-
-&lt;p&gt;You know how when you're out running you don't sweat while you're moving, but the moment you stop, you're suddenly drenched? I feel like it's something like that.&lt;/p&gt;
-
-&lt;p&gt;But I have no idea whether any of this is actually true. It's really nothing more than my own personal "explanation of summer fatigue." For that matter, I don't even really understand the concept of "summer fatigue" itself. Do people get worn out at the end of summer, in every country? Until a few years ago, I didn't even know what "summer fatigue" was.&lt;/p&gt;
-
-&lt;p&gt;(In moments like this, if you just ask an AI, the answer comes right up. Let's see now, oh, I see, ah, that does make sense...)&lt;/p&gt;
-
-&lt;p&gt;...Summer fatigue is a real thing. And it seems my own sense of it wasn't far off, either. In summer, the body works hard to cope with the heat. Regulating body temperature, the strain on the autonomic nervous system, fluid balance, lack of sleep, all of it, the body wears itself out adapting to the heat. And then, just as you've finally gotten a body suited to the heat, the "autumn wind" starts to blow. Of course you end up thinking, "Oh, come on, really?" Absolutely.&lt;/p&gt;
-
-&lt;p&gt;So it comes back to that opening line, "When you feel the first signs of autumn, that's summer fatigue setting in." That's it. And I've definitely got summer fatigue.&lt;/p&gt;
-
-&lt;p&gt;◆Today's question, no.020: "What was your mother like?" It's been ten days since no.010, so take a moment to remember. If you'd like, write it down and send it to us by email.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. Summer really is coming to an end, isn't it, all you children on summer break.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#dcbea658ea8c"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author describes summer fatigue as the accumulated exhaustion from the body's constant effort to regulate heat throughout summer, which only becomes noticeable when autumn's cooler temperatures arrive and the physical strain finally ceases. This personal observation about delayed awareness of exhaustion reflects a universal physiological reality that the author validates through research.</summary>
-    <published>2026-08-24T03:52:17.211207+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
