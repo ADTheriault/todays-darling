@@ -2,13 +2,41 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-23T08:16:31.765090+00:00</updated>
+  <updated>2026-09-24T08:07:48.502962+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#0945d1a36ae6</id>
+    <title>Thoughts while gazing out at the endless rain.</title>
+    <updated>2026-09-24T08:07:27.990347+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;This year there seems to be an awful lot of rain. I haven't been keeping track or counting the days, but it feels like I'm worrying about rain more than in a usual summer or a usual autumn. Then again, I've said the phrase "the long rains of autumn" plenty of times before, so maybe this is just what autumn is normally like. I can't say for sure.&lt;/p&gt;
+
+&lt;p&gt;With the long weekend, not seeing anyone from the office and staying in because of the rain, I catch myself thinking, so this is what the life of a hermit must be like. I could just go out, rain or wind or typhoon and all. It's not as if there's nothing to do at home. There's endless things to do.&lt;/p&gt;
+
+&lt;p&gt;But the things you ought to do get pushed aside, and instead you find yourself wanting to knock out the things you don't need to do first. You go looking for those unnecessary things with surprising seriousness. Sometimes that means "making fried rice," or, as I've done to exhaustion in the past, "making jam."&lt;/p&gt;
+
+&lt;p&gt;Right now I have this thing I call "Chiikawa calligraphy practice," so whenever it occurs to me I could just do that. But once a small daily pleasure starts becoming a good habit, it gets "promoted" into something I have to do. And so I end up hunting for even more things I don't need to do.&lt;/p&gt;
+
+&lt;p&gt;I watch films and dramas I'd figured I could skip. The ones I've saved up thinking "I'm definitely going to watch this" I want to watch properly, so the ones I can start half-heartedly are the films I'd more or less decided I didn't really need to see. The same goes for books. When there's a book I've settled on as "this looks interesting, I'm absolutely reading it," I end up starting on some other book I'd bought almost as an afterthought beforehand.&lt;/p&gt;
+
+&lt;p&gt;Over the course of these long rains, there have been quite a lot of not-the-favorite dramas and books I read on a whim. I watched a fair bit of the Asian Games, too. I even took up "sudoku," which I'd never touched before. And all of them, each in its own way, you could say were interesting enough. Maybe it's the ones we don't think of as "the favorite" that we end up growing close to.&lt;/p&gt;
+
+&lt;p&gt;◆Today's question is no.051, "Is there something you just can't help doing?" Ask yourself, and if you like, let me know by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you again today for coming to Hobonichi. A shortage of rain is hard, but so is rain that won't quit. Just the right amount is best!&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#0945d1a36ae6"/>
+    <link href="https://www.1101.com/"/>
+    <summary>During rainy days spent at home, the author discovers that the things we pursue without pressure—unnecessary hobbies, forgotten books, and casual pastimes—often prove more rewarding than the obligations we feel compelled to complete.</summary>
+    <published>2026-09-24T08:07:27.990347+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#86250502b5d4</id>
     <title>(Prior text omitted) Do the fools of this floating world get up and work?</title>
@@ -843,32 +871,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author reflects on embracing change while honoring what remains constant, finding deep meaning in the everyday connections and individual stories shared by readers who participate in the daily series.</summary>
     <published>2026-08-26T03:51:09.559455+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#9a93e816a38a</id>
-    <title>I haven't given up on my "Chiikawa calligraphy"</title>
-    <updated>2026-08-25T03:45:47.174689+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've never been any good at lessons, the kind you practice at. I've given up on so many of them over the years. I don't know why exactly, but they genuinely wear me down. Memorizing the steps, the lines, the choreography, I just can't do it. When I was young I thought this was something I ought to overcome, but now I'm thoroughly grown up, and once I started doing things as part of a team, we realized it was better to divide the work by what each person was good at rather than forcing yourself through what you weren't. So I threw myself into the things I was good at, and left the things I struggled with to other people.&lt;/p&gt;
-
-&lt;p&gt;I assumed I'd just keep going that way. But lately I've been earnestly doing the very thing I was always bad at. It's called rinsho: you look at a model and reproduce the flow of the brush. It's a practice repeated endlessly in the world of calligraphy. The other day I started my own version, "Chiikawa rinsho." I copy the characters that the creator, Nagano-san, draws.&lt;/p&gt;
-
-&lt;p&gt;With what motion of the brush, in what shape, in what position, at what size is this little one drawn? When I move my hand trying to draw it the same way, little by little, some things start to come clear. And if I can get the technique into my hands, I should be able to draw something close to a real "Chiikawa."&lt;/p&gt;
-
-&lt;p&gt;The original manga is drawn by hand by Nagano-sensei, but so much of it has been adapted into animation as secondary work that there must be some "rule" governing these shapes made of lines and dots. The animators have mastered it, which is how they can both reproduce the original art and make it move. In a sense it's different from the original drawings, and yet within the range that satisfies the viewer, it is more than sufficiently "Chiikawa."&lt;/p&gt;
-
-&lt;p&gt;I don't need to get all that good at it. But I'd love to draw a "Chiikawa" that seems to have just welled up onto the sketchbook page on its own. I hope I can get that far. I do a little rinsho every day, but the road looks long.&lt;/p&gt;
-
-&lt;p&gt;◆ And now, question no. 021: "Have you ever had a fight with someone?" Think back, and if you feel like it, write it up in an email and send it over.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. The things that look like anyone could do them are exactly the ones that turn out to be so hard.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#9a93e816a38a"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author discovers that by practicing calligraphy through patient, daily imitation of a beloved character's style, they're finally embracing the very kind of disciplined learning they once avoided—finding that mastering fundamentals, no matter how tedious, can unlock genuine creative ability.</summary>
-    <published>2026-08-25T03:45:47.174689+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
