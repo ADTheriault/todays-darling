@@ -2,13 +2,43 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-25T08:31:35.567260+00:00</updated>
+  <updated>2026-09-26T08:18:28.189958+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#0307cb0c62e0</id>
+    <title>Guided by the trailer, I watched "We Are Aliens."</title>
+    <updated>2026-09-26T08:18:08.171314+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When you go to see a single movie like &lt;em&gt;Chiikawa&lt;/em&gt; six times, you end up watching the trailers in the theater exactly that many times. And naturally, among those trailers, you find something that catches your eye. Which is how I came to think, I want to see this, and headed out on opening day for an animated film called &lt;em&gt;We Are Aliens&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Why did I want to see it? The reason was the images on the screen. No, really, I'd taken in almost no information beyond that. It was just that those visuals, the way the backgrounds and objects and characters were rendered, struck me as tremendously fresh and new.&lt;/p&gt;
+
+&lt;p&gt;It wasn't only realism. There was a hand-drawn touch to it too. You could call it painterly, or photographic, but it also brought to mind the manga of Taiyo Matsumoto and the like. This was not a foreign work. It was unmistakably Japan, somewhere around the Heisei era. If I lingered on the images, I found I only wanted to keep looking at them.&lt;/p&gt;
+
+&lt;p&gt;So I decided not to look at anything else, not the story, not the introductions or the explanations. First and foremost, it was the pictures, and the way those pictures moved looked interesting. And if the film itself turned out to be a dud, well, so be it. I made my theater reservation in something like the spirit of drawing a lottery ticket.&lt;/p&gt;
+
+&lt;p&gt;The title, &lt;em&gt;We Are Aliens&lt;/em&gt;, has a vaguely science-fiction flavor to it, and it also feels almost like a parody. Having watched it, I can say this title suited the film well, though I also think it would have been plenty interesting under a different one.&lt;/p&gt;
+
+&lt;p&gt;I won't say too much about the content, but what it brought to my mind was &lt;em&gt;Stand by Me&lt;/em&gt;. That said, there's none of the dry, sun-baked feel of a Lucas film. From beginning to end, whether rain or sweat or blood or river or tap water or fish tank, water is being drawn on the screen the entire time. It was a film soaked through for a solid two hours, and that in itself was remarkable.&lt;/p&gt;
+
+&lt;p&gt;And what it tells, in a sense, is a self-introduction. It's the self-introduction of a person called "we," spoken by the two protagonists. There will surely be viewers in the audience who sync up with it, thinking, that's me too. And that, after all, is probably exactly what the person introducing themselves was hoping for. I find myself wanting to learn more about the planning, the screenplay, the director.&lt;/p&gt;
+
+&lt;p&gt;◆ Oh, and today's question, no. 053: "Are you lucky?" How about it? Give it some thought and send your answer by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you again today for coming to Hobonichi. Now that I've gotten into the habit of going to the movie theater, I've grown a lot more familiar with films.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#0307cb0c62e0"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author describes being drawn to the animated film *We Are Aliens* purely by its visual style—a striking blend of painterly and photographic techniques—and discovering that its poignant story about self-introduction and connection justified their gamble on appearance alone. Through its masterful use of water imagery and resonant themes, the film demonstrates how powerful visual storytelling can create meaningful emotional connections with audiences.</summary>
+    <published>2026-09-26T08:18:08.171314+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#f41ec62c6c85</id>
     <title>Feeling the unnecessary things</title>
@@ -845,32 +875,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Films about love and human connection remind us of our own capacity to care for others, and in a world where dislike comes more easily than affection, cultivating and recognizing these feelings of liking—whether romantic or tender—becomes essential to living a meaningful life.</summary>
     <published>2026-08-28T14:52:57.138262+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#917018eebc2f</id>
-    <title>What it means to have "baka" attached</title>
-    <updated>2026-08-27T13:45:17.867777+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;"That Itoi, he's a good-natured fool, honest to the point of stupidity." The one they were saying this about wasn't me, it was my father. He'd often sit drinking and talking with his close friends. That phrase, "good-natured to the point of stupidity," was, in its way, a bit of affectionate name-calling among people who liked each other. They'd even say things like, "He's a fool, a fool, a great big fool." And my father, on the receiving end, didn't seem to mind at all. If anything, he sat there grinning, thoroughly pleased with himself. Even then, I could sense it was a kind of backhanded praise.&lt;/p&gt;
-
-&lt;p&gt;Maybe the reason I remember it all so vividly is that the same scene played out over and over, again and again. To me as a child, though, the word "fool" seemed to be getting thrown around a little too conveniently, and I have to admit it wasn't a conversation I enjoyed.&lt;/p&gt;
-
-&lt;p&gt;Good-natured to the point of being a fool, honest to the point of being a fool. In a certain sense, isn't that an "invincible" banner to wave? A banner that cancels out all sorts of other, less flattering qualities. If it were me today, I might well have cut in with, "Come on, nobody's actually like that."&lt;/p&gt;
-
-&lt;p&gt;Later, once I was no longer a child, a manga called "Karate Baka Ichidai" ran in serialization, and, well, I read it avidly. But the way "fool" is used there is a little sly too, isn't it? If everyone else is "not a fool," then this particular "fool" starts to look like something good, something worth protecting. And I believe it was Fujio Akatsuka who came up with it, but Yuya Uchida's nickname, "the rock 'n' roll fool," has that same effect of neutralizing everything else about a person.&lt;/p&gt;
-
-&lt;p&gt;"Fool," as long as you're the one claiming it for yourself, is probably a wonderfully convenient word, like a crown you place on your own head. And that's precisely because it's a word you'd hate to have aimed at you. He who willingly dons the "crown of the fool" shall be revered. Not that I have any intention of going and doing that myself.&lt;/p&gt;
-
-&lt;p&gt;◆Now then, question no. 023 is: "Do you drink?" I wonder what sort of stories will begin once that question is asked. If you'd like, do write in and send us an email.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for stopping by Hobonichi today. Come to think of it, there are drinking scenes in "Chiikawa" too, aren't there.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#917018eebc2f"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay explores how calling someone a "fool"—when done affectionately and especially when self-claimed—becomes a disarming compliment that neutralizes criticism and creates an almost invincible social position. The author reflects on witnessing his father receive such backhanded praise and considers how this paradoxical label works as a convenient shield in human relationships.</summary>
-    <published>2026-08-27T13:45:17.867777+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
