@@ -2,13 +2,49 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-27T08:56:03.512842+00:00</updated>
+  <updated>2026-09-28T09:21:20.616953+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#9a9cf8a8b7ba</id>
+    <title>Language has always been squiggly.</title>
+    <updated>2026-09-28T09:21:00.946855+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;"Chiikawa" is short for "chiisakute kawaii yatsu," a small and cute little thing. "Mirishira" is short for saying you didn't know even one millimeter's worth about something. And "tamageta," meaning to be astonished, apparently comes from the idea of your very soul vanishing.&lt;/p&gt;
+
+&lt;p&gt;Oh, I see, is that so, I find myself thinking. Being startled really is like having your soul slip away, isn't it. Looking into the origins of words is quite a lot of fun. A famous example is the word for twilight, "tasogare." It comes from an old phrase meaning "who is that person over there?", the hour when it grows dark and you can no longer tell one face from another. There's something rather lovely about that one too, don't you think?&lt;/p&gt;
+
+&lt;p&gt;"Arigatou," thank you, comes from "arigatashi," which is to say that something is difficult to have or to come by. You're grateful because someone has done for you a thing that rarely happens. These are the sorts of things I've been taught, or overheard, over the years.&lt;/p&gt;
+
+&lt;p&gt;But what I actually want to talk about today lies one step further back than all of this.&lt;/p&gt;
+
+&lt;p&gt;"Tasogare" is made up of two words, "who" and "that person." I understand that much, I can follow it that far, that's all perfectly clear. But then, where did the words for "who" and "that person" themselves come from? Where did "ari" and "katashi" originate? Around when did they first appear, and how did they take shape?&lt;/p&gt;
+
+&lt;p&gt;I'm aware that this kind of research exists, of course. But when you start tracing it back the way you'd follow the branches of an evolutionary tree in biology, you inevitably arrive at "well, what was there in the very beginning?", drifting toward something like the origin of life itself.&lt;/p&gt;
+
+&lt;p&gt;And the thing is, words didn't evolve according to some precise set of laws. They've been used and bent and misspoken and forgotten, repeating that kind of change over and over like living creatures, until they became what they are now. That's just how it works, and I find it fascinating.&lt;/p&gt;
+
+&lt;p&gt;A dictionary tells you what a "dog" is, but that entry is really just a provisional casebook, a record of "this is the kind of thing everyone has agreed to call a dog." Isn't there something delightful in all this bewildering messiness?&lt;/p&gt;
+
+&lt;p&gt;◆ Today's question is no. 055: "Where does your name come from?"&lt;/p&gt;
+
+&lt;p&gt;Think back on it, and if you feel like it, write it down and send it to us by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you again today for coming to Hobonichi.&lt;/p&gt;
+
+&lt;p&gt;It makes me want to travel back up the flowing river, just to see where it all begins.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#9a9cf8a8b7ba"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay celebrates the organic, messy evolution of language by tracing word origins and exploring how words continuously change and reshape themselves over time, much like living creatures. Rather than seeking definitive answers, the author finds wonder in the endless mystery of where language ultimately begins.</summary>
+    <published>2026-09-28T09:21:00.946855+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#9af8742640f1</id>
     <title>On my silly recent circumstances.</title>
@@ -855,34 +891,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Through the practice of copying Chiikawa's art, the author discovers that true mastery requires understanding not just the visible techniques but the underlying rules and subtle distinctions that make each character unique—a gap between knowing and doing that extends far beyond drawing.</summary>
     <published>2026-08-30T08:54:31.490644+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#7ee1fa14df33</id>
-    <title>Karaoke, too, is a form of imitation.</title>
-    <updated>2026-08-29T09:42:55.899387+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When you do something that resembles "effort," people praise you. These days I've been doing this thing I call "Chiikawa copywork," and I'm fully prepared to be told it's an old man playing with cold water, that this isn't just learning at sixty but at seventy-seven. But because I plug away at it every single day, I get seen as "an old man making an effort," and somehow the praise starts creeping in. It's not like that at all. I'm just doing it, that's all. There are probably people who think I'm an idiot too, but I don't mind.&lt;/p&gt;
-
-&lt;p&gt;"Chiikawa copywork" is fun precisely because it's Chiikawa. And I deliberately call it "copywork," in the calligraphy sense, because there are discoveries to be made. It actually started when I watched the boss of my household doing calligraphy copywork and thought, "That looks kind of interesting." So the timing was just right.&lt;/p&gt;
-
-&lt;p&gt;I'd suspected for a long time that imitation is the foundation of learning. Once I actually began "Chiikawa copywork," that suspicion hardened into conviction. You come to feel, with real immediacy, just how bold and yet how meticulous the artist who drew the original was.&lt;/p&gt;
-
-&lt;p&gt;And there was still more to this thought!&lt;/p&gt;
-
-&lt;p&gt;Karaoke is copywork. You sing a song yourself because you think it's a good song. And when you try singing it with your own feelings, in your own body, you understand all over again how good the melody is, how good the lyrics are. Beyond that, you also come to appreciate the way the singer sings it, how wonderful that is. And you understand, all too clearly and unfortunately, just how far your own singing sits from the original that you're supposedly following. Sing karaoke and a respect for the song and the singer is born in you. See? Karaoke has exactly the same structure as copywork.&lt;/p&gt;
-
-&lt;p&gt;Ah, so it's copy-singing, then! I did too much of it today and hurt my throat.&lt;/p&gt;
-
-&lt;p&gt;◆Question no. 025 is: "Is there anything you're good at?" Don't just brush it off with a quick "no," give it some thought. If you like, write it in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you again today for coming to Hobonichi. As for my usual karaoke buddies, maybe I'll start calling them my song-friends.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#7ee1fa14df33"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author discovers that imitation—whether copying Chiikawa drawings or singing karaoke—is a joyful foundation for learning that deepens appreciation for the original work and reveals one's own distance from mastery. Through daily practice pursued simply for enjoyment rather than external validation, he finds that imitation naturally cultivates respect, humility, and genuine understanding.</summary>
-    <published>2026-08-29T09:42:55.899387+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
