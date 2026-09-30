@@ -2,13 +2,49 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-09-29T09:27:42.111528+00:00</updated>
+  <updated>2026-09-30T09:18:46.406689+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#c7468e0589ae</id>
+    <title>Again: the story of when I came in 8th place.</title>
+    <updated>2026-09-30T09:18:23.649509+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've told this same story over and over again. It's about the days when I was completely absorbed in fishing.&lt;/p&gt;
+
+&lt;p&gt;There was a local bass fishing tournament held at Lake Kawaguchi. It was a regular competition, held a few times a year, and I think around 150 people usually took part. Me, a proper middle-aged man, would line up at the reception desk from around six in the morning, waiting for the start alongside younger folks and students who were all my seniors when it came to fishing. I can't remember whether the tournament ended at one in the afternoon or some other time, but the idea was that you'd have your catch weighed in turn and compete for a ranking.&lt;/p&gt;
+
+&lt;p&gt;As a newcomer, I was one of the older working adults, but I was one of the worse ones. I usually placed around 80th, squarely in the "thanks for participating" group. But then, one day, I had a feeling I'd actually caught a decent amount, and when I had it all weighed in and the results came out, I'd landed in 8th place.&lt;/p&gt;
+
+&lt;p&gt;This whole rambling piece I've written could really just come down to those two characters: "8th place."&lt;/p&gt;
+
+&lt;p&gt;Normally, watching sports and the like, I only ever paid attention to the battle for first. I'd feel crushed when someone lost in 2nd, or disappointed by a 5th. So when someone like me came in not first, not fifth, but 8th, I was so genuinely happy that tears actually welled up.&lt;/p&gt;
+
+&lt;p&gt;Eighth place is amazing, I realized. When you're not a competitor yourself, just watching the fight for the top, 8th place is something you can't even begin to think about. But once you become the one actually taking part, you understand just how happy 8th place can make you (and I suppose you'd also understand the frustration of 8th, too).&lt;/p&gt;
+
+&lt;p&gt;When you look at Mount Fuji, it's normal to look at the summit. But Fuji exists together with those vast, sweeping foothills too. I looked it up, and even the fifth station, where you can go by bus, is about 2,300 meters above sea level. If you were to walk all the way to the top, even the fifth station is quite something.&lt;/p&gt;
+
+&lt;p&gt;"Understanding that there are things you can only imagine because you're not the one involved, and then, on top of that, becoming able to imagine what it's like for the person who is." Maybe that's the kind of practice we're all doing. And yet, honestly, we still don't really understand it at all.&lt;/p&gt;
+
+&lt;p&gt;◆Today's question no.057: "Have you ever won an award or a prize?"&lt;/p&gt;
+
+&lt;p&gt;How about it? Give it some thought, and if you feel like it, send me an email.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
+
+&lt;p&gt;There are some things you just can't reach, no matter how much grit, effort, or talent you have.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#c7468e0589ae"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author discovers that achieving 8th place in a fishing tournament brings unexpected joy, revealing that genuine accomplishment and happiness aren't found only at the top, but come from participating and understanding experiences beyond what we can merely observe from the outside.</summary>
+    <published>2026-09-30T09:18:23.649509+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#e76ea1fa251e</id>
     <title>Me in this vast world.</title>
@@ -855,40 +891,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay challenges our cultural bias toward "depth" by drawing a parallel between agriculture and life philosophy: shallow, spreading roots are often more practical and nourishing than deep ones, suggesting that what matters most isn't how profoundly we engage with something, but how widely and genuinely we connect with it.</summary>
     <published>2026-09-01T08:17:17.602771+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#ee462df7ed99</id>
-    <title>Things I'm really bad at.</title>
-    <updated>2026-08-31T09:18:55.770625+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There's such a thing as "the correct form."&lt;/p&gt;
-
-&lt;p&gt;When you visit a shrine, it's two bows, two claps, one more bow, wasn't it? Even now I can't properly remember where and how you're supposed to do the bows and the final bow.&lt;/p&gt;
-
-&lt;p&gt;The same goes for offering incense at a funeral. Which way to face, whom to bow to, what exactly to do. I've done it countless times, and still I don't understand it. I forget what the "correct form" is even supposed to be.&lt;/p&gt;
-
-&lt;p&gt;It's not as though anyone's going to scold me for it, but I do wish I could manage it in the "correct form," just like everyone else. And yet I never have the slightest confidence that I actually can.&lt;/p&gt;
-
-&lt;p&gt;Whether it's paying respects at a shrine or offering incense, I think what matters is the reverence, toward the enshrined gods or the buddhas, toward the person who has passed away. But the moment I'm in a situation where the "correct form" is fixed and prescribed, my heart goes somewhere else entirely.&lt;/p&gt;
-
-&lt;p&gt;I have a feeling this is something I'll carry with me my whole life, never cured. I even suspect I'll manage to bungle something at my own funeral.&lt;/p&gt;
-
-&lt;p&gt;When you try to live by drawing closer to the "correct form," you end up asking, "How does everyone else do it?" You look into things like "What's the general practice?" and "What's the going standard?" and "What's the way to do it without embarrassing yourself?" and then you move yourself to fit the answers. Which means your will, your confidence, your judgment, all of it, just disappears.&lt;/p&gt;
-
-&lt;p&gt;Lately, watching the people of the world, I notice there are an awful lot of them living their lives with the "correct form" as their axis. When that happens, "the way that can't go wrong" becomes the best option. And so, well, everyone ends up doing their version of two bows, two claps, one bow, and somehow it all feels like "job done."&lt;/p&gt;
-
-&lt;p&gt;Let's get back to remembering what actually matters. Being like me, losing myself at weddings and funerals and every ceremonial occasion, that won't do.&lt;/p&gt;
-
-&lt;p&gt;◆So here's question no. 027: "When are the times you feel most like yourself?" What sort of moment is it, what sort of scene? Try picturing it. If you feel like it, write it in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. My dread of "procedure" and "the correct form" really is something terrible.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#ee462df7ed99"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author explores how rigidly adhering to prescribed "correct forms" in rituals and social conventions causes us to lose sight of what truly matters—genuine reverence and authenticity—and paradoxically disconnects us from ourselves. By prioritizing external correctness over inner intention, we surrender our will and judgment, ultimately performing life rather than living it.</summary>
-    <published>2026-08-31T09:18:55.770625+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
