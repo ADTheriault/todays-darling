@@ -2,13 +2,35 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-01T09:45:55.086881+00:00</updated>
+  <updated>2026-10-02T09:20:38.605391+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#3ba955b667b9</id>
+    <title>Wandering about, another day just like any other.</title>
+    <updated>2026-10-02T09:20:17.412984+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Yesterday, in something of a muddle, I wrote that October 1st was going to be "quite a day," and somehow or other I made it through. Most of the days I'd dreaded, the ones where I kept thinking "I'm scared of when this day comes," end up becoming "yesterday" one way or another. That's just how it goes. "Shigesato Itoi's Live Reading" really was hard work, but it was the kind of hard work that felt genuinely worthwhile. Above all, I enjoyed it myself. I suppose what I'm doing is simply taking what I normally do silently, alone, in my head, and letting myself have fun with it out loud. I probably won't stop just yet. I'm thinking about a third book.&lt;/p&gt;
+
+&lt;p&gt;I'd left my smartphone behind and was out when I suddenly remembered something I absolutely had to get in touch about. If I went home or back to the office it would sort itself out, but I couldn't wait that long, so I was getting a little frantic. Wasn't there one of those old red public phones somewhere? I looked, but of course there was no such thing. And yet, by some stroke of luck, there was a phone booth. Surely the phone inside wouldn't have been removed? Oh good, it was fine, there it was, an actual phone. No phone card in my wallet, but I had a ten-yen coin. All I had to do was make the call, and up to that point everything was fine. But then it hit me. I didn't know the number. If it's saved in your phone, you can call without knowing the number at all. Of course. I never knew the numbers in the first place. And yet somehow I used to make calls, used to send messages and all the rest. Come to think of it, the only phone number I have memorized these days is my home number, the one you write down when applying for something. It's quite possible I don't know a single other one. The only thing that comes to mind is that old jingle, the "Castella is number one, the phone is number two" song. And even then, dialing just "two" would hardly get you through to Bunmeido.&lt;/p&gt;
+
+&lt;p&gt;It reminded me of the time my electric toothbrush ran out of battery, and until it finally dawned on me that I could just brush by hand, I stood there frozen, thinking, oh no, what do I do. Convenience can shade into inconvenience, I suppose, but well, there's no helping it.&lt;/p&gt;
+
+&lt;p&gt;◆Today's question no.059: "Looking back, how far I've come." What's yours? Feel free to think it over, and if you like, send it to us by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you for coming to Hobonichi again today. A tug of strength against strength, technique against technique. Today is the day of the tug-of-war tournament!&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#3ba955b667b9"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on how modern conveniences like smartphones have made us dependent and forgetful—unable to remember phone numbers or function without them—while celebrating the author's own experience of performing live and sharing their creative work publicly. It explores the paradox that convenience can become its own form of inconvenience when we lose basic skills we once took for granted.</summary>
+    <published>2026-10-02T09:20:17.412984+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#602926636dd4</id>
     <title>There's nothing I can do about myself.</title>
@@ -867,34 +889,6 @@
     <link href="https://www.1101.com/"/>
     <summary>This essay reflects on how illustrations were essential to the author's childhood reading experience, despite causing anxiety, and laments how modern publishing has largely abandoned pairing text with pictures—a practice that once made stories more engaging and accessible for young readers.</summary>
     <published>2026-09-03T07:46:38.327738+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#d26d3f762115</id>
-    <title>Oh, the passing of time, and how casually it slips away.</title>
-    <updated>2026-09-02T07:37:01.153527+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;With a quiet, sinking sort of feeling, I think, "Ah, you young people," and then I call out to them. It's astonishing, I want to say, how time truly does slip away. To those of you in your thirties, to those around forty, to those who are fifty or so, I want to tell you this: the happy things, the painful things, the embarrassing things, they all go flying past behind you, like scenery through a train window. After all, the Miura Jun who was a student is now sixty-eight, the Kimura Takuya who was a boy is now a fifty-three-year-old father, and the fact that I'm the one saying all this at seventy-seven means none of it is really so strange.&lt;/p&gt;
-
-&lt;p&gt;You feel like you've just been eating your lunch on your break, and then it's already evening. That's the sort of pace at which the months and years pass by too, and eventually you come to feel this, half in astonishment and half as the most natural thing in the world.&lt;/p&gt;
-
-&lt;p&gt;Honestly, there's no real lesson in any of it. "Youth passes quickly, and learning is hard to come by," and so on, well, that's true enough. But it's simply a fact. There's no need to panic. Things turn out the way they turn out.&lt;/p&gt;
-
-&lt;p&gt;I've mentioned this a few times before, but when I was around fifty, I had my fortune read using the Four Pillars of Destiny. I was told that I had "a fate in which nothing you do will work out." At the time I was in a phase where I was hoping to find some encouragement, so being told the exact opposite got me down a little, I'll admit. And apparently the only way out of this "nothing will work out" fate was fully fifteen years away, starting at sixty-five. I remember thinking, by then I'll already be an old man, that's just cruel.&lt;/p&gt;
-
-&lt;p&gt;But, to rush ahead in the story a bit, before I knew it I had turned sixty-five, and in all the years leading up to it, life had been neither painful nor a failure. Nor, for that matter, did I feel that my luck had suddenly opened up at sixty-five. Time had simply passed, and before I knew it there I was, sixty-five. So that's how it is, I thought. Being alive is just time going by.&lt;/p&gt;
-
-&lt;p&gt;I found I was able to think, "Either way, that moment comes." There was no need to fret about time passing at all. What passes, passes. What grows old, grows old. What dies, dies. There's no "enlightenment" to it, because it's the same for everyone. And even after becoming an old man, life is, in its way, rather interesting.&lt;/p&gt;
-
-&lt;p&gt;So, today's question, no. 029: "Is this, perhaps, my flaw?" Shall we go looking for it? If it's there, it's there. If it isn't, it isn't. If you like, write it in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. I do wonder what a young person would make of today's little piece.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#d26d3f762115"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Time passes inevitably and far more quickly than we realize, but accepting this fact with equanimity—neither panicking nor seeking meaning in it—is simply the natural way of living. The author suggests that worrying about life's passage is futile; what matters is recognizing that being alive is merely time moving forward, and finding interest in it as it comes.</summary>
-    <published>2026-09-02T07:37:01.153527+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
