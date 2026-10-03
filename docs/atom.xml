@@ -2,13 +2,45 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-02T09:20:38.605391+00:00</updated>
+  <updated>2026-10-03T08:51:38.430625+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#db9dca4d64d4</id>
+    <title>The festival's over, and I'm not even sad.</title>
+    <updated>2026-10-03T08:51:12.682522+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;It won't make the news anywhere, being the kind of purely local affair that it is, but yesterday, at the "Kanda Nishikicho Ennichi" festival, our team, the "Hobonichi Hipparees," won the "Tug-of-War Tournament 2026," reclaiming the trophy we'd once crafted ourselves out of prize money from years past. Who knew a victory after three long years could feel this good? The Hobonichi crowd was positively choked up with tears of joy.&lt;/p&gt;
+
+&lt;p&gt;Truly, it's a bit of local news, a shameless bit of self-promotion, the result of a competition that may well strike some as trivial. But for the neighbors of Kanda Nishikicho in Chiyoda Ward, it was a "festival" that had everyone fired up for the first time in ages.&lt;/p&gt;
+
+&lt;p&gt;Now, Kanda has always had the "Kanda Matsuri," a grand festival known all across the country. There's no payment for the labor, of course, and come to think of it, no trophy to fight over either, and the preparations that come around once every two years are an enormous, exhausting undertaking. And yet, "We do it." Because this is Kanda.&lt;/p&gt;
+
+&lt;p&gt;It all started, really, back when our company was first set to move to this neighborhood. The elders of the local association pressed us firmly on one point: "You'll be taking part in the festival, won't you?" W-well, of course we'll take part! It's an absolute blast, after all.&lt;/p&gt;
+
+&lt;p&gt;But, aside from the "Kanda Matsuri," there also turned out to be this thing called the "Kanda Nishikicho Ennichi," and that one caught us completely off guard. Still, "We do it!" Because that's just how Nishikicho is.&lt;/p&gt;
+
+&lt;p&gt;Four years ago, we didn't just set up our signature "Twice-the-Fun Yo-Yo Fishing" stall, so very Hobonichi. We also threw ourselves into the "Tug-of-War Tournament" with a cry of, "Let's take this seriously!" And so, Hobonichi, a company that usually acts like a bunch of goof-offs who skip club activities to head straight home, gritted its teeth and actually went and won the whole thing. Which got everyone in town going, "Oh yeah? Then so will we!" They caught fire too. These things are always more fun the more seriously you take them.&lt;/p&gt;
+
+&lt;p&gt;And so, this year, 2026, the number of participating teams swelled to 48. The venue moved to a larger spot, and by the neighborhood association chairman's eyeball estimate, the crowd of spectators and participants, young and old, men and women alike, came to "around 5,000." A roaring success. A festival that brings neither profit nor loss, offering, for this one night only, the thrill of winning and losing. Honestly, "having a neighborhood" really is a wonderful thing, isn't it?&lt;/p&gt;
+
+&lt;p&gt;◆ Today's question is no. 060: "When you hear the word 'festival,' what comes to mind?"&lt;/p&gt;
+
+&lt;p&gt;Give it some thought, and if you feel like it, send your answer to me by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for visiting Hobonichi today. The Hobonichi crew, believe it or not, actually gets plenty of real work done too.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#db9dca4d64d4"/>
+    <link href="https://www.1101.com/"/>
+    <summary>A local company's tug-of-war victory reignites community spirit in their Tokyo neighborhood, demonstrating how taking small, local traditions seriously can transform a modest festival into a unifying celebration that brings thousands together.</summary>
+    <published>2026-10-03T08:51:12.682522+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#3ba955b667b9</id>
     <title>Wandering about, another day just like any other.</title>
@@ -861,34 +893,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on how people once freely idolized historical and cultural figures through playful self-comparison, but this practice has faded as society has become more cynical and self-aware, leaving us to wonder whether we've lost something meaningful about aspiration and imagination in the process.</summary>
     <published>2026-09-04T07:42:14.856530+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#13de81916fcd</id>
-    <title>Maybe I don't like reading nothing but text either</title>
-    <updated>2026-09-03T07:46:38.327738+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When I was a child, there was a story called "The Boy Detectives Club." It was a detective novel written for young readers by Edogawa Ranpo, and it was full of all sorts of suspicious characters and strange scenarios that never let you get bored. At its center was a brilliant detective named Kogoro Akechi, who solved the cases, but he had a team of assistants, the "Boy Detectives Club," led by young Kobayashi.&lt;/p&gt;
-
-&lt;p&gt;Older folks probably remember this, but the villain was essentially always the Fiend with Twenty Faces. Looking back on it now, the structure of the stories is quite similar to something like "Batman" from American comics.&lt;/p&gt;
-
-&lt;p&gt;As an elementary school kid, I read these tales of "fear" and "wisdom" and "courage" in complete earnest. Each volume in this book series had several "illustrations" scattered throughout. Usually they took up about a page, drawn with plenty of black ink. Without those pictures, I don't think I could have kept reading a "detective novel" made of nothing but words.&lt;/p&gt;
-
-&lt;p&gt;And yet, letting my eyes fall on those pictures was terrifying. Without the illustrations I lost the will to read, but the pictures scared me, so I wanted to avoid looking at them. I never told anyone about this complicated little tangle in my heart, but I still remember it clearly to this day.&lt;/p&gt;
-
-&lt;p&gt;It wasn't just "The Boy Detectives Club." My memory is that novels for young readers naturally came with "illustrations." You could even say that without the "illustrations," there was nothing to get excited about. That relationship, between readers who craved a "picture" at just those moments, and the editors and artists who delivered them, seems to have mostly vanished these days.&lt;/p&gt;
-
-&lt;p&gt;As an exception, "newspaper serials" still come with illustrations, don't they. It's different from manga, where the pictures are the main event, but I found myself thinking that the feeling of "nothing but words for so long makes it less enjoyable" is something we could afford to scoop up and honor a little more.&lt;/p&gt;
-
-&lt;p&gt;◆Today's question is no. 030: "When is it that you laugh?" Roughly speaking, do you laugh every day? Give it some thought. If you'd like, write it in an email and send it over.&lt;/p&gt;
-
-&lt;p&gt;Thank you again today for coming to Hobonichi. It made me wonder whether people really do love "something made of words alone."&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#13de81916fcd"/>
-    <link href="https://www.1101.com/"/>
-    <summary>This essay reflects on how illustrations were essential to the author's childhood reading experience, despite causing anxiety, and laments how modern publishing has largely abandoned pairing text with pictures—a practice that once made stories more engaging and accessible for young readers.</summary>
-    <published>2026-09-03T07:46:38.327738+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
