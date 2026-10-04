@@ -2,13 +2,35 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-03T08:51:38.430625+00:00</updated>
+  <updated>2026-10-04T09:20:11.471703+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#81db8f890f1e</id>
+    <title>Some thoughts I had over the weekend</title>
+    <updated>2026-10-04T09:19:52.453599+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;So the Hanshin Tigers clinched the pennant, and with that, the baseball season has finally wrapped up. What a season it was. All sorts of things happened. The Giants' manager suddenly stepped down one day, and the man who was told, "You take over," well, that's no small thing to be handed. You can't exactly sit back and say something modest like, "Oh, someone like me couldn't possibly..." Not when it's professional baseball, where "fighting spirit" is the whole point. It must have been rough. In a way, it was a year of rebuilding. Day after day, it was about rising up from a tough position and figuring out how to see the fight through to the end. And to still be in the running for the title late in the season, I'd say that's more than enough to be proud of. Of course, if you start wanting more, there's no end to it.&lt;/p&gt;
+
+&lt;p&gt;I went to see "We Are Aliens" for the second time. I almost never used to watch a movie more than once, but maybe "Chiikawa" got me into the habit. Maybe I just want to take in all that painstaking handiwork, the way you can tell the people who made it went to such lengths, right down to the smallest details. And the second viewing was good again. It really is something. The enthusiasm, the care, the sense of taste, all of it is left behind as expression in every corner of the film. Maybe going to see it again felt like going on a hunt to discover all of that. Like spotting an ammonite fossil in a marble wall. And let me tell you, this movie is absolutely crawling with ammonites. And in a larger sense, I think it's a story of "affirmation." Remember how there used to be a movie tagline that went, "Live."? I almost want to borrow it again right here. That's the feeling it left me with. By the final scene, I actually ended up in tears.&lt;/p&gt;
+
+&lt;p&gt;People are free to think whatever they think, and to say whatever they say. But because they're free, they also end up thinking and saying cruel things. Once, something like that would have been born and vanished like a bubble, tucked away in some corner where no one would ever see it. But these days, even graffiti in a back alley is a form of transmission that other people can see. Lies, slander, foul-mouthed insults, they all go flying off into the air. And without even realizing it, we breathe them in too.&lt;/p&gt;
+
+&lt;p&gt;◆Today's question is no. 061: "What would you write on a blank sheet of paper?" So, what would it be? If you'd like, feel free to send us an email.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for stopping by Hobonichi today. Kyoto, Shibuya PARCO, Akagi, Kanda, everyone's doing well.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#81db8f890f1e"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on the beauty of craftsmanship and intentional creation—whether in cinema or sports—while grappling with how modern technology amplifies both human connection and cruelty in ways that feel inescapable.</summary>
+    <published>2026-10-04T09:19:52.453599+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#db9dca4d64d4</id>
     <title>The festival's over, and I'm not even sad.</title>
@@ -861,38 +883,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay distinguishes between "restoration"—merely rebuilding what was lost after disaster—and "recovery," which requires the spirit to actively raise up something new and vital within a community. The author reflects on how Japan's post-disaster recovery and broader economic stagnation both hinge on whether society can truly embrace this dynamic sense of renewal rather than simply returning to the past.</summary>
     <published>2026-09-05T07:24:16.843698+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#7dec64c2471f</id>
-    <title>Is there someone you'd want to become if you could?</title>
-    <updated>2026-09-04T07:42:14.856530+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The older guys back in the day had this habit of comparing themselves to warlords from the Sengoku era. "See, our department head, he's a Tokugawa Ieyasu, so..." or "Well, I'm an Oda Nobunaga myself, patience was never my thing." Honestly, I wanted to tell them, look, you're not Ieyasu and you're not Nobunaga, you're just you, plain and simple. But there's no sense ruining a good story, so I kept my mouth shut.&lt;/p&gt;
-
-&lt;p&gt;Then there were all the Sakamoto Ryomas, scattered across every corner of the country. So many of them. I'm Ryoma, he's Ryoma, everybody's Ryoma. You could practically hold a "Sakamoto Ryoma Convention" or start a "Sakamoto Ryoma Party." And since the man himself is dead serious about it, I figured I might as well let him keep talking like some noble revolutionary from a period drama.&lt;/p&gt;
-
-&lt;p&gt;Oh, and there was the Beatles version too. "I'm the Paul of the group, so I'm the one smoothing things over." "Me, I just can't help being a John." You didn't hear "I'm the Ringo" or "I'm the George" nearly as often. Whatever the case, buddy, you're not John, you're not Paul, and you're not Ringo either.&lt;/p&gt;
-
-&lt;p&gt;I wonder what happened to those "imaginary heroes." Somewhere along the way, whether we let it slip on purpose or just by accident, they seem to have vanished from the world. Maybe it's because the moment anyone starts talking with that kind of feverish enthusiasm, some cool, sober voice cuts them right down. Maybe everyone's simply figured out that, at the end of the day, I'm just me and nothing more. Or maybe the whole world has just gotten a bit too "clever." And sure, it's true, you aren't Nobunaga, and you aren't Paul. You'll never be Shohei Ohtani either. ♫&lt;/p&gt;
-
-&lt;p&gt;I have absolutely no intention of saying this state of affairs means we've lost our dreams. After all, I couldn't tell you what the dreams of all those Sakamoto Ryomas actually were.&lt;/p&gt;
-
-&lt;p&gt;Ah, that's it, let's make this today's theme for the reader interview.&lt;/p&gt;
-
-&lt;p&gt;◆Question no. 031: "Is there someone you'd want to become, if you could?"&lt;/p&gt;
-
-&lt;p&gt;Don't just brush it off with a quick "nobody," give it a real think. If you feel like it, write it down in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thanks, as always, for stopping by Hobonichi today.&lt;/p&gt;
-
-&lt;p&gt;As for me, right now, the ones I look up to are dogs, and little kids, and Chiikawa.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#7dec64c2471f"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on how people once freely idolized historical and cultural figures through playful self-comparison, but this practice has faded as society has become more cynical and self-aware, leaving us to wonder whether we've lost something meaningful about aspiration and imagination in the process.</summary>
-    <published>2026-09-04T07:42:14.856530+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
