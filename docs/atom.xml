@@ -2,13 +2,41 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-04T09:20:11.471703+00:00</updated>
+  <updated>2026-10-05T10:00:23.030349+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#ecd1ba806135</id>
+    <title>Meeting by chance and simply talking.</title>
+    <updated>2026-10-05T10:00:04.850765+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've probably had more chances than most people to meet others and talk with them. Some I know well, some I know only a little, and sometimes I meet people I hardly know at all. It's not as if I show up having done zero research on them, zero thought about what we might talk about. That would be too much. But I make a point of not "researching thoroughly" or "preparing carefully."&lt;/p&gt;
+
+&lt;p&gt;If someone wants to prepare for something "thoroughly," by all means, go ahead. On one condition, though: that they're ready to let all that enormous preparation go to waste.&lt;/p&gt;
+
+&lt;p&gt;Map out the route too precisely and it's guaranteed to be no fun. When two people meet, it's the moment a kind of "living thing" is born. If both sides just take turns reciting things they already know perfectly well, it's hard for anything to come of it, and honestly, the conversation itself isn't interesting while it's happening. You might come away thinking you "learned something," sure. But I think what's most interesting is when both people stumble onto some small new discovery together.&lt;/p&gt;
+
+&lt;p&gt;I once explained this way of meeting people to the other person directly. I was about to have a conversation with someone from overseas whom I'd never met, and I started by saying, "Shall we talk like two strangers who just happened to end up sitting next to each other at a bar?" Even with a bit of prior knowledge, asking "So, where are you from?" all over again is exactly the sort of thing a neighbor at a bar might do. I've kept doing this kind of thing over and over, and it's made me who I am today.&lt;/p&gt;
+
+&lt;p&gt;That said, this thing I'm writing here, the former "Today's Darling," who exactly am I writing it for, and what am I actually doing? Maybe it's like the owner of some little shop making small talk with a customer from down the street, going, "Seems like there's a lot of pollen in the air lately, huh..." Which kind of roasted sweet potato is the tastiest, a good manga I came across, and sometimes, with a perfectly straight face, something solemn and self-important too.&lt;/p&gt;
+
+&lt;p&gt;◆Today's question is no. 062: "Anything good happen to you lately?" Whether something did or didn't, it's all just small talk. Let me know by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for stopping by Hobonichi today.&lt;/p&gt;
+
+&lt;p&gt;When things don't go the way you wanted, maybe it's that "the way you wanted" was the questionable part.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#ecd1ba806135"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author argues that meaningful human connection comes from approaching conversations with openness and minimal preparation, allowing genuine discoveries to emerge organically rather than simply exchanging pre-planned information.</summary>
+    <published>2026-10-05T10:00:04.850765+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#81db8f890f1e</id>
     <title>Some thoughts I had over the weekend</title>
@@ -849,40 +877,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Navigating crowded urban spaces requires constant physical and mental effort that depletes our energy, revealing a fundamental human need for "sparse space" to recover and maintain well-being. The author argues that whether in busy city centers or crowded regions, dense populations drain us through both physical exertion and the constant social awareness required in close proximity to others.</summary>
     <published>2026-09-06T07:37:37.295368+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#cd0fdd18d583</id>
-    <title>Hey everyone, are you fired up and starting something?</title>
-    <updated>2026-09-05T07:24:16.843698+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;"Recovery and restoration are not the same thing." I said this many times, back when rubble still lay scattered everywhere, talking with the people of Kesennuma.&lt;/p&gt;
-
-&lt;p&gt;The disaster took so much away, and putting things back the way they had been, that is restoration. There are records and memories of what once stood there, and you can roughly gauge what needs to be done. Budgets get assigned, plans for restoration are drawn up, and carried through to completion. It matters enormously. Thanks to this work of restoration, the disaster areas of that time have become what they are now.&lt;/p&gt;
-
-&lt;p&gt;And yet, I have a feeling that neither I nor the people living there ever quite understood what "recovery," as distinct from restoration, was really supposed to be.&lt;/p&gt;
-
-&lt;p&gt;For a region whose past has been swept away by earthquake and tsunami, it is easy enough to "say" that it will seize the moment and "recover." In Japanese, only a single character changes between the two words, while the character meaning "to return" stays the same. But that one new character is not so simple.&lt;/p&gt;
-
-&lt;p&gt;It is a remarkable character, really. It carries a great deal on its shoulders. In its ancient oracle bone form, it seems to have depicted several pairs of hands lifting something up together. It holds a dynamic sense of "raising up," of "getting something going."&lt;/p&gt;
-
-&lt;p&gt;That same character appears in words for promotion, for the rise of something new, for enterprise, for staging a performance. And it reaches further still, into the movements of the heart: interest, fascination, taking delight in something, being carried away by the moment, having one's mood spoiled, excitement, and so on. There is a sense of being lifted up and set into motion, don't you think?&lt;/p&gt;
-
-&lt;p&gt;So it was that character, the one that "raises up," and not the one that simply "returns," that we wanted. When we said, back then, that we wanted not restoration but recovery, I wonder just how much of it has actually come to pass. It is only now, at this late date, that I find myself wanting to think it over again.&lt;/p&gt;
-
-&lt;p&gt;And here is another thing. People talk about "Japan mired in stagnation," and they have been saying such things for decades now. But here too, is there anywhere that something is being "raised up," anywhere that something is genuinely "rising"? I would like to go looking for that spirit of "raising up," while taking a hard look at myself as well.&lt;/p&gt;
-
-&lt;p&gt;◆ And so, question no. 032: "What are you interested in?" Give it some thought, write it down, and if you like, send it to us by email.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
-
-&lt;p&gt;Founding a company, launching an industry, these too are expressed with that very same character.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#cd0fdd18d583"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay distinguishes between "restoration"—merely rebuilding what was lost after disaster—and "recovery," which requires the spirit to actively raise up something new and vital within a community. The author reflects on how Japan's post-disaster recovery and broader economic stagnation both hinge on whether society can truly embrace this dynamic sense of renewal rather than simply returning to the past.</summary>
-    <published>2026-09-05T07:24:16.843698+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
