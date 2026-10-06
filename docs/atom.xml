@@ -2,13 +2,35 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-05T15:22:03.579173+00:00</updated>
+  <updated>2026-10-06T09:46:07.811806+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#1290f6873f1c</id>
+    <title>Good times, good people, good things.</title>
+    <updated>2026-10-06T09:45:50.949422+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The third floor of Hobonichi in Kanda is built, if I had to describe it, like a family restaurant. It doesn't matter who's standing or sitting where. Working, chatting, eating, debating, dozing off, none of it draws any complaint as long as it isn't a serious nuisance to others. There are other, quieter floors, so you can just move if you want to. You're free to peer over someone's shoulder or from the side while they work, hold a meeting, or show something off, and in a sense, some meetings are held precisely because people want to be peered at. This is also the floor where snacks people have given us and all sorts of delicious things get lined up on the counter with a cheerful "Help yourselves." We designed it from the very start to be that kind of place.&lt;/p&gt;
+
+&lt;p&gt;During so-called working hours, putting on a so-called working face and staring seriously at a computer screen matters far less than talking about chess, which someone's recently gotten into, or recounting the shock of watching "We Are Aliens," or wondering aloud whether a certain Chinese restaurant's summer-only "chilled scallion noodles" has gone back to being shrimp fried rice now that it's October. Thinking and talking about things like that is what's important. Incidentally, I can't eat shrimp, I'm allergic.&lt;/p&gt;
+
+&lt;p&gt;The labor and time spent drafting throwaway plans E, F, and G just to show your counterpart the process of effort you've put in. The hours spent pretending to work diligently. Things like that aren't merely a waste, they're an active hindrance. Far more valuable is the time spent talking back and forth, like a bunch of middle schoolers, about what's fun, what's delightful, what's sad, what's lonely. Everyone already does the serious, steady grind. I think the hours of forced "pretending to work" would be better turned into enjoyable play, for the person's own health, for the mood of their colleagues, and for the future of humanity.&lt;/p&gt;
+
+&lt;p&gt;◆Today's question is no. 063: "What is a good time, for you?" Give it some thought, and if you feel like it, let us know by email.&lt;/p&gt;
+
+&lt;p&gt;Thank you, as always, for coming to Hobonichi today. People from outside sometimes say, "Hobonichi is actually pretty strict, you know."&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#1290f6873f1c"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Hobonichi's third floor is intentionally designed as a relaxed, family-restaurant-like space where genuine human connection, playful conversation, and creative thinking are valued far more than the performative appearance of productivity. The author argues that this culture of allowing people to be authentically themselves—rather than pretending to work—ultimately benefits individual wellbeing, team morale, and creative output.</summary>
+    <published>2026-10-06T09:45:50.949422+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#ecd1ba806135</id>
     <title>Meeting by chance and simply talking.</title>
@@ -849,34 +871,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay argues that humanity has always developed tools like cars and calculators precisely to surpass human capabilities, yet we've only begun to feel anxious about this superiority when machines started competing in domains we considered distinctly human, like chess—suggesting our unease with AI reflects a philosophical confusion about technology's intended purpose rather than a genuine threat.</summary>
     <published>2026-09-07T07:55:05.764621+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#63a33f8d91a7</id>
-    <title>Walking while weaving through the crowd.</title>
-    <updated>2026-09-06T07:37:37.295368+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When you head out to somewhere like Shibuya on the weekend, the crowds are just enormous. I'd say maybe sixty percent of them are travelers from overseas. They probably walk at a different pace, spreading out in a different way than city people here in Japan do. To keep from bumping into anyone, you have to make a few adjustments of your own.&lt;/p&gt;
-
-&lt;p&gt;But even with the young people who look properly Japanese, you'll get several of them walking abreast in a row, and that too is something you have to deal with. Slipping through the gaps becomes your job. This is the sort of thing we've probably always been doing, unconsciously, in the middle of crowds. An ordinary level of congestion I'm used to, but when it gets truly packed, you end up dodging this way and that like a rugby match, and it's quite tiring. If you were only walking, you'd just be burning the energy of the exercise, but once you add in the swerving and the shifts in speed, your body ends up working all sorts of subtle little muscles, and I imagine your nerves are hard at work too.&lt;/p&gt;
-
-&lt;p&gt;(These were the thoughts that occurred to me as I walked up Dogenzaka, and once I started walking with the deliberate intent of writing about it for Hobonichi, I realized just what a tiring thing I was doing.)&lt;/p&gt;
-
-&lt;p&gt;People who live out in the regions say "the city wears you out," but wouldn't the busy downtown districts in the regions be exactly the same? In places where the distance between one person and the next grows close, you use your nerves on "relationships" without even noticing, and that must be what tires people out.&lt;/p&gt;
-
-&lt;p&gt;So yes, I really do think that, well, I won't go so far as to say deep in the mountains, but a space that isn't crowded, what Kazuto Ataka calls "sparse space," is probably something human beings need, like a bath or like nourishment. Hobonichi may be living its life within the city, but lately we've become very conscious of cultivating that kind of "sparse space" ourselves.&lt;/p&gt;
-
-&lt;p&gt;◆And so, today's question, no. 033: "Do you have any secrets?" Give it a bit of thought and see what comes to mind. Only as far as feels comfortable, and if you like, feel free to send it in by email.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
-
-&lt;p&gt;I once heard that living things, when they pack in too densely, end up destroying themselves.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#63a33f8d91a7"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Navigating crowded urban spaces requires constant physical and mental effort that depletes our energy, revealing a fundamental human need for "sparse space" to recover and maintain well-being. The author argues that whether in busy city centers or crowded regions, dense populations drain us through both physical exertion and the constant social awareness required in close proximity to others.</summary>
-    <published>2026-09-06T07:37:37.295368+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
