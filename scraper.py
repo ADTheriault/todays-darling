@@ -286,67 +286,115 @@ def get_client() -> Anthropic:
     return _client
 
 
-def translate_text(japanese_text: str, is_title: bool = False) -> str:
-    """
-    Translate text using Claude API.
+# The author is almost always Itoi; known names skip an API call entirely
+KNOWN_AUTHORS = {
+    "糸井重里": "Shigesato Itoi",
+}
 
-    For body text, returns translation with <p> tags (for feed).
-    For titles, returns plain text.
+TRANSLATION_MODEL = "claude-opus-5-5"
+SUMMARY_MODEL = "claude-haiku-5-5"
+
+TRANSLATION_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "title": {"type": "string"},
+        "body": {"type": "string"},
+    },
+    "required": ["title", "body"],
+    "additionalProperties": False,
+}
+
+
+def check_refusal(message, what: str):
+    """Raise if Claude (and any fallback model) declined the request."""
+    if message.stop_reason == "refusal":
+        category = message.stop_details.category if message.stop_details else None
+        raise RuntimeError(f"{what} was refused (category: {category})")
+
+
+def translate_author(japanese_name: str) -> str:
+    """Return the English name for a known author, else the original name."""
+    if japanese_name in KNOWN_AUTHORS:
+        return KNOWN_AUTHORS[japanese_name]
+    log.warning(f"Unknown author '{japanese_name}', leaving untranslated")
+    return japanese_name
+
+
+def translate_essay(japanese_title: str, japanese_body: str) -> tuple[str, str]:
+    """
+    Translate an essay's title and body together using Claude API.
+
+    Translating both in one request gives the title the essay's context.
+    Returns (title, body), where title is plain text and body is <p>-tagged
+    HTML for the feed.
     """
     client = get_client()
 
-    if is_title:
-        prompt = f"""Translate this Japanese essay title into natural English.
-Use sentence case (only capitalize the first word), not Title Case.
-Output only the translated title, nothing else.
-
-{japanese_text}"""
-    else:
-        prompt = f"""You are translating a Japanese personal essay into natural, literary English.
+    prompt = f"""You are translating a Japanese personal essay into natural, literary English.
 Do not translate word-for-word. Your goal is to preserve the author's original voice, tone, and nuance for a native English reader.
-Do not include boilerplate like 'Here is the translation.' Do not explain your output.
 
-Preserve paragraph breaks (blank lines = new paragraph). Group related lines into coherent paragraphs.
-Render "ほぼ日刊イトイ新聞" or "ほぼ日" as "Hobonichi".
-Avoid using em-dashes (—). Use commas, periods, or other punctuation instead.
-When the author references specific sounds, phonemes, or the音 (sound) of Japanese words:
-- Do NOT attempt to preserve Japanese phonetics in English (no romanisation like "yo" or "su yo")
-- Instead, describe what's happening conceptually ("partway through the phrase", "at the end of the sentence")
-- Only preserve the actual semantic content of what's being said, not the sound pattern
-- If the sound itself is critical to meaning and untranslatable, briefly note this in natural English ("the way the word trails off", "that particular syllable")
+Translate both the title and the body. Read the whole essay before settling on the title, so its translation reflects what the essay is actually about.
 
-Output each paragraph wrapped in <p></p> tags. Output ONLY the <p> tags, no other markup.
+For the title:
+- Use sentence case (only capitalize the first word), not Title Case.
+- Plain text only, no quotation marks or markup.
 
-{japanese_text}"""
+For the body:
+- Preserve paragraph breaks (blank lines = new paragraph). Group related lines into coherent paragraphs.
+- Output each paragraph wrapped in <p></p> tags. Use ONLY <p> tags, no other markup.
+
+Throughout:
+- Render "ほぼ日刊イトイ新聞" or "ほぼ日" as "Hobonichi".
+- Avoid using em-dashes (—). Use commas, periods, or other punctuation instead.
+- When the author references specific sounds, phonemes, or the 音 (sound) of Japanese words:
+  - Do NOT attempt to preserve Japanese phonetics in English (no romanisation like "yo" or "su yo")
+  - Instead, describe what's happening conceptually ("partway through the phrase", "at the end of the sentence")
+  - Only preserve the actual semantic content of what's being said, not the sound pattern
+  - If the sound itself is critical to meaning and untranslatable, briefly note this in natural English ("the way the word trails off", "that particular syllable")
+
+<title>
+{japanese_title}
+</title>
+
+<body>
+{japanese_body}
+</body>"""
 
     try:
-        message = client.messages.create(
-            model="claude-opus-4-8",
+        message = client.beta.messages.create(
+            model=TRANSLATION_MODEL,
             # Thinking tokens count toward max_tokens, so leave generous headroom
             max_tokens=16000,
-            thinking={"type": "adaptive"},
-            messages=[{"role": "user", "content": prompt}]
+            # Opus 5.5 defaults to medium effort; literary translation wants high
+            output_config={
+                "effort": "high",
+                "format": {"type": "json_schema", "schema": TRANSLATION_SCHEMA},
+            },
+            # On a safety-classifier refusal, rerun on Anthropic's recommended model
+            betas=["server-side-fallback-2026-07-01"],
+            extra_body={"fallbacks": "default"},
+            messages=[{"role": "user", "content": prompt}],
         )
     except APIError as e:
         log.error(f"Claude API error: {e}")
         raise
 
+    check_refusal(message, "Translation")
     if message.stop_reason == "max_tokens":
         raise RuntimeError("Translation was truncated (hit max_tokens limit)")
+    if message.model != TRANSLATION_MODEL:
+        log.warning(f"Translation served by fallback model {message.model}")
 
-    # With thinking enabled, content holds thinking blocks before the text block
+    # Thinking blocks precede the text block, which holds the JSON
     text = "".join(block.text for block in message.content if block.type == "text")
     if not text:
         raise RuntimeError("Translation response contained no text block")
 
-    if is_title:
-        # Guard against leaked deliberation ("Hmm, let me reconsider: ...") —
-        # if the model produced multiple lines, its final answer is the last one
-        lines = [line.strip() for line in text.splitlines() if line.strip()]
-        if lines:
-            text = lines[-1]
-
-    return text
+    result = json.loads(text)
+    title, body = result["title"].strip(), result["body"].strip()
+    if not title or not body:
+        raise RuntimeError("Translation response had an empty title or body")
+    return title, body
 
 
 def summarize_translation(translation: str) -> str:
@@ -358,11 +406,13 @@ Be concise and natural. Output only the summary, nothing else.
 
     try:
         message = get_client().messages.create(
-            model="claude-haiku-4-5-20251001",
-            max_tokens=200,
+            model=SUMMARY_MODEL,
+            # Haiku 5.5 thinks by default; low effort keeps that short, and
+            # max_tokens must cover the thinking as well as the summary
+            max_tokens=4000,
+            output_config={"effort": "low"},
             messages=[{"role": "user", "content": prompt}]
         )
-        return message.content[0].text.strip()
     except APIStatusError as e:
         if e.status_code == 529:
             log.warning("API overloaded during summarization, returning empty summary")
@@ -371,6 +421,11 @@ Be concise and natural. Output only the summary, nothing else.
     except APIError as e:
         log.error(f"Claude API error during summarization: {e}")
         raise
+
+    if message.stop_reason == "refusal":
+        log.warning("Summary was refused, returning empty summary")
+        return ""
+    return "".join(block.text for block in message.content if block.type == "text").strip()
 
 
 # =============================================================================
@@ -626,14 +681,10 @@ def process_essay() -> bool:
         log.warning("Failed to save original markdown, continuing anyway")
 
     # Step 4: Translate
-    log.info("Translating title...")
-    translated_title = translate_text(essay['title'], is_title=True).strip()
+    log.info("Translating title and essay body...")
+    translated_title, translation = translate_essay(essay['title'], essay['body'])
 
-    log.info("Translating author...")
-    translated_author = translate_text(essay['author'], is_title=True).strip()
-
-    log.info("Translating essay body...")
-    translation = translate_text(essay['body'])
+    translated_author = translate_author(essay['author'])
 
     log.info("Generating summary...")
     summary = summarize_translation(translation)
