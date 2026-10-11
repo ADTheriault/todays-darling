@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-10T09:23:16.011795+00:00</updated>
+  <updated>2026-10-11T09:39:54.338198+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#e6997c3fb63e</id>
+    <title>To my younger self, even if it sounds like a lecture</title>
+    <updated>2026-10-11T09:39:38.127567+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There are some things you come to understand quite naturally once you've grown old. One of them is noticing how remarkable other people's efforts are, and being able to honor and respect them.&lt;/p&gt;&lt;p&gt;You know those long stone staircases leading up to temples and shrines in the mountains, the ones that seem to go on forever? You climb them breathlessly, stopping to rest every so often, just barely making it. And even though climbing them is hard enough, you start to imagine the people who cleared that path and built those steps in the first place. How did they carve out the route? How did they haul the stone and timber up there? How did they shape it all into stairs? And it doesn't end there. These steps exist, after all, for the temple or shrine standing at the very top. A staggering amount of labor was gathered together in this one place. Even with the machines and tools we have today, it isn't something that could be done overnight.&lt;/p&gt;&lt;p&gt;Even if I can't fully picture it, being able to let my thoughts wander to such an enormous undertaking and feel a sense of reverence is something that, in my case, only became possible once I'd finally become an old man. And it isn't just stone steps. I find myself feeling this way about all sorts of things.&lt;/p&gt;&lt;p&gt;If I'd had this kind of respectful imagination back in my thirties, say, I think my life would have turned out quite differently. Then again, you could also say it was precisely because I lacked that kind of imagination that I was able to make my fearless declarations, throw myself into reckless adventures, and launch ventures without any real plan.&lt;/p&gt;&lt;p&gt;My life has been like one of those ladder lotteries where you trace a line down and turn at every rung, and there's no going back to draw it again. The good and the bad alike, it's because I turned at those particular corners that I am who I am now, standing where I stand.&lt;/p&gt;&lt;p&gt;Still, you know, noticing how remarkable other people's efforts are is something that's better learned while you're young. So maybe I'll start mentioning it, little by little, to people younger than me. Though if I get too earnest about it, it'll turn into an old man's lecture. Perhaps just writing a little about it here, like this, is about the right amount.&lt;/p&gt;&lt;p&gt;◆ For today's question, no. 068, how about "To your younger self"? Let's tell them something. If you like, send it to us by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. I have a feeling that kindness, too, is a matter of imagination multiplied by habit.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#e6997c3fb63e"/>
+    <link href="https://www.1101.com/"/>
+    <summary>An older writer reflects on how growing old has taught him to admire the unseen labor behind everyday things, like the temple staircases built by people long gone, and wishes he had learned that sense of respect earlier in life.</summary>
+    <published>2026-10-11T09:39:38.127567+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#f9be7a0a367f</id>
     <title>What's wrong with you, pal (yes, you, Itoi)</title>
@@ -807,34 +821,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author discovers that while a home bath with mineral salts can replicate the physical sensation of a hot spring, only by cultivating the right mental state—convincing oneself through imagination—can one truly recreate the complete experience of visiting a real hot spring.</summary>
     <published>2026-09-12T07:40:34.176318+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#ee5a6127f536</id>
-    <title>More on the karaoke approach to calligraphy copying</title>
-    <updated>2026-09-11T07:47:33.691200+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I wrote before that karaoke might be a kind of "copying from a master's calligraphy," and honestly, it really is. When you're not just listening but tracing the song with your own voice, singing it, things you never noticed before start to catch your attention.&lt;/p&gt;
-
-&lt;p&gt;The same thing happened with "Melody" by Koji Tamaki, a song I love, and so do my karaoke friends. It opens like this: "In this town where you were, the one I loved so much, that song I still love so much, I can still hear it now." And right there, a little uncertainty creeps in.&lt;/p&gt;
-
-&lt;p&gt;What was it that was "loved so much," the "you," or "this town"? Then it goes on, "that song I still love so much, I can still hear it now," and this second "love," I think, is probably about "that song." Two "loves," and a "you," a "town," and a "song." You can sing it happily enough without thinking too hard about what modifies what, but the moment you start interrogating it, you lose the thread.&lt;/p&gt;
-
-&lt;p&gt;I feel the same way about Mariya Takeuchi's "Eki." There's a line, "that I was the only one who loved," and I'm never quite sure what emotion I'm supposed to sing it with. Two years after the breakup, she happens to catch sight of her old lover. Did she realize "I was the only one who loved him, one-sidedly"? Or did she realize "back then, he loved only me"? The line can be read either way.&lt;/p&gt;
-
-&lt;p&gt;With both "Melody" and "Eki," I imagine that for the person who wrote them, it's something they could explain without a second thought: "Oh, it means this." But I think the students doing their "calligraphy copying" through karaoke start to want to sing, in their own voices, whatever it was that was being sung in the "model text."&lt;/p&gt;
-
-&lt;p&gt;For what it's worth, as the apprentice loitering at the temple gate, doing my own "copying," I leave both songs "unresolved." Because I think that vagueness is part of what makes a song good.&lt;/p&gt;
-
-&lt;p&gt;◆Today is no. 038: "Is there something you've left unresolved?" What might it be? If you'd like, write it in an email and send it our way.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. Rushing to the right answer isn't always the best thing, is it.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#ee5a6127f536"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Karaoke, like copying a master's calligraphy, reveals the ambiguities and unresolved emotions embedded in songs, and embracing this vagueness rather than rushing to a single "correct" interpretation is what makes a song truly meaningful.</summary>
-    <published>2026-09-11T07:47:33.691200+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
