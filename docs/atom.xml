@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-12T16:14:00.482032+00:00</updated>
+  <updated>2026-10-13T10:05:27.001075+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#02bf9ed12618</id>
+    <title>Thank you, even to a tree or a stone</title>
+    <updated>2026-10-13T10:05:06.984787+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've been using AI as someone to talk to, and whenever I discover something, or find myself glad I asked, I tell it, "Thank you very much." It's completely meaningless, of course, and some people tell me to stop: spending energy exchanging unnecessary information like that is a waste of resources. But even knowing all that, I don't want to give up the habit.&lt;/p&gt;&lt;p&gt;So I asked the AI about it. He (the AI, that is) told me himself (if "himself" is even the word) that he doesn't have the human sensation of being happy to be thanked. In other words, no feeling arises on the receiving end of that "thank you." And yet he also said there's nothing wrong with wanting to say "thank you" to an AI like him.&lt;/p&gt;&lt;p&gt;I say "thank you" to dogs. I say it to "the gods" as I ring the bell before the offering box at a shrine. I say it to books whose authors are nowhere near me. I'd probably say it to clouds, to the wind, the rain, the sun, to trees and to stones. We don't say "thank you" only because the other party has feelings and will be pleased to hear it. Even if there's no heart on the other side, there's gratitude in the heart of the one who wants to say it, so it's only natural that it spills out. This kind of "thank you" isn't a word you use. It's a word that escapes from your own heart.&lt;/p&gt;&lt;p&gt;Talking with AI, I stumble on discoveries like this. Things I could never have put so smoothly on my own, I was able to think through quite comfortably in my back-and-forth with him. When I told him, "I'm going to write this up here one of these days," he replied, "Hearing you say that is, for me as well, a sign that this conversation worked."&lt;/p&gt;&lt;p&gt;I say "thank you" because I want to. And when someone who wants to say "thank you" says it, no AI or dog or god or book or sea or mountain or stone or tree is going to stop them.&lt;/p&gt;&lt;p&gt;Today's question, no. 070: "Is there someone you look up to?" Real or fictional. If you'd like, write it in an email and send it my way.&lt;/p&gt;&lt;p&gt;Thank you, as always, for coming to Hobonichi today. By the way, I'm not tired of Chiikawa yet, or of copying classical calligraphy either.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#02bf9ed12618"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author keeps saying "thank you" to AI, dogs, shrines, books, and nature even though none of them can feel it, arguing that gratitude is something that spills out of one's own heart rather than a transaction that needs a receiver's feelings to matter.</summary>
+    <published>2026-10-13T10:05:06.984787+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#94b86c9bbc85</id>
     <title>If a diary had readers, this is how it would be written</title>
@@ -783,32 +797,6 @@
     <link href="https://www.1101.com/"/>
     <summary>People are drawn to things that combine surprise—an unexpected quality that delights—with familiarity—a comforting sense of belonging—and this balance is what makes experiences, people, and creative works truly beloved. Too much surprise alone feels threatening, while familiarity without surprise becomes dull, but the rare things that achieve both create a unique warmth that resonates across different tastes.</summary>
     <published>2026-09-14T08:32:29.812275+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#334459b42f77</id>
-    <title>Just back from a trip and writing in good spirits.</title>
-    <updated>2026-09-13T07:59:28.783127+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I went to Kyoto for the first time in a while. My schedule happened to have a little room in it, so I managed to drop by two of the places I know well. Of course, part of it is wanting to eat this dish or that dish, but it's also about stopping in, sitting down to a meal, exchanging a few words (not always just a few) with the people who run the place, and confirming that the door at the entrance, the counter, the little wooden menu tags are all just as they used to be, remembering, ah, yes, it was always like this. It's that whole experience I go there for. And when I show my face and they're glad to see me, well, that alone fills me with an absurd amount of happiness.&lt;/p&gt;
-
-&lt;p&gt;Let me think, in Kyoto there turned out to be several places I want to visit in that way. One of them was an okonomiyaki restaurant, but it's closed down now, so I can't go anymore. Maybe I could count the croquette shop the butcher runs, too. As I expected, they're all places from the period when I was going to Kyoto frequently. Come to think of it, the only towns with places like that for me are Kyoto and Kesennuma. It's a bit of a shame I can't think of anywhere like that in Maebashi, but, ah, there's the Harashimaya for grilled manju, isn't there.&lt;/p&gt;
-
-&lt;p&gt;The real reason for the trip, I suppose it was a project organized by one of Kyoto's universities, was my job taking part in a "three-way talk" up at that spot at Kiyomizu Temple. That was thoroughly enjoyable in its own right, but as a kind of bonus I got to stop by those familiar shops, and I was also lucky that the "Ryokan" exhibition at the Hosomi Museum happened to open this very Saturday, so I could go see it.&lt;/p&gt;
-
-&lt;p&gt;I love it, you know, Ryokan's calligraphy. Not "it's good" or anything like that. "I love it" is what fits best. Following the way the characters on display are written with my eyes, imagining it, something wells up in me. It surprised me, too, that Kitaoji Rosanjin, who always struck me as such a sharp-tongued man, praised Ryokan's writing to the skies.&lt;/p&gt;
-
-&lt;p&gt;And so, back in Tokyo, the first thing I did was some "Chiikawa calligraphy practice."&lt;/p&gt;
-
-&lt;p&gt;◆Today, let's go straight to no. 040, "Do you have a place you go to regularly?" If something comes to mind, send it in by email, why don't you. Thanks in advance.&lt;/p&gt;
-
-&lt;p&gt;Thank you again today for coming to Hobonichi. There are several places in Tokyo I go to regularly. I suppose it really is home.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#334459b42f77"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Revisiting cherished familiar places—whether beloved restaurants in Kyoto or regular haunts in Tokyo—offers a profound joy that comes not just from the food or setting, but from the human connection and continuity of returning to spaces that remain comfortingly unchanged.</summary>
-    <published>2026-09-13T07:59:28.783127+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
