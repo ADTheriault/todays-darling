@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-13T10:05:27.001075+00:00</updated>
+  <updated>2026-10-14T08:22:51.705371+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#5b3dac234b0f</id>
+    <title>Why? Why ask why?</title>
+    <updated>2026-10-14T08:22:29.256637+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Our dog isn't especially clingy. I know plenty of dogs express their joy with their entire bodies, all "I love you, I love you, wahoo, yippee!", but watching ours makes it very clear that not every dog is like that.&lt;/p&gt;&lt;p&gt;Our previous dog was also the type who liked walks more than people, yet every night she slept at the foot of my bed. The dog we have now first politely takes care of her little business, then hops up beside the pillow on Mom's bed and sleeps there for a while, her rump pressed up against her. Before long, though, she drops lightly off the bed and settles into her own, where she can sleep alone in peace. She never asks to be petted, but she doesn't refuse it while it's happening, either. Really, the way she relates to us is cool, or maybe just room temperature.&lt;/p&gt;&lt;p&gt;And yet this same dog, when the mood strikes her while she's with me, will suddenly start licking my palm. With an expression so serious it borders on ferocious, she pins my hand down with her forepaws and licks the entire palm, hard, on and on and on. When she's finished with my left hand, she goes looking for my right and starts all over again. She doesn't stop.&lt;/p&gt;&lt;p&gt;I tried to think of this as a sign of affection. But it's so intense, so rough, so relentless, that "affection" simply doesn't fit. Nor does it seem to be a thank-you for everything I do for her. Besides, I'm not exactly confident about the taste or smell of my palms. Half the time I've only just washed my hands.&lt;/p&gt;&lt;p&gt;I looked into it in all sorts of ways but couldn't find an answer. I asked AI twice, at different times, and got nowhere. So in the end I arrived at this conclusion: just as dogs gnaw tirelessly and with total devotion on horse tendons, chunks of wood, or stuffed toys, she licks my hand for no reason at all except that she wants to lick my hand. If only I hadn't gone and asked "WHY?", it was probably something I'd understood from the very start.&lt;/p&gt;&lt;p&gt;Today's question, no. 071: "What's something you do without knowing why?" A quirk? A habit? If you think of one, write it in an email and send it my way.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. Questions like "Why does the universe exist?", well, what are you supposed to do with those!&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#5b3dac234b0f"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author's dog, unlike the affectionate dogs they've known, shows her attachment in her own aloof way, and her intense, relentless palm-licking seems to need no explanation beyond the fact that she simply enjoys doing it. Trying to find a reason for it, the author realizes some behaviors just exist for their own sake, and not every quirk needs a why.</summary>
+    <published>2026-10-14T08:22:29.256637+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#02bf9ed12618</id>
     <title>Thank you, even to a tree or a stone</title>
@@ -765,38 +779,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Hobonichi created a "dojo"—a weekly space where employees of all levels freely exchange ideas and grapple with difficult questions together—as a way to build an environment that nurtures interesting thinking and personal growth through shared intellectual exploration. By deliberately including naive, personal, and unconventional perspectives alongside work-related topics, they've discovered that this culture of collaborative problem-solving cultivates both interesting work and interesting people.</summary>
     <published>2026-09-15T08:22:24.305898+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#d044b9d6e5ea</id>
-    <title>This is the fun part.</title>
-    <updated>2026-09-14T08:32:29.812275+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Surprise and familiarity. It seems we're drawn to things that have both.&lt;/p&gt;
-
-&lt;p&gt;Not the things we can more or less see coming, but the ones that make us wonder, where did this come from? or, why on earth is this happening? The kind of thing that catches us off guard. In short, surprise.&lt;/p&gt;
-
-&lt;p&gt;When something follows a clear, logical progression, this leads to that, and then you get this, there's no real fun in it. But then, hmm, how should I put it, there's this quality of familiarity, a sense that the thing settles in comfortably beside you. It surprises you, yes, but you can tell it isn't your enemy. And before you've even started to like it, some warmth of affection is already drifting your way from its direction. This part matters just as much.&lt;/p&gt;
-
-&lt;p&gt;Surprise and familiarity might seem a little contradictory, but there are countless things that manage to hold both at once. Think back on the things you love, the people you love, the things you like to do. Try calling all sorts of them to mind.&lt;/p&gt;
-
-&lt;p&gt;With only surprise, you could say it becomes a bit frightening. A little suspense is fine, but too much of it makes you want to keep your distance, I think. And with only familiarity, the joy inevitably fades. It won't necessarily bore you, but you find yourself wanting more play in it, if that makes sense.&lt;/p&gt;
-
-&lt;p&gt;Everyone has their own tastes and quirks and chemistry, so I can't say there's one universally good answer. Still, there really are things that make a great many people feel that mix of surprise and familiarity.&lt;/p&gt;
-
-&lt;p&gt;Well, as you all know, these days I've been thinking quite a lot about Chiikawa, haven't I? And that world is built from a mountain's worth of surprise and an ocean's worth of familiarity.&lt;/p&gt;
-
-&lt;p&gt;◆Question no. 041: "Is there something you're looking forward to?" I think I'll sit with this one and reflect on it myself. If you'd like, please write it down in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
-
-&lt;p&gt;The thing about AI is that it's missing exactly this, that sense of surprise and familiarity.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#d044b9d6e5ea"/>
-    <link href="https://www.1101.com/"/>
-    <summary>People are drawn to things that combine surprise—an unexpected quality that delights—with familiarity—a comforting sense of belonging—and this balance is what makes experiences, people, and creative works truly beloved. Too much surprise alone feels threatening, while familiarity without surprise becomes dull, but the rare things that achieve both create a unique warmth that resonates across different tastes.</summary>
-    <published>2026-09-14T08:32:29.812275+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
