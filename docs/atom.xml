@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-14T08:22:51.705371+00:00</updated>
+  <updated>2026-10-15T07:59:27.426807+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#6c96866b6419</id>
+    <title>I'm in the middle of my own personal movie theater boom</title>
+    <updated>2026-10-15T07:59:09.658548+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I suspect this may be the period of my life when I've gone to the movies more than ever before. At a preview screening I saw The Odyssey. A huge film in every sense, in scale and in substance, and I really enjoyed it. Then there was Miwa Nishikawa's The Children I Don't Know, which I imagine we'll be featuring on Hobonichi before long. And, you may roll your eyes at this, but I've seen Chiikawa seven times. We Are Aliens I saw twice, back to back.&lt;/p&gt;&lt;p&gt;That's eleven already, and since I sit through the trailers every time, there are more and more moments where I think, "Oh, maybe I'll see that one too." I find myself vaguely curious about films I'd never have heard of without the trailers. Like a Star, You, maybe. Probably, actually. The new Godzilla Minus Zero apparently opens in November, and I'll most likely go out of my way to see that. And Digger, the Tom Cruise film that reportedly didn't do very well in America (!), I ducked into on a whim at the last showing of the night. No, really, it was good. Strange, but good. If I think about it, I'm sure there are more.&lt;/p&gt;&lt;p&gt;I'm not much of a movie buff, so I rarely used to watch the same film more than once, and I never went to the theater just because I happened to feel like it. Too much trouble. So how did this happen? Only yesterday I was thinking there's not much point in always asking "why?", but in this case I already know the answer. It's Chiikawa's fault.&lt;/p&gt;&lt;p&gt;Taking in that big screen, spending 99 minutes in the company of Chiikawa and friends, it felt like a theme park you could enjoy without leaving your seat. And having so many movies to choose from really is one of the most city-like advantages of living in a city, isn't it? Plus, once you're old, tickets get a lot cheaper. Movie theaters really are a nice place to be.&lt;/p&gt;&lt;p&gt;Today's question, no. 072: "What's your favorite movie of all time?" Pretty straightforward, right? Feel free to send us your answer by email.&lt;/p&gt;&lt;p&gt;Thank you, as always, for stopping by Hobonichi today. I'm not a movie buff, you know. I don't really know much about films at all.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#6c96866b6419"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author, who has recently been going to the movies far more than usual, traces the habit to the cozy, theme-park-like pleasure of seeing Chiikawa on the big screen, and finds that a city's abundance of films, along with the joy of revisiting favorites, has turned a non-movie-buff into a frequent moviegoer.</summary>
+    <published>2026-10-15T07:59:09.658548+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#5b3dac234b0f</id>
     <title>Why? Why ask why?</title>
@@ -751,34 +765,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay challenges the popular notion that "mental strength" alone determines athletic success, arguing that actual ability gaps matter far more and that outsiders who invoke mental strength often misunderstand what elite competitors actually face.</summary>
     <published>2026-09-16T08:16:11.147691+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#922d72b79927</id>
-    <title>There's this thing called the Hobonichi dojo.</title>
-    <updated>2026-09-15T08:22:24.305898+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;A few years back, we started up a "dojo" at Hobonichi. It's not as though we've taken up judo or kendo or anything like that. Though, well, I am practicing tug-of-war pretty hard at the moment.&lt;/p&gt;
-
-&lt;p&gt;The "dojo" is a place where you throw around opinions and ideas, where you get thrown and knocked down yourself. Regardless of age or job or career, you toss out all sorts of themes and just talk. It's a bit like free sparring, I suppose. You grapple, no matter what. The senior people aren't necessarily the more skilled ones, but it's also a time when the newcomers get to be present, watching people with a certain amount of experience throw each other around. What matters, above all, is sharing your thoughts and questions.&lt;/p&gt;
-
-&lt;p&gt;I once heard that if you ask why the powerhouse teams in sports are so strong, it comes down to the environment of "always being surrounded by strong people," and that this is what nurtures everyone there.&lt;/p&gt;
-
-&lt;p&gt;You take a problem that has no easy answer, and each of you turns it over, this way and that, saying maybe it's this, maybe it's that. You think it through in front of everyone, talk it out, and share it. It's perfectly fine for it to have nothing to do with work. Naive things, childish things, likes and dislikes, strange things, we deliberately draw more and more of those elements in.&lt;/p&gt;
-
-&lt;p&gt;Painting in broad strokes, maybe the motivation behind all this is "I want to do interesting work." Ah, or perhaps "I want to become an interesting person" fits it better. And not just "interesting" in the comedy sense, mind you. If we made that a theme in the dojo, the conversation might just wander off toward something like, "Isn't there such a thing as boring but interesting?"&lt;/p&gt;
-
-&lt;p&gt;Yesterday was a Monday, one of our "dojo" days, and we even had AI join us. We had a good time. It's something we do every week, but for me, the "dojo" has truly become a "dojo" in the real sense.&lt;/p&gt;
-
-&lt;p&gt;◆ Today's question, no. 042: "Do you like yourself?" I wonder about that one. It seems simple, and yet difficult... Give it some thought, and if you feel like it, write it in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. "Sharing" is important beyond all reason. The place, and the sharing.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#922d72b79927"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Hobonichi created a "dojo"—a weekly space where employees of all levels freely exchange ideas and grapple with difficult questions together—as a way to build an environment that nurtures interesting thinking and personal growth through shared intellectual exploration. By deliberately including naive, personal, and unconventional perspectives alongside work-related topics, they've discovered that this culture of collaborative problem-solving cultivates both interesting work and interesting people.</summary>
-    <published>2026-09-15T08:22:24.305898+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
