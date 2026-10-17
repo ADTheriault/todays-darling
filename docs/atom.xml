@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-16T07:53:15.445241+00:00</updated>
+  <updated>2026-10-17T07:31:09.700464+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#c39647201715</id>
+    <title>Come on in. Thanks, as always. Say, you know what?</title>
+    <updated>2026-10-17T07:30:49.774698+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;This column I write every day, the one that used to be called "Today's Darling," has covered all sorts of things from all sorts of angles. Back in 1998, when we'd only just launched Hobonichi, I'd already realized, "...I've got nothing to write about," and I once simply described the view outside my window. Or at least I think I did. I've forgotten.&lt;/p&gt;&lt;p&gt;For a while there, I vaguely came to think of these scribblings as something like a newspaper editorial, and I found myself wanting to make some small point or other. What pushed me into that frame of mind was, naturally, the period that began with the Great East Japan Earthquake on March 11, 2011. The tsunami surged onto the Sanriku coast, yes, but the sea of the internet was flooded too, with a mass of troubling information. Rumors, lies, abuse, slander, noise. I was swimming for dear life, colliding with all that floating debris. Even so, used the right way, the internet could be genuinely helpful in many respects, and that desperate swim taught me a great deal. I learned, to some extent, how to keep a sensible distance from it.&lt;/p&gt;&lt;p&gt;Be that as it may, I write this piece every single day. Sometimes it's a matter of trying one trick after another, sometimes I'm thrashing around in agony, sometimes I'm half sprawled out and nodding off, and sometimes I charge in, thrilled, because there's one thing I absolutely have to say. Whatever my attitude, here I am again today, writing something.&lt;/p&gt;&lt;p&gt;Lately, I've had a "concept" for writing here. It occurred to me one day, and I decided to run with it for a while. It was also where Hobonichi started, back at the very beginning. The idea is this: "the old guy who shows his face at the shop every single day strikes up some kind of conversation with you." Today's piece is that kind of chatter, too. He starts in with, "Hey there, how're you doing? Say, lately..." And one of these days, who knows, he might even come out with, "I thought of a good pun. Want to hear it?"&lt;/p&gt;&lt;p&gt;◆ Today's question, no. 074: "Do you have a favorite place you keep going back to?" Have a think, and if you like, write it in an email and send it our way.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. For quite a long time now, I've been writing this column in a frame of 27 characters by 40 lines.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#c39647201715"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay reflects on the author's daily writing habit, from early struggles with "nothing to write about" through the post-2011 urge to make points amid online noise, and settles on a friendly, conversational stance: writing each day simply to chat with readers, like an old shopkeeper greeting customers.</summary>
+    <published>2026-10-17T07:30:49.774698+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#8d71eebcc2b0</id>
     <title>Hey, are you being interviewed out there?!</title>
@@ -721,38 +735,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The opening of a Hobonichi Techo Store inside Tokyo Station—a place that never closes—prompts the author to reflect on the remarkable discipline of maintaining something continuously, a realization that mirrors his own twenty-eight years of daily writing. The essay celebrates the quiet nobility of showing up, day after day, whether as a station or as a writer.</summary>
     <published>2026-09-18T07:57:44.910887+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#1bcded023869</id>
-    <title>Is there motivation, or was there ever any?</title>
-    <updated>2026-09-17T08:22:30.060148+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Yesterday I wrote, "What on earth is mental strength, anyway?" I simply put down, as it was, the fact that I don't really understand it. But I did notice one thing: that "mental strength" is less something you seek for yourself and more something others demand of you, the fans, the supporters and all the rest.&lt;/p&gt;
-
-&lt;p&gt;Today I want to write a little about "desire." It's probably a much bigger theme than I can handle, but I thought I'd write about the word "desire" that has stuck with me ever since childhood.&lt;/p&gt;
-
-&lt;p&gt;Once, within earshot of me, some grown-ups were talking. "Once this kid," meaning me, "develops some desire, he'll really grow." In other words, I was regarded as someone who had no "desire." They spoke about it hopefully, as in, "It'll come to him eventually."&lt;/p&gt;
-
-&lt;p&gt;What was that "desire" they meant? As for whether any "desire" ever emerged in me after I overheard that, well, it seems it never did.&lt;/p&gt;
-
-&lt;p&gt;What the grown-ups were calling "desire" in that moment was, I think now, closer to "drive," or the will to strive.&lt;/p&gt;
-
-&lt;p&gt;To be honest, when I sense that kind of drive in other people, I think, "How wonderful." And yet I can hardly ever find that drive in myself. It's not that I lack energy. I'm perfectly lively. It's just that I have no real sense of possessing any "drive." Do I ever put on a performance of "drive"? Maybe a little. Actually, not even that much. Perhaps just a touch.&lt;/p&gt;
-
-&lt;p&gt;The boy who, back in elementary school, was supposed to grow stronger "once desire came to him," is he still, even now, unable to summon it? Perhaps, just like "mental strength," "desire," or drive, isn't something that wells up from within you after all.&lt;/p&gt;
-
-&lt;p&gt;No, I do want to eat things, I do want to do things. But that feels like something different from "drive," somehow.&lt;/p&gt;
-
-&lt;p&gt;◆Question no. 044: "What's the one phrase you've never forgotten?" It can be from any time in your life. If you're willing, please send it in by email.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi today. The "words" people say really do leave their traces in the most unexpected places.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#1bcded023869"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author reflects on a childhood comment labeling them as lacking "desire," exploring how this external judgment shaped their understanding of drive and ambition, ultimately questioning whether such qualities are genuinely internal or imposed by others' expectations.</summary>
-    <published>2026-09-17T08:22:30.060148+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
