@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-18T07:46:02.379617+00:00</updated>
+  <updated>2026-10-19T08:28:41.602412+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#c2ef5bc0d700</id>
+    <title>The health class that really matters</title>
+    <updated>2026-10-19T08:28:19.778458+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Once in a while, I suppose I ought to say something befitting a man of my years.&lt;/p&gt;&lt;p&gt;This is about "health and PE," like the subject you had in school: your health and your body. When you work freelance, or in some arrangement close to it, things like regular checkups, dental exams and vaccinations start to feel like a hassle, and they quietly slide. "I'm so healthy I haven't seen a doctor in ten years," someone will say, and no doubt it's meant as a boast. Good health is the best thing there is, of course, but... Once you've racked up a certain number of years, even the sturdiest body starts to have a few things worth keeping an eye on.&lt;/p&gt;&lt;p&gt;For my part, shortly before I turned fifty, a fellow business owner a little senior to me invited me to get a full medical checkup, and we did the overnight program together. He never said anything preachy, but I took it as a lesson: a company president's health is a responsibility, not just his own business. I was never exactly reckless, but somewhere in me was the feeling that fussing over your own body wasn't the proper, devil-may-care way of a true Tokyoite. Never mind that I was actually born up north in Gunma.&lt;/p&gt;&lt;p&gt;That first checkup got me thinking of caring for my body and health as one of my important jobs. Quitting smoking and going to the gym regularly are part of that same kind of work. Without it, I don't think I'd have the health I have now. Even if I were still freelance today, "health and PE" would be a crucial investment in myself, my one and only worker. Skimp on your own basic costs and you can't do good work.&lt;/p&gt;&lt;p&gt;Somewhere past forty, people start swapping stories about their ailments. You've still got a long road ahead of you, so instead of cracking self-deprecating jokes, go do your "health and PE." All the more so if you have a spouse or young children. If you've got your health, you can do anything, as the saying goes. But health costs something too.&lt;/p&gt;&lt;p&gt;◆Today's question, no. 076: "Are you doing anything good for your body?" A tricky one, maybe? Give it some thought, and if you like, send us an email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. Your life belongs to you... though not entirely, you know.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#c2ef5bc0d700"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The author argues that, especially once freelancers pass their forties, regular checkups and exercise should be treated as essential work on oneself, since health is the foundation for everything else and neglecting it is a false badge of pride.</summary>
+    <published>2026-10-19T08:28:19.778458+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#92f5678ca021</id>
     <title>A modest case for copying</title>
@@ -697,30 +711,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author visits a closing department store and reflects on the impossibility of understanding why institutions rise and fall, ultimately recognizing that while physical spaces may disappear, the human joy and connection they facilitated endures in other forms.</summary>
     <published>2026-09-20T08:16:18.508250+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#29cd6e19ec60</id>
-    <title>Just write today, no matter what, a little at a time.</title>
-    <updated>2026-09-19T07:48:02.483307+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I got into an elevator with my daughter, and with her daughter too, meaning my granddaughter. At the back of the elevator, straight ahead, there was a mirror. My seven-year-old granddaughter pulled a funny face at it. My daughter watched and laughed along with her. But I wasn't in the mirror at all. Where on earth was I?&lt;/p&gt;
-
-&lt;p&gt;They call it Silver Week, but did such a thing ever exist in the old days? I knew about Golden Week, but did they set this one up in autumn just to rival it? There was already the "Respect for the Aged Day," so maybe they lumped everything around there together under the banner of "silver"? I won't look it up. I've fallen into this habit of checking every little thing, and knowing the "supposedly correct information" about everything has stopped being much fun. Maybe I'll just decide it doesn't exist at all. Silver Week is a lie. There's no such thing.&lt;/p&gt;
-
-&lt;p&gt;Language is a convenient thing. Give it a subject and a predicate, and anything at all can be made to stand. He is fleet of foot. A little while ago he ran at three thousand kilometers an hour. The sneakers he was wearing at the time are right here. The soles have worn down considerably from the friction heat. I'll hand these sneakers over to anyone who wants them. I bought them for two hundred yen, so fifty thousand will do. Whether it's true or not, as long as it's grammatically sound, you can spin the whole tale as if it were gospel.&lt;/p&gt;
-
-&lt;p&gt;Every day, I've made a habit of "copying Chiikawa" as calligraphy practice. How did the lines that were drawn come to be? When you practice by copying, you naturally start to imagine it. Perhaps, even more than the act of drawing with a brush in hand, imagining what happened during the time the thing was drawn is the more important part.&lt;/p&gt;
-
-&lt;p&gt;◆Question no. 46 is "Please tell me a lie." If you're willing, do write one in an email and send it my way.&lt;/p&gt;
-
-&lt;p&gt;Thank you for coming to Hobonichi again today. It's perfectly fine, you know, to write a little freely, like dancing however you please.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#29cd6e19ec60"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay explores how language, memory, and imagination allow us to construct and reshape reality—from the narrator's absent reflection to invented holidays to tall tales told with perfect grammar—suggesting that truth is less fixed than our willingness to question or reimagine it.</summary>
-    <published>2026-09-19T07:48:02.483307+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
