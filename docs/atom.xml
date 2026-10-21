@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-20T08:10:41.966335+00:00</updated>
+  <updated>2026-10-21T08:15:57.433387+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#20457d2cf1b7</id>
+    <title>So much of the world, so much of life, I just let go by</title>
+    <updated>2026-10-21T08:15:32.452001+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;You know, when you think about it, it wouldn't be any fun if you could figure everything out. Say you had some psychic power that let you see whatever was coming. Sure, the people who wanted to make use of that power would fawn all over you, but for you yourself, it might not just be dull. It might be downright painful.&lt;/p&gt;&lt;p&gt;With that little preamble out of the way, let me tell you about one of my misses.&lt;/p&gt;&lt;p&gt;It happens more often than you'd think: a gorgeous pitch comes in, a real beauty, and you don't notice a thing. You just stand there and watch it go by. Strike one.&lt;/p&gt;&lt;p&gt;Lately, the perfect example is "Chiikawa." I'd taken the phrase "some small, cute little thing" and stuffed the whole business inside it, and let it sail right past me. I must have seen it all over the place, and I don't remember ever saying I disliked it, but still, I let it go by.&lt;/p&gt;&lt;p&gt;Looking back, I did feel something like "huh, that's kind of interesting" about the fact that their weapon of choice is a sasumata, one of those forked poles used to pin down intruders. Every so often a one-page strip would turn up on Twitter, and right around the time I started thinking, "I can't quite see the whole picture, but this is a little strange, and funny," I learned where this character called Momonga came from. If I remember right, I'd heard that my daughter's daughter was apparently fond of Momonga, so I looked up what sort of character it was. Once I knew that backstory, and a little corner of the Chiikawa world, my curiosity began to boil over. "What on earth is this?!" I started reading the collected volumes, and then along came the movie.&lt;/p&gt;&lt;p&gt;To longtime fans, I'm the guy who shows up and makes them say, "Now? Seriously?" You didn't know about Nagano's blazing fastball, or those curveballs that break seven different ways? No, I didn't. Or rather, I let them go by.&lt;/p&gt;&lt;p&gt;Come to think of it, there's a lot of this. There's a certain neighborhood Chinese place I'd only known by name and let go by. When it comes to rice varieties, or how to cook it, I've let practically everything go by. And I suspect there are plenty of fine things around the office that I've let go by, too. I'm afraid, dear reader, that I am by no means all-seeing, nor in any way what you'd call a discerning eye.&lt;/p&gt;&lt;p&gt;◆Today's question, no. 078, is: "Something I let go by." See if you can find one. If you like, please send it in by email.&lt;/p&gt;&lt;p&gt;Thank you for coming by Hobonichi again today. Later today I'm meeting the director of "We Are Aliens," yet another one I let go by.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#20457d2cf1b7"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that missing things is part of life: a writer admits he has let many good things pass unnoticed, from the anime Chiikawa to local restaurants and rice varieties, and suggests that seeing everything coming would be more painful than fun.</summary>
+    <published>2026-10-21T08:15:32.452001+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#07b805c5ab30</id>
     <title>If only we could look forward to the future again...</title>
@@ -669,36 +683,6 @@
     <link href="https://www.1101.com/"/>
     <summary>When major disasters force society to make massive decisions like cancelling events and suspending services, it reveals that risk management and accepting large-scale failures are already built into how our world operates, a stark contrast to the minor anxieties we fret over in daily life.</summary>
     <published>2026-09-22T08:13:59.490137+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#e4e8d509ed96</id>
-    <title>Fried rice: my longing versus reality</title>
-    <updated>2026-09-21T08:34:07.297071+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;At some point I developed an interest in fried rice, and started eating it all over the place. I used to think of it as something you had at the end of a Chinese meal, but lately I've been ordering it on its own at neighborhood Chinese joints. Just the fried rice, a little bowl of soup, maybe some pickles. I thought it might feel a bit lonely, that combination, but it doesn't. And fried rice, it seems to me, is rarely a disappointment.&lt;/p&gt;
-
-&lt;p&gt;Once you come to love fried rice, you start to feel a fondness for the cooks who make it so deftly. The famous flick of the wok, the fierce roar of gas flames beneath it, the eggs beaten and waiting, the meat, the scallions, all the ingredients prepped in advance, the clang and clatter of the iron ladle against the wok, the final shaping of the rice into a neat little dome, and then the shout to the server delivering the order: "Fried rice!" How could you not be filled with longing?&lt;/p&gt;
-
-&lt;p&gt;(omitted) So, slipping past the watchful eye of my household superior, the one who dreads the pointless accumulation of kitchen gadgets, I bought a wok by mail order. Not the iron one I'd been dreaming of, but titanium, and for the ladle I chose a bamboo spatula. Then a big bottle of rice oil. All of it different from what the pros use. The truth is, I arrived at these choices after careful consultation with AI.&lt;/p&gt;
-
-&lt;p&gt;I decided not to bother with cold rice either, going instead with rice that was still somewhat warm, and I resolved to resist the urge to flip the wok. I would stay an amateur and make honestly delicious fried rice. In moments like these, I am quite the earnest fellow.&lt;/p&gt;
-
-&lt;p&gt;One afternoon, with the kitchen chief away, I sprang into action. "Now's my chance." Wait, do I have the ingredients? Scallions, yes. There's pork too, but I'll go with bacon. Eggs, check. And some good rice in the freezer. Pepper, salt, a bit of kombu seasoning. This will work, I was sure of it.&lt;/p&gt;
-
-&lt;p&gt;By now I understood the concept completely. Fried rice is simply egg-over-rice, stir-fried. Add some aromatics and a few ingredients to that, and there's no way it could turn out bad. The titanium wok, the warmish rice, the bamboo spatula, all of it worked out fine. Next time it'll be ramen-style fried rice, with roast pork, bamboo shoots, and scallions. This Silver Week is turning out to be rather fun.&lt;/p&gt;
-
-&lt;p&gt;◆Today's question, number 048: "What dish would you like to try making?" Give it some thought, and if you'd like, send us an email.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
-
-&lt;p&gt;When I choose substance over style, that's when you know I'm serious.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#e4e8d509ed96"/>
-    <link href="https://www.1101.com/"/>
-    <summary>A home cook discovers genuine joy in mastering the simple art of fried rice, finding that pursuing humble culinary pleasures with earnest effort—rather than professional perfectionism—yields both delicious results and unexpected satisfaction.</summary>
-    <published>2026-09-21T08:34:07.297071+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
