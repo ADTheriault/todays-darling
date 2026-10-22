@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-21T08:15:57.433387+00:00</updated>
+  <updated>2026-10-22T08:17:51.996560+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#d91db3ebd151</id>
+    <title>Meeting young people never stops being interesting</title>
+    <updated>2026-10-22T08:17:32.970291+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The things that get better have gotten better. And the things that get clumsier have gotten clumsier.&lt;/p&gt;&lt;p&gt;Things that everybody used to know are, little by little, known by fewer people than not. And plenty of things that nobody used to know are now known by a great many.&lt;/p&gt;&lt;p&gt;What on earth would become of the world if this were gone? Then it was gone, and the world kept right on turning.&lt;/p&gt;&lt;p&gt;The record set by someone hailed as a once-in-a-generation genius was broken by someone you'd barely heard of. That dish that left you thunderstruck, wondering how anything this delicious could exist in the world, maybe wasn't quite all that after all.&lt;/p&gt;&lt;p&gt;Young girls grow into middle-aged women, and then into old women. Dashing young men grow into middle-aged men, and then into old men. Even a crane that lives a thousand years passes on once the thousand years are up. And the turtle that lives ten thousand years will, when those years have run their course, surely find its rest as well.&lt;/p&gt;&lt;p&gt;None of this is hollow. It isn't something to regret, and it isn't something to grieve. Until the real end comes, there is no end. While you've got energy, you go at it with energy, and when you don't, you manage as best you can.&lt;/p&gt;&lt;p&gt;The things that get better have gotten better. And the things that go bad have gone bad. I suppose what I really want to say is this: the things that get better are getting better.&lt;/p&gt;&lt;p&gt;◆ Today's question, no. 079: "Things that, come to think of it, have really changed." You've got some, haven't you? If you like, send them our way by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. I'm sure I'll end up seeing the film We Are Aliens a third time. Looking forward to it.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#d91db3ebd151"/>
+    <link href="https://www.1101.com/"/>
+    <summary>Some things get better and others decline, and the passage argues that impermanence is natural rather than something to mourn: while you have energy, you use it, and when you don't, you manage as best you can, since nothing truly ends until its real end arrives.</summary>
+    <published>2026-10-22T08:17:32.970291+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#20457d2cf1b7</id>
     <title>So much of the world, so much of life, I just let go by</title>
@@ -655,34 +669,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Shohei Ohtani's commitment to sleeping ten hours daily challenges the cultural assumption that productivity requires sacrificing rest, demonstrating instead that quality sleep is not wasted time but an essential investment in peak performance. Through his example, sleep has been reframed from an empty void into vital recovery time that enables extraordinary achievement.</summary>
     <published>2026-09-23T08:16:10.822099+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#e9c27c9b0db1</id>
-    <title>The image of "serious damage"</title>
-    <updated>2026-09-22T08:13:59.490137+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;In a sense, it's not all that unusual, but whenever "a large and powerful typhoon approaches the Japanese archipelago," the effects are enormous. Some people suffer direct damage, and no doubt a great many others are hit indirectly. I mean the people who were planning to hold outdoor events, those who work in transportation by air, land, or sea, and then, further removed, the people connected to all of that. The catering companies, for instance, must have had a hard time of it too. And of course, the harm reaches the spectators and passengers as well.&lt;/p&gt;
-
-&lt;p&gt;At times like these, the news reports things like "flights cancelled," "service suspended," "event called off." Sitting in your room watching television, it's easy to take in news of a "suspension" or a "cancellation" as someone else's problem, but for the people on the ground, at the actual site, these are grave decisions, and surely a very serious matter indeed. The scale of the damage and the impact is often described in numbers, too.&lt;/p&gt;
-
-&lt;p&gt;I don't think it's just my imagination, but reports of natural disasters seem to have grown far more frequent. This large, powerful Typhoon No. 25, too, has been covered almost without pause, and a great many people probably know exactly where it is right now.&lt;/p&gt;
-
-&lt;p&gt;And in the middle of all this, something occurred to me for the first time. Things like "cancellation," "flight cancelled," or "service suspended" are indeed a serious matter for the events and the transit systems, yet they are treated as something that "can happen," something "built into the system." No one wants to do it, but it is anticipated. Even when there's a huge loss involved, cancellation is a decision that can be made. It's what people call risk management. And it struck me that large-scale examples of it turn out to be surprisingly common.&lt;/p&gt;
-
-&lt;p&gt;In our daily lives, we go about in fear of this or that little failure, but our society today is actually making huge judgment calls all the time. During the pandemic, too, society changed so drastically, come to think of it.&lt;/p&gt;
-
-&lt;p&gt;◆Today's Question 049: "What's the biggest failure of your life so far?" What could it be? If you'd like, write it down in an email and send it to us.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for visiting Hobonichi today.&lt;/p&gt;
-
-&lt;p&gt;The everyday "sense of loss" and the kind we reckon with in an emergency must be counted on entirely separate ledgers.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#e9c27c9b0db1"/>
-    <link href="https://www.1101.com/"/>
-    <summary>When major disasters force society to make massive decisions like cancelling events and suspending services, it reveals that risk management and accepting large-scale failures are already built into how our world operates, a stark contrast to the minor anxieties we fret over in daily life.</summary>
-    <published>2026-09-22T08:13:59.490137+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
