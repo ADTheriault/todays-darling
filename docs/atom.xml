@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-24T07:53:01.059240+00:00</updated>
+  <updated>2026-10-25T08:06:03.473848+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#7169a2a133f1</id>
+    <title>Swimming right above the Mariana Trench</title>
+    <updated>2026-10-25T08:05:42.087370+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Don't you think the resolve you need is different when you're swimming in a shallow pool where little kids are paddling around, compared with swimming in the ocean after someone tells you, "The water here is ten meters deep"? But really, doing the breaststroke over the Mariana Trench (depth: 10,924 meters) and doing the crawl in a pool one meter deep amount to exactly the same thing. However deep or shallow it is to the bottom, you're just floating up near the surface and swimming either way.&lt;/p&gt;&lt;p&gt;Still, if someone tried to scare you by saying, "The bottom of the sea you're in is ten thousand meters down," wouldn't that frighten you a little? It struck me that this fear of depth might be a lot like the way people relate to one another.&lt;/p&gt;&lt;p&gt;You know how, when people meet a president, or His Majesty, or a billionaire, or a huge star, or some great scholar, they describe a kind of almost-fearful feeling, as if this person were somehow different from the neighbors they see every day? They say the person "has an aura," or is "larger than life." I think that's the same thing as the depth of the sea.&lt;/p&gt;&lt;p&gt;Whether it's Bob Dylan or Einstein, the one standing there is a human being of ordinary human height, isn't it? And you're a human being too. Just as swimming is the same no matter how deep the sea is, no matter how great a master or how famous a name, their size and their looks and the things they do don't change. To buy a 200-yen drink, they pay 200 yen. Sitting down in a chair, walking a little way, it's the same for everyone.&lt;/p&gt;&lt;p&gt;If you only ever swim at the surface, the sea floor doesn't matter. In the ordinary business of daily life, a person's position or stature has nothing to do with anything. Of course, people need to show each other respect. But that much respect is something you owe the kids down the street, too.&lt;/p&gt;&lt;p&gt;Well, I started out imagining swimming over the Mariana Trench and the whole thing rolled off in a direction I never expected, but it's kind of interesting, don't you think?&lt;/p&gt;&lt;p&gt;◆Today's question, no. 082: "Where do you feel safest?" Where is it for you? Give it some thought, and if you like, send us an email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today.&lt;/p&gt;&lt;p&gt;Come to think of it, when you look up at the sky, there's an infinite distance up there too, isn't there.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#7169a2a133f1"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay compares the awe people feel toward famous or powerful figures to fear of deep water: the depth is an illusion, since everyone is an ordinary human who swims at the same surface level. Recognizing that a person's status is no different from anyone else's, beyond the respect owed to all, helps dissolve that intimidation.</summary>
+    <published>2026-10-25T08:05:42.087370+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#5f51e2f015de</id>
     <title>The Hobonichi Techo his mother kept</title>
@@ -607,36 +621,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author describes being drawn to the animated film *We Are Aliens* purely by its visual style—a striking blend of painterly and photographic techniques—and discovering that its poignant story about self-introduction and connection justified their gamble on appearance alone. Through its masterful use of water imagery and resonant themes, the film demonstrates how powerful visual storytelling can create meaningful emotional connections with audiences.</summary>
     <published>2026-09-26T08:18:08.171314+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#f41ec62c6c85</id>
-    <title>Feeling the unnecessary things</title>
-    <updated>2026-09-25T08:31:16.688666+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;"To feel."&lt;/p&gt;
-
-&lt;p&gt;To feel something. To feel the heat, to feel the cold, to feel loneliness, to feel joy, to feel friendship, to feel affection, to feel a slight, to feel anger... There are things that nearly everyone would feel, just by being there in that moment, in that place. And there are times when you weren't really feeling much of anything, but someone else nearby is feeling it, and you get pulled along and end up feeling it too. A single person's act of feeling is complex and subtle. If I had to compare it to something, I'd call it a sense of touch.&lt;/p&gt;
-
-&lt;p&gt;Sometimes you feel things you didn't need to. The kind of unnecessary things that everyone else overlooks. Honestly, it might have been better not to feel them at all, and sometimes feeling them stirs up a bit of confusion. You could call it a sense of unease, that sort of thing.&lt;/p&gt;
-
-&lt;p&gt;And then you find yourself dwelling on that unnecessary thing for a while. Sometimes you keep thinking about it for quite a long time.&lt;/p&gt;
-
-&lt;p&gt;Continuing to dwell on this unnecessary thing leads you into thinking about it from all sorts of angles. And once you start turning it over in your mind, that unnecessary thing you first felt can become an entirely new perspective, a fresh way in, and the thought comes together, gets put into action, and grows into what becomes obvious to everyone in the future. Most of what we call good things happen exactly this way.&lt;/p&gt;
-
-&lt;p&gt;Let's try applying this idea of the unnecessary thing to all kinds of examples. Sports, creative work, business, policy. You'll find that in everything, there's this same cycle that begins with a sense of unease. Feeling the unnecessary thing, then dwelling on it, then thinking it through from every direction. Everything starts with feeling, out there in the field.&lt;/p&gt;
-
-&lt;p&gt;AI has no field, no daily life, so its ability to feel is weak. And whether you have too much experience or too little, your ability to feel weakens all the same.&lt;/p&gt;
-
-&lt;p&gt;◆Today's question, no. 052: "The sense of unease I'm feeling." What is it, I wonder? If something comes to mind, feel free to send it my way, by email or however you like.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today. I think I wrote something rather important here, though I wonder how it came across.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#f41ec62c6c85"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay argues that genuine innovation and progress begin with noticing and dwelling on small, seemingly unnecessary feelings of unease that others overlook, a capacity for nuanced sensing that AI and overly experienced humans alike lack. True insight emerges not from efficiency but from the patient, multifaceted exploration of these subtle emotional impressions.</summary>
-    <published>2026-09-25T08:31:16.688666+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
