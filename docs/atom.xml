@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-28T09:18:03.073633+00:00</updated>
+  <updated>2026-10-29T09:19:12.046656+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#795c932b0799</id>
+    <title>The kind of thing even I'd forget if I didn't write it down</title>
+    <updated>2026-10-29T09:18:45.627744+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;What I'm about to write is truly trivial, utterly beside the point. It's just that if I don't write it, it will stay unwritten forever, and somehow that felt like a bit of a shame, so I decided to write it. What's more, I made this resolution while squatting on the toilet... a real bottom-line decision, you might say.&lt;/p&gt;&lt;p&gt;Here goes: I want a bread machine again. Not a toaster. I mean the electric gadget that bakes bread starting from flour. There may still be one lying around somewhere in the house, but I suspect the one I bought last time has been thrown out. Naturally, since it sat unused for years and years. I can't imagine that my boss at home, who is enshrined here as the Deity of Discarding, would have let it sit there unnoticed.&lt;/p&gt;&lt;p&gt;That's right, I've bought one before. Actually, I bought one before that, too. Over the course of my long life, I've bought maybe five bread machines... or I might be padding the count by one. Let's say four times, then, I bought one, got bored with it, and it was either forgotten or thrown away.&lt;/p&gt;&lt;p&gt;And now I've stumbled on a reason to want one, just a little. A specialty baking-supplies shop was selling "bread mix" flour. Oh, so you can buy the flour here, I thought. I bet it's delicious. And the instant that tiny thought crossed my mind, the smell of fresh-baked bread came billowing through my brain. It doesn't keep well, but straight out of the machine, it's the best. And then the bonus came charging in: "It makes mochi, too!" I mean, come on. Now I'm hungry for it. That's just where I'm at.&lt;/p&gt;&lt;p&gt;It isn't even expensive, only a little over ten thousand yen. If I were an old man living alone, I'd buy one this very minute. But I'm not, and my boss reads these ramblings too. "Obviously not! Honestly, the very idea!" So I'm not buying one. A bread machine? Absolutely not. And even if, hypothetically, I did buy one, I'd hide it somewhere and, picking a moment when the boss is out, quickly bake a loaf on the sly. Though, you know, I don't think the boss would actually object to eating it. Maybe I'll borrow one from someone at Hobonichi, a bread machine...&lt;/p&gt;&lt;p&gt;◆ Today's question, no. 086: "Purchases you agonize over." Do you have any? Give it some thought, and if you'd like, send us an email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. There's an old saying, you know: on Thursdays, read something silly.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#795c932b0799"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The writer, after impulsively deciding to finally write down a trivial wish, admits a craving for a bread machine sparked by the idea of fresh-baked loaves and mochi, then talks themselves out of buying one because of their boss's disapproval and their history of abandoning past machines. It's a playful, self-deprecating take on the tug-of-war between a small indulgence and the reasons to resist it.</summary>
+    <published>2026-10-29T09:18:45.627744+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#7dec5630fc41</id>
     <title>Do you love a good chance? That's a chance too</title>
@@ -535,32 +549,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author discovers that achieving 8th place in a fishing tournament brings unexpected joy, revealing that genuine accomplishment and happiness aren't found only at the top, but come from participating and understanding experiences beyond what we can merely observe from the outside.</summary>
     <published>2026-09-30T09:18:23.649509+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#e76ea1fa251e</id>
-    <title>Me in this vast world.</title>
-    <updated>2026-09-29T09:27:23.680444+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The mosquito that lands on your cheek is fiercer than any flying dragon at the edge of the earth. The wailing of your son claws at the heart more than the song of the Sirens. (from &lt;em&gt;The Dead End Road&lt;/em&gt;)&lt;/p&gt;
-
-&lt;p&gt;The things that happen right around us are, for a single human being, greater than anything else. And yet, while I say this, what I'm about to talk about is no bigger than the tip of a fingernail. No, really, it is about the tips of fingernails.&lt;/p&gt;
-
-&lt;p&gt;For many years I lived as a devoted nail-clipper enthusiast, but for some months now I haven't touched a nail clipper at all. I just buff down whatever has grown with a glass nail file. I started it half-heartedly, telling myself I'd quit when I got bored or go back to the old way when it became a bother, but I've kept it up this whole time without stopping. Only, lately I've switched from the glass file to a pen-shaped product called the "Nail King," which is simpler and doesn't scatter the shavings. Who would have thought a day would come when I'd file down my grown nails instead of using scissors or clippers.&lt;/p&gt;
-
-&lt;p&gt;This next thing might seem even smaller, but at long last the announcement has gone out for "Shigesato Itoi's Live Reading."&lt;/p&gt;
-
-&lt;p&gt;We tried it once as a test, and it was genuinely fun. All it involves is reading a book and sharing my impressions in front of only my own colleagues, family really. What do people think about while they're reading a book? I decided to make myself the guinea pig and find out. The problem is that it will expose the fact that "I'm not thinking about anything much." I'm no scholar or expert, so I simply read. Books aren't written by logic to begin with. Reading is a person writing and a person reading, plain and simple. Most little arguments and hair-splitting come after the fact anyway. In the spirit of "life really begins once your stupidity is out in the open," I intend to do this live, as just one of the little folk.&lt;/p&gt;
-
-&lt;p&gt;◆Today's question is no.056, "On My Own Smallness." Give it some thought, and if you'd like, write it down in an email and send it to us.&lt;/p&gt;
-
-&lt;p&gt;Thank you again today for coming to Hobonichi. Do jot down the reader-interview questions and your answers for yourself, too.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#e76ea1fa251e"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay celebrates the profound significance of life's smallest, most intimate moments—from the mundane shift in how one files their nails to the simple act of reading and sharing thoughts—arguing that these everyday experiences matter far more than grand, distant concerns. Through embracing one's own ordinariness and stupidity, the author suggests we find authentic meaning in the small things that actually surround us.</summary>
-    <published>2026-09-29T09:27:23.680444+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
