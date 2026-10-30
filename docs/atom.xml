@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-10-29T09:19:12.046656+00:00</updated>
+  <updated>2026-10-30T09:35:31.315560+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#1268c9c098dd</id>
+    <title>On getting along</title>
+    <updated>2026-10-30T09:35:15.423903+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;You know those videos where a mother dog or cat introduces her babies to a person she's come to trust? I've seen a few of them. I can't know what she's actually feeling, but from our side, the human side, I can't help reading it my own way: "I wanted you to meet them. These are my little ones, my precious, precious babies. Please be good to them." It looks as though she's bringing together the children she treasures and someone she knows she can rely on.&lt;/p&gt;&lt;p&gt;We're always being encouraged to mix: across industries, across cultures, to bring different kinds of people together. And why is it so pleasant to watch creatures of different species getting along? Unlikely pairs of animals playing together, eating together, one nursing the other's young... When a video shows me that yes, this really can happen, I can't help feeling glad.&lt;/p&gt;&lt;p&gt;Mind you, animals of the same kind getting along warm the heart plenty, too. Yes, I suppose anything getting along stirs up a kind of pleasure in whoever's watching. Watching children play together makes me happy somehow, and it's lovely to see a child doting on a pet or a doll.&lt;/p&gt;&lt;p&gt;Everybody loves seeing others get along. But, well, in real life, getting along doesn't seem all that easy. Not getting along looks like the simpler, safer choice, and perhaps it even pays off now and then. I wonder whether getting along is something a person can learn.&lt;/p&gt;&lt;p&gt;Today's question, no. 087: "Are you getting along?" And with whom? Give it some thought, and if you like, tell us by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today.&lt;/p&gt;&lt;p&gt;What if you could take lessons in getting along, the way you can with a musical instrument or painting?&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#1268c9c098dd"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay observes that watching animals, children, or people of different kinds get along brings a quiet joy, yet getting along is hard in real life, and the writer wonders whether it's a skill that can be learned.</summary>
+    <published>2026-10-30T09:35:15.423903+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#795c932b0799</id>
     <title>The kind of thing even I'd forget if I didn't write it down</title>
@@ -513,42 +527,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Shigesato Itoi expresses anxiety about an unexpectedly demanding day ahead—a medical appointment, workout, and an exhausting live reading event he himself scheduled—yet resolves to push through with determination despite his age and doubts about his own capabilities.</summary>
     <published>2026-10-01T09:45:36.017627+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#c7468e0589ae</id>
-    <title>Again: the story of when I came in 8th place.</title>
-    <updated>2026-09-30T09:18:23.649509+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've told this same story over and over again. It's about the days when I was completely absorbed in fishing.&lt;/p&gt;
-
-&lt;p&gt;There was a local bass fishing tournament held at Lake Kawaguchi. It was a regular competition, held a few times a year, and I think around 150 people usually took part. Me, a proper middle-aged man, would line up at the reception desk from around six in the morning, waiting for the start alongside younger folks and students who were all my seniors when it came to fishing. I can't remember whether the tournament ended at one in the afternoon or some other time, but the idea was that you'd have your catch weighed in turn and compete for a ranking.&lt;/p&gt;
-
-&lt;p&gt;As a newcomer, I was one of the older working adults, but I was one of the worse ones. I usually placed around 80th, squarely in the "thanks for participating" group. But then, one day, I had a feeling I'd actually caught a decent amount, and when I had it all weighed in and the results came out, I'd landed in 8th place.&lt;/p&gt;
-
-&lt;p&gt;This whole rambling piece I've written could really just come down to those two characters: "8th place."&lt;/p&gt;
-
-&lt;p&gt;Normally, watching sports and the like, I only ever paid attention to the battle for first. I'd feel crushed when someone lost in 2nd, or disappointed by a 5th. So when someone like me came in not first, not fifth, but 8th, I was so genuinely happy that tears actually welled up.&lt;/p&gt;
-
-&lt;p&gt;Eighth place is amazing, I realized. When you're not a competitor yourself, just watching the fight for the top, 8th place is something you can't even begin to think about. But once you become the one actually taking part, you understand just how happy 8th place can make you (and I suppose you'd also understand the frustration of 8th, too).&lt;/p&gt;
-
-&lt;p&gt;When you look at Mount Fuji, it's normal to look at the summit. But Fuji exists together with those vast, sweeping foothills too. I looked it up, and even the fifth station, where you can go by bus, is about 2,300 meters above sea level. If you were to walk all the way to the top, even the fifth station is quite something.&lt;/p&gt;
-
-&lt;p&gt;"Understanding that there are things you can only imagine because you're not the one involved, and then, on top of that, becoming able to imagine what it's like for the person who is." Maybe that's the kind of practice we're all doing. And yet, honestly, we still don't really understand it at all.&lt;/p&gt;
-
-&lt;p&gt;◆Today's question no.057: "Have you ever won an award or a prize?"&lt;/p&gt;
-
-&lt;p&gt;How about it? Give it some thought, and if you feel like it, send me an email.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for coming to Hobonichi today.&lt;/p&gt;
-
-&lt;p&gt;There are some things you just can't reach, no matter how much grit, effort, or talent you have.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#c7468e0589ae"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author discovers that achieving 8th place in a fishing tournament brings unexpected joy, revealing that genuine accomplishment and happiness aren't found only at the top, but come from participating and understanding experiences beyond what we can merely observe from the outside.</summary>
-    <published>2026-09-30T09:18:23.649509+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
