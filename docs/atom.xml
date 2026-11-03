@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-02T16:39:21.424200+00:00</updated>
+  <updated>2026-11-03T10:27:46.452258+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#65ab4c351358</id>
+    <title>More on the reader interviews, and other things</title>
+    <updated>2026-11-03T10:27:24.202260+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The "reader interview" I've been running at the end of these short pieces is getting close to its hundredth question. Which is to say, that's where it ends. After doing it a hundred days in a row, I have to admit it's a little sad to see it go. Especially for me, you know. The interview takes up three lines, so I'd been trimming the writing that came before it. At first I couldn't get used to that, but little by little I did, and along the way I picked up a "somewhat freer" way of writing. It's probably hard for anyone else to notice, but I'd loosened up a bit. If I go back to the original twenty-seven characters by forty lines, I suspect I'll struggle with that in its own way.&lt;/p&gt;&lt;p&gt;Now, there's something I should tell you ahead of time. I'd planned to stop at question 100, on that very day, but I've decided to keep the interview going for one more. The reason is that no. 074, "Is there a place you're a regular at?", and no. 040, "Is there a place you always go back to?", were far too similar. I thought I'd been careful to come up with questions that didn't overlap with ones I'd already asked, but I slipped up. Truth is, I ask similar things all the time. Then again, that happens plenty even when you're talking face to face with someone, so I'd been letting it slide. This time, though, I wanted a do-over. So question 101 will run on November 13th, and that will be the end.&lt;/p&gt;&lt;p&gt;I'll probably talk about this project again once it wraps up, but interviews really are curious occasions, aren't they? There are things you'd never have thought about if nobody had asked, and sometimes being asked leads you to discover something about yourself. I've been on both sides, asking and being asked, and even now I often find myself stopping short and thinking, "Huh, so that's how I saw it."&lt;/p&gt;&lt;p&gt;And then there's something Satoru Iwata used to say a lot, too: "Once it's written down, you end up sounding like you're full of yourself." There's that tendency, and I really can't stand it. The more honestly and plainly you answer, the more likely you are to come off sounding cocky. I've even been known to ask for my blunt sentence endings to be swapped out for polite ones, you know (ha).&lt;/p&gt;&lt;p&gt;◆Today's question, no. 091: "Memories of this summer..." (ha)&lt;/p&gt;&lt;p&gt;Not bad, right? If you feel like it, send me your answer by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. December mode is slowly creeping up on us. It's like this every year.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#65ab4c351358"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The writer is ending a hundred-day "reader interview" feature, reflecting on how the daily discipline loosened their writing style and how being asked questions reveals things about oneself. They also decide to extend the run by one question to fix a repeated question, marking the close of the project.</summary>
+    <published>2026-11-03T10:27:24.202260+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#e491f4b543d1</id>
     <title>Losing, losing, losing, losing, and winning now and then?</title>
@@ -461,28 +475,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author argues that meaningful human connection comes from approaching conversations with openness and minimal preparation, allowing genuine discoveries to emerge organically rather than simply exchanging pre-planned information.</summary>
     <published>2026-10-05T10:00:04.850765+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#81db8f890f1e</id>
-    <title>Some thoughts I had over the weekend</title>
-    <updated>2026-10-04T09:19:52.453599+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;So the Hanshin Tigers clinched the pennant, and with that, the baseball season has finally wrapped up. What a season it was. All sorts of things happened. The Giants' manager suddenly stepped down one day, and the man who was told, "You take over," well, that's no small thing to be handed. You can't exactly sit back and say something modest like, "Oh, someone like me couldn't possibly..." Not when it's professional baseball, where "fighting spirit" is the whole point. It must have been rough. In a way, it was a year of rebuilding. Day after day, it was about rising up from a tough position and figuring out how to see the fight through to the end. And to still be in the running for the title late in the season, I'd say that's more than enough to be proud of. Of course, if you start wanting more, there's no end to it.&lt;/p&gt;
-
-&lt;p&gt;I went to see "We Are Aliens" for the second time. I almost never used to watch a movie more than once, but maybe "Chiikawa" got me into the habit. Maybe I just want to take in all that painstaking handiwork, the way you can tell the people who made it went to such lengths, right down to the smallest details. And the second viewing was good again. It really is something. The enthusiasm, the care, the sense of taste, all of it is left behind as expression in every corner of the film. Maybe going to see it again felt like going on a hunt to discover all of that. Like spotting an ammonite fossil in a marble wall. And let me tell you, this movie is absolutely crawling with ammonites. And in a larger sense, I think it's a story of "affirmation." Remember how there used to be a movie tagline that went, "Live."? I almost want to borrow it again right here. That's the feeling it left me with. By the final scene, I actually ended up in tears.&lt;/p&gt;
-
-&lt;p&gt;People are free to think whatever they think, and to say whatever they say. But because they're free, they also end up thinking and saying cruel things. Once, something like that would have been born and vanished like a bubble, tucked away in some corner where no one would ever see it. But these days, even graffiti in a back alley is a form of transmission that other people can see. Lies, slander, foul-mouthed insults, they all go flying off into the air. And without even realizing it, we breathe them in too.&lt;/p&gt;
-
-&lt;p&gt;◆Today's question is no. 061: "What would you write on a blank sheet of paper?" So, what would it be? If you'd like, feel free to send us an email.&lt;/p&gt;
-
-&lt;p&gt;Thank you, as always, for stopping by Hobonichi today. Kyoto, Shibuya PARCO, Akagi, Kanda, everyone's doing well.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#81db8f890f1e"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on the beauty of craftsmanship and intentional creation—whether in cinema or sports—while grappling with how modern technology amplifies both human connection and cruelty in ways that feel inescapable.</summary>
-    <published>2026-10-04T09:19:52.453599+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
