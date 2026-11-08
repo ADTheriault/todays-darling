@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-07T09:37:23.765369+00:00</updated>
+  <updated>2026-11-08T09:51:35.994316+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#d01da9cd48da</id>
+    <title>Here I am, at my age, still saying things like this</title>
+    <updated>2026-11-08T09:51:16.974029+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I started something I call "Chiikawa rinsho," copying Chiikawa drawings the way calligraphy students copy from a master's model, and I still haven't quit. Nobody has actually told me, "You'll never stick with it." But I'm sure somebody would, so from the very start I've been stubbornly refusing to quit (ha). Well, if I'm honest, the one most likely to say it is me. But it's still going, you hear that, self?&lt;/p&gt;&lt;p&gt;Doing something every day is genuinely fascinating. When you repeat more or less the same thing over and over, the "extra thinking," the quibbling and the excuses, starts to fall away. That alone makes it good training for me.&lt;/p&gt;&lt;p&gt;Rinsho doesn't ask you to be original in the first place. Some individuality is bound to slip through, but the idea is simply to write it the way the model shows you. Chiikawa rinsho is drawing rather than lettering, but it's the same in that you're following the path a brush or pen traveled. Someone like me, though, short on both spirit and skill, can't actually follow that movement. It's probably like copying your dance teacher's moves and still not really dancing. I'm supposedly looking right at the model, yet I'm not seeing it. I suppose I could just trace where the lines and dots fall, but then the motion, the thing that actually happened there, would freeze in place and die. And since I don't have the posture or the technique for that motion, I can't move the brush or pen the way I mean to. Dots, circles, straight lines: I can't draw a single one of them properly.&lt;/p&gt;&lt;p&gt;Having said all that, I'm not discouraged. I'm drawing again today. I post them on Twitter like I'm handing in homework, and some people kindly tell me, "You're getting better!" To which I say: oh no, not at all, but I'm not stopping. And once again it hits me how wonderful the teacher who drew the originals really is.&lt;/p&gt;&lt;p&gt;◆Today's question no. 096: "What are you learning, or imitating?" Have a think. If you like, send your answer by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. Whether it's singing or dancing, I guess getting the shape right just isn't enough.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#d01da9cd48da"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The writer describes daily copying of Chiikawa drawings as a discipline that quiets their self-doubt, even though they feel they cannot truly capture the original's spirit and motion. They suggest that faithfully reproducing a model's form falls short of really learning it.</summary>
+    <published>2026-11-08T09:51:16.974029+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#38e8d9dd116b</id>
     <title>As I kept writing, it took a turn</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay is a self-directed scolding about compulsive phone use: the writer addresses themselves as someone who can't stop checking their phone, mocks the habit, and resolves to cut back by setting a daily limit and reclaiming idle time for simple pleasures like drawing or reading.</summary>
     <published>2026-10-10T09:22:54.985085+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#f6cde5f3e6f7</id>
-    <title>What is the miracle hero thinking?</title>
-    <updated>2026-10-09T10:01:39.145080+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Every now and then, I find myself thinking about Shohei Ohtani's season this year. As a pitcher, he went 8 and 2 with a 1.79 ERA. Those are terrific numbers; any team would take as many pitchers like that as it could get. As a hitter, he had 144 hits in 523 at-bats for a .275 average, with 81 RBIs and 30 home runs, which also puts him among the best on his club. And yet, next to the "superhuman" performances we've grown used to, people can't help feeling that even this falls short.&lt;/p&gt;&lt;p&gt;Midway through the season, trouble with his left knee forced him to stop pitching, and later came the announcement of inflammation in his biceps. That affected his hitting as well, and it ended any chance of his returning to the mound. There were also reports that his neck had been bothering him. In September, he went on the 15-day injured list. He made it back in time for the postseason, but the results haven't come the way anyone hoped. The team is winning, but the highlights we see aren't of Ohtani in full flight. They're of other players stepping up. I haven't seen this kind of "team with Shohei Ohtani on it" in years, and it gives me a strange feeling.&lt;/p&gt;&lt;p&gt;The injuries and slumps that most professional ballplayers go through came for the "miracle hero" too. Or did they? Maybe he'll bounce right back. The answer is still out of reach, and it isn't as if anyone else knows it either. The road to the World Series has, after all, only just begun.&lt;/p&gt;&lt;p&gt;So what becomes of this "unicorn" named Shohei Ohtani, the man people called "not human," too much even for a manga? If this were a sweeping historical drama, we'd be at the dark climax right now, the low point before the turn. When things are going badly, when the odds are against him, what does he think about, what does he work on, and how does he find his way out and then explode? A story we've never seen before has already begun. I'd love to know how Ohtani is feeling right now, even if I only find out later.&lt;/p&gt;&lt;p&gt;◆ Question no. 066: "What do you do when you're in a terrible slump?" Any answer is welcome. If you like, tell me by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. He's human like the rest of us, after all. I'm rooting for him!&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#f6cde5f3e6f7"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Even Shohei Ohtani, whose 2023 season already looked superhuman, is shown here as a mortal, slowed by injuries and a slump during a postseason where his teammates are carrying the team. The essay asks what he is going through and hopes he will find his way back, reminding readers that he is human like the rest of us.</summary>
-    <published>2026-10-09T10:01:39.145080+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
