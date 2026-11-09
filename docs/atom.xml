@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-08T09:51:35.994316+00:00</updated>
+  <updated>2026-11-09T10:53:47.821005+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#882d42bf716b</id>
+    <title>The distance that lets you watch with an easy heart</title>
+    <updated>2026-11-09T10:53:26.507083+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The Bungaku Free Market, the big literary fair at Tokyo Big Sight, is really something, isn't it? It was started by people who thought, "This is what we want to do," and others who felt the same way gathered around them, until it grew into something huge. I suspect they've done it almost entirely without help from professionals. I imagine they've worked hard thinking everything through: if we do it this way, this problem will come up; if that happens, we'll end up with this. But there's no such thing as a perfect event anywhere, so unless something is actually dangerous, it's fine to just do it and fix things as you go. Being an outsider, I can say that sort of thing breezily, without turning into a worrier. I feel the same way about the Hibiya Music Festival that Seiji Kameda and his team have been working so hard on all these years. Watching from a little way off, I can stay calm.&lt;/p&gt;&lt;p&gt;You could call that irresponsible, and maybe it is. But this kind of "watching from a distance" matters. When you're the ones running the show, a certain tension inevitably comes with it, so even with smiles on your faces, the planning and execution tend to come out a bit stiff. That said, most of what Hobonichi does seems to look like we're "just laughing our way through it." I think that's sort of our signature.&lt;/p&gt;&lt;p&gt;This time, the writers of Hobonichi's "3-Minute Column" have been busily pitching in on what amounts to a volunteer basis, and since the venue is only open for a short time, everyone seems relaxed in their own way. This is going to be a good experience for them. They've got a booth, and they made books to sell, but their participation has a slightly hobbyist feel to it. Watching the other booths and the way the organizers run things from that kind of distance must have been a real education. Making, selling, buying, wandering around, keeping watch: whatever role people were in, I bet they were all using their imagination to picture what it's like for those in the other roles.&lt;/p&gt;&lt;p&gt;As for me personally, it was the first time in a while that I spent hours locked in battle with the call of nature.&lt;/p&gt;&lt;p&gt;◆Today's question, no. 097: "Who do you want to see right now?" Simple as that. If you like, write your answer in an email and send it in.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. It's nice, too, that the rest of the Hobonichi crew went along to look around and cheer them on.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#882d42bf716b"/>
+    <link href="https://www.1101.com/"/>
+    <summary>This essay reflects on the Bungaku Free Market and Hobonichi's volunteer-run participation, arguing that a relaxed, slightly outsider stance, rather than anxious perfectionism, lets people enjoy and learn from community-driven events while still picturing the perspectives of everyone involved.</summary>
+    <published>2026-11-09T10:53:26.507083+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#d01da9cd48da</id>
     <title>Here I am, at my age, still saying things like this</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>An older writer reflects on how growing old has taught him to admire the unseen labor behind everyday things, like the temple staircases built by people long gone, and wishes he had learned that sense of respect earlier in life.</summary>
     <published>2026-10-11T09:39:38.127567+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#f9be7a0a367f</id>
-    <title>What's wrong with you, pal (yes, you, Itoi)</title>
-    <updated>2026-10-10T09:22:54.985085+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There's something I've been wanting to tell somebody flat out: "This is your fault!" And that somebody is me.&lt;/p&gt;&lt;p&gt;Sit down right there. We need to talk. Now why would you go and sit down clutching your phone? You expecting some urgent call to come in while I'm talking to you? Of course you're not. Has that ever happened, even once? What I want to talk about is nothing other than that phone of yours. You keep it glued to you, twenty-four hours a day, three hundred sixty-five days a year. Somewhere along the line you started doing this thing where you get up to use the bathroom and go, "Whoops, forgot my phone," and march right back for it. If you're going to go that far, why not just stitch the thing onto your body? Not a tattoo, exactly, but close enough. No? What's that, it'd be hard to charge if it were sewn on? Well, figure something out.&lt;/p&gt;&lt;p&gt;No, no, that's not what I meant to get into. Get away from it, that's what I'm trying to tell you. Go ahead and "confiscate" it yourself, if that's what it takes. Then you couldn't buy a train ticket or an ice cream, you say? Nobody's telling you to stop carrying it when you actually need it. What's wrong is the nonstop part. You got some disease where you'll drop dead if you're not staring at that screen? Didn't think so. You're just hooked on the thing, that's all. All that "So handy, so handy, what a blessing, what a blessing" business, that's how people thought ages ago, back when these things first came out and were still a novelty. Cramming everything in through your eyes and kidding yourself that you know it all, where does that get you?&lt;/p&gt;&lt;p&gt;Look, I know you're not some kid with a game console, but you need a rule, something like "Phone time: two hours a day, max." Hm? What are you supposed to do if you're not looking at your phone? Get rid of it first, then worry about that. You never had one to begin with, so you won't be stuck. Just sit there idle with your mouth hanging open, staring into space. What's wrong with that? Draw some Chiikawa, read a book, whatever. Got it? No more extra phone time. That's final.&lt;/p&gt;&lt;p&gt;◆ Today's question, no. 067, is "A warning to yourself." If there's something you'd like to tell yourself, feel free to send it to us by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. And since I've gone and written all this about phones, maybe this is a good time to...&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#f9be7a0a367f"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay is a self-directed scolding about compulsive phone use: the writer addresses themselves as someone who can't stop checking their phone, mocks the habit, and resolves to cut back by setting a daily limit and reclaiming idle time for simple pleasures like drawing or reading.</summary>
-    <published>2026-10-10T09:22:54.985085+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
