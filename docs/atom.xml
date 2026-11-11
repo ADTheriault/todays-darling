@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-10T15:16:44.302574+00:00</updated>
+  <updated>2026-11-11T10:19:01.642182+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#917d09686abc</id>
+    <title>What we have outside the walls that isn't found within</title>
+    <updated>2026-11-11T10:18:40.794815+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Yesterday I wrote that the 78 years I've lived really have been long. Not short in the least. This isn't exactly a continuation of that, but I've been thinking a little more about the length of time.&lt;/p&gt;&lt;p&gt;Please don't take this as anything grim. Say someone commits a crime, is tried, and goes to prison. Three years, five years, twenty years, life. That stretch of time is what we call a "sentence." During it, they should have the basics: meals, sleep, hygiene, safety. In a sense, you could say their right to live hasn't been taken from them any more than it has from the people on the outside. So what is it they don't have? Countless "freedoms."&lt;/p&gt;&lt;p&gt;When to eat, and what to eat. What time to go to bed and what time to get up, where to go when you step out of the house, whom to see, what to do, whether to grit your teeth through a job you hate or just skip it. Tucked inside all the things we on "the outside" do as a matter of course, without finding them the least bit remarkable, is a great heap of a precious commodity called "freedom." Simply taking most of it away is enough to make a punishment.&lt;/p&gt;&lt;p&gt;If someone who has done something terrible is handed, say, a sentence of five years, it means five years' worth of "freedom" is taken from them. Losing "freedom" for five years is considered heavy enough to balance out the wrong they did. And society agrees that being deprived of "freedom" for that span of time is a very great punishment indeed. This may sound like I'm being overly logical about it, but that's how enormous the value of "freedom" is!&lt;/p&gt;&lt;p&gt;So "freedom" is something human beings simply can't do without, I find myself thinking, rather late in the day, and getting a little sentimental about it. Well, gosh, I suppose I may be squandering my freedom a bit...&lt;/p&gt;&lt;p&gt;Today's question, no. 099: "When do you feel most free?"&lt;/p&gt;&lt;p&gt;What do you think? If you'd like, write it in an email and send it my way.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. There's freedom in "Happy nothing-in-particular day," too, isn't there.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#917d09686abc"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that prison's real punishment is the loss of everyday freedoms, the countless small choices about when to eat, sleep, work, and see people, which we take for granted until they're gone. The writer reflects on how precious this freedom is and wonders whether they may be squandering their own.</summary>
+    <published>2026-11-11T10:18:40.794815+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#84ca2a65f15d</id>
     <title>This time, the congratulations come from me</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author keeps saying "thank you" to AI, dogs, shrines, books, and nature even though none of them can feel it, arguing that gratitude is something that spills out of one's own heart rather than a transaction that needs a receiver's feelings to matter.</summary>
     <published>2026-10-13T10:05:06.984787+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#94b86c9bbc85</id>
-    <title>If a diary had readers, this is how it would be written</title>
-    <updated>2026-10-12T10:12:31.492211+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The middle day of the three-day weekend was the day the Giants' season came to an end. Two losses, and there's no going any further. In other words, it's over. I wasn't predicting it, exactly, but somewhere in the back of my mind I'd had the feeling it wouldn't be surprising if things turned out that way.&lt;/p&gt;&lt;p&gt;What really darkened my mood, though, was how many people were saying vicious things on social media. I suppose they, too, count as "fans." But does being a "fan" mean you get to say whatever you want? Blaming and blaming, raging with the benefit of hindsight, tearing down someone's very character. Watching people scold flesh-and-blood human beings like that, I thought: I would never, ever want to work under someone like this.&lt;/p&gt;&lt;p&gt;If you told me that this is the whole point of watching sports, spewing out whatever you feel like and blowing off the frustrations of everyday life, I'd have nothing to say back. Still, that's what I thought: "I wouldn't want to be one of their subordinates." When someone loses, when their numbers are bad and they just can't get going, do they really deserve to be torn into like that? Hmm? Does this also mean "I wouldn't want them as my subordinates, either"? Maybe it does. A perfectly good team would stop working. It reminds me that when it comes to how we carry ourselves through bad stretches, I need to take a good, hard look at myself, too.&lt;/p&gt;&lt;p&gt;The other day I wrote that I might want to rethink my "smartphone dependence" a little. I've been keeping a bit of distance from my iPhone. In its place, it seems, I'm spending more time on my MacBook. And the me who's "dependent on his phone," well, that's right, I shouldn't be blaming him either. I'll sit down with myself, with some affection, and talk over how to go about this.&lt;/p&gt;&lt;p&gt;I bought a pair of barefoot shoes (the kind meant to feel like walking barefoot). When I walk, the soles of my feet feel every bump, but I'll probably get used to it. At the very least, just starting to wear them has satisfied my curiosity. Where it goes from here, I have no idea. I'm not at the point of recommending them to anyone yet, but I'm sure I'll report back sometime on how it's going.&lt;/p&gt;&lt;p&gt;◆ Today's question, No. 069, is "A small good thing about me." Don't be shy. If you like, write your answer in an email and send it in.&lt;/p&gt;&lt;p&gt;Thank you for coming to Hobonichi again today.&lt;/p&gt;&lt;p&gt;Oh, today I ended up writing the kind of things you'd put in a diary. Oh well.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#94b86c9bbc85"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The writer watches the Giants' season end and is dismayed by fans' vicious online attacks on players, which leads him to reflect that he should extend the same patience to himself, including his own smartphone habits and clumsy attempts at change.</summary>
-    <published>2026-10-12T10:12:31.492211+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
