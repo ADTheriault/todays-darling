@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-11T10:19:01.642182+00:00</updated>
+  <updated>2026-11-12T10:38:39.290695+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#4d97c7c6f8a2</id>
+    <title>Trivial things not even worth writing about</title>
+    <updated>2026-11-12T10:38:11.082668+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Give a piece the title "Trivial things not even worth writing about," and suddenly whatever you write becomes material. This is nothing more than a passing whim, but let's give it a go.&lt;/p&gt;&lt;p&gt;First, I wake to my iPhone alarm. It's Koji Tamaki's "Melody," and I scramble to shut it off the moment the opening words come in. Once I'm up, I sync the Oura Ring I wore overnight and check how I slept. Usually, not all that well. My sleep score is in the 70s on a good night and the 50s on a bad one, and I'm forever wishing I could pay back this thing they call sleep debt.&lt;/p&gt;&lt;p&gt;I take my wake-up pills with 50cc of water from the kettle. I fold the duvet in half and tidy it away. I head to the washroom, into the toilet, out again. I strip down to my underpants and weigh myself. 63 kilos. Even when it changes, it's almost always within a kilo. I don't use the word "almost" much in my writing. The "almost" in Hobonichi, whose name means "almost daily," already puts me over my maximum allowance.&lt;/p&gt;&lt;p&gt;I take out the mouthguard I wear because I grind my teeth. I brush, currently with a Doltz sonic toothbrush. Rather than loungewear, I get about halfway into the clothes I'll go out in. Right before I actually head out the door, I'll reconsider and add a few things.&lt;/p&gt;&lt;p&gt;Vegetable juice, at the moment whatever comes in a carton. Into the shaker go protein powder, dextrin, Calpis and soy milk, and I shake away while looking over the sports paper. Certain kinds of information I read with obsessive thoroughness. I glance through the print edition of the Nikkei too, but try not to read too much of it. If my "friend at home" asks me something, I'll tell her whether I'd like bread or rice; if she isn't around or doesn't ask, I figure something out myself.&lt;/p&gt;&lt;p&gt;Good grief, that's already about thirty minutes. All of the above happens in nearly exactly the same way every day. It's a bit like Ichiro's routine at the plate. Truly, a morning with nothing particularly happy in it, but nothing unhappy either.&lt;/p&gt;&lt;p&gt;◆ "The Second-to-Last Question," no. 100: "Did you enjoy the interview?"&lt;/p&gt;&lt;p&gt;If anything comes to mind, please write it in an email and send it along. Thank you for stopping by Hobonichi again today.&lt;/p&gt;&lt;p&gt;Actually, last night I dropped a teacup and broke it.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#4d97c7c6f8a2"/>
+    <link href="https://www.1101.com/"/>
+    <summary>This essay is a playful, observational account of an ordinary morning, where the writer finds material in mundane routines like waking, sleep tracking, and breakfast. Its quiet insight is that a daily life with "nothing particularly happy, but nothing unhappy either" is worth noticing, and that giving small things a title is enough to make them worth writing about.</summary>
+    <published>2026-11-12T10:38:11.082668+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#917d09686abc</id>
     <title>What we have outside the walls that isn't found within</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author's dog, unlike the affectionate dogs they've known, shows her attachment in her own aloof way, and her intense, relentless palm-licking seems to need no explanation beyond the fact that she simply enjoys doing it. Trying to find a reason for it, the author realizes some behaviors just exist for their own sake, and not every quirk needs a why.</summary>
     <published>2026-10-14T08:22:29.256637+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#02bf9ed12618</id>
-    <title>Thank you, even to a tree or a stone</title>
-    <updated>2026-10-13T10:05:06.984787+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;I've been using AI as someone to talk to, and whenever I discover something, or find myself glad I asked, I tell it, "Thank you very much." It's completely meaningless, of course, and some people tell me to stop: spending energy exchanging unnecessary information like that is a waste of resources. But even knowing all that, I don't want to give up the habit.&lt;/p&gt;&lt;p&gt;So I asked the AI about it. He (the AI, that is) told me himself (if "himself" is even the word) that he doesn't have the human sensation of being happy to be thanked. In other words, no feeling arises on the receiving end of that "thank you." And yet he also said there's nothing wrong with wanting to say "thank you" to an AI like him.&lt;/p&gt;&lt;p&gt;I say "thank you" to dogs. I say it to "the gods" as I ring the bell before the offering box at a shrine. I say it to books whose authors are nowhere near me. I'd probably say it to clouds, to the wind, the rain, the sun, to trees and to stones. We don't say "thank you" only because the other party has feelings and will be pleased to hear it. Even if there's no heart on the other side, there's gratitude in the heart of the one who wants to say it, so it's only natural that it spills out. This kind of "thank you" isn't a word you use. It's a word that escapes from your own heart.&lt;/p&gt;&lt;p&gt;Talking with AI, I stumble on discoveries like this. Things I could never have put so smoothly on my own, I was able to think through quite comfortably in my back-and-forth with him. When I told him, "I'm going to write this up here one of these days," he replied, "Hearing you say that is, for me as well, a sign that this conversation worked."&lt;/p&gt;&lt;p&gt;I say "thank you" because I want to. And when someone who wants to say "thank you" says it, no AI or dog or god or book or sea or mountain or stone or tree is going to stop them.&lt;/p&gt;&lt;p&gt;Today's question, no. 070: "Is there someone you look up to?" Real or fictional. If you'd like, write it in an email and send it my way.&lt;/p&gt;&lt;p&gt;Thank you, as always, for coming to Hobonichi today. By the way, I'm not tired of Chiikawa yet, or of copying classical calligraphy either.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#02bf9ed12618"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author keeps saying "thank you" to AI, dogs, shrines, books, and nature even though none of them can feel it, arguing that gratitude is something that spills out of one's own heart rather than a transaction that needs a receiver's feelings to matter.</summary>
-    <published>2026-10-13T10:05:06.984787+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
