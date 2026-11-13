@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-12T15:39:49.012962+00:00</updated>
+  <updated>2026-11-13T10:30:38.999257+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#b703d08bfd1c</id>
+    <title>Everything changes, that much is a given, but still</title>
+    <updated>2026-11-13T10:30:18.721474+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Did the people who built the pyramids ever say to one another, "I wonder what people in the future will think when they see this"? Did they imagine, even a little, how they'd be seen? They were the ones actually building the thing, after all, so I doubt it ever crossed their minds that someone would one day ask, "How on earth did they make it?"&lt;/p&gt;&lt;p&gt;When I was in elementary school, a prank caught on for a while among the dumber kids: drawing fake chest hair on yourself. Back then, men like the baseball star Shigeo Nagashima, the sumo wrestler Asashio, and the leading men in foreign films all showed off their chest hair, and it looked cool. Who could have guessed that the men of later generations would get rid of so much of their body hair! Neither the kids nor the grown-ups of that time could have imagined it, not by a single hair.&lt;/p&gt;&lt;p&gt;The Imperial Palace in today's Chiyoda Ward stands on the site of the old Edo Castle. The people who saw that castle as part of their everyday scenery could never have imagined it would become the Imperial Palace and look the way it does now.&lt;/p&gt;&lt;p&gt;When you're living in a given era, you can't really understand the eras that came before it or the ones still to come. You can forecast, predict, imagine, even fantasize, if you try. But the changes almost always turn out to be on a completely different scale. Then again, we don't even understand the era we're living in...&lt;/p&gt;&lt;p&gt;Someday, a teacher in the far-off future might tell their students, "So up until this period, there was an institution called marriage, and people lived in units called families." Then again, teachers and students might not exist anymore either. And the language people speak will probably have changed completely.&lt;/p&gt;&lt;p&gt;Things change, you know, so much that it's beyond imagining. And yet, even amid all that, some things stay the same. I have a feeling that if you live with your eyes fixed on the things that don't change, the past, the present, and the future all become a little easier to see.&lt;/p&gt;&lt;p&gt;◆Final day's question, No. 101: "Will you keep sending me emails?"&lt;/p&gt;&lt;p&gt;I mean it. Write your answer in an email and send it my way, would you?&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. As for the future of the reader interviews, I'm still thinking it over. Thanks so much!&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#b703d08bfd1c"/>
+    <link href="https://www.1101.com/"/>
+    <summary>People living in any era cannot foresee how dramatically their world will change, from the pyramid builders to the Edo castle's transformation into the Imperial Palace. Yet even amid that constant change, the author suggests that focusing on what stays the same can make the past, present, and future easier to understand.</summary>
+    <published>2026-11-13T10:30:18.721474+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#4d97c7c6f8a2</id>
     <title>Trivial things not even worth writing about</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The author, who has recently been going to the movies far more than usual, traces the habit to the cozy, theme-park-like pleasure of seeing Chiikawa on the big screen, and finds that a city's abundance of films, along with the joy of revisiting favorites, has turned a non-movie-buff into a frequent moviegoer.</summary>
     <published>2026-10-15T07:59:09.658548+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#5b3dac234b0f</id>
-    <title>Why? Why ask why?</title>
-    <updated>2026-10-14T08:22:29.256637+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Our dog isn't especially clingy. I know plenty of dogs express their joy with their entire bodies, all "I love you, I love you, wahoo, yippee!", but watching ours makes it very clear that not every dog is like that.&lt;/p&gt;&lt;p&gt;Our previous dog was also the type who liked walks more than people, yet every night she slept at the foot of my bed. The dog we have now first politely takes care of her little business, then hops up beside the pillow on Mom's bed and sleeps there for a while, her rump pressed up against her. Before long, though, she drops lightly off the bed and settles into her own, where she can sleep alone in peace. She never asks to be petted, but she doesn't refuse it while it's happening, either. Really, the way she relates to us is cool, or maybe just room temperature.&lt;/p&gt;&lt;p&gt;And yet this same dog, when the mood strikes her while she's with me, will suddenly start licking my palm. With an expression so serious it borders on ferocious, she pins my hand down with her forepaws and licks the entire palm, hard, on and on and on. When she's finished with my left hand, she goes looking for my right and starts all over again. She doesn't stop.&lt;/p&gt;&lt;p&gt;I tried to think of this as a sign of affection. But it's so intense, so rough, so relentless, that "affection" simply doesn't fit. Nor does it seem to be a thank-you for everything I do for her. Besides, I'm not exactly confident about the taste or smell of my palms. Half the time I've only just washed my hands.&lt;/p&gt;&lt;p&gt;I looked into it in all sorts of ways but couldn't find an answer. I asked AI twice, at different times, and got nowhere. So in the end I arrived at this conclusion: just as dogs gnaw tirelessly and with total devotion on horse tendons, chunks of wood, or stuffed toys, she licks my hand for no reason at all except that she wants to lick my hand. If only I hadn't gone and asked "WHY?", it was probably something I'd understood from the very start.&lt;/p&gt;&lt;p&gt;Today's question, no. 071: "What's something you do without knowing why?" A quirk? A habit? If you think of one, write it in an email and send it my way.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. Questions like "Why does the universe exist?", well, what are you supposed to do with those!&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#5b3dac234b0f"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author's dog, unlike the affectionate dogs they've known, shows her attachment in her own aloof way, and her intense, relentless palm-licking seems to need no explanation beyond the fact that she simply enjoys doing it. Trying to find a reason for it, the author realizes some behaviors just exist for their own sake, and not every quirk needs a why.</summary>
-    <published>2026-10-14T08:22:29.256637+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
