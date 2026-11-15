@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-14T09:48:36.650437+00:00</updated>
+  <updated>2026-11-15T10:23:10.462567+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#1af74102a965</id>
+    <title>Bride of the golden hairpin? I can't even read that title</title>
+    <updated>2026-11-15T10:22:49.096144+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;It was Jun Miura who made the phrase "my boom" catch on. A boom, by definition, is something that sweeps up huge numbers of people, so a personal one, a "my" boom, ought to be a contradiction in terms. But these days everyone knows what it's like to have a tiny, private craze of their own, and so "my boom" became a boom in its own right. However narrow the obsession, however quickly it fizzles out, that's perfectly fine. I think part of the appeal was that you could treat the boom as disposable.&lt;/p&gt;&lt;p&gt;Nowadays the equivalent might be having an "oshi," someone you root for. But that word carries more emotional weight somehow, as though your whole heart is in it.&lt;/p&gt;&lt;p&gt;Thanks to Chiikawa, going to the movies became my boom for a while. If something looked promising, I'd book a ticket right away and just go. I had never been that light on my feet about it before. But after Godzilla -0.0, the trips to the theater stopped. The third season of Love Village started on Netflix, I got busy watching that, and from there my old boom of binge-watching dramas at home flared up all over again.&lt;/p&gt;&lt;p&gt;It started because Love Village 3 was so good. I could go on about it forever, but this third season is a masterpiece. It makes you feel, deep down, that every single person carries a history of their own, and thoughts and feelings that are theirs alone.&lt;/p&gt;&lt;p&gt;And now, for some reason, it's a Chinese drama series called Bride of the Golden Hairpin. It's a bit like the Indian films that were my boom not long ago: gorgeous, glamorous men and women driving the story forward at full throttle. To eyes grown used to a kind of next-door realism, it feels refreshing. Maybe it's the same feeling I had reading The Rose of Versailles, back in the day. Friday, Saturday, and Sunday were all consumed by Bride of the Golden Hairpin.&lt;/p&gt;&lt;p&gt;That said, I'm not exactly recommending it to everyone. Once you start, it gets its hooks in you and you keep watching episode after episode, but I haven't been telling the people around me, "You've got to see this." It's true that I'm watching because it's entertaining, though. It's complicated. I suppose that's about where my boom stands right now...&lt;/p&gt;&lt;p&gt;If you have any thoughts, please send me an email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. I'm coming down with a bit of a cold, so I'm spending the day without setting one foot outside the house.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#1af74102a965"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay describes how the writer's "booms," or short-lived personal obsessions, come and go, from movies to Love Village to the Chinese drama Bride of the Golden Hairpin, and how being able to drop them easily is part of their appeal.</summary>
+    <published>2026-11-15T10:22:49.096144+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#a79a7f912563</id>
     <title>On being someone who can't be bothered</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay reflects on the author's daily writing habit, from early struggles with "nothing to write about" through the post-2011 urge to make points amid online noise, and settles on a friendly, conversational stance: writing each day simply to chat with readers, like an old shopkeeper greeting customers.</summary>
     <published>2026-10-17T07:30:49.774698+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#8d71eebcc2b0</id>
-    <title>Hey, are you being interviewed out there?!</title>
-    <updated>2026-10-16T07:52:57.758583+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Every day, I've been keeping up something I call the "reader interview." Those of you who get it probably already get it, but this isn't what you'd call a survey. A survey is when the person asking poses whatever questions happen to suit their own purposes. What I'm doing is meant to be an interview. I announced that I'd keep going for a hundred questions, and we're already past seventy, so it'll all wrap up in about a month.&lt;/p&gt;&lt;p&gt;You grow up in the ordinary way, live in the ordinary way, and grow old in the ordinary way. In the lives most people lead, there aren't many occasions for anything like an "interview." Maybe a few, but I doubt anyone gets asked a hundred questions. Most of us do get asked things, of course, but only when the person asking needs something from us, or has some reason to ask. Nobody really asks you about things that don't much matter. At a matchmaking meeting, say, or between two people who want to get to know each other better, there might be some curious back-and-forth, but ask too many questions and it starts to feel a bit rude...&lt;/p&gt;&lt;p&gt;But what I'm doing this time is downright relentless. It's a long-form interview with each of you, one by one. Even if you were the guest on some TV special or in a magazine feature, you'd never be interviewed at this length. And on top of that, I, the interviewer, am not asking because I'm especially dying to know. I'm keeping these interviews going so that you can meet the you who goes looking for answers. And then, if you'd like, you can write it down in an email and send it my way. The real event, though, is the time you spend thinking.&lt;/p&gt;&lt;p&gt;Of course, I read the emails too. A picture starts to emerge of a certain person giving a certain answer, which is fascinating, and I even get the feeling I'm being of some use. I think this is a pretty unusual experiment. Are you enjoying the fun of meeting yourself?&lt;/p&gt;&lt;p&gt;Today's question, no. 073: "What question would you like to be asked?" This one too, if you'd like, please write it up and send it to me by email.&lt;/p&gt;&lt;p&gt;Thank you, as always, for stopping by Hobonichi today. "People grow by being interviewed": that's a pet theory of mine.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#8d71eebcc2b0"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author describes a daily "reader interview," a long-running series of questions meant to help readers reflect on themselves, arguing that people rarely get asked meaningful questions in ordinary life and that the real value lies in the thinking the questions provoke.</summary>
-    <published>2026-10-16T07:52:57.758583+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
