@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-15T10:23:10.462567+00:00</updated>
+  <updated>2026-11-16T10:37:44.637897+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#885e0f465c90</id>
+    <title>Now I know about biofilm</title>
+    <updated>2026-11-16T10:37:23.819840+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;A few years ago I came across the word "biofilm," and I can't help wondering how many people know it. It sounds kind of cool, doesn't it? "Bio"! "Film"! It sounds like some hot new product. You can just picture someone saying, "Oh, out on the cutting edge, everyone's gone biofilm now." That's not what it is, though.&lt;/p&gt;&lt;p&gt;Biofilm is the slimy stuff on your teeth. It's also the slime in your kitchen drain, and the slick coating on river rocks, the kind that sends your foot shooting right out from under you. Leave a water bottle unwashed and you'll get biofilm in there too. We already had perfectly familiar ways of describing it, the film on your teeth, the gunk in the drain, the slippery stones, and yes, that's the stuff. Apparently it's a state in which bacteria gather together and live as a community, all influencing one another. So, not cool at all. Kind of disgusting, really. It turns out bacteria find life easier in a group than on their own, so they set up house together inside that sticky structure. Gross, right? Once you know, you get a lot more serious about brushing. I brush every morning and every night now as if I'm heading into battle against biofilm.&lt;/p&gt;&lt;p&gt;It seems people discovered microorganisms living in the grime on teeth a whole 340 years ago, but the idea of "biofilm" only caught on in the 1970s. Can you believe it, my dear? Back when I was drawing posters for Cavity Prevention Day, I pictured germs in little devil costumes swinging pickaxes, pounding holes into teeth like they were making rice cakes. And the teacher was perfectly happy with that explanation, too. No bio, no film, nothing of the sort.&lt;/p&gt;&lt;p&gt;Ever since I learned about it, biofilm has been on my mind. And now that you've read this, you know too, so from here on out you'll be living in a world with biofilm in it. Sorry about that. I really didn't need to do that to you.&lt;/p&gt;&lt;p&gt;If you have any thoughts, please send me an email. Thank you for stopping by Hobonichi again today.&lt;/p&gt;&lt;p&gt;Learn a new word, and the world gets just a little bigger, for better or for worse...&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#885e0f465c90"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that the trendy-sounding word "biofilm" is just a fancy name for the slimy gunk we already know from teeth, drains, and slippery river rocks, and that learning new words can make the world feel bigger, for better or worse.</summary>
+    <published>2026-11-16T10:37:23.819840+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#1af74102a965</id>
     <title>Bride of the golden hairpin? I can't even read that title</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The writer describes their ongoing "Chiikawa Rinsho" project, copying Nagano's Chiikawa drawings by hand, and reflects that rinsho, the traditional practice of copying a master's model, reveals a deep pleasure and understanding that comes from tracing an artist's thinking, even though it runs against the modern prizing of originality.</summary>
     <published>2026-10-18T07:45:39.113469+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#c39647201715</id>
-    <title>Come on in. Thanks, as always. Say, you know what?</title>
-    <updated>2026-10-17T07:30:49.774698+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;This column I write every day, the one that used to be called "Today's Darling," has covered all sorts of things from all sorts of angles. Back in 1998, when we'd only just launched Hobonichi, I'd already realized, "...I've got nothing to write about," and I once simply described the view outside my window. Or at least I think I did. I've forgotten.&lt;/p&gt;&lt;p&gt;For a while there, I vaguely came to think of these scribblings as something like a newspaper editorial, and I found myself wanting to make some small point or other. What pushed me into that frame of mind was, naturally, the period that began with the Great East Japan Earthquake on March 11, 2011. The tsunami surged onto the Sanriku coast, yes, but the sea of the internet was flooded too, with a mass of troubling information. Rumors, lies, abuse, slander, noise. I was swimming for dear life, colliding with all that floating debris. Even so, used the right way, the internet could be genuinely helpful in many respects, and that desperate swim taught me a great deal. I learned, to some extent, how to keep a sensible distance from it.&lt;/p&gt;&lt;p&gt;Be that as it may, I write this piece every single day. Sometimes it's a matter of trying one trick after another, sometimes I'm thrashing around in agony, sometimes I'm half sprawled out and nodding off, and sometimes I charge in, thrilled, because there's one thing I absolutely have to say. Whatever my attitude, here I am again today, writing something.&lt;/p&gt;&lt;p&gt;Lately, I've had a "concept" for writing here. It occurred to me one day, and I decided to run with it for a while. It was also where Hobonichi started, back at the very beginning. The idea is this: "the old guy who shows his face at the shop every single day strikes up some kind of conversation with you." Today's piece is that kind of chatter, too. He starts in with, "Hey there, how're you doing? Say, lately..." And one of these days, who knows, he might even come out with, "I thought of a good pun. Want to hear it?"&lt;/p&gt;&lt;p&gt;◆ Today's question, no. 074: "Do you have a favorite place you keep going back to?" Have a think, and if you like, write it in an email and send it our way.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. For quite a long time now, I've been writing this column in a frame of 27 characters by 40 lines.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#c39647201715"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay reflects on the author's daily writing habit, from early struggles with "nothing to write about" through the post-2011 urge to make points amid online noise, and settles on a friendly, conversational stance: writing each day simply to chat with readers, like an old shopkeeper greeting customers.</summary>
-    <published>2026-10-17T07:30:49.774698+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
