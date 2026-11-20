@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-19T16:08:07.725004+00:00</updated>
+  <updated>2026-11-20T10:54:06.834427+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#f180fcc15305</id>
+    <title>Not that I don't badmouth people myself</title>
+    <updated>2026-11-20T10:53:48.419165+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;When someone talks trash about another person without holding back, nothing really happens as long as they're doing it alone. Even if two or three people are badmouthing someone to their hearts' content, if it never reaches the person being talked about, it probably doesn't go so far as to hurt anyone. And if, in some corner of some region of Japan, the locals were cursing somebody up and down, I doubt it would have had much of an effect either. "Oh, him? He's got a bad name around here." That sort of thing happens all the time.&lt;/p&gt;&lt;p&gt;Now suppose that at some point, somewhere, there was a big wall, and everyone started writing insults on it. Maybe they'd even give it a name, something like "the Badmouth Wall." Suddenly the trash talk that used to pass between two or three people can be read by everyone who walks by. "Go over there and you can read the dirt on somebody." Before long it turns into a kind of entertainment in rather poor taste, and it might even become a tourist attraction of the darker sort. Whoever scrawls the juiciest insults, the ones most likely to catch people's interest, could end up a dark hero of sorts, the toast of the town. True or false, clean or filthy, it doesn't matter. Badmouthing has impact, and there's something in it that draws people in.&lt;/p&gt;&lt;p&gt;Even I, sitting here writing this, have to admit there are insults I'd go and read with a rather unsavory "Ooh, let's have a look." I'm especially drawn to trash talk about people I don't care for, or about people who dislike me.&lt;/p&gt;&lt;p&gt;In the world since the internet took hold, the Badmouth Wall has become a business, and a place where people throw stones to blow off steam, where you can write just about anything you like. Even when it's about someone I dislike, I often find myself thinking, "You can really say that?!" Is it really all right for people to be badmouthed so freely? I don't think it is, not even when it's someone I can't stand, or an enemy. The internet has become an unpleasant place, I think, and all I can do is resolve that, at the very least, I won't take part in it myself.&lt;/p&gt;&lt;p&gt;If you'd like, please send me an email with your thoughts.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. I may be full of rudeness and impertinence, but even so, I do believe courtesy matters.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#f180fcc15305"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that badmouthing only becomes harmful when it's broadcast publicly, like insults scrawled on a "Badmouth Wall," which the internet has turned into a business. The author admits to being drawn to such talk yet concludes it is wrong and resolves not to take part in it.</summary>
+    <published>2026-11-20T10:53:48.419165+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#912262ff3deb</id>
     <title>So afraid of empty time that I got rid of it, and then...</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>Some things get better and others decline, and the passage argues that impermanence is natural rather than something to mourn: while you have energy, you use it, and when you don't, you manage as best you can, since nothing truly ends until its real end arrives.</summary>
     <published>2026-10-22T08:17:32.970291+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#20457d2cf1b7</id>
-    <title>So much of the world, so much of life, I just let go by</title>
-    <updated>2026-10-21T08:15:32.452001+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;You know, when you think about it, it wouldn't be any fun if you could figure everything out. Say you had some psychic power that let you see whatever was coming. Sure, the people who wanted to make use of that power would fawn all over you, but for you yourself, it might not just be dull. It might be downright painful.&lt;/p&gt;&lt;p&gt;With that little preamble out of the way, let me tell you about one of my misses.&lt;/p&gt;&lt;p&gt;It happens more often than you'd think: a gorgeous pitch comes in, a real beauty, and you don't notice a thing. You just stand there and watch it go by. Strike one.&lt;/p&gt;&lt;p&gt;Lately, the perfect example is "Chiikawa." I'd taken the phrase "some small, cute little thing" and stuffed the whole business inside it, and let it sail right past me. I must have seen it all over the place, and I don't remember ever saying I disliked it, but still, I let it go by.&lt;/p&gt;&lt;p&gt;Looking back, I did feel something like "huh, that's kind of interesting" about the fact that their weapon of choice is a sasumata, one of those forked poles used to pin down intruders. Every so often a one-page strip would turn up on Twitter, and right around the time I started thinking, "I can't quite see the whole picture, but this is a little strange, and funny," I learned where this character called Momonga came from. If I remember right, I'd heard that my daughter's daughter was apparently fond of Momonga, so I looked up what sort of character it was. Once I knew that backstory, and a little corner of the Chiikawa world, my curiosity began to boil over. "What on earth is this?!" I started reading the collected volumes, and then along came the movie.&lt;/p&gt;&lt;p&gt;To longtime fans, I'm the guy who shows up and makes them say, "Now? Seriously?" You didn't know about Nagano's blazing fastball, or those curveballs that break seven different ways? No, I didn't. Or rather, I let them go by.&lt;/p&gt;&lt;p&gt;Come to think of it, there's a lot of this. There's a certain neighborhood Chinese place I'd only known by name and let go by. When it comes to rice varieties, or how to cook it, I've let practically everything go by. And I suspect there are plenty of fine things around the office that I've let go by, too. I'm afraid, dear reader, that I am by no means all-seeing, nor in any way what you'd call a discerning eye.&lt;/p&gt;&lt;p&gt;◆Today's question, no. 078, is: "Something I let go by." See if you can find one. If you like, please send it in by email.&lt;/p&gt;&lt;p&gt;Thank you for coming by Hobonichi again today. Later today I'm meeting the director of "We Are Aliens," yet another one I let go by.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#20457d2cf1b7"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The essay argues that missing things is part of life: a writer admits he has let many good things pass unnoticed, from the anime Chiikawa to local restaurants and rice varieties, and suggests that seeing everything coming would be more painful than fun.</summary>
-    <published>2026-10-21T08:15:32.452001+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
