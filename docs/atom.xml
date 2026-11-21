@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-20T15:48:49.273082+00:00</updated>
+  <updated>2026-11-21T10:38:36.831286+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#7b07354906a1</id>
+    <title>The flow of things: hard to explain, and that's the fun of it</title>
+    <updated>2026-11-21T10:38:13.013745+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There's this thing called "the flow," isn't there? As in "the flow of the game," or "we need to change the flow..." Everyone involved gets swept up in a shared picture, one with no real basis but heavy with a sense of what's coming. "When things are like this, this is how they go," and somehow everybody just decides it together. The flow is a story we're expecting, and sometimes it's also a dream we've seen many times before.&lt;/p&gt;&lt;p&gt;But even when things don't go the way the flow foretold, nobody seems to mind much. "The flow was pointing the other way, you know," people say, explaining the result after the fact. There was never any basis for it to begin with, so that's fine.&lt;/p&gt;&lt;p&gt;I'm rather fond of this faith in the flow. There's the pleasure of giving yourself over to it, and the pleasure of resisting it. It's a bit like saying "it was meant to be" or "I felt the hand of fate." When you sense a good flow and decide to ride it, the flow often seems to get even better. Probably because other people are sensing that "good flow" too, and they try to help it along. And then, if I'm being level-headed about it, when what was supposed to be a "good flow" ends in failure, people pick themselves up with an "Oh well" or a "So close." "We got pretty far, though," that sort of thing. Maybe I've simply "flowed" my way here myself, without ever really working out what I think about the flow at all.&lt;/p&gt;&lt;p&gt;It's nothing terribly important, but right now there's a big flow running through my life. A flow has come along urging me to walk. From books, from shoes, from horoscopes, from what the people around me are up to, there's a flow telling me I ought to walk more. If I make a grand resolution and set off with gusto, I'll get bored in no time, so I'm easing into it slowly, like soaking my feet in a footbath of that flow. It isn't a bad thing, after all, so I'm going to ride it and see where it goes. Only, now that I'm finally in the mood, the winter cold has come rushing in, as if to push back against the current.&lt;/p&gt;&lt;p&gt;If you have any thoughts on this piece, I'd love it if you sent me an email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today.&lt;/p&gt;&lt;p&gt;Come to think of it, the Japanese word for "trend" is written with the character for "flow," too. A fashion is just another kind of flow.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#7b07354906a1"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay examines "the flow," the shared, unfounded sense that events are heading in a particular direction, which people readily embrace and then rationalize after the fact when it fails. The author admits to being fond of this faith while questioning whether they've simply drifted along with it, using their own renewed urge to walk as an example.</summary>
+    <published>2026-11-21T10:38:13.013745+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#f180fcc15305</id>
     <title>Not that I don't badmouth people myself</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The writer, visiting Akagi on a clear autumn day, finds the word "cold" leading their thoughts to a deep fear of winter as a matter of life and death, and then to a hatred of torture, which they see as the stripping away of a person's most basic freedom.</summary>
     <published>2026-10-23T08:14:01.270191+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#d91db3ebd151</id>
-    <title>Meeting young people never stops being interesting</title>
-    <updated>2026-10-22T08:17:32.970291+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;The things that get better have gotten better. And the things that get clumsier have gotten clumsier.&lt;/p&gt;&lt;p&gt;Things that everybody used to know are, little by little, known by fewer people than not. And plenty of things that nobody used to know are now known by a great many.&lt;/p&gt;&lt;p&gt;What on earth would become of the world if this were gone? Then it was gone, and the world kept right on turning.&lt;/p&gt;&lt;p&gt;The record set by someone hailed as a once-in-a-generation genius was broken by someone you'd barely heard of. That dish that left you thunderstruck, wondering how anything this delicious could exist in the world, maybe wasn't quite all that after all.&lt;/p&gt;&lt;p&gt;Young girls grow into middle-aged women, and then into old women. Dashing young men grow into middle-aged men, and then into old men. Even a crane that lives a thousand years passes on once the thousand years are up. And the turtle that lives ten thousand years will, when those years have run their course, surely find its rest as well.&lt;/p&gt;&lt;p&gt;None of this is hollow. It isn't something to regret, and it isn't something to grieve. Until the real end comes, there is no end. While you've got energy, you go at it with energy, and when you don't, you manage as best you can.&lt;/p&gt;&lt;p&gt;The things that get better have gotten better. And the things that go bad have gone bad. I suppose what I really want to say is this: the things that get better are getting better.&lt;/p&gt;&lt;p&gt;◆ Today's question, no. 079: "Things that, come to think of it, have really changed." You've got some, haven't you? If you like, send them our way by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. I'm sure I'll end up seeing the film We Are Aliens a third time. Looking forward to it.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#d91db3ebd151"/>
-    <link href="https://www.1101.com/"/>
-    <summary>Some things get better and others decline, and the passage argues that impermanence is natural rather than something to mourn: while you have energy, you use it, and when you don't, you manage as best you can, since nothing truly ends until its real end arrives.</summary>
-    <published>2026-10-22T08:17:32.970291+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
