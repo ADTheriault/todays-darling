@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-21T10:38:36.831286+00:00</updated>
+  <updated>2026-11-22T10:42:03.055727+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#2e0c01335e38</id>
+    <title>Come to think of it, it goes back to when I was a kid: on paper airplanes</title>
+    <updated>2026-11-22T10:41:48.594756+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Sometimes a kid who plays Little League keeps at it through high school and eventually becomes a pro ballplayer. When I stop and think about my own life, I find myself wondering whether what I do now is really the same thing I've been doing ever since elementary school.&lt;/p&gt;&lt;p&gt;There's a memory about a paper airplane that I've never forgotten. I was in fifth grade or so. One day I folded a sheet of memo paper into a plane, and it came out beautifully. It flew astonishingly well. I'd folded it the way I always did, so it was pure luck, but it glided through the air for so long, so smoothly, that I just stood there admiring it.&lt;/p&gt;&lt;p&gt;My classmates were impressed too, and soon everyone was grabbing whatever paper was lying around and folding planes of their own. But theirs didn't exactly sail along the way mine had. It seemed the palm-sized memo pad I had, the kind where you tear off one sheet at a time, was just the right paper for the job. I handed out sheets to my friends one by one, but we were all playing so eagerly that before long we ran out.&lt;/p&gt;&lt;p&gt;So I went to the little shop at school that sold stationery and bought a whole new pad. Here, everybody, use this! Now we can make as many paper airplanes as we want. (No, no, I wasn't some rich kid or anything.) We could hold contests to see whose plane flew the farthest. The craze didn't last all that long, but for a while we were all completely absorbed in that game.&lt;/p&gt;&lt;p&gt;I wanted to play some new kind of game, so I tried to build the "playground" for it, the system, you might say. Handing out the equipment, that sort of thing. I've been doing that all along. Maybe what I was doing with those paper airplanes was my version of Little League.&lt;/p&gt;&lt;p&gt;Who'd have thought that at my age I'd be looking back on what I've done with my life like this... huh.&lt;/p&gt;&lt;p&gt;If anything comes to mind, any thoughts or impressions at all, please send me an email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today.&lt;/p&gt;&lt;p&gt;Everyone has their own thing, don't they? Some people love gardening, some love playing house.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#2e0c01335e38"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The writer reflects on a childhood paper airplane episode, where he bought a new pad of paper so everyone could keep playing, and sees it as his early version of "Little League": a lifelong pattern of building the systems and equipment that let others play.</summary>
+    <published>2026-11-22T10:41:48.594756+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#7b07354906a1</id>
     <title>The flow of things: hard to explain, and that's the fun of it</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>A taxi driver's unexpected thanks, offered on behalf of his late mother who kept a Hobonichi Techo diary for decades, reveals how a simple planner can quietly connect families across generations. The essay suggests that such meaningful encounters come only after doing one's work consistently over a long time.</summary>
     <published>2026-10-24T07:52:42.882886+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#4faddc278113</id>
-    <title>It started with saying cold at Akagi, and wandered on from there...</title>
-    <updated>2026-10-23T08:14:01.270191+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;For the first time in a while, I went to "Hobo no Eki AKAGI." Looking back, it was a real shame I never made it there in summer, when it's at its best as a place to escape the heat. Now isn't the season for that. People come mostly for the autumn leaves and for the views under clear fall skies. It was a weekday, yet quite a few guests were there, taking it easy.&lt;/p&gt;&lt;p&gt;Being there, I remembered a word I'd forgotten. "Cold." I said it out loud, and I put on an extra layer.&lt;/p&gt;&lt;p&gt;I'm hopeless with the cold. Every year, when the weather turns, I think of the rakugo story "The Clam Seller." It opens with a small child wading barefoot into an icy river to gather clams, which he sells to help his poor family scrape by. Heat is hard too, of course, but cold is what really gets to me. We talked endlessly about heatstroke this summer, and I've already forgotten all of it. With cold, there's a fear underneath: this will kill you. People go cold when they die, don't they? Cold is a matter of life and death. Every year, as winter draws near, I start complaining about the cold. Winter has its good points, and I've made it through dozens of them by now. Still, there's a part of me that hates the cold even more than the heat.&lt;/p&gt;&lt;p&gt;Speaking of things I hate, and this comes out of nowhere, I hate torture. When I was very young, a few of us were chatting about what we each couldn't stand, and I think I gave it real thought and settled on torture. I won't go into the specifics of why here, but torture is the very definition of "something you just don't do." Torture means imagining what a person would least want done to them, and then doing it (which is why the torturer's own weakness is hidden inside the torture itself). I hate the idea of bending people to your will through things that must never be done. I'd count threats and coercion as forms of torture too. Torture is trying to strip a person of even their most basic freedom.&lt;/p&gt;&lt;p&gt;The word "cold," spoken on a clear autumn day among the red leaves of Akagi, has somehow turned into talk of clam sellers and torture. Free as a drunk, wandering wherever it pleases, I suppose.&lt;/p&gt;&lt;p&gt;Today's question no.080: "What do you hate most of all?" Give it some thought. If you'd like, send us your answer by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. I'm in the middle of developing a ramen that makes the most of green onions, cabbage, and ginger.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#4faddc278113"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The writer, visiting Akagi on a clear autumn day, finds the word "cold" leading their thoughts to a deep fear of winter as a matter of life and death, and then to a hatred of torture, which they see as the stripping away of a person's most basic freedom.</summary>
-    <published>2026-10-23T08:14:01.270191+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
