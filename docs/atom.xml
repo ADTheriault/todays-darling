@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-24T18:26:03.477726+00:00</updated>
+  <updated>2026-11-25T12:06:07.612011+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#275ea5e1e9f7</id>
+    <title>It wasn't Jomon pottery, but still</title>
+    <updated>2026-11-25T12:05:46.915476+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Besides the workbook and the picture diary, our summer vacation homework included something called the "free project." Naturally, I was the kind of kid who waited until the very last days of August, then panicked ("Oh no, what am I going to do?!") and could barely manage to scramble through filling in the blanks of the workbook. And yet, for some reason, I was brimming over with a desire to make my free project into something fun. Every year at summer's end I'd produce some peculiar creation, and I think it may have gone over well with about three of my classmates. But a "work" short on time, effort, skill, and passion was never going to win anyone's applause.&lt;/p&gt;&lt;p&gt;Among those rather sorry memories, the one I remember most vividly is the "Jomon pottery." People in ancient times would knead clay, roll it out thin like a snake, coil it round and round, and shape it into a vessel. Maybe pressing in the cord patterns is what makes it Jomon, but a schoolkid in the Showa era had no room for that sort of thing. No time, no skill. Just make something more or less bowl-shaped out of dirt. Then, if you stuck it in a bonfire, you'd surely end up with "pottery." If shaggy-bearded Jomon folk could do it way back when, how hard could it be? I had more than enough foolishness to think exactly that.&lt;/p&gt;&lt;p&gt;I'm a little amazed no grown-up scolded me, but I gathered up scraps of wood, set them alight, and built a bonfire. Right in the middle, I placed "the thing that would soon become pottery." No matter how many branches I added, no matter how long it burned, "the thing that would become pottery" only gave off billows of steam, grew hot, and slowly dried out. A hot, dry clod of earth... and that's all it ever stayed, no matter how long I waited.&lt;/p&gt;&lt;p&gt;The person I am now could understand what was missing and why, and might even manage a slightly more respectable failure. But the elementary schooler I was back then couldn't do any more than that, that day. What I had was a lump of dirt, charred black in places, that might, if you squinted, pass for a lukewarm pot. Even to me, its maker, it looked nothing like Jomon pottery, however you viewed it, and I never brought it to school as my summer project. Still, the person I am now would like to tell that boy: you know, it was good that you did it, just as it was.&lt;/p&gt;&lt;p&gt;If you feel like it, please send me an email with your thoughts.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today.&lt;/p&gt;&lt;p&gt;Feeling like you can do it, giving it a try, and finding you can't: that matters too.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#275ea5e1e9f7"/>
+    <link href="https://www.1101.com/"/>
+    <summary>A childhood summer project to make "Jomon pottery" by burning a clay lump in a bonfire ended in failure, yet the adult narrator looks back fondly on that boy's earnest attempt, recognizing that simply trying, even when it fails, has its own value.</summary>
+    <published>2026-11-25T12:05:46.915476+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#4d507982fbd9</id>
     <title>On things that are touchingly earnest</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The writer reflects on how aging has quietly weakened their once naturally powerful voice, leaving them feeling unheard and lonely in a way people rarely discuss. They wish to still be able to use their voice with softness and clarity rather than force.</summary>
     <published>2026-10-27T08:37:37.488977+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#b72733567e96</id>
-    <title>Don't bully an AI, or a loofah, or an octopus, for that matter</title>
-    <updated>2026-10-26T08:30:10.756835+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Apparently there's such a thing as "bullying AI." I suppose it takes all sorts of forms: hurling the kind of abuse you could never say to another human being, doing something nasty in the middle of an ongoing conversation, feeding it false information, and so on. The AI, presumably, doesn't get "hurt" by any of this, and if you asked it, "Does that hurt you?", the AI itself would tell you, "I don't experience being hurt." The flip side of bullying AI is thanking it, but apparently that doesn't make it "happy" either. Some people even say that just trading thank-yous is a waste of energy resources.&lt;/p&gt;&lt;p&gt;I'm not trying to play the good guy here, but I don't want to bully AI, and I don't intend to. And while it may not be the correct thing to do, I say thank you to AI, and I'll keep on saying it. You might be thinking, what's the point of that? But for me there's meaning in it, and purpose, and reason, and conviction, and even a certain pleasure. I can explain it in my own way, so let me give it a try.&lt;/p&gt;&lt;p&gt;Put as simply as I can, it comes down to this. It's the same with a dog or a cat: doing that sort of thing dirties your own soul. Even if the other side isn't listening, the soul of the one doing the talking gets dirty. You become the soul of someone who says things like that. And a soul like that starts living that way. I don't want that, so I don't want to do it. That's all there is to it.&lt;/p&gt;&lt;p&gt;To put it in slightly more scientific-sounding terms, if you apply a force to something (action), the same force ought to come back at you (reaction). Whether it's a person, a dog, a cat, a wall, or an AI, every action has its reaction. That's my explanation. It's an image I find myself using quite a lot. Like how the bill for whatever you've done usually shows up a little late, you know?&lt;/p&gt;&lt;p&gt;◆ Today's question is No. 083: "Are there days when you feel lonely?" Have a think, and if you'd like, send us your answer by email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. I'd like AI and robots and the rest to get along well with people, too.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#b72733567e96"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The author argues they choose to thank AI and avoid bullying it, not because the AI feels anything, but because mistreating anything, including AI, dirties one's own soul and reshapes one's character, with the harm eventually returning like a delayed bill.</summary>
-    <published>2026-10-26T08:30:10.756835+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
