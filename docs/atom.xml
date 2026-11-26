@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-25T17:40:49.638667+00:00</updated>
+  <updated>2026-11-26T11:52:52.779794+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#a08494e78542</id>
+    <title>Swim where the water is</title>
+    <updated>2026-11-26T11:52:32.394629+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;There's an old Japanese saying about "swimming lessons on the tatami." The point is that if you want to swim, you can study the theory on the floor mats all you like, but you'll never actually learn to swim that way.&lt;/p&gt;&lt;p&gt;So if you want to learn to swim, what do you do? That struck me as a surprisingly interesting question. If you want to take up chess, you read a beginner's guide. If you'd like to try knitting, you start with a book. These days, "look it up online" is just as common. Right. I get the feeling we've become a little too used to "Read first!" whenever we want to do anything. Even when you're starving and dying for a big pot of chanko stew, you start searching on your phone before you've bought a single ingredient, don't you? Maybe "Read first!" is just a habit we picked up from learning everything out of textbooks.&lt;/p&gt;&lt;p&gt;But here's what I love about it: "I want to be able to swim" is one thing "Read first!" can't make happen. Just to test it, I went ahead and asked an AI. And I have to hand it to it, it didn't tell me to read first.&lt;/p&gt;&lt;p&gt;"Get used to putting your face in the water. Then practice breathing out underwater. Then relax your body and learn what floating feels like. Then put together your leg movements, arm movements, and breathing. Practice in a safe, shallow pool with an instructor."&lt;/p&gt;&lt;p&gt;Still, reading this alone leaves you short on just about everything. You have to go somewhere there's water, and better yet, find yourself a good teacher. Ask an AI or don't, it's not something you can take care of inside your room. Manuals, textbooks, teaching methods, tips and tricks: go looking and you'll find no end of them, and they keep getting better. But floating on the water, swimming through it, seems like something you can only learn by practicing with the water itself. That said, if you think you'll do better having read up on it first, well, I suppose there's no harm in trying that too.&lt;/p&gt;&lt;p&gt;If you like, send me an email with your thoughts.&lt;/p&gt;&lt;p&gt;Thanks for stopping by Hobonichi again today.&lt;/p&gt;&lt;p&gt;That urge to "learn the tricks first" is probably something I should let go of, too.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#a08494e78542"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay argues that some skills, like swimming, can only be learned by actually doing them in the real world, not by reading or asking an AI for instructions, and it suggests we should let go of our habit of "reading first" before trying things.</summary>
+    <published>2026-11-26T11:52:32.394629+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#275ea5e1e9f7</id>
     <title>It wasn't Jomon pottery, but still</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>A casual weekly chat about the word "chance" leads to the idea that a chance is a glimmer of possibility that lifts us out of stagnation and gives us hope. The essay suggests that sense is the ability to notice these openings and that we get through hard times by finding and making them.</summary>
     <published>2026-10-28T09:17:41.037676+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#7dc299c3d87e</id>
-    <title>A voice grown old, a voice that won't carry</title>
-    <updated>2026-10-27T08:37:37.488977+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;Age and aging aren't unrelated. There's certainly a connection. But it isn't anything like a neat, direct proportion. Each of us, of course, sinks deeper into old age at our own pace. In my case, too, it's been creeping along, slowly, little by little. Cataloguing every symptom wouldn't make for interesting reading, but there is one thing I find genuinely sad.&lt;/p&gt;&lt;p&gt;My voice. The muscles of the vocal cords lose their elasticity like everything else, so the instrument I use to make sound has undoubtedly grown old. But I was always someone with a naturally big voice. Without my thinking about it much, it carried a long way. It rang, you might say. I knew it had helped me enormously when it came to communicating. I didn't have to try very hard, and my voice reached people, got through to them. Long before I ever had to wrestle with phrasing or how to put my words together, getting that voice to land, near or far, took no effort at all. That made life easy.&lt;/p&gt;&lt;p&gt;But at some point, I can't quite say when, my voice became harder to hear. The sound that comes out, in both volume and quality, is weaker than what I'm trying to say. If it were too strong, I could bring it down and keep it in check. But I can tell for myself that the tone, the volume, the color of it all feel unreliable. And right there, what little confidence I had shrinks a bit further. There are good days and bad days, it's true. But on the whole, I no longer feel that my voice could reach very far.&lt;/p&gt;&lt;p&gt;Compared with all the other signs of aging, people don't talk about this one much, but watching your voice lose its quality and its strength is a lonely thing. There are glasses for the eyes and hearing aids for the ears, but wanting to be heard doesn't mean you can go around with a megaphone. It isn't that I want to be loud. The ideal is to have a big, clear, ringing voice and be able to use it softly. I have karaoke coming up soon, so this is what's been on my mind.&lt;/p&gt;&lt;p&gt;Today's question is no. 084: "What doesn't go the way you want it to?" If something comes to mind, please send it to us by email, if you'd like.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi today. I have a feeling vocal warm-ups are better done in a low voice.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#7dc299c3d87e"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The writer reflects on how aging has quietly weakened their once naturally powerful voice, leaving them feeling unheard and lonely in a way people rarely discuss. They wish to still be able to use their voice with softness and clarity rather than force.</summary>
-    <published>2026-10-27T08:37:37.488977+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
