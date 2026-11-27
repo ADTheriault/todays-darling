@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-26T17:24:04.040125+00:00</updated>
+  <updated>2026-11-27T11:45:38.371013+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#c2d3d24c019e</id>
+    <title>For the first time, I saw dead leaves</title>
+    <updated>2026-11-27T11:45:12.793954+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;"Dead leaves scattering in the dusk," "the dead leaves of autumn," they turn up in songs all the time, don't they, dead leaves. There's even a song named for them outright, the one the French call "The Dead Leaves" and we know as "Autumn Leaves." I, too, would catch a little of that image from the songs and, in a pleasantly tipsy sort of way, think, "...ah, yes."&lt;/p&gt;&lt;p&gt;But dead leaves are real things, lying around here and there. And when I saw them, or tramped over them, I'm not sure I ever felt much of anything. Lots of leaves on the ground, I'd think, or, they've changed color, yellow, red. Careful, wet leaves after the rain will send you sliding. I'd go out of my way to admire the trees in their autumn colors, yet once the leaves had fallen, I paid them no mind at all. At most, I might have spared a thought of thanks for whoever was sweeping them up.&lt;/p&gt;&lt;p&gt;But this year, believe it or not, for the very first time in my life, I was walking down the street, looked at the dead leaves lying there, and was moved, quietly and deeply. Alas (yes, "alas," I chose that grand old word on purpose), these are dead leaves. I see, trees. I see, leaves. So you've fallen, have you, fluttering down.&lt;/p&gt;&lt;p&gt;I can't say yet what my heart is actually thinking. Only that, for the first time in my life, I thought: so these are dead leaves... I suppose some of you will ask what on earth I'm going on about. The fallen leaves, the withered leaves I must have seen year after year, didn't just pass before my eyes this time. It felt as though my heart saw them. Maybe this is me discovering my own aging. What once was living falls. It takes on color, but sooner or later it will vanish. People tread on fallen leaves without feeling the least bit sorry for them, walk on, and forget, and every so often they put them in a song.&lt;/p&gt;&lt;p&gt;Wow. So this is why people sing about dead leaves? The poets, East and West, who wrote about dead leaves, did they have this feeling while they were still young? Precocious, the lot of them. Me, I'm only now getting around to "dead leaves, huh." Quite the late bloomer. But you and I both, we felt the dead leaves, didn't we.&lt;/p&gt;&lt;p&gt;I wonder, those of you who've stuck with me this far, do you feel it too, somewhere in your heart: "dead leaves..."? Anyway, whatever comes to mind, please, send me a note.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. I'm truly grateful to have a place where I'm allowed to write things like this.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#c2d3d24c019e"/>
+    <link href="https://www.1101.com/"/>
+    <summary>The essay describes how the author, for the first time, was genuinely moved by fallen autumn leaves, once dismissed as mere litter but now felt as a quiet reflection on aging and the passing of living things. It suggests that songs and poems about dead leaves capture a feeling that often takes a lifetime to arrive.</summary>
+    <published>2026-11-27T11:45:12.793954+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#a08494e78542</id>
     <title>Swim where the water is</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The writer, after impulsively deciding to finally write down a trivial wish, admits a craving for a bread machine sparked by the idea of fresh-baked loaves and mochi, then talks themselves out of buying one because of their boss's disapproval and their history of abandoning past machines. It's a playful, self-deprecating take on the tug-of-war between a small indulgence and the reasons to resist it.</summary>
     <published>2026-10-29T09:18:45.627744+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#7dec5630fc41</id>
-    <title>Do you love a good chance? That's a chance too</title>
-    <updated>2026-10-28T09:17:41.037676+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;At the "Dojo," our weekly gathering for what we call deadly serious, super-casual chitchat, we got to talking about what a wonderful thing a "chance" is. Everybody loves a chance. I do too. It's a word that's been tossed around in a pretty ordinary way for as long as anyone can remember, and we all use it as if we know exactly what it means, but somehow it feels like more than plain "luck."&lt;/p&gt;&lt;p&gt;What came to mind for me during that conversation was an example from soccer: when a player spots some space, an open patch of the field, and uses it to carry the play forward, you could say he's found a chance. That led us back to something we'd talked about the other day, the idea that "sense is the ability to find chances."&lt;/p&gt;&lt;p&gt;When I looked up "chance" again, I found it described as a word for an "opportunity" or "possibility" to do something, or else for "accident" or "likelihood." Apparently in English people tend to reach for "opportunity" when they mean the hopeful sense, but who cares? If accidents can be found, I'd like to go looking for them too.&lt;/p&gt;&lt;p&gt;Finding a "possibility" means, in other words, finding "hope." Even when you're stuck and can't move, when the losses keep piling up, when everything has felt like one long overcast sky, a sudden gust of wind can sometimes push those dark clouds aside. Noticing that wind is what a "chance" is, isn't it? If you can see even the faintest possibility of trying something, it leads you toward "hope" in a way that staying flattened never will.&lt;/p&gt;&lt;p&gt;Don't we all love a story like that? You and I, in ways big and small, have kept finding this chance and that chance, and that's how we've made it through to the next day, toward the future, haven't we? Come to think of it, that's what Hobonichi has been doing all along. "I want us to be a team that finds chances and makes chances," is where our conversation ended up.&lt;/p&gt;&lt;p&gt;Today's question, no. 085: "Do you remember a chance of some kind?" Think back, and if you'd like, write it up in an email and send it our way.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. It's a little late to be saying so, but that song "Give Peace a Chance" really is a good one.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#7dec5630fc41"/>
-    <link href="https://www.1101.com/"/>
-    <summary>A casual weekly chat about the word "chance" leads to the idea that a chance is a glimmer of possibility that lifts us out of stagnation and gives us hope. The essay suggests that sense is the ability to notice these openings and that we get through hard times by finding and making them.</summary>
-    <published>2026-10-28T09:17:41.037676+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
