@@ -2,13 +2,27 @@
 <feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://adtheriault.github.io/todays-darling/atom.xml</id>
   <title>Today's Darling</title>
-  <updated>2026-11-27T17:02:28.507459+00:00</updated>
+  <updated>2026-11-28T11:20:50.468124+00:00</updated>
   <link href="https://adtheriault.github.io/todays-darling/" rel="alternate" type="text/html"/>
   <link href="https://adtheriault.github.io/todays-darling/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.1101.com/" rel="via" type="text/html" hreflang="ja"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://adtheriault.github.io/todays-darling/images/hobonichi-logo.png</icon>
   <subtitle>Daily essays by Shigesato Itoi from 1101.com, translated to English.</subtitle>
+  <entry>
+    <id>https://adtheriault.github.io/todays-darling/#38db8a956ea0</id>
+    <title>All the games we used to play for free</title>
+    <updated>2026-11-28T11:20:29.398521+00:00</updated>
+    <author>
+      <name>Shigesato Itoi</name>
+    </author>
+    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;This was more than half a century ago, but there's a story I still tell now and then, almost as if I were bragging.&lt;/p&gt;&lt;p&gt;I wasn't even twenty yet. I had dropped out of school and was nothing more than an idle fool. Still, I had a friend, and since his university had been barricaded shut, he had nothing to do either. He was no fool, but he was just as idle. I can't recall everything we got up to, but we met often and killed a lot of time together. As far as I remember, everything we did was free.&lt;/p&gt;&lt;p&gt;One of those free amusements was hypnosis. Back when we were in junior high, a book called "An Introduction to Hypnosis" had come out, and if you read it and gave it a go, it turned out you really could hypnotize people. My friend and I had both read it a few years earlier. Somehow we got it into our heads to try it.&lt;/p&gt;&lt;p&gt;I took the role of the hypnotist, and my friend was more than willing to be the subject. Our curiosities lined up so perfectly that we were able to run all sorts of experiments that later made for good stories. Oh, we tried so many different suggestions. We'd hash it out like a comedy duo writing a routine, let's try this, let's try that, settle on a theme, and then I'd put him under.&lt;/p&gt;&lt;p&gt;Among those games was a suggestion to make one particular number disappear. "When you come out of hypnosis, the number seven will have vanished from the world completely." This is what's called a posthypnotic suggestion, one that stays with you even after you've woken up.&lt;/p&gt;&lt;p&gt;If I gave him an arithmetic problem whose answer was seven, he'd say, "I don't know." If I showed him a clock face and had him read off the hours in order, it went: "One o'clock, two, three, four, five, six, eight, nine..." When he recited his multiplication tables, he jumped straight from the sixes to the eights. When he counted on his fingers, both hands together came to nine.&lt;/p&gt;&lt;p&gt;I'm not sure it's wise to play around with this sort of thing too much, but once I had lifted the posthypnotic suggestion as well, my friend and I were genuinely moved. "So that's what numbers are. That's what counting really is." Even now, I still believe that's simply how the world works.&lt;/p&gt;&lt;p&gt;If you have any thoughts, send me an email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. As it happens, today is Hobonichi's annual shareholders' meeting and shareholder gathering.&lt;/p&gt;</content>
+    <link href="https://adtheriault.github.io/todays-darling/#38db8a956ea0"/>
+    <link href="https://www.1101.com/"/>
+    <summary>A young man and his idle friend experimented with hypnosis for fun, and a posthypnotic suggestion to make the number seven vanish showed how much our sense of numbers and counting depends on what we believe the world contains.</summary>
+    <published>2026-11-28T11:20:29.398521+00:00</published>
+    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
+  </entry>
   <entry>
     <id>https://adtheriault.github.io/todays-darling/#c2d3d24c019e</id>
     <title>For the first time, I saw dead leaves</title>
@@ -413,20 +427,6 @@
     <link href="https://www.1101.com/"/>
     <summary>The essay observes that watching animals, children, or people of different kinds get along brings a quiet joy, yet getting along is hard in real life, and the writer wonders whether it's a skill that can be learned.</summary>
     <published>2026-10-30T09:35:15.423903+00:00</published>
-    <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
-  </entry>
-  <entry>
-    <id>https://adtheriault.github.io/todays-darling/#795c932b0799</id>
-    <title>The kind of thing even I'd forget if I didn't write it down</title>
-    <updated>2026-10-29T09:18:45.627744+00:00</updated>
-    <author>
-      <name>Shigesato Itoi</name>
-    </author>
-    <content type="html">&lt;div style="text-align: center; margin-bottom: 20px;"&gt;&lt;img src="https://adtheriault.github.io/todays-darling/images/darling.png" alt="Hobonichi Darling" style="max-width: 300px; height: auto;"/&gt;&lt;/div&gt;&lt;p&gt;What I'm about to write is truly trivial, utterly beside the point. It's just that if I don't write it, it will stay unwritten forever, and somehow that felt like a bit of a shame, so I decided to write it. What's more, I made this resolution while squatting on the toilet... a real bottom-line decision, you might say.&lt;/p&gt;&lt;p&gt;Here goes: I want a bread machine again. Not a toaster. I mean the electric gadget that bakes bread starting from flour. There may still be one lying around somewhere in the house, but I suspect the one I bought last time has been thrown out. Naturally, since it sat unused for years and years. I can't imagine that my boss at home, who is enshrined here as the Deity of Discarding, would have let it sit there unnoticed.&lt;/p&gt;&lt;p&gt;That's right, I've bought one before. Actually, I bought one before that, too. Over the course of my long life, I've bought maybe five bread machines... or I might be padding the count by one. Let's say four times, then, I bought one, got bored with it, and it was either forgotten or thrown away.&lt;/p&gt;&lt;p&gt;And now I've stumbled on a reason to want one, just a little. A specialty baking-supplies shop was selling "bread mix" flour. Oh, so you can buy the flour here, I thought. I bet it's delicious. And the instant that tiny thought crossed my mind, the smell of fresh-baked bread came billowing through my brain. It doesn't keep well, but straight out of the machine, it's the best. And then the bonus came charging in: "It makes mochi, too!" I mean, come on. Now I'm hungry for it. That's just where I'm at.&lt;/p&gt;&lt;p&gt;It isn't even expensive, only a little over ten thousand yen. If I were an old man living alone, I'd buy one this very minute. But I'm not, and my boss reads these ramblings too. "Obviously not! Honestly, the very idea!" So I'm not buying one. A bread machine? Absolutely not. And even if, hypothetically, I did buy one, I'd hide it somewhere and, picking a moment when the boss is out, quickly bake a loaf on the sly. Though, you know, I don't think the boss would actually object to eating it. Maybe I'll borrow one from someone at Hobonichi, a bread machine...&lt;/p&gt;&lt;p&gt;◆ Today's question, no. 086: "Purchases you agonize over." Do you have any? Give it some thought, and if you'd like, send us an email.&lt;/p&gt;&lt;p&gt;Thank you for stopping by Hobonichi again today. There's an old saying, you know: on Thursdays, read something silly.&lt;/p&gt;</content>
-    <link href="https://adtheriault.github.io/todays-darling/#795c932b0799"/>
-    <link href="https://www.1101.com/"/>
-    <summary>The writer, after impulsively deciding to finally write down a trivial wish, admits a craving for a bread machine sparked by the idea of fresh-baked loaves and mochi, then talks themselves out of buying one because of their boss's disapproval and their history of abandoning past machines. It's a playful, self-deprecating take on the tug-of-war between a small indulgence and the reasons to resist it.</summary>
-    <published>2026-10-29T09:18:45.627744+00:00</published>
     <media:thumbnail url="https://adtheriault.github.io/todays-darling/images/darling.png" height="144" width="200"/>
   </entry>
 </feed>
